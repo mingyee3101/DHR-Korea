@@ -1,0 +1,13 @@
+NOR;Name;Pic Name;Skill;Start Year;End Year;Speciality1;Speciality2;Speciality3;Speciality4;Speciality5;Speciality6;Speciality7;Speciality8;Speciality9;Speciality10;Speciality11;Speciality12;Speciality13;Speciality14;Speciality15;Speciality16;Speciality17;Speciality18;Speciality19;Speciality20;Speciality21;Speciality22;Speciality23;Speciality24;Speciality25;Speciality26;Speciality27;Speciality28;Speciality29;Speciality30;Speciality31;Speciality32;x
+65001;호르텐 조선소 ;100247;3;1900;1970;naval_engineering;naval_artillery;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+65002;셸레르 항공기 ;T2501;4;1912;1970;aeronautics;aircraft_testing;avionics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+65003;콩스베르그 ;100248;4;1900;1970;general_equipment;industrial_engineering;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+65004;크베르네르 ;T2503;6;1853;1970;naval_engineering;chemistry;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+65005;레우포스 군수 공장 ;T2504;5;1896;1970;general_equipment;artillery;mechanics;munitions;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+65006;칼 구스타프 플레이셔르 ;T2505;4;1930;1942;small_unit_tactics;decentralized_execution;infantry_focus;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+65007;노르웨이 왕립 공군 ;T2506;3;1930;1970;bomber_tactics;centralized_execution;piloting;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+65008;노르웨이 왕립 해군 ;T2507;3;1900;1970;naval_training;seamanship;centralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+65009;오드 하셀 ;T2508;5;1930;1970;management;chemistry;electronics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+65010;군 항공기 제조소 ;100249;4;1915;1970;aeronautics;mechanics;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+65011;노르웨이 수력발전 ;100250;6;1905;1970;industrial_engineering;mechanics;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+65012;콩스베르그 ;100251;4;1814;1970;general_equipment;artillery;training;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x

@@ -1,0 +1,100 @@
+LUX;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+385001;Head of State;샤를로트 ;1933;1964;1999;SC;Autocratic Charmer;High;M66001;X
+385002;Head of Government;요제프 베슈 ;1926;1975;1999;SC;Naive Optimist;High;M66002;X
+385003;Foreign Minister;요제프 베슈 ;1933;1964;1999;SC;Ideological Crusader;Very High;M66002;X
+385004;Minister of Armament;피에르 두퐁 ;1933;1964;1999;SC;laissez-faire capitalist;Very High;M66004;X
+385005;Minister of Security;노르베르트 두몬트 ;1933;1964;1999;SC;Crime Fighter;Very High;M66005;X
+385006;Head of Military Intelligence;니콜라스 마르크 ;1933;1964;1999;SC;Industrial Specialist;Very High;M66006;X
+385007;Chief of Staff;피에르 두퐁 ;1933;1964;1999;SC;School of Defence;Very High;M66004;X
+385008;Chief of Army;에밀 슈펠러 ;1933;1964;1999;SC;Static Defence Doctrine;Very High;M66008;X
+385009;Chief of Navy;에밀 슈펠러 ;1933;1964;1999;SC;Open Seas Doctrine;Very High;M66008;X
+385010;Chief of Air Force;니콜라스 디트리히 ;1933;1964;1999;SC;Army Aviation Doctrine;Very High;M66010;X
+385011;Head of State;알렉산더 폰 팔켄하우젠 ;1940;1964;1999;FA;Resigned Generalissimo;High;M66034;X
+385012;Head of State;기욤 주아손 ;1945;1964;1999;PA;Popular Figurehead;High;M66016;X
+385013;Head of State;폴 메딩거 ;1933;1964;1999;LE;Pig-headed Isolationist;High;M66021;X
+385014;Head of State;마르틴 카르프 ;1945;1964;1999;LWR;Die-hard Reformer;High;M66024;X
+385015;Head of Government;피에르 두퐁 ;1937;1964;1999;SC;Silent Workhorse;High;M66004;X
+385016;Head of Government;레네 불룸 ;1933;1964;1999;SD;Ambitious Union Boss;High;M66039;X
+385017;Head of Government;다미안 크라첸베르크 ;1933;1964;1999;FA;Corporate Suit;High;M66011;X
+385018;Head of Government;기욤 주아손 ;1945;1964;1999;PA;Happy Amateur;High;M66016;X
+385019;Head of Government;폴 메딩거 ;1933;1964;1999;LE;Ambitious Union Boss;High;M66021;X
+385020;Head of Government;마르틴 카르프 ;1945;1964;1999;LWR;Corporate Suit;High;M66024;X
+385021;Foreign Minister;피에르 크리에르 ;1933;1964;1999;SD;Apologetic Clerk;High;M66045;X
+385022;Foreign Minister;레네 불룸 ;1939;1964;1999;SD;Iron Fisted Brute;High;M66039;X
+385023;Foreign Minister;다미안 크라첸베르크 ;1933;1964;1999;FA;Biased Intellectual;Low;M66011;X
+385024;Foreign Minister;헨리 아넨 ;1945;1964;1999;PA;Iron Fisted Brute;Medium;M66015;X
+385025;Foreign Minister;폴 메딩거 ;1933;1964;1999;LE;Biased Intellectual;Medium;M66021;X
+385026;Foreign Minister;프랑수아 샴멜 ;1945;1964;1999;LWR;General Staffer;Very High;M66050;X
+385027;Minister of Armament;율르스 카이퍼 ;1944;1964;1999;SC;Military Entrepreneur;Medium;M66052;X
+385028;Minister of Armament;아우구스트 오스터 ;1945;1964;1999;SC;Administrative Genius;High;M66053;X
+385029;Minister of Armament;피에르 크리에르 ;1933;1964;1999;SD;Resource Industrialist;High;M66045;X
+385030;Minister of Armament;알렉스 피더스필 ;1940;1964;1999;SD;Infantry Proponent;Medium;M66055;X
+385031;Minister of Armament;구스타브 파르버 ;1933;1964;1999;FA;Tank Proponent;Medium;M66014;X
+385032;Minister of Armament;필리프 호프만 ;1945;1964;1999;PA;Theoretical Scientist;Medium;M66057;X
+385033;Minister of Armament;마르틴 카르프 ;1933;1964;1999;LE;Infantry Proponent;Medium;M66024;X
+385034;Minister of Armament;진 피에르 카우더 ;1945;1964;1999;LWR;Military Entrepreneur;Medium;M66025;X
+385035;Minister of Security;니콜라스 브라운스하우젠 ;1933;1964;1999;SC;Back Stabber;High;M66060;X
+385036;Minister of Security;에티엔 슈미트 ;1937;1964;1999;SC;Silent Lawyer;High;M66061;X
+385037;Minister of Security;요제프 베슈 ;1938;1964;1999;SC;Compassionate Gentleman;Very High;M66002;X
+385038;Minister of Security;로베르트 알스 ;1944;1964;1999;SC;Crime Fighter;High;M66063;X
+385039;Minister of Security;빅토르 보드손 ;1946;1964;1999;SC;Man of the People;High;M66064;X
+385040;Minister of Security;레네 불룸 ;1933;1964;1999;SD;Crime Fighter;Very High;M66039;X
+385041;Minister of Security;요제프 고에데르트 ;1944;1964;1999;SD;Compassionate Gentleman;Medium;M66066;X
+385042;Minister of Security;헨리 아넨 ;1933;1964;1999;FA;Compassionate Gentleman;Medium;M66015;X
+385043;Minister of Security;진 피에르 카우더 ;1933;1964;1999;LE;Man of the People;Medium;M66025;X
+385044;Minister of Security;미셀 한센 ;1945;1964;1999;LWR;Efficient Sociopath;High;M66070;X
+385045;Head of Military Intelligence;에드몬트 클라인 ;1940;1964;1999;SC;Dismal Enigma;Very High;M66072;X
+385046;Head of Military Intelligence;요제프 토케르트 ;1933;1964;1999;SD;Technical Specialist;Very High;M66073;X
+385047;Head of Military Intelligence;프랑수아 샴멜 ;1944;1964;1999;SD;Logistics Specialist;Very High;M66050;X
+385048;Head of Military Intelligence;찰스 베커 ;1945;1964;1999;SD;Political Specialist;Very High;M66075;X
+385049;Head of Military Intelligence;기욤 주아손 ;1933;1964;1999;FA;Logistics Specialist;Medium;M66016;X
+385050;Head of Military Intelligence;막스 시몬 ;1940;1964;1999;FA;Political Specialist;Medium;M66077;X
+385051;Head of Military Intelligence;율르스 프루센 ;1945;1964;1999;PA;Technical Specialist;High;M66078;X
+385052;Head of Military Intelligence;진 피에르 카우더 ;1933;1964;1999;LE;Industrial Specialist;Medium;M66025;X
+385053;Head of Military Intelligence;막스 베커링 ;1945;1964;1999;LWR;Dismal Enigma;Low;M66080;X
+385054;Chief of Staff;진 조이어리스 ;1940;1964;1999;SC;School of Psychology;Very High;M66082;X
+385055;Chief of Staff;알렉스 피더스필 ;1933;1964;1999;SD;School of Fire Support;Medium;M66055;X
+385056;Chief of Staff;프랑수아 샴멜 ;1944;1964;1999;SD;School of Mass Combat;Very High;M66050;X
+385057;Chief of Staff;알로이스 글로트 ;1933;1964;1999;FA;School of Fire Support;Medium;M66017;X
+385058;Chief of Staff;마르틴 카르프 ;1933;1964;1999;LE;School of Mass Combat;Medium;M66024;X
+385059;Chief of Army;펠릭스 부르본 파르마 ;1940;1964;1999;SC;Armoured Spearhead Doctrine;Very High;M66090;X
+385060;Chief of Army;알로이스 글로트 ;1933;1964;1999;FA;Armoured Spearhead Doctrine;Medium;M66017;X
+385061;Chief of Army;알렉산더 폰 팔켄하우젠 ;1940;1964;1999;FA;Decisive Battle Doctrine;Medium;M66034;X
+385062;Chief of Army;마르틴 카르프 ;1933;1964;1999;LE;Elastic Defence Doctrine;Medium;M66024;X
+385063;Chief of Navy;헨리 아넨 ;1933;1964;1999;FA;Indirect Approach Doctrine;Medium;M66015;X
+385064;Chief of Navy;폴 메딩거 ;1933;1964;1999;LE;Base Control Doctrine;Medium;M66021;X
+385065;Chief of Air Force;기욤 주아손 ;1933;1964;1999;FA;Air Superiority Doctrine;Medium;M66016;X
+385066;Chief of Air Force;진 마크 슈테펜 ;1933;1964;1999;LWR;Vertical Envelopment Doctrine;Medium;M66030;X
+385067;Head of State;샤를로트 ;1945;1964;1999;FA;Autocratic Charmer;High;M66001;X
+385068;Chief of Navy;피에르 피시바흐 ;1940;1964;1999;SC;Open Seas Doctrine;Very High;M66111;X
+385069;Minister of Security;막스 시몬 ;1940;1964;1999;FA;Prince of Terror;Medium;M66077;X
+385070;Minister of Security;오이겐 샤우스 ;1946;1964;1999;SL;Man of the People;Medium;M66114;X
+385071;Head of Military Intelligence;요제프 볼파르트 ;1951;1964;1999;ML;Industrial Specialist;Very High;M66115;X
+385072;Foreign Minister;파울 아이셴 ;1914;1933;1999;ML;GENERAL STAFFER;High;2825;X
+385073;Foreign Minister;후베르트 로우치 ;1915;1933;1999;ML;GENERAL STAFFER;High;3906;X
+385074;Foreign Minister;레온 카우프만 ;1917;1933;1999;ML;APOLOGETIC CLERK;High;3907;X
+385075;Foreign Minister;에밀 로이테르 ;1918;1933;1999;ML;Great Compromiser;High;3908;X
+385076;Head of Government;파울 아이셴 ;1914;1933;1999;ML;Happy Amateur;High;2825;X
+385077;Head of Government;마티아스 몬제나스트 ;1915;1933;1999;ML;Happy Amateur;High;2826;X
+385078;Head of Government;후베르트 로우치 ;1915;1933;1999;ML;Smiling Oilman;High;3906;X
+385079;Head of Government;빅토르 토른 ;1916;1933;1999;ML;Naive Optimist;High;3909;X
+385080;Head of Government;레온 카우프만 ;1917;1933;1999;ML;Silent Workhorse;High;3907;X
+385081;Head of Government;에밀 로이테르 ;1918;1933;1999;ML;Flamboyant Tough Guy;High;3908;X
+385082;Head of Military Intelligence;야크 탈마니 ;1914;1933;1999;ST;political specialist;High;unknownminister;X
+385083;Head of State;마리아 아델하이드 ;1914;1933;1999;SL;Insignificant Layman;High;2827;X
+385084;Head of State;마리아 아델하이드 ;1914;1933;1999;PA;Insignificant Layman;High;2827;X
+385085;Head of State;알로이스 카이저 ;1914;1933;1999;ST;Die-hard Reformer;High;unknownminister;X
+385086;Head of State;샤를로트 ;1919;1933;1999;PA;Popular Figurehead;High;2828;X
+385087;Head of State;샤를로트 ;1919;1933;1999;SL;Popular Figurehead;High;2828;X
+385088;Minister of Armament;마티아스 몬제나스트 ;1914;1933;1999;ML;Administrative Genius;High;2826;X
+385089;Minister of Armament;에드몬드 라이퍼스 ;1915;1933;1999;ML;laissez-faire capitalist;High;unknownminister;X
+385090;Minister of Armament;레온 카우프만 ;1916;1933;1999;ML;INFANTRY PROPONENT;High;3907;X
+385091;Minister of Armament;알폰스 네이엔스 ;1918;1933;1999;ML;Administrative Genius;High;unknownminister;X
+385092;Minister of Security;피에르 브라운 ;1914;1933;1999;ML;BACK STABBER;High;unknownminister;X
+385093;Minister of Security;에르네스트 레클레르 ;1915;1933;1999;ML;Silent Lawyer;High;unknownminister;X
+385094;Minister of Security;진 밥티스트 작스 ;1915;1933;1999;ML;COMPASSIONATE GENTLEMAN;High;unknownminister;X
+385095;Minister of Security;레온 마우트리어 ;1916;1933;1999;ML;CRIME FIGHTER;High;unknownminister;X
+385096;Minister of Security;마우리스 쿤 ;1917;1933;1999;ML;Silent Lawyer;High;unknownminister;X
+385097;Minister of Security;에밀 로이테르 ;1918;1933;1999;ML;PRINCE OF TERROR;High;3908;X
+385098;Minister of Security;요제프 베슈 ;1921;1933;1999;ML;MAN OF THE PEOPLE;High;3910;X

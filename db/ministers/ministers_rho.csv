@@ -1,0 +1,51 @@
+RHO;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+745001;Head of State;허버트 J. 스탠리 ;1933;1964;1999;ML;Insignificant Layman;High;M553001;X
+745002;Head of Government;고프리 마틴 허긴스 ;1933;1964;1999;ML;Corporate Suit;High;M553002;X
+745003;Foreign Minister;이블린 바링 ;1933;1964;1999;ML;Iron Fisted Brute;High;M553003;X
+745004;Minister of Armament;로버트 J. 허드슨 ;1933;1964;1999;ML;Administrative Genius;Medium;M553004;X
+745005;Minister of Security;앤소니 실러리 ;1933;1964;1999;ML;Crime Fighter;Medium;M553005;X
+745006;Head of Military Intelligence;필립 W. 리처드슨 ;1933;1964;1999;ML;Industrial Specialist;Medium;M553006;X
+745007;Chief of Staff;에릭 드 버그 ;1933;1964;1999;ML;School of Fire Support;Medium;L1094;X
+745008;Chief of Army;필립 카링턴 ;1933;1964;1999;ML;Static Defence Doctrine;Medium;M553008;X
+745009;Chief of Navy;세실 드러몬드 ;1933;1964;1999;ML;Power Projection Doctrine;Medium;M553009;X
+745010;Chief of Air Force;찰스 아덴 클라크 ;1933;1964;1999;ML;Naval Aviation Doctrine;Medium;M551008;X
+745011;Head of State;예타 3세 ;1933;1964;1999;PA;Barking Buffoon;High;M553011;X
+745012;Head of State; 휴버트 윈스럽 영 ;1933;1964;1999;SL;Stern Imperialist;High;M553012;X
+745013;Head of State;케네스 카운다 ;1933;1964;1999;SD;Powerhungry Demagogue;High;M553013;X
+745014;Head of Government;도널드 매켄지 케네디 ;1933;1964;1999;PA;old airmarshal;High;M553014;X
+745015;Head of Government;찰스 아덴 클라크 ;1933;1964;1999;SL;Old General;High;M551012;X
+745016;Head of Government;하스팅스 카무주 반다 ;1933;1964;1999;SD;Ambitious Union Boss;High;M553016;X
+745017;Foreign Minister;카마 3세 ;1933;1964;1999;PA;Biased Intellectual;High;M553017;X
+745018;Foreign Minister;해롤드 B. 키터마스터 ;1933;1964;1999;SL;Ideological Crusader;High;M553018;X
+745019;Foreign Minister;세레체 카마 ;1933;1964;1999;SD;Apologetic Clerk;High;M553019;X
+745020;Minister of Armament;로이 웰렌스키 ;1933;1964;1999;PA;Air to Ground Proponent;Medium;M553020;X
+745021;Minister of Armament;물레나 요모훌루 ;1933;1964;1999;SL;Corrupt Kleptocrat;Medium;M553021;X
+745022;Minister of Armament;피드 오레일리 ;1942;1964;1999;SL;Tank Proponent;Medium;M553022;X
+745023;Minister of Armament;유뷸 제임스 왜딩턴 ;1933;1964;1999;SD;Theoretical Scientist;Medium;M553023;X
+745024;Minister of Security;엔더비 카마체 ;1933;1964;1999;PA;Prince of Terror;Medium;M553024;X
+745025;Minister of Security;맥스웰 맥다이어미드 ;1941;1964;1999;PA;Man of the People;Medium;M553025;X
+745026;Minister of Security;로버트 스마이스 크래머 ;1933;1964;1999;SL;Crooked Kleptocrat;Medium;M553026;X
+745027;Minister of Security;바이올렛 그리그 ;1942;1964;1999;SL;Silent Lawyer;Medium;M553027;X
+745028;Minister of Security;헨리 응쿰불라 ;1933;1964;1999;SD;Back Stabber;Medium;M553028;X
+745029;Minister of Security;무지 흘롱와 ;1943;1964;1999;SD;Compassionate Gentleman;Medium;M553029;X
+745030;Head of Military Intelligence;피터 유언스 ;1933;1964;1999;PA;Naval Intelligence Specialist;Medium;M553030;X
+745031;Head of Military Intelligence;존 알렉산더 메이빈 ;1941;1964;1999;PA;Political Specialist;Medium;M553031;X
+745032;Head of Military Intelligence;던컨 맥앨리스터 ;1933;1964;1999;SL;Dismal Enigma;Medium;M553032;X
+745033;Head of Military Intelligence;존 음와나카체 ;1933;1964;1999;SD;Technical Specialist;Medium;M553033;X
+745034;Head of Military Intelligence;체케디 카마 ;1943;1964;1999;SD;Logistics Specialist;Medium;M553034;X
+745035;Chief of Staff;G. W. D. 니콜슨 ;1933;1964;1999;PA;School of Mass Combat;Medium;M553035;X
+745036;Chief of Staff;토마스 리즈 ;1941;1964;1999;ML;School of Manoeuvre;Medium;L1260;X
+745037;Chief of Staff;물레나 요모훌루 ;1933;1964;1999;SL;School of Defence;Medium;M553021;X
+745038;Chief of Staff;C. M. 그리그 ;1933;1964;1999;SD;School of Psychology;Medium;M553038;X
+745039;Chief of Army;퍼디낸드 찰스 스탠리 ;1933;1964;1999;PA;Guns and Butter Doctrine;Medium;M553039;X
+745040;Chief of Army;데니스 C. 카펠 던 ;1941;1964;1999;ML;Armoured Spearhead Doctrine;Medium;M553040;X
+745041;Chief of Army;음부무 와 리퉁가 ;1933;1964;1999;SL;Elastic Defence Doctrine;Medium;M553041;X
+745042;Chief of Army;요모훌루 음부르누 ;1933;1964;1999;SD;Decisive Battle Doctrine;Medium;M553042;X
+745043;Chief of Navy;예타 3세 ;1933;1964;1999;PA;Base Control Doctrine;Medium;M553011;X
+745044;Chief of Navy;토미 걸드 ;1941;1964;1999;ML;Indirect Approach Doctrine;Medium;M74009;X
+745045;Chief of Navy;조지 스콴스 ;1933;1964;1999;SL;Open Seas Doctrine;Medium;M553045;X
+745046;Chief of Navy;음부무 와 리퉁가 ;1933;1964;1999;SD;Decisive Naval Battle Doctrine;Medium;M553041;X
+745047;Chief of Air Force;도널드 매켄지 케네디 ;1933;1964;1999;PA;Army Aviation Doctrine;Medium;M553014;X
+745048;Chief of Air Force;허버트 크라우처 ;1933;1964;1999;SL;Carpet Bombing Doctrine;Medium;M553048;X
+745049;Chief of Air Force;존 음와나카체 ;1933;1964;1999;SD;Vertical Envelopment Doctrine;Medium;M553033;X

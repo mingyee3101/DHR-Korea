@@ -1,0 +1,22 @@
+PRK;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+735001;Head of State;±èÀÏ¼º ;1933;1964;1999;ST;Powerhungry Demagogue;Undying;M579001;X
+735002;Head of Government;±èÀÏ¼º ;1933;1964;1999;ST;Backroom Backstabber;Undying;M579001;X
+735003;Foreign Minister;³²ÀÏ ;1933;1964;1999;ST;General Staffer;Medium;M579003;X
+735004;Minister of Armament;Á¶¸¸½Ä ;1933;1964;1999;ST;laissez-faire capitalist;Medium;M578005;X
+735005;Minister of Security;±èÀÏ¼º ;1933;1964;1999;ST;Prince of Terror;Very High;M579001;X
+735006;Head of Military Intelligence;»ş¿ÀÁø±¤ ;1933;1964;1999;ST;Logistics Specialist;Very Low;M579006;X
+735007;Chief of Staff;¾«½¬·± ;1933;1964;1999;ST;School of Fire Support;Medium;M579007;X
+735008;Chief of Army;±èÀÏ¼º ;1933;1964;1999;ST;Decisive Battle Doctrine;High;M579001;X
+735009;Chief of Navy;·ù½ÃÀ§¾È ;1933;1964;1999;ST;Indirect Approach Doctrine;Medium;M579009;X
+735010;Chief of Air Force;¸®ÄÉ³ó ;1933;1964;1999;ST;Carpet Bombing Doctrine;Medium;M579010;X
+735011;Head of State;ÀÌµ¿ÈÖ ;1933;1964;1999;SD;Barking Buffoon;High;M578014;X
+735012;Head of Government;±èÃ¢±İ ;1933;1964;1999;SD;Flamboyant Tough Guy;High;M578016;X
+735013;Foreign Minister;±è¿ëÃ¶ ;1933;1964;1999;SD;Great Compromiser;Medium;M579013;X
+735014;Minister of Armament;¹ÚÇü¿ë ;1933;1964;1999;SD;Resource Industrialist;Medium;M578012;X
+735015;Minister of Security;ÁöÃ»Ãµ ;1933;1964;1999;SD;Compassionate Gentleman;Very High;M578017;X
+735016;Head of Military Intelligence;À±¹ÎÈ£ ;1933;1964;1999;ST;Technical Specialist;Very Low;M579016;X
+735017;Chief of Staff;³²ÀÏ ;1933;1964;1999;SD;School of Defence;Medium;M579003;X
+735018;Chief of Army;±èÀÏÃ¶ ;1933;1964;1999;SD;Guns and Butter Doctrine;Medium;M579018;X
+735019;Chief of Navy;·ùÁØ¼· ;1933;1964;1999;SD;Decisive Naval Battle Doctrine;Medium;M579019;X
+735020;Chief of Air Force;¹Ú¹Î°æ ;1933;1964;1999;SD;Naval Aviation Doctrine;Medium;M579020;X

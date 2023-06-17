@@ -1,0 +1,134 @@
+U35;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+990001;Chief of Air Force;이달고 데 시스네로스 ;1933;1964;1999;LWR;Air Superiority Doctrine;High;M11030;X
+990002;Chief of Air Force;페드로 페르난데스 체카 ;1938;1964;1999;ST;Army Aviation Doctrine;Medium;M11299;X
+990003;Chief of Air Force;비센테 우리베 갈데아노 ;1938;1964;1999;ST;Vertical Envelopment Doctrine;Medium;M11114;X
+990004;Chief of Air Force;후안 로페스 산체스 ;1933;1964;1999;LE;Army Aviation Doctrine;Medium;M11119;X
+990005;Chief of Air Force;후안 페이로 벨리스 ;1937;1964;1999;LE;Carpet Bombing Doctrine;Medium;M11123;X
+990006;Chief of Air Force;벤투라 가솔 로비라 ;1939;1964;1999;LE;Vertical Envelopment Doctrine;Medium;M11326;X
+990007;Chief of Air Force;마리아노 바스케스 ;1943;1964;1999;LE;Air Superiority Doctrine;Very High;M11206;X
+990008;Chief of Air Force;트리폰 고메스 산 호세 ;1937;1964;1999;LWR;Vertical Envelopment Doctrine;High;M11329;X
+990009;Chief of Air Force;인달레시오 프리에토 ;1943;1964;1999;LWR;Army Aviation Doctrine;High;M11331;X
+990010;Chief of Army;마누엘 타구에냐 라코르테 ;1933;1964;1999;ST;Elastic Defence Doctrine;Very High;M11266;X
+990011;Chief of Army;엔리케 리스터 포르한 ;1937;1964;1999;ST;Decisive Battle Doctrine;Very High;M11028;X
+990012;Chief of Army;후안 모데스토 구이요토 ;1938;1964;1999;ST;Guns and Butter Doctrine;Very High;M11237;X
+990013;Chief of Army;안토니오 코르돈 가르시아 ;1938;1964;1999;ST;Static Defence Doctrine;Very High;M11238;X
+990014;Chief of Army;에텔비노 베가 마르티네스 ;1939;1964;1999;ST;Armoured Spearhead Doctrine;Medium;M11116;X
+990015;Chief of Army;키프리아노 메라 산스 ;1933;1964;1999;LE;Static Defence Doctrine;Medium;M11244;X
+990016;Chief of Army;비센테 구아르너 비반코스 ;1937;1964;1999;LE;Elastic Defence Doctrine;High;M11241;X
+990017;Chief of Army;미구엘 가르시아 비반코스 ;1938;1964;1999;LE;Armoured Spearhead Doctrine;High;M11242;X
+990018;Chief of Army;프란시스코 아스카소 ;1941;1964;1999;LE;Guns and Butter Doctrine;High;M11243;X
+990019;Chief of Army;부에나벤투라 두루티 ;1943;1964;1999;LE;Decisive Battle Doctrine;Medium;M11245;X
+990020;Chief of Army;후안 에르난데스 ;1933;1964;1999;LWR;Guns and Butter Doctrine;High;7385;X
+990021;Chief of Army;비센테 로호 유치 ;1937;1964;1999;LWR;Decisive Battle Doctrine;Very High;M11247;X
+990022;Chief of Army;구스타보 두란 마르티네스 ;1938;1964;1999;LWR;Armoured Spearhead Doctrine;High;M11211;X
+990023;Chief of Army;아르투로 메나 로이그 ;1940;1964;1999;LWR;Elastic Defence Doctrine;Very High;M11249;X
+990024;Chief of Army;후안 페레아 카풀리노 ;1940;1964;1999;LWR;Static Defence Doctrine;High;M11250;X
+990025;Chief of Navy;비센테 우리베 갈데아노 ;1933;1964;1999;ST;Base Control Doctrine;Medium;M11114;X
+990026;Chief of Navy;페드로 페르난데스 체카 ;1938;1964;1999;ST;Decisive Naval Battle Doctrine;Medium;M11299;X
+990027;Chief of Navy;프란시스코 갈란 ;1938;1964;1999;ST;Open Seas Doctrine;Medium;M11029;X
+990028;Chief of Navy;페드로 프라도 멘디사발 ;1939;1964;1999;ST;Indirect Approach Doctrine;Medium;M11301;X
+990029;Chief of Navy;후안 페이로 벨리스 ;1933;1964;1999;LE;Base Control Doctrine;Medium;M11123;X
+990030;Chief of Navy;후안 로페스 산체스 ;1937;1964;1999;LE;Indirect Approach Doctrine;Medium;M11119;X
+990031;Chief of Navy;브루노 알론소 ;1933;1964;1999;LWR;Base Control Doctrine;High;M11304;X
+990032;Chief of Navy;호아킨 훌리오 마우린 ;1937;1964;1999;LWR;Power Projection Doctrine;High;M11305;X
+990033;Chief of Navy;루이스 곤살레스 우비에타 ;1938;1964;1999;LWR;Indirect Approach Doctrine;High;M11306;X
+990034;Chief of Navy;인달레시오 프리에토 ;1939;1964;1999;LWR;Open Seas Doctrine;High;M11307;X
+990035;Chief of Navy;안드레스 사보리트 ;1940;1964;1999;LWR;Decisive Naval Battle Doctrine;High;M11308;X
+990036;Chief of Staff;프랑크 라이안 ;1933;1964;1999;ST;School of Mass Combat;Very High;M11234;X
+990037;Chief of Staff;에밀리오 클레베르 ;1937;1964;1999;ST;School of Defence;Very High;M11235;X
+990038;Chief of Staff;엔리케 리스터 포르한 ;1938;1964;1999;ST;School of Psychology;Very High;M11236;X
+990039;Chief of Staff;후안 모데스토 구이요토 ;1938;1964;1999;ST;School of Mass Combat;Very High;M11237;X
+990040;Chief of Staff;안토니오 코르돈 가르시아 ;1938;1964;1999;ST;School of Defence;Very High;M11238;X
+990041;Chief of Staff;마누엘 타구에냐 라코르테 ;1939;1964;1999;ST;School of Manoeuvre;Very High;M11027;X
+990042;Chief of Staff;프란시스코 갈란 ;1939;1964;1999;ST;School of Fire Support;Very High;M11240;X
+990043;Chief of Staff;비센테 구아르너 비반코스 ;1933;1964;1999;LE;School of Fire Support;High;M11241;X
+990044;Chief of Staff;미구엘 가르시아 비반코스 ;1937;1964;1999;LE;School of Manoeuvre;High;M11242;X
+990045;Chief of Staff;프란시스코 아스카소 ;1938;1964;1999;LE;School of Mass Combat;High;M11243;X
+990046;Chief of Staff;키프리아노 메라 산스 ;1941;1964;1999;LE;School of Psychology;Medium;M11244;X
+990047;Chief of Staff;부에나벤투라 두루티 ;1943;1964;1999;LE;School of Defence;Medium;M11245;X
+990048;Chief of Staff;구스타보 두란 마르티네스 ;1933;1964;1999;LWR;School of Psychology;High;M11211;X
+990049;Chief of Staff;비센테 로호 유치 ;1937;1964;1999;LWR;School of Manoeuvre;Very High;M11247;X
+990050;Chief of Staff;후안 에르난데스 ;1938;1964;1999;LWR;School of Fire Support;High;7385;X
+990051;Chief of Staff;아르투로 메나 로이그 ;1938;1964;1999;LWR;School of Mass Combat;Very High;M11249;X
+990052;Chief of Staff;후안 페레아 카풀리노 ;1939;1964;1999;LWR;School of Defence;High;M11250;X
+990053;Foreign Minister;헤수스 헤르난데스 ;1933;1964;1999;ST;Ideological Crusader;High;M11023;X
+990054;Foreign Minister;도로레스 이바우리 고메스 ;1937;1964;1999;ST;Iron Fisted Brute;High;M11049;X
+990055;Foreign Minister;마르가리타 넬켄 ;1939;1964;1999;ST;Biased Intellectual;Medium;M11077;X
+990056;Foreign Minister;훌리오 델 바요 ;1940;1964;1999;ST;Ideological Crusader;High;M11078;X
+990057;Foreign Minister;산티아고 카르리요 ;1944;1964;1999;ST;The Cloak N Dagger Schemer;Very High;M11059;X
+990058;Foreign Minister;안드레우 닌 이 페레스 ;1933;1964;1999;LE;The Cloak N Dagger Schemer;High;M11080;X
+990059;Foreign Minister;호아킨 마우린 훌리아 ;1937;1964;1999;LE;Ideological Crusader;High;M11081;X
+990060;Foreign Minister;에두아르도 데 구즈만 ;1938;1964;1999;LE;Great Compromiser;High;M11082;X
+990061;Foreign Minister;호세 페이라트 ;1939;1964;1999;LE;Apologetic Clerk;High;M11083;X
+990062;Foreign Minister;디에고 데 산티얀 ;1940;1964;1999;LE;Biased Intellectual;High;M11084;X
+990063;Foreign Minister;페르난도 데 로스 리오스 ;1933;1964;1999;LWR;The Cloak N Dagger Schemer;High;M11085;X
+990064;Foreign Minister;빅토리아 켄트 ;1938;1964;1999;LWR;Great Compromiser;High;M11086;X
+990065;Foreign Minister;훌리안 베스테이로 ;1939;1964;1999;LWR;Apologetic Clerk;High;M11044;X
+990066;Foreign Minister;알바로 데 알보노스 ;1940;1964;1999;LWR;Biased Intellectual;Medium;M11045;X
+990067;Foreign Minister;훌리오 델 바요 ;1938;1964;1999;LWR;Ideological Crusader;High;M11078;X
+990068;Head of Government;호세 디아스 라모스 ;1933;1964;1999;ST;Ambitious Union Boss;High;M11021;X
+990069;Head of Government;산티아고 카르리요 ;1942;1964;1999;ST;Political Protege;High;M11059;X
+990070;Head of Government;후안 네그린 로페스 ;1937;1964;1999;LWR;Naive Optimist;High;8139;X
+990071;Head of Government;호아킨 아스카소 부드리아 ;1938;1964;1999;LE;Happy Amateur;High;M11061;X
+990072;Head of Government;프란시스코 라르고 ;1933;1964;1999;LWR;Smiling Oilman;High;M11039;X
+990073;Head of Government;루이스 데 아수아 ;1939;1964;1999;LWR;Ambitious Union Boss;High;M11063;X
+990074;Head of Military Intelligence;라파엘 비델리아 루비오 ;1933;1964;1999;ST;Industrial Specialist;Medium;M11200;X
+990075;Head of Military Intelligence;헤수스 헤르난데스 ;1938;1964;1999;ST;Technical Specialist;High;M11023;X
+990076;Head of Military Intelligence;산티아고 카르리요 ;1940;1964;1999;ST;Political Specialist;Medium;M11202;X
+990077;Head of Military Intelligence;다니엘 오르테가 ;1941;1964;1999;ST;Logistics Specialist;High;M11203;X
+990078;Head of Military Intelligence;후안 코모레라 이 솔레르 ;1945;1964;1999;ST;Dismal Enigma;Medium;M11204;X
+990079;Head of Military Intelligence;페데리카 몬스테니 마네 ;1933;1964;1999;LE;Technical Specialist;Medium;M11124;X
+990080;Head of Military Intelligence;마리아노 바스케스 ;1937;1964;1999;LE;Dismal Enigma;Very High;M11206;X
+990081;Head of Military Intelligence;후안 로페스 산체스 ;1938;1964;1999;LE;Industrial Specialist;Medium;M11119;X
+990082;Head of Military Intelligence;앙헬 페스타냐 ;1941;1964;1999;LE;Political Specialist;Low;M11208;X
+990083;Head of Military Intelligence;훌리안 고르킨 고메스 ;1943;1964;1999;LE;Naval Intelligence Specialist;Medium;M11209;X
+990084;Head of Military Intelligence;리카르도 산스 가르시아 ;1945;1964;1999;LE;Logistics Specialist;Medium;M11210;X
+990085;Head of Military Intelligence;구스타보 두란 마르티네스 ;1933;1964;1999;LWR;Logistics Specialist;High;M11211;X
+990086;Head of Military Intelligence;펠릭스 고르돈 오르다스 ;1939;1964;1999;LWR;Industrial Specialist;High;M11132;X
+990087;Head of Military Intelligence;후안 에르난데스 ;1941;1964;1999;LWR;Technical Specialist;Medium;7385;X
+990088;Head of Military Intelligence;알바로 데 알보노스 ;1943;1964;1999;LWR;Dismal Enigma;Medium;M11038;X
+990089;Head of State;알바로 데 알보노스 ;1938;1964;1999;LWR;Powerhungry Demagogue;High;M11038;X
+990090;Head of State;전국노동자연맹 중앙위 ;1938;1964;1999;LE;Insignificant Layman;High;M11040;X
+990091;Head of State;호세 디아스 라모스 ;1939;1964;1999;ST;Barking Buffoon;High;M11021;X
+990092;Head of State;훌리안 베스테이로 ;1945;1964;1999;LWR;Insignificant Layman;High;M11044;X
+990093;Head of State;후안 네그린 로페스 ;1933;1964;1999;LWR;Die-hard Reformer;High;7998;X
+990094;Head of State;도로레스 이바우리 고메스 ;1942;1964;1999;ST;Ruthless Powermonger;High;M11049;X
+990095;Minister of Armament;비센테 우리베 갈데아노 ;1933;1964;1999;ST;Administrative Genius;Very High;M11114;X
+990096;Minister of Armament;후안 코모레라 이 솔레르 ;1938;1964;1999;ST;Resource Industrialist;Medium;M11026;X
+990097;Minister of Armament;에텔비노 베가 마르티네스 ;1939;1964;1999;ST;Tank Proponent;Medium;M11116;X
+990098;Minister of Armament;엔리케 카스트로 델가도 ;1941;1964;1999;ST;Infantry Proponent;High;M11024;X
+990099;Minister of Armament;헤수스 헤르난데스 ;1944;1964;1999;ST;Theoretical Scientist;High;M11118;X
+990100;Minister of Armament;후안 로페스 산체스 ;1933;1964;1999;LE;Resource Industrialist;Medium;M11119;X
+990101;Minister of Armament;앙헬 페스타냐 ;1937;1964;1999;LE;Air to Ground Proponent;High;M11120;X
+990102;Minister of Armament;호아킨 마우린 훌리아 ;1938;1964;1999;LE;Tank Proponent;High;M11081;X
+990103;Minister of Armament;호아킨 아스카소 부드리아 ;1939;1964;1999;LE;Military Entrepreneur;Very High;M11061;X
+990104;Minister of Armament;후안 페이로 벨리스 ;1942;1964;1999;LE;Administrative Genius;Medium;M11123;X
+990105;Minister of Armament;페데리카 몬스테니 마네 ;1943;1964;1999;LE;Theoretical Scientist;Medium;M11124;X
+990106;Minister of Armament;리카르도 산스 가르시아 ;1944;1964;1999;LE;Infantry Proponent;Medium;M11125;X
+990107;Minister of Armament;인달렌시오 프리에토 ;1933;1964;1999;LWR;Military Entrepreneur;High;M11126;X
+990108;Minister of Armament;벨라미노 토마스 알바레스 ;1938;1964;1999;LWR;Resource Industrialist;High;M11127;X
+990109;Minister of Armament;페르난도 데 로스 리오스 ;1939;1964;1999;LWR;Strategic Air Proponent;High;M11128;X
+990110;Minister of Armament;후안 네그린 로페스 ;1940;1964;1999;LWR;Administrative Genius;High;7998;X
+990111;Minister of Armament;프란시스코 라르고 ;1941;1964;1999;LWR;Resource Industrialist;High;M11039;X
+990112;Minister of Armament;펠릭스 고르돈 오르다스 ;1943;1964;1999;LWR;laissez-faire capitalist;High;M11132;X
+990113;Minister of Armament;토돌포 요피스 페란디스 ;1944;1964;1999;LWR;Infantry Proponent;High;M11133;X
+990114;Minister of Security;비센테 우리베 갈데아노 ;1933;1964;1999;ST;Man of the People;Very High;M11114;X
+990115;Minister of Security;도로레스 이바우리 고메스 ;1937;1964;1999;ST;Efficient Sociopath;High;M11162;X
+990116;Minister of Security;발렌틴 곤살레스 곤살레스 ;1938;1964;1999;ST;Back Stabber;Medium;M11163;X
+990117;Minister of Security;마르가리타 넬켄 ;1938;1964;1999;ST;Compassionate Gentleman;Medium;M11077;X
+990118;Minister of Security;호세 디아스 라모스 ;1939;1964;1999;ST;Man of the People;High;M11021;X
+990119;Minister of Security;안토니오 미헤 ;1941;1964;1999;ST;Prince of Terror;Medium;M11166;X
+990120;Minister of Security;호아킨 그리마우 가르시아 ;1942;1964;1999;ST;Efficient Sociopath;High;M11167;X
+990121;Minister of Security;산티아고 카르리요 ;1942;1964;1999;ST;Prince of Terror;Very High;M11059;X
+990122;Minister of Security;호세 엑스포시토 레이바 ;1933;1964;1999;LE;Silent Lawyer;Medium;M11169;X
+990123;Minister of Security;멜초르 로드리게스 ;1937;1964;1999;LE;Crime Fighter;High;M11170;X
+990124;Minister of Security;안드레우 닌 이 페레스 ;1937;1964;1999;LE;Compassionate Gentleman;High;M11080;X
+990125;Minister of Security;에두아르도 데 구즈만 ;1938;1964;1999;LE;Silent Lawyer;High;M11082;X
+990126;Minister of Security;후안 가르시아 올리베르 ;1942;1964;1999;LE;Man of the People;High;M11174;X
+990127;Minister of Security;부에나벤투라 두루티 ;1945;1964;1999;LE;Prince of Terror;High;M11175;X
+990128;Minister of Security;훌리안 수가사고이티아 ;1933;1964;1999;LWR;Compassionate Gentleman;High;M11176;X
+990129;Minister of Security;앙헬 갈라사 이 가고 ;1933;1964;1999;LWR;Prince of Terror;High;M11177;X
+990130;Minister of Security;안토니오 오르테가 ;1937;1964;1999;LWR;Efficient Sociopath;High;M11178;X
+990131;Minister of Security;라몬 곤살레스 페냐 ;1938;1964;1999;LWR;Crime Fighter;Medium;M11179;X
+990132;Minister of Security;빅토리아 켄트 ;1940;1964;1999;LWR;Man of the People;High;M11086;X
+990133;Minister of Security;웬케슬라오 카리요 ;1941;1964;1999;LWR;Man of the People;Medium;M11181;X

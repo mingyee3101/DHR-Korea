@@ -1,0 +1,13 @@
+PRK;Name;Pic Name;Skill;Start Year;End Year;Speciality1;Speciality2;Speciality3;Speciality4;Speciality5;Speciality6;Speciality7;Speciality8;Speciality9;Speciality10;Speciality11;Speciality12;Speciality13;Speciality14;Speciality15;Speciality16;Speciality17;Speciality18;Speciality19;Speciality20;Speciality21;Speciality22;Speciality23;Speciality24;Speciality25;Speciality26;Speciality27;Speciality28;Speciality29;Speciality30;Speciality31;Speciality32;x
+735001;농업성 ;T15200;3;1900;1970;chemistry;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+735002;항공수송성 ;T11403;4;1900;1970;aeronautics;bomber_design;aircraft_testing;fighter_design;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+735003;화학공업성 ;T10510;6;1900;1970;chemistry;management;industrial_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+735004;건설성 ;T13502;5;1900;1970;industrial_engineering;general_equipment;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+735005;전기공업성 ;T13507;4;1900;1970;industrial_engineering;electronics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+735006;채취공업성 ;T10509;6;1900;1970;industrial_engineering;mechanics;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+735007;육해운성 ;T10300;4;1900;1970;mechanics;naval_engineering;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+735008;금속기계공업성 ;T10504;5;1900;1970;mechanics;artillery;technical_efficiency;general_equipment;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+735009;전력석탄공업성 ;T11000;6;1900;1970;industrial_engineering;mechanics;electronics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+735010;철도성 ;T11200;5;1900;1970;mechanics;management;industrial_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+735011;선박성 ;T11001;4;1900;1970;naval_engineering;naval_artillery;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+735012;국립 군사학교 ;T10401;3;1900;1970;centralized_execution;decentralized_execution;large_unit_tactics;infantry_focus;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;x

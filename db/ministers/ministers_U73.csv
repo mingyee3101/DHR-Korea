@@ -1,0 +1,145 @@
+U73;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+1180001;Head of State;어나이린 베번 ;1933;1964;1999;LWR;Pig-headed Isolationist;High;M1021;X
+1180002;Head of Government;오스왈드 모슬리 ;1933;1964;1999;FA;Flamboyant Tough Guy;High;M1012;X
+1180003;Head of Government;해리 폴릿 ;1933;1964;1999;LWR;Ambitious Union Boss;High;M1022;X
+1180004;Foreign Minister;윌리엄 조이스 ;1933;1964;1999;FA;General Staffer;Low;M1013;X
+1180005;Foreign Minister;제럴드 웰즐리 ;1939;1964;1999;FA;Great Compromiser;Low;3822;X
+1180006;Foreign Minister;조슬린 빅터 헤이 ;1940;1964;1999;FA;The Cloak N Dagger Schemer;Medium;M1051;X
+1180007;Foreign Minister;헨리 윌리엄슨 ;1941;1964;1999;FA;Biased Intellectual;Medium;M1052;X
+1180008;Foreign Minister;제럴드 그로스베너 ;1942;1964;1999;FA;Apologetic Clerk;Medium;M1053;X
+1180009;Foreign Minister;아치볼드 렘지 ;1943;1964;1999;FA;Iron Fisted Brute;Medium;M1054;X
+1180010;Foreign Minister;라자니 팜 덧 ;1933;1964;1999;LWR;Biased Intellectual;Medium;M1023;X
+1180011;Foreign Minister;필 피러틴 ;1940;1964;1999;ST;The Cloak N Dagger Schemer;Medium;M1056;X
+1180012;Foreign Minister;D.N. 프릿 ;1943;1964;1999;ST;Apologetic Clerk;Medium;M1057;X
+1180013;Foreign Minister;데이브 스프링홀 ;1944;1964;1999;LWR;Iron Fisted Brute;Medium;M1058;X
+1180014;Foreign Minister;이안 메카도 ;1945;1964;1999;LWR;Ideological Crusader;Medium;M1059;X
+1180015;Minister of Armament;오스왈드 모슬리 ;1933;1964;1999;FA;Planned economy proponent;Undying;M1012;X
+1180016;Minister of Armament;얼리엇 버논 로 ;1938;1964;1999;FA;Air to Ground Proponent;High;M1069;X
+1180017;Minister of Armament;닐 프란시스 호킨스 ;1939;1964;1999;FA;Submarine Proponent;High;M1070;X
+1180018;Minister of Armament;알렉산더 레이븐 톰슨 ;1941;1964;1999;FA;Strategic Air Proponent;High;M1071;X
+1180019;Minister of Armament;조리안 젠크스 ;1942;1964;1999;FA;Battle Fleet Proponent;High;M1072;X
+1180020;Minister of Armament;A.J.P. 테일러 ;1944;1964;1999;FA;laissez-faire capitalist;High;M1073;X
+1180021;Minister of Armament;스태퍼드 크립스 ;1933;1964;1999;LWR;Mixed economy;Medium;M1024;X
+1180022;Minister of Armament;레슬리 솔레이 ;1938;1964;1999;ST;Resource Industrialist;Medium;M1075;X
+1180023;Minister of Armament;아서 호너 ;1940;1964;1999;ST;Administrative Genius;Medium;M1076;X
+1180024;Minister of Armament;잭 가스터 ;1941;1964;1999;ST;Submarine Proponent;Medium;M1077;X
+1180025;Minister of Armament;에이브 모펫 ;1942;1964;1999;LWR;Tank Proponent;Medium;M1078;X
+1180026;Minister of Armament;윌리엄 러스트 ;1944;1964;1999;ST;Infantry Proponent;Medium;M1079;X
+1180027;Minister of Armament;코니에 질리아쿠스 ;1945;1964;1999;LWR;Air Superiority Proponent;Medium;M1080;X
+1180028;Minister of Security;아놀드 스펜서 리즈 ;1933;1964;1999;FA;Prince of Terror;Low;M1015;X
+1180029;Minister of Security;존 베켓 ;1940;1964;1999;FA;Compassionate Gentleman;Medium;M1091;X
+1180030;Minister of Security;아서 체스터턴 ;1941;1964;1999;FA;Back Stabber;Medium;M1092;X
+1180031;Minister of Security;제프리 햄 ;1942;1964;1999;FA;Crime Fighter;Medium;M1093;X
+1180032;Minister of Security;맥스웰 나이트 ;1943;1964;1999;FA;Secret police chief;Medium;M1094;X
+1180033;Minister of Security;바이올렛 랜스베리 ;1933;1964;1999;ST;Prince of Terror;Medium;M1095;X
+1180034;Minister of Security;레스터 허친슨 ;1938;1964;1999;ST;Back Stabber;Medium;M1096;X
+1180035;Minister of Security;존 플래츠 밀스 ;1933;1964;1999;LWR;Silent Lawyer;Medium;M1097;X
+1180036;Minister of Security;시드니 질버만 ;1941;1964;1999;ST;Man of the People;Medium;M1098;X
+1180037;Minister of Security;바바라 캐슬 ;1945;1964;1999;LWR;Crime Fighter;Medium;M1099;X
+1180038;Minister of Security;킴 필비 ;1946;1964;1999;ST;Secret police chief;Very High;M1025;X
+1180039;Head of Military Intelligence;S.P. 제임스 ;1933;1964;1999;FA;Industrial Specialist;High;M1016;X
+1180040;Head of Military Intelligence;베리 E. 돔빌 ;1940;1964;1999;FA;Naval Intelligence Specialist;High;3817;X
+1180041;Head of Military Intelligence;맥스웰 나이트 ;1942;1964;1999;FA;Logistics Specialist;Medium;M1094;X
+1180042;Head of Military Intelligence;존 에머리 ;1944;1964;1999;FA;Dismal Enigma;Medium;M1110;X
+1180043;Head of Military Intelligence;윌리엄 갈라처 ;1933;1964;1999;LWR;Industrial Specialist;High;M1111;X
+1180044;Head of Military Intelligence;크리스토퍼 힐 ;1941;1964;1999;ST;Naval Intelligence Specialist;High;M1112;X
+1180045;Head of Military Intelligence;어나이린 베번 ;1943;1964;1999;LWR;Dismal Enigma;High;M1021;X
+1180046;Head of Military Intelligence;앤소니 블런트 ;1945;1964;1999;LWR;Political Specialist;Very High;M1026;X
+1180047;Head of Military Intelligence;킴 필비 ;1946;1964;1999;ST;Technical Specialist;Very High;M1105;X
+1180048;Chief of Staff;J.F.C. 풀러 ;1933;1964;1999;NS;School of Manoeuvre;Medium;3816;X
+1180049;Chief of Staff;베리 E. 돔빌 ;1939;1964;1999;FA;commando doctrine staff;High;3817;X
+1180050;Chief of Staff;톰 윈터링햄 ;1933;1964;1999;ST;School of Mass Combat;High;M1027;X
+1180051;Chief of Army;J.F.C. 풀러 ;1933;1964;1999;NS;Armoured Spearhead Doctrine;Medium;3816;X
+1180052;Chief of Army;빌 알렉산더 ;1933;1964;1999;ST;Static Defence Doctrine;High;M1028;X
+1180053;Chief of Navy;베리 E. 돔빌 ;1933;1964;1999;FA;Power Projection Doctrine;High;3817;X
+1180054;Chief of Navy;E.H. 콜 ;1942;1964;1999;NS;Open Seas Doctrine;High;M1143;X
+1180055;Chief of Navy;프레드 코프만 ;1933;1964;1999;ST;Indirect Approach Doctrine;High;M1029;X
+1180056;Chief of Navy;해리 폴릿 ;1939;1964;1999;ST;Decisive Naval Battle Doctrine;High;M1022;X
+1180057;Chief of Air Force;존 체미어 ;1933;1964;1999;FA;Vertical Envelopment Doctrine;High;M1020;X
+1180058;Chief of Air Force;윌리엄스 포브스 셈필 ;1939;1964;1999;FA;Carpet Bombing Doctrine;High;M1152;X
+1180059;Chief of Air Force;도널드 메렌다즈 ;1941;1964;1999;FA;Air Superiority Doctrine;High;M1153;X
+1180060;Chief of Air Force;레일턴 프리먼 ;1943;1964;1999;FA;Naval Aviation Doctrine;High;M1154;X
+1180061;Chief of Air Force;존 스트레이치 ;1933;1964;1999;ST;Carpet Bombing Doctrine;High;M1030;X
+1180062;Head of State;제럴드 그로스베너 ;1942;1964;1999;SC;Pig-headed Isolationist;Medium;M1053;X
+1180063;Head of State;아치볼드 렘지 ;1943;1964;1999;SC;Pig-headed Isolationist;Medium;M1054;X
+1180064;Head of State;제럴드 그로스베너 ;1942;1964;1999;PA;Pig-headed Isolationist;Medium;M1053;X
+1180065;Head of State;아치볼드 렘지 ;1943;1964;1999;PA;Pig-headed Isolationist;Medium;M1054;X
+1180066;Head of State;제럴드 그로스베너 ;1942;1964;1999;LE;Pig-headed Isolationist;Medium;M1053;X
+1180067;Head of State;아치볼드 렘지 ;1943;1964;1999;LE;Pig-headed Isolationist;Medium;M1054;X
+1180068;Head of State;어나이린 베번 ;1933;1964;1999;SL;Pig-headed Isolationist;High;M1021;X
+1180069;Head of Government;오스왈드 모슬리 ;1933;1964;1999;SC;Flamboyant Tough Guy;High;M1012;X
+1180070;Head of Government;해리 폴릿 ;1933;1964;1999;SL;Ambitious Union Boss;High;M1022;X
+1180071;Foreign Minister;윌리엄 조이스 ;1933;1964;1999;SC;General Staffer;Low;M1013;X
+1180072;Foreign Minister;제럴드 웰즐리 ;1939;1964;1999;SC;Great Compromiser;Low;3822;X
+1180073;Foreign Minister;조슬린 빅터 헤이 ;1940;1964;1999;SC;The Cloak N Dagger Schemer;Medium;M1051;X
+1180074;Foreign Minister;헨리 윌리엄슨 ;1941;1964;1999;SC;Biased Intellectual;Medium;M1052;X
+1180075;Foreign Minister;제럴드 그로스베너 ;1942;1964;1999;SC;Apologetic Clerk;Medium;M1053;X
+1180076;Foreign Minister;아치볼드 렘지 ;1943;1964;1999;SC;Iron Fisted Brute;Medium;M1054;X
+1180077;Foreign Minister;라자니 팜 덧 ;1933;1964;1999;SL;Biased Intellectual;Medium;M1023;X
+1180078;Foreign Minister;필 피러틴 ;1940;1964;1999;SL;The Cloak N Dagger Schemer;Medium;M1056;X
+1180079;Foreign Minister;D.N. 프릿 ;1943;1964;1999;SL;Apologetic Clerk;Medium;M1057;X
+1180080;Foreign Minister;데이브 스프링홀 ;1944;1964;1999;SL;Iron Fisted Brute;Medium;M1058;X
+1180081;Foreign Minister;이안 메카도 ;1945;1964;1999;SL;Ideological Crusader;Medium;M1059;X
+1180082;Minister of Armament;오스왈드 모슬리 ;1933;1964;1999;SC;Resource Industrialist;Undying;M1012;X
+1180083;Minister of Armament;얼리엇 버논 로 ;1938;1964;1999;SC;Air to Ground Proponent;High;M1069;X
+1180084;Minister of Armament;닐 프란시스 호킨스 ;1939;1964;1999;SC;Submarine Proponent;High;M1070;X
+1180085;Minister of Armament;알렉산더 레이븐 톰슨 ;1941;1964;1999;SC;Strategic Air Proponent;High;M1071;X
+1180086;Minister of Armament;조리안 젠크스 ;1942;1964;1999;SC;Battle Fleet Proponent;High;M1072;X
+1180087;Minister of Armament;A.J.P. 테일러 ;1944;1964;1999;SC;laissez-faire capitalist;High;M1073;X
+1180088;Minister of Armament;스태퍼드 크립스 ;1933;1964;1999;SL;Air to Ground Proponent;Medium;M1024;X
+1180089;Minister of Armament;레슬리 솔레이 ;1938;1964;1999;SL;Resource Industrialist;Medium;M1075;X
+1180090;Minister of Armament;아서 호너 ;1940;1964;1999;SL;Planned economy proponent;Medium;M1076;X
+1180091;Minister of Armament;잭 가스터 ;1941;1964;1999;SL;Submarine Proponent;Medium;M1077;X
+1180092;Minister of Armament;에이브 모펫 ;1942;1964;1999;SL;Tank Proponent;Medium;M1078;X
+1180093;Minister of Armament;윌리엄 러스트 ;1944;1964;1999;SL;Infantry Proponent;Medium;M1079;X
+1180094;Minister of Armament;코니에 질리아쿠스 ;1945;1964;1999;SL;Air Superiority Proponent;Medium;M1080;X
+1180095;Minister of Security;아놀드 스펜서 리즈 ;1933;1964;1999;SC;Prince of Terror;Low;M1015;X
+1180096;Minister of Security;존 베켓 ;1940;1964;1999;SC;Compassionate Gentleman;Medium;M1091;X
+1180097;Minister of Security;아서 체스터턴 ;1941;1964;1999;SC;Back Stabber;Medium;M1092;X
+1180098;Minister of Security;제프리 햄 ;1942;1964;1999;SC;Crime Fighter;Medium;M1093;X
+1180099;Minister of Security;맥스웰 나이트 ;1943;1964;1999;SC;Secret police chief;Medium;M1094;X
+1180100;Minister of Security;바이올렛 랜스베리 ;1933;1964;1999;SL;Prince of Terror;Medium;M1095;X
+1180101;Minister of Security;레스터 허친슨 ;1938;1964;1999;SL;Back Stabber;Medium;M1096;X
+1180102;Minister of Security;존 플래츠 밀스 ;1933;1964;1999;SL;Silent Lawyer;Medium;M1097;X
+1180103;Minister of Security;시드니 질버만 ;1941;1964;1999;SL;Man of the People;Medium;M1098;X
+1180104;Minister of Security;바바라 캐슬 ;1945;1964;1999;SL;Crime Fighter;Medium;M1099;X
+1180105;Minister of Security;킴 필비 ;1946;1964;1999;SL;Secret police chief;Very High;M1025;X
+1180106;Head of Military Intelligence;S.P. 제임스 ;1933;1964;1999;SC;Industrial Specialist;High;M1016;X
+1180107;Head of Military Intelligence;베리 E. 돔빌 ;1940;1964;1999;SC;Naval Intelligence Specialist;High;3817;X
+1180108;Head of Military Intelligence;맥스웰 나이트 ;1942;1964;1999;SC;Logistics Specialist;Medium;M1094;X
+1180109;Head of Military Intelligence;존 에머리 ;1944;1964;1999;SC;Dismal Enigma;Medium;M1110;X
+1180110;Head of Military Intelligence;윌리엄 갈라처 ;1933;1964;1999;SL;Industrial Specialist;High;M1111;X
+1180111;Head of Military Intelligence;크리스토퍼 힐 ;1941;1964;1999;SL;Naval Intelligence Specialist;High;M1112;X
+1180112;Head of Military Intelligence;어나이린 베번 ;1943;1964;1999;SL;Dismal Enigma;High;M1021;X
+1180113;Head of Military Intelligence;앤소니 블런트 ;1945;1964;1999;SL;Political Specialist;Very High;M1026;X
+1180114;Head of Military Intelligence;킴 필비 ;1946;1964;1999;SL;Technical Specialist;Very High;M1105;X
+1180115;Chief of Staff;J.F.C. 풀러 ;1933;1964;1999;SC;School of Manoeuvre;Medium;3816;X
+1180116;Chief of Staff;베리 E. 돔빌 ;1939;1964;1999;SC;commando doctrine staff;High;3817;X
+1180117;Chief of Staff;톰 윈터링햄 ;1933;1964;1999;SL;School of Mass Combat;High;M1027;X
+1180118;Chief of Army;J.F.C. 풀러 ;1933;1964;1999;SC;Armoured Spearhead Doctrine;Medium;3816;X
+1180119;Chief of Army;빌 알렉산더 ;1933;1964;1999;SL;Static Defence Doctrine;High;M1028;X
+1180120;Chief of Navy;베리 E. 돔빌 ;1933;1964;1999;SC;Power Projection Doctrine;High;3817;X
+1180121;Chief of Navy;E.H. 콜 ;1942;1964;1999;SC;Open Seas Doctrine;High;M1143;X
+1180122;Chief of Navy;프레드 코프만 ;1933;1964;1999;SL;Indirect Approach Doctrine;High;M1029;X
+1180123;Chief of Navy;해리 폴릿 ;1939;1964;1999;SL;Decisive Naval Battle Doctrine;High;M1022;X
+1180124;Chief of Air Force;존 체미어 ;1933;1964;1999;SC;Vertical Envelopment Doctrine;High;M1020;X
+1180125;Chief of Air Force;윌리엄스 포브스 셈필 ;1939;1964;1999;SC;Carpet Bombing Doctrine;High;M1152;X
+1180126;Chief of Air Force;도널드 메렌다즈 ;1941;1964;1999;SC;Air Superiority Doctrine;High;M1153;X
+1180127;Chief of Air Force;레일턴 프리먼 ;1943;1964;1999;SC;Naval Aviation Doctrine;High;M1154;X
+1180128;Chief of Air Force;존 스트레이치 ;1933;1964;1999;SL;Carpet Bombing Doctrine;High;M1030;X
+1180129;Minister of Security;프란츠 알프레드 ;1939;1964;1999;NS;Prince of Terror;High;5906;X
+1180130;Chief of Staff;프란츠 알프레드 ;1941;1964;1999;NS;School of Manoeuvre;High;5906;X
+1180131;Foreign Minister;헨리 해밀턴 비미시 ;1933;1947;1999;NS;The Cloak N Dagger Schemer;Low;8560;X
+1180132;Foreign Minister;로버트 C.G. 캐닝 ;1935;1964;1999;FA;Biased Intellectual;Medium;8561;X
+1180133;Minister of Security;노라 폭스 ;1937;1964;1999;FA;Efficient Sociopath;Medium;8562;X
+1180134;Foreign Minister;닐 프란시스 호킨스 ;1943;1964;1999;FA;General Staffer;High;unknownminister;X
+1180135;Foreign Minister;아서 K. 체스터튼 ;1942;1964;1999;FA;Biased Intellectual;Medium;8608;X
+1180136;Foreign Minister;존 앵거스 마크냅 ;1939;1964;1999;FA;Great Compromiser;High;8563;X
+1180137;Minister of Security;제럴드 버넌 월롭 ;1938;1964;1999;FA;Back Stabber;Medium;8564;X
+1180138;Chief of Staff;아드리안 카튼 ;1943;1964;1999;ML;School of Manoeuvre;High;8565;X
+1180139;Foreign Minister;아드리안 카튼 ;1943;1964;1999;ML;General Staffer;High;8565;X
+1180140;Chief of Staff;해럴드 알렉산더 ;1940;1964;1999;SC;School of Psychology;Medium;unknownminister;X
+1180141;Chief of Staff;클로드 J.E. 오친렉 ;1935;1964;1999;SL;School of Defence;High;unknownminister;X
+1180142;Chief of Army;클로드 J.E. 오친렉 ;1941;1964;1999;SL;Decisive Battle Doctrine;High;unknownminister;X
+1180143;Chief of Air Force;존 C. 슬레서 ;1945;1964;1999;ML;Army Aviation Doctrine;High;unknownminister;X

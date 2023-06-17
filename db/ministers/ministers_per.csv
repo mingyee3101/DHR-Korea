@@ -1,0 +1,128 @@
+PER;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+150001;Head of State;모하메드 레자 팔라비 ;1925;1943;1999;PA;Resigned Generalissimo;High;M53001;X
+150002;Head of Government;마흐무드 자므 ;1933;1964;1999;PA;Silent Workhorse;High;M53002;X
+150003;Foreign Minister;이나야톨라 칸 사미 ;1933;1964;1999;PA;Great Compromiser;Medium;M53003;X
+150004;Minister of Armament;아흐마드 칸 나흐자반 ;1933;1964;1999;PA;Battle Fleet Proponent;Medium;M53004;X
+150005;Minister of Security;알리 악바르 다바르 ;1933;1964;1999;PA;Back Stabber;Medium;M53005;X
+150006;Head of Military Intelligence;레자 미자니 ;1933;1964;1999;PA;Naval Intelligence Specialist;Medium;M53006;X
+150007;Chief of Staff;모하메드 레자 팔라비 ;1933;1943;1999;PA;School of Defence;Medium;M53001;X
+150008;Chief of Army;압돌레자 아프하미 ;1933;1964;1999;PA;Static Defence Doctrine;Medium;M53008;X
+150009;Chief of Navy;아흐마드 호라스라바니 ;1933;1964;1999;PA;Indirect Approach Doctrine;High;M53009;X
+150010;Chief of Air Force;아흐마드 칸 나흐자반 ;1933;1964;1999;PA;Naval Aviation Doctrine;High;M53004;X
+150011;Head of State;모하메드 레자 팔라비 ;1941;1964;1999;SC;Benevolent Gentleman;High;M53011;X
+150012;Head of State;모하메드 레자 팔라비 ;1941;1964;1999;PA;Autocratic Charmer;High;M53011;X
+150013;Head of Government;아흐마드 다프타리 ;1939;1964;1999;FA;Naive Optimist;High;M53033;X
+150014;Head of Government;알리 칸 만수르 ;1940;1964;1999;PA;Old General;High;M53034;X
+150015;Head of Government;모하메드 알리 푸루기 ;1941;1964;1999;SC;Political Protege;High;M53015;X
+150016;Head of Government;알리 조하일리 ;1943;1964;1999;SL;Smiling Oilman;High;M53036;X
+150017;Head of Government;아흐메드 카완 앗 살타나 ;1942;1964;1999;SC;Happy Amateur;High;M53037;X
+150018;Head of Government;모하메드 사이드 마라게이 ;1944;1964;1999;SC;Silent Workhorse;High;M53038;X
+150019;Head of Government;사이드 칸 바야트 ;1944;1964;1999;SL;FLamboyant Tough Guy;High;M53039;X
+150020;Head of Government;이브라힘 하키미 ;1945;1964;1999;PA;Backroom Backstabber;High;M53040;X
+150021;Head of Government;무흐신 사드르 ;1945;1964;1999;SC;Corporate Suit;High;M53041;X
+150022;Foreign Minister;무스타파 아딜 ;1937;1964;1999;PA;Biased Intellectual;Medium;M53042;X
+150023;Foreign Minister;미리아 무흐신 칸 ;1938;1964;1999;PA;Ideological Crusader;Medium;M53043;X
+150024;Foreign Minister;알리 조하일리 ;1939;1964;1999;PA;Iron Fisted Brute;Low;M53036;X
+150025;Foreign Minister;무자파르 알람 ;1939;1964;1999;PA;Apologetic Clerk;Medium;M53045;X
+150026;Foreign Minister;이브라힘 알람 ;1940;1964;1999;FA;The Cloak N Dagger Schemer;Medium;M53046;X
+150027;Foreign Minister;아마리 자와드 ;1940;1964;1999;FA;Biased Intellectual;Medium;M53047;X
+150028;Foreign Minister;알리 조하일리 ;1941;1964;1999;SL;The Cloak N Dagger Schemer;Medium;M53036;X
+150029;Foreign Minister;모하메드 사이드 마라게이 ;1942;1964;1999;SC;Great Compromiser;High;M53038;X
+150030;Foreign Minister;누스룰라 인티잠 ;1944;1964;1999;SL;Biased Intellectual;Medium;M53051;X
+150031;Foreign Minister;아누시르반 세파보디 ;1945;1964;1999;PA;Apologetic Clerk;Medium;M53052;X
+150032;Foreign Minister;압둘 카심 ;1945;1964;1999;SC;The Cloak N Dagger Schemer;Medium;M53053;X
+150033;Foreign Minister;아흐메드 콰완 앗 살타나 ;1946;1964;1999;SC;Ideological Crusader;High;M53037;X
+150034;Foreign Minister;모하메드 모사덱 ;1946;1964;1999;SL;The Cloak N Dagger Schemer;Medium;M53013;X
+150035;Minister of Armament;레자 미자니 ;1937;1964;1999;PA;Resource Industrialist;Medium;M53006;X
+150036;Minister of Armament;리자 아르파 도울레흐 ;1937;1964;1999;PA;Infantry Proponent;Medium;M53057;X
+150037;Minister of Armament;알프리드 침머만 ;1938;1964;1999;SC;laissez-faire capitalist;Medium;M53014;X
+150038;Minister of Armament;아흐마드 칸 나흐자반 ;1938;1964;1999;PA;Air to Sea Proponent;High;M53004;X
+150039;Minister of Armament;아흐마드 호라스라바니 ;1939;1964;1999;PA;Submarine Proponent;High;M53009;X
+150040;Minister of Armament;압돌레자 아프하미 ;1939;1964;1999;FA;Military Entrepreneur;Medium;M53008;X
+150041;Minister of Armament;모하메드 나흐자바니 ;1940;1964;1999;FA;Tank Proponent;Medium;M53062;X
+150042;Minister of Armament;모르테자 야즈디 ;1940;1964;1999;FA;Air Superiority Proponent;Medium;M53024;X
+150043;Minister of Armament;사이드 타바타바이 ;1941;1964;1999;SC;Battle Fleet Proponent;Medium;M53012;X
+150044;Minister of Armament;조카 도울레흐 ;1943;1964;1999;SL;Theoretical Scientist;Medium;M53065;X
+150045;Minister of Armament;모하메드 바흐라미 ;1944;1964;1999;SC;Strategic Air Proponent;Medium;M53026;X
+150046;Minister of Armament;조카 도울레흐 ;1945;1964;1999;PA;Tank Proponent;Medium;M53065;X
+150047;Minister of Armament;자페르 피셰바리 ;1945;1964;1999;SC;Resource Industrialist;Medium;M53023;X
+150048;Minister of Armament;아누시르반 세파보디 ;1946;1964;1999;SC;Administrative Genius;Medium;M53052;X
+150049;Minister of Security;솔레이만 에스칸다리 ;1933;1964;1999;PA;Crime Fighter;Medium;M53022;X
+150050;Minister of Security;리자 아르파 도울레 ;1933;1964;1999;PA;Back Stabber;Medium;M53057;X
+150051;Minister of Security;알리 만수르 ;1938;1964;1999;PA;Man of the People;Medium;M53034;X
+150052;Minister of Security;후세인 칸 알라 ;1939;1964;1999;FA;Silent Lawyer;Medium;M53073;X
+150053;Minister of Security;모하메드 바흐라미 ;1941;1964;1999;SC;Compassionate Gentleman;Medium;M53026;X
+150054;Minister of Security;에라지 에스칸다리 ;1942;1964;1999;SL;Prince of Terror;Medium;M53025;X
+150055;Minister of Security;에드워드 스탠리 ;1941;1964;1999;SC;Efficient Sociopath;Medium;M53076;X
+150056;Minister of Security;메흐디 만자라니 ;1945;1964;1999;PA;Prince of Terror;Medium;M53077;X
+150057;Minister of Security;압돌하산 하키미 ;1945;1964;1999;SC;Back Stabber;Medium;M53078;X
+150058;Minister of Security;호세인 아르파즈니 ;1946;1964;1999;SC;Silent Lawyer;Medium;M53079;X
+150059;Head of Military Intelligence;모하메드 레자 팔라비 ;1937;1964;1999;PA;Political Specialist;Medium;M53011;X
+150060;Head of Military Intelligence;딘샤 이라니 ;1938;1964;1999;PA;Technical Specialist;Medium;M53021;X
+150061;Head of Military Intelligence;알프리드 침머만 ;1939;1964;1999;FA;Industrial Specialist;Medium;M53014;X
+150062;Head of Military Intelligence;아흐마드 다프타리 ;1941;1964;1999;FA;Naval Intelligence Specialist;Medium;M53033;X
+150063;Head of Military Intelligence;알리 세파흐보디 카자르 ;1941;1964;1999;SC;Dismal Enigma;Medium;M53084;X
+150064;Head of Military Intelligence;네빌 그랜틀리 ;1941;1964;1999;SL;Industrial Specialist;Medium;M53085;X
+150065;Head of Military Intelligence;압돌 호세인 ;1945;1964;1999;PA;Dismal Enigma;Medium;M53086;X
+150066;Head of Military Intelligence;압돌라 엔테잠 ;1945;1964;1999;SC;Technical Specialist;Medium;M53087;X
+150067;Head of Military Intelligence;오바삭 알 돌레흐 ;1945;1964;1999;SC;Naval Intelligence Specialist;Medium;M53088;X
+150068;Head of Military Intelligence;모하메드 모사덱 ;1946;1964;1999;SL;Logistics Specialist;Medium;M53013;X
+150069;Chief of Staff;알리 악바르 다바르 ;1939;1964;1999;PA;School of Psychology;Medium;M53005;X
+150070;Chief of Staff;하산 마지드 피로즈 ;1939;1964;1999;FA;School of Defence;Medium;M53028;X
+150071;Chief of Staff;레자 미자니 ;1941;1964;1999;SC;School of Mass Combat;Medium;M53006;X
+150072;Chief of Staff;알리 칸 나크지암 ;1943;1964;1999;SL;School of Manoeuvre;Medium;M53027;X
+150073;Chief of Staff;모하메드 레자 팔라비 ;1943;1964;1999;PA;School of Defence;Medium;M53011;X
+150074;Chief of Staff;호세인 아프하미 ;1945;1964;1999;SC;School of Fire Support;Medium;M53017;X
+150075;Chief of Army;미르 아프하미 ;1938;1964;1999;PA;Guns and Butter Doctrine;Medium;M53018;X
+150076;Chief of Army;하산 마지드 피로즈 ;1939;1964;1999;FA;Static Defence Doctrine;Medium;M53028;X
+150077;Chief of Army;아즈람 미르 가니 ;1941;1964;1999;SC;Elastic Defence Doctrine;Medium;M53098;X
+150078;Chief of Army;모하메드 나흐자바니 ;1945;1964;1999;PA;Armoured Spearhead Doctrine;Medium;M53062;X
+150079;Chief of Army;헤다야트 길란샤 ;1945;1964;1999;SC;Decisive Battle Doctrine;Medium;M53100;X
+150080;Chief of Navy;레자 미자니 ;1938;1964;1999;PA;Base Control Doctrine;Medium;M53006;X
+150081;Chief of Navy;샤푸르 키스라바디 ;1939;1964;1999;FA;Open Seas Doctrine;Medium;M53102;X
+150082;Chief of Navy;모하메드 미르 모한나 ;1941;1964;1999;SC;Power Projection Doctrine;Medium;M53029;X
+150083;Chief of Navy;아흐마드 칸 나흐자반 ;1945;1964;1999;PA;Decisive Naval Battle Doctrine;Medium;M53004;X
+150084;Chief of Navy;모하메드 모이니 ;1945;1964;1999;SC;Indirect Approach Doctrine;Medium;M53020;X
+150085;Chief of Air Force;사데흐 칸 코팔 ;1937;1964;1999;PA;Army Aviation Doctrine;High;M53106;X
+150086;Chief of Air Force;모하메드 나흐자바니 ;1939;1964;1999;FA;Air Superiority Doctrine;Medium;M53062;X
+150087;Chief of Air Force;모하메드 모이니 ;1941;1964;1999;SC;Vertical Envelopment Doctrine;Medium;M53020;X
+150088;Chief of Air Force;모하메드 미르 모한나 ;1945;1964;1999;SC;Naval Aviation Doctrine;Medium;M53029;X
+150089;Chief of Air Force;헤다야트 길란샤 ;1946;1964;1999;PA;Carpet Bombing Doctrine;Medium;M53100;X
+150090;Minister of Security;모하메드 알리 푸루기 ;1933;1964;1999;SC;Crime Fighter;Medium;M53015;X
+150091;Head of State;딘샤 이라니 ;1933;1964;1999;ST;Stern Imperialist;High;M53021;X
+150092;Head of Government;솔레이만 에스칸다리 ;1933;1964;1999;ST;Happy Amateur;High;M53022;X
+150093;Foreign Minister;자페르 피셰바리 ;1933;1964;1999;ST;Iron Fisted Brute;Medium;M53023;X
+150094;Head of Military Intelligence;모하메드 바흐라미 ;1933;1964;1999;ST;Political Specialist;Medium;M53026;X
+150095;Head of Government;압돌 호세인 하지르 ;1948;1964;1999;ML;Happy Amateur;High;M53111;X
+150096;Head of Government;모하메드 사이드 마라게이 ;1948;1964;1999;ML;Flamboyant Tough Guy;High;M53038;X
+150097;Head of Government;알리 만수르 ;1950;1964;1999;SC;Political Protege;High;M53034;X
+150098;Head of Government;알리 라즈마라 ;1950;1964;1999;PA;old airmarshal;High;M53114;X
+150099;Head of Government;후세인 칸 알라 ;1951;1964;1999;PA;Backroom Backstabber;High;M53073;X
+150100;Head of Government;모하메드 모사덱 ;1951;1964;1999;SL;Smiling Oilman;High;M53013;X
+150101;Head of Government;파즐롤라 자헤디 ;1953;1964;1999;PA;Old General;High;M53117;X
+150102;Foreign Minister;압돌 호세인 하지르 ;1951;1964;1999;ML;Ideological Crusader;Medium;M53111;X
+150103;Chief of Staff;알리 라즈마라 ;1953;1964;1999;PA;School of Psychology;Medium;M53114;X
+150104;Chief of Air Force;알리 라즈마라 ;1949;1964;1999;PA;Army Aviation Doctrine;Medium;M53114;X
+150105;Chief of Army;파즐롤라 자헤디 ;1951;1964;1999;PA;Guns and Butter Doctrine;Medium;M53117;X
+150106;Chief of Army;아흐마드 샤 카자르 ;1914;1933;1999;PA;Decisive Battle Doctrine;Medium;2930;X
+150107;Chief of Staff;아흐마드 샤 카자르 ;1914;1933;1999;PA;school of defence;Medium;2930;X
+150108;Head of Government;압돌 마지드 미르자 ;1914;1933;1999;ML;Silent Workhorse;Medium;unknownminister;X
+150109;Head of Government;아흐마드 카왐 ;1921;1933;1999;ML;Flamboyant Tough Guy;Medium;unknownminister;X
+150110;Head of Government;미르자 모하마드 칸 ;1914;1933;1999;ML;Happy Amateur;Medium;unknownminister;X
+150111;Head of Government;모스토우피 마말렉 ;1914;1933;1999;ML;Silent Workhorse;Medium;unknownminister;X
+150112;Head of Government;호세인 파르만파르마 ;1915;1933;1999;ML;Corporate Suit;Medium;2929;X
+150113;Head of Government;압돌 마지드 미르자 ;1915;1933;1999;ML;Corporate Suit;Medium;unknownminister;X
+150114;Head of Government;보소흐 돌레흐 ;1914;1933;1999;ML;Backroom Backstabber;Medium;unknownminister;X
+150115;Head of Government;하산 피르니아 ;1918;1933;1999;ML;Smiling Oilman;Medium;unknownminister;X
+150116;Head of Government;몸타즈 살타네흐 ;1918;1933;1999;PA;Naive Optimist;Medium;unknownminister;X
+150117;Head of Government;파트홀라 칸 악바르 ;1920;1933;1999;ML;Ambitious Union Boss;Medium;unknownminister;X
+150118;Head of Government;지아에딘 타바타바에 ;1921;1933;1999;ML;Smiling Oilman;Medium;unknownminister;X
+150119;Head of Government;아흐마드 카밤 ;1921;1933;1999;ML;Flamboyant Tough Guy;Medium;unknownminister;X
+150120;Head of Government;말렉 만수르 미르자 ;1921;1933;1999;PA;Ambitious Union Boss;Medium;unknownminister;X
+150121;Head of State;아흐마드 샤 카자르 ;1914;1933;1999;PA;Weary Stiffneck;Medium;2930;X
+150122;Minister of Security;호세인 파르만파르마 ;1915;1933;1999;PA;Silent Lawyer;Medium;2929;X
+150123;Head of Government;다부드 몬시자데흐 ;1946;1964;1999;NS;Political Protege;medium;6077;x
+150124;Foreign Minister;다부드 몬시자데흐 ;1946;1964;1999;NS;Biased Intellectual;medium;6077;x
+150125;Chief of Navy;Gholamali Bayandor;1933;1942;1942;PA;Decisive Naval Battle Doctrine;High;9705;X
+150126;Foreign Minister;후세인 칸 알라 ;1943;1965;1965;PA;Biased Intellectual;medium;M53073;x

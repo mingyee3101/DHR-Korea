@@ -1,0 +1,65 @@
+INO;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+270001;Head of State;빌헬미나 ;1933;1964;1999;SC;Popular Figurehead;Very High;M8001;X
+270002;Head of Government;알리디우스 얄다 ;1933;1964;1999;SC;Flamboyant Tough Guy;Very High;M577002;X
+270003;Foreign Minister;휘베르튀스 반 무크 ;1933;1964;1999;SC;Biased Intellectual;High;M577003;X
+270004;Minister of Armament;모하마드 3세 ;1933;1964;1999;SC;Air Superiority Proponent;Medium;M577004;X
+270005;Minister of Security;페더 스휘러르 ;1933;1964;1999;SC;Crime Fighter;High;M8113;X
+270006;Head of Military Intelligence;라이몬트 베스테를링 ;1933;1964;1999;SC;Naval Intelligence Specialist;Medium;M577006;X
+270007;Chief of Staff;뮈르크 부르스트라 ;1933;1964;1999;SC;School of Manoeuvre;Very High;L7802;X
+270008;Chief of Army;헤라르뒤스 베렌스호트 ;1933;1964;1999;SC;Static Defence Doctrine;Very High;L7801;X
+270009;Chief of Navy;콘라드 헬프리흐 ;1933;1964;1999;SC;Base Control Doctrine;Very High;L7839;X
+270010;Chief of Air Force;뤼돌프 판 오이언 ;1933;1964;1999;SC;Army Aviation Doctrine;Very High;L7859;X
+270011;Head of State;아흐메드 수카르노 ;1933;1964;1999;PA;Weary Stiffneck;Very High;M577011;X
+270012;Head of State;페르디난드 룸반토빙 ;1933;1964;1999;SD;Autocratic Charmer;Very High;M577012;X
+270013;Head of State;카완 무소 ;1933;1964;1999;LE;Powerhungry Demagogue;Very High;M577013;X
+270014;Head of Government;모하마드 하타 ;1933;1964;1999;PA;Political Protege;Very High;M577014;X
+270015;Head of Government;모하마드 탐린 ;1933;1964;1999;SD;Smiling Oilman;Very High;M577015;X
+270016;Head of Government;아미르 스자리푸딘 ;1933;1964;1999;LE;Naive Optimist;Medium;M577016;X
+270017;Foreign Minister;아흐마드 수반드리오 ;1933;1964;1999;PA;Ideological Crusader;Medium;M577017;X
+270018;Foreign Minister;하멩쿠부오노 10세 ;1943;1964;1999;PA;The Cloak N Dagger Schemer;Medium;M577018;X
+270019;Foreign Minister;수탄 스자흐리르 ;1933;1964;1999;SD;Apologetic Clerk;Low;M577019;X
+270020;Foreign Minister;수카르조 위르요프라나토 ;1944;1964;1999;SD;Great Compromiser;Low;M577020;X
+270021;Foreign Minister;수르요르노 수리피노 ;1933;1964;1999;LE;Iron Fisted Brute;High;M577021;X
+270022;Minister of Armament;스자리푸딘 프라위라네가라 ;1933;1964;1999;PA;Air to Sea Proponent;Low;M577022;X
+270023;Minister of Armament;도데치스모 주안다 ;1944;1964;1999;PA;Tank Proponent;Low;M577023;X
+270024;Minister of Armament;아구스 살림 ;1945;1964;1999;PA;Administrative Genius;Low;M577024;X
+270025;Minister of Armament;아망우 8세 ;1943;1964;1999;SC;Air Superiority Proponent;Medium;M577025;X
+270026;Minister of Armament;다누디르지아 세티아부디 ;1933;1964;1999;SD;Infantry Proponent;Low;M577026;X
+270027;Minister of Armament;루크만 단 사르조노 ;1933;1964;1999;LE;Military Entrepreneur;High;M577027;X
+270028;Minister of Security;D.W. 코크로아미노토 ;1933;1964;1999;PA;Prince of Terror;Medium;M577028;X
+270029;Minister of Security;응가베히 욕야카르다 ;1946;1964;1999;SC;Man of the People;High;M577029;X
+270030;Minister of Security;아리에 프레데리크 라수트 ;1933;1964;1999;SD;Back Stabber;Medium;M577030;X
+270031;Minister of Security;아담 말리크 ;1945;1964;1999;SD;Compassionate Gentleman;Medium;M577031;X
+270032;Minister of Security;S.M. 카르토수위르조 ;1933;1964;1999;LE;Efficient Sociopath;High;M577032;X
+270033;Minister of Security;D.N. 아이디트 ;1945;1964;1999;LE;Silent Lawyer;High;M577033;X
+270034;Head of Military Intelligence;베사르 수디르만 ;1933;1964;1999;PA;Logistics Specialist;High;M577034;X
+270035;Head of Military Intelligence;키프토 만군쿠소모 ;1938;1964;1999;PA;Technical Specialist;High;M577035;X
+270036;Head of Military Intelligence;모하마드 야민 ;1933;1964;1999;SD;Industrial Specialist;High;M577036;X
+270037;Head of Military Intelligence;T.N. 수프라트만 ;1933;1964;1999;LE;Political Specialist;Low;M577037;X
+270038;Chief of Staff;베사르 수디르만 ;1933;1964;1999;PA;School of Mass Combat;High;M577034;X
+270039;Chief of Staff;헤라르뒤스 베렌스호트 ;1939;1964;1999;SC;School of Defence;Very High;L7801;X
+270040;Chief of Staff;헤인 테르 포르텐 ;1941;1964;1999;SC;School of Fire Support;Very High;L7819;X
+270041;Chief of Staff;하미드 2세 ;1933;1964;1999;SD;School of Psychology;Low;M577041;X
+270042;Chief of Staff;탄 말라카 ;1933;1964;1999;LE;School of Mass Combat;High;M577042;X
+270043;Chief of Army;압둘 해리스 나수티온 ;1933;1964;1999;PA;Decisive Battle Doctrine;High;M577043;X
+270044;Chief of Army;헤인 테르 포르텐 ;1939;1964;1999;SC;Elastic Defence Doctrine;Very High;L7819;X
+270045;Chief of Army;뤼돌프 바케르스 ;1941;1964;1999;SC;Armoured Spearhead Doctrine;Very High;L7800;X
+270046;Chief of Army;시몬 스포르 ;1945;1964;1999;SC;Decisive Battle Doctrine;Very High;L7817;X
+270047;Chief of Army;우이리프 수모하르조 ;1933;1964;1999;SD;Guns and Butter Doctrine;High;M577047;X
+270048;Chief of Army;탄 말라카 ;1933;1964;1999;LWR;Decisive Battle Doctrine;High;M577042;X
+270049;Chief of Navy;아망우 9세 ;1933;1964;1999;PA;Open Seas Doctrine;High;M577049;X
+270050;Chief of Navy;웨 요하네스 ;1933;1964;1999;SD;Indirect Approach Doctrine;Low;M577050;X
+270051;Chief of Navy;아흐마드 알리민 ;1933;1964;1999;LE;Decisive Naval Battle Doctrine;Low;M577051;X
+270052;Chief of Air Force;아크메드 수카르노 ;1933;1964;1999;PA;Naval Aviation Doctrine;High;M577011;X
+270053;Chief of Air Force;모하메드 주스프 ;1942;1964;1999;PA;Air Superiority Doctrine;High;M577053;X
+270054;Chief of Air Force;R.M. 수르요 ;1933;1964;1999;SD;Vertical Envelopment Doctrine;High;M577054;X
+270055;Chief of Air Force;I.M. 나조안 ;1933;1964;1999;LE;Carpet Bombing Doctrine;Low;M577055;X
+270056;Head of Government;압둘 할림 ;1950;1964;1999;PA;Naive Optimist;Very High;M577056;X
+270057;Head of Government;모하마드 나시르 ;1950;1964;1999;PA;Corporate Suit;Very High;M577057;X
+270058;Head of Government;수코만 위르조산조조 ;1951;1964;1999;PA;Smiling Oilman;Very High;M577058;X
+270059;Head of Government;시스완토 윌로포 ;1952;1964;1999;PA;Ambitious Union Boss;Very High;M577059;X
+270060;Head of Government;알리 사스트로미조조 ;1953;1964;1999;PA;Silent Workhorse;Very High;M577060;X
+270061;Foreign Minister;모하마드 하타 ;1951;1964;1999;PA;The Cloak N Dagger Schemer;Medium;M577014;X
+270062;Minister of Security;압둘 할림 ;1949;1964;1999;PA;Crime Fighter;Medium;M577056;X
+270063;Chief of Staff;와킬 파크메하산 ;1950;1964;1999;PA;School of Manoeuvre;Low;M577063;X

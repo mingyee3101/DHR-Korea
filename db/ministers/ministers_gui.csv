@@ -1,0 +1,24 @@
+GUI;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+665001;Head of State;루이 P. 블라셰르 ;1933;1964;1999;SL;Powerhungry Demagogue;High;M537001;X
+665002;Head of Government;루이 P. 블라셰르 ;1933;1964;1999;SL;Political Protege;High;M537001;X
+665003;Foreign Minister;외젠 클라디위스 프티 ;1933;1964;1999;SL;Great Compromiser;High;M537003;X
+665004;Minister of Armament;에밀리엔 모로 에브라르 ;1933;1964;1999;SL;Infantry Proponent;Medium;M537004;X
+665005;Minister of Security;앙투안 지아코비 ;1933;1964;1999;SL;Back Stabber;Medium;M537005;X
+665006;Head of Military Intelligence;오라스 크로치치아 ;1933;1964;1999;SL;Naval Intelligence Specialist;Medium;M533004;X
+665007;Chief of Staff;에두아르 테라크 ;1933;1964;1999;SL;School of Manoeuvre;Medium;M537007;X
+665008;Chief of Army;장 프랑수아 게라르 ;1933;1964;1999;SL;Decisive Battle Doctrine;Medium;M537008;X
+665009;Chief of Navy;장 브라쇠르 케르마데크 ;1933;1964;1999;SL;Open Seas Doctrine;Medium;M537009;X
+665010;Chief of Air Force;조르주 베르제 ;1933;1964;1999;SL;Vertical Envelopment Doctrine;Medium;M537010;X
+665011;Head of State;앙투안 지아코비 ;1940;1964;1999;SL;Popular Figurehead;High;M537005;X
+665012;Head of State;오라스 크로치치아 ;1942;1964;1999;SL;Weary Stiffneck;High;M533004;X
+665013;Head of State;에두아르 테라크 ;1946;1964;1999;SL;Resigned Generalissimo;High;M537007;X
+665014;Head of Government;앙투안 지아코비 ;1940;1964;1999;SL;Happy Amateur;High;M537005;X
+665015;Head of Government;오라스 크로치치아 ;1942;1964;1999;SL;Naive Optimist;High;M533004;X
+665016;Head of Government;에두아르 테라크 ;1946;1964;1999;SL;Old General;High;M537007;X
+665017;Foreign Minister;엠마뉘엘 탕플 ;1942;1964;1999;SL;Apologetic Clerk;High;M537017;X
+665018;Minister of Armament;르네 부이소 ;1941;1964;1999;SL;Submarine Proponent;Medium;M537018;X
+665019;Minister of Armament;케이타 포디바 ;1943;1964;1999;SL;Air to Ground Proponent;Medium;M537019;X
+665020;Minister of Security;아마드 세쿠 투레 ;1944;1964;1999;SL;Crime Fighter;Medium;M537020;X
+665021;Head of Military Intelligence;앙드레 마자나 ;1939;1964;1999;SL;Logistics Specialist;Medium;M537021;X
+665022;Chief of Staff;피에르 델솔 ;1942;1964;1999;SL;School of Fire Support;Medium;M537022;X

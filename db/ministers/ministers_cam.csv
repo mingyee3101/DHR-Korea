@@ -1,0 +1,37 @@
+CAM;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+580001;Head of State;쥘 르피케 ;1933;1964;1999;SL;Popular Figurehead;High;M534001;X
+580002;Head of Government;엠마뉘엘 앙델레이 ;1933;1964;1999;SL;Political Protege;High;M534002;X
+580003;Foreign Minister;리샤르 브루노 ;1933;1964;1999;SL;Great Compromiser;High;M534003;X
+580004;Minister of Armament;피에르 샤를 쿠르나리 ;1933;1964;1999;SL;Corrupt Kleptocrat;Medium;M534004;X
+580005;Minister of Security;위베르 E. P. 카라 ;1933;1964;1999;SL;Back Stabber;Medium;M534005;X
+580006;Head of Military Intelligence;앙리 피에르 니콜라 ;1933;1964;1999;SL;Political Specialist;Medium;M534006;X
+580007;Chief of Staff;프랑수아 프리오 ;1933;1964;1999;SL;School of Psychology;Medium;M534007;X
+580008;Chief of Army;피에르 라벨 에쿠르 ;1933;1964;1999;SL;Decisive Battle Doctrine;Medium;M534008;X
+580009;Chief of Navy;로베르 들라비녜트 ;1933;1964;1999;SL;Indirect Approach Doctrine;Medium;M534009;X
+580010;Chief of Air Force;피에르 부아송 ;1933;1964;1999;SL;Naval Aviation Doctrine;Medium;M534010;X
+580011;Head of State;피에르 부아송 ;1937;1964;1999;SL;Powerhungry Demagogue;High;M534010;X
+580012;Head of State;리샤르 브루노 ;1938;1964;1999;SL;Benevolent Gentleman;High;M534003;X
+580013;Head of State;피에르 샤를 쿠르나리 ;1940;1964;1999;SL;Insignificant Layman;High;M534004;X
+580014;Head of State;위베르 E. P. 카라 ;1943;1964;1999;SL;Weary Stiffneck;High;M534005;X
+580015;Head of State;앙리 피에르 니콜라 ;1944;1964;1999;SL;Barking Buffoon;High;M534006;X
+580016;Head of State;로베르 들라비녜트 ;1946;1964;1999;SL;Die-hard Reformer;High;M534009;X
+580017;Head of State;르네 오페르 ;1947;1964;1999;SL;Pig-headed Isolationist;High;M534017;X
+580018;Head of State;아마두 아이조 ;1933;1964;1999;SC;Stern Imperialist;High;M534018;X
+580019;Head of Government;앙드레 마리 음비다 ;1933;1964;1999;SC;Flamboyant Tough Guy;High;M534019;X
+580020;Foreign Minister;앙드레 제르베롱 ;1942;1964;1999;SL;Apologetic Clerk;High;M534020;X
+580021;Foreign Minister;존 응구 퐁샤 ;1933;1964;1999;SC;The Cloak N Dagger Schemer;High;M534021;X
+580022;Minister of Armament;앙투안 비사녜 ;1942;1964;1999;SL;Military Entrepreneur;Medium;M534022;X
+580023;Minister of Armament;뱅상트 드 폴 아앙다 ;1933;1964;1999;SC;Administrative Genius;Medium;M534023;X
+580024;Minister of Security;외젠 샤방 ;1940;1964;1999;SL;Man of the People;Medium;M534024;X
+580025;Minister of Security;조르주 보네 ;1933;1964;1999;SC;Compassionate Gentleman;Medium;M534025;X
+580026;Head of Military Intelligence;르네 오페르 ;1942;1964;1999;SL;Logistics Specialist;Medium;M534017;X
+580027;Head of Military Intelligence;샤를 아살 ;1933;1964;1999;SC;Industrial Specialist;Medium;M534027;X
+580028;Chief of Staff;알페예 마지에라 ;1942;1964;1999;SL;School of Defence;Medium;M534028;X
+580029;Chief of Staff;발렝탱 아베이유 ;1933;1964;1999;SC;School of Mass Combat;Medium;M534029;X
+580030;Chief of Army;조르주 위고 ;1942;1964;1999;SL;Guns and Butter Doctrine;Medium;M534030;X
+580031;Chief of Army;발렝탱 아베이유 ;1933;1964;1999;SC;Elastic Defence Doctrine;Medium;M534029;X
+580032;Chief of Navy;장 세딜 ;1939;1964;1999;SL;Decisive Naval Battle Doctrine;Medium;M534032;X
+580033;Chief of Navy;샤를 아살 ;1933;1964;1999;SC;Power Projection Doctrine;Medium;M534027;X
+580034;Chief of Air Force;로제르 모트 ;1941;1964;1999;SL;Vertical Envelopment Doctrine;Medium;M534034;X
+580035;Chief of Air Force;루이 페랑 ;1933;1964;1999;SC;Army Aviation Doctrine;Medium;M534035;X

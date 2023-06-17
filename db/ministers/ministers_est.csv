@@ -1,0 +1,79 @@
+EST;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+130001;Head of State;콘스탄틴 패츠 ;1921;1964;1999;PA;Barking Buffoon;High;M26001;X
+130002;Head of Government;콘스탄틴 패츠 ;1921;1964;1999;PA;Happy Amateur;High;M26001;X
+130003;Foreign Minister;율리우스 셀야마 ;1933;1964;1999;PA;The Cloak N Dagger Schemer;Medium;M26003;X
+130004;Minister of Armament;카를 셀테르 ;1933;1964;1999;PA;Administrative Genius;Medium;M26004;X
+130005;Minister of Security;카렐 엔팔루 ;1933;1964;1999;PA;Crime Fighter;Medium;M26005;X
+130006;Head of Military Intelligence;카렐 엔팔루 ;1933;1964;1999;PA;Technical Specialist;Medium;M26005;X
+130007;Chief of Staff;니콜라이 레크 ;1933;1964;1999;PA;School of Defence;Medium;M26007;X
+130008;Chief of Army;요한 라이도네르 ;1933;1964;1999;PA;Static Defence Doctrine;Medium;M26008;X
+130009;Chief of Navy;볼데마르 메레 ;1933;1964;1999;PA;Open Seas Doctrine;Medium;M26009;X
+130010;Chief of Air Force;리하르드 톰베르크 ;1933;1964;1999;PA;Army Aviation Doctrine;Medium;M26010;X
+130011;Head of State;아우구스트 레이 ;1933;1964;1999;ML;Popular Figurehead;High;M26031;X
+130012;Head of State;위리 울로츠 ;1940;1964;1999;ML;Die-hard Reformer;High;M26032;X
+130013;Head of State;햘마르 매에 ;1933;1964;1999;FA;Insignificant Layman;High;M26011;X
+130014;Head of State;카를 시기스문드 리츠만 ;1941;1964;1999;NS;Resigned Generalissimo;High;M26035;X
+130015;Head of State;요한네스 바레스 ;1933;1964;1999;ST;Powerhungry Demagogue;High;M26021;X
+130016;Head of Government;위리 울로츠 ;1933;1964;1999;ML;Smiling Oilman;High;M26032;X
+130017;Head of Government;오토 티에프 ;1940;1964;1999;ML;Happy Amateur;High;M26038;X
+130018;Head of Government;카렐 리다크 ;1944;1964;1999;ML;Political Protege;High;M26039;X
+130019;Head of Government;카렐 엔팔루 ;1938;1964;1999;PA;Ambitious Union Boss;High;M26005;X
+130020;Head of Government;햘마르 매에 ;1933;1964;1999;NS;Flamboyant Tough Guy;High;M26011;X
+130021;Head of Government;요한네스 바레스 ;1933;1964;1999;ST;Silent Workhorse;High;M26021;X
+130022;Head of Government;요한네스 라우리스틴 ;1939;1964;1999;ST;Happy Amateur;High;M26044;X
+130023;Head of Government;오스카르 세프레 ;1940;1964;1999;ST;Silent Workhorse;High;9905;X
+130024;Head of Government;아르놀드 베이메르 ;1944;1964;1999;ST;Naive Optimist;High;M26046;X
+130025;Foreign Minister;아우구스트 레이 ;1933;1964;1999;ML;Ideological Crusader;Medium;M26031;X
+130026;Foreign Minister;안츠 피프 ;1933;1964;1999;PA;Great Compromiser;Medium;M26048;X
+130027;Foreign Minister;카렐 리다크 ;1944;1964;1999;ML;Iron Fisted Brute;High;M26039;X
+130028;Foreign Minister;프리드리히 카를 아켈 ;1933;1964;1999;PA;General Staffer;Medium;M26050;X
+130029;Foreign Minister;카를 셀테르 ;1938;1964;1999;PA;Biased Intellectual;Medium;M26004;X
+130030;Foreign Minister;햘마르 매에 ;1933;1964;1999;NS;Iron Fisted Brute;Medium;M26011;X
+130031;Foreign Minister;요한네스 라우리스틴 ;1933;1964;1999;ST;Apologetic Clerk;Medium;M26044;X
+130032;Foreign Minister;니골 안드레센 ;1940;1964;1999;ST;Iron Fisted Brute;Medium;M26023;X
+130033;Foreign Minister;한스 크루스 ;1944;1964;1999;ST;Ideological Crusader;Medium;M26055;X
+130034;Minister of Armament;레오 세프 ;1933;1964;1999;ML;Resource Industrialist;Medium;M26056;X
+130035;Minister of Armament;후고 패르텔포에그 ;1944;1964;1999;ML;Laissez-Faire Capitalist;Medium;M26057;X
+130036;Minister of Armament;오토 티에프 ;1938;1964;1999;PA;Corrupt Kleptocrat;Low;M26038;X
+130037;Minister of Armament;콘스탄틴 패츠 ;1939;1964;1999;PA;Administrative Genius;Very High;M26001;X
+130038;Minister of Armament;알프레드 벤트 ;1933;1964;1999;FA;Military Entrepreneur;Medium;M26014;X
+130039;Minister of Armament;유한 나르마 니흐티그 ;1933;1964;1999;ST;Resource Industrialist;Medium;M26024;X
+130040;Minister of Armament;파울 케르도 ;1940;1964;1999;ST;Corrupt Kleptocrat;Medium;M26063;X
+130041;Minister of Armament;니콜라우스 필란코르 ;1944;1964;1999;ST;Military Entrepreneur;Medium;M26064;X
+130042;Minister of Security;리하르트 베르마 ;1933;1964;1999;ML;Silent Lawyer;Medium;M26065;X
+130043;Minister of Security;아우구스트 쥐리마 ;1939;1964;1999;ML;Crooked Kleptocrat;Medium;M26066;X
+130044;Minister of Security;요한네스 클레스멘트 ;1944;1964;1999;ML;Compassionate Gentleman;Medium;M26067;X
+130045;Minister of Security;율리우스 셀야마 ;1938;1964;1999;PA;Prince of Terror;Medium;M26003;X
+130046;Minister of Security;오스카르 앙겔루스 ;1933;1964;1999;NS;Prince of Terror;Medium;M26015;X
+130047;Minister of Security;카를 시기스문드 리츠만 ;1941;1964;1999;NS;Back Stabber;Low;M26035;X
+130048;Minister of Security;안드레이 무로 ;1933;1964;1999;ST;Man of the People;Medium;M26072;X
+130049;Minister of Security;막심 운트 ;1939;1964;1999;ST;Prince of Terror;Medium;M26025;X
+130050;Minister of Security;보리스 쿰 ;1940;1964;1999;ST;Efficient Sociopath;Medium;M26074;X
+130051;Minister of Security;알렉산데르 루세브 ;1944;1964;1999;ST;Back Stabber;Medium;M26075;X
+130052;Head of Military Intelligence;위리 울로츠 ;1933;1964;1999;ML;Industrial Specialist;Medium;M26032;X
+130053;Head of Military Intelligence;아우구스트 레이 ;1944;1964;1999;ML;Political Specialist;Medium;M26031;X
+130054;Head of Military Intelligence;오스카르 앙겔루스 ;1933;1964;1999;NS;Logistics Specialist;Medium;M26015;X
+130055;Head of Military Intelligence;오스카르 세프레 ;1933;1964;1999;ST;Dismal Enigma;Medium;9905;X
+130056;Head of Military Intelligence;요한네스 바레스 ;1940;1964;1999;ST;Political Specialist;Medium;M26021;X
+130057;Head of Military Intelligence;아르놀드 베이메르 ;1944;1964;1999;ST;Technical Specialist;Very High;M26046;X
+130058;Chief of Staff;알렉산데르 약손 ;1933;1964;1999;ML;School of Fire Support;Medium;M26083;X
+130059;Chief of Staff;요한 홀베르그 ;1941;1964;1999;ML;School of Defence;Medium;M26084;X
+130060;Chief of Staff;요한네스 수들라 ;1933;1964;1999;NS;School of Psychology;Medium;M26017;X
+130061;Chief of Staff;니콜라이 카로탐 ;1933;1964;1999;ST;School of Mass Combat;Medium;M26027;X
+130062;Chief of Army;리하르트 베르마 ;1933;1964;1999;ML;Decisive Battle Doctrine;Medium;M26065;X
+130063;Chief of Army;유한 툴링 ;1933;1964;1999;NS;Decisive Battle Doctrine;Medium;M26018;X
+130064;Chief of Army;알폰스 레바네 ;1941;1964;1999;NS;Armoured Spearhead Doctrine;Medium;M26092;X
+130065;Chief of Army;니콜라이 카로탐 ;1933;1964;1999;ST;Decisive Battle Doctrine;Medium;M26027;X
+130066;Chief of Navy;알렉스 니르크 ;1933;1964;1999;ML;Power Projection Doctrine;Medium;M26094;X
+130067;Chief of Navy;알프레드 벤트 ;1933;1964;1999;FA;Indirect Approach Doctrine;Medium;M26014;X
+130068;Chief of Navy;요한네스 바레스 바르바루세 ;1933;1964;1999;ST;Power Projection Doctrine;Medium;M26021;X
+130069;Chief of Air Force;레오 세프 ;1933;1964;1999;ML;Carpet Bombing Doctrine;Medium;M26056;X
+130070;Chief of Air Force;유한 툴링 ;1933;1964;1999;NS;Army Aviation Doctrine;Medium;M26018;X
+130071;Chief of Air Force;오스카르 에이릭손 ;1933;1964;1999;ST;Carpet Bombing Doctrine;Medium;M26030;X
+130072;Head of Government;위리 울로츠 ;1939;1964;1999;PA;Smiling Oilman;High;M26032;X
+130073;Head of State;보리스 쿰 ;1946;1964;1999;ST;Pig-headed Isolationist;High;M26074;X
+130074;Chief of Navy;오스카르 에이릭손 ;1946;1964;1999;ST;Open Seas Doctrine;Medium;M26030;X
+130075;Chief of Army;얀 수츠 ;1918;1942;1999;PA;static defence doctrine;High;6949;X
+130076;Head of State;얀 터니손 ;1927;1940;1999;SC;Benevolent Gentleman;High;5766;X
+130077;Head of Government;얀 터니손 ;1927;1940;1999;SC;Silent Workhorse;High;5766;X

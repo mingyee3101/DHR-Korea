@@ -1,0 +1,107 @@
+YUG;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+100001;Head of State;파블 카라조르지예비치 ;1933;1964;1999;PA;Benevolent Gentleman;High;3691;X
+100002;Head of Government;밀란 스토야디노비치 ;1933;1964;1999;PA;Silent Workhorse;High;M20002;X
+100003;Foreign Minister;밀란 스토야디노비치 ;1933;1964;1999;PA;The Cloak N Dagger Schemer;Medium;M20002;X
+100004;Minister of Armament;보골류브 예브티치;1933;1964;1999;PA;Corrupt Kleptocrat;Medium;M20004;X
+100005;Minister of Security;파블 카라조르지예비치 ;1933;1964;1999;PA;Prince of Terror;High;3691;X
+100006;Head of Military Intelligence;보리보예 조크시모비치 ;1933;1964;1999;PA;Political Specialist;Medium;L46013;X
+100007;Chief of Staff;페타르 코시치 ;1933;1964;1999;PA;School of Mass Combat;Medium;L46015;X
+100008;Chief of Army;알렉산더르 크린카르 마르코비치 ;1933;1964;1999;PA;Decisive Battle Doctrine;Very High;L46005;X
+100009;Chief of Navy;보골류브 일리치 ;1933;1964;1999;PA;Base Control Doctrine;Very High;L46043;X
+100010;Chief of Air Force;두산 시모비치 ;1933;1964;1999;PA;Army Aviation Doctrine;Medium;L46060;X
+100011;Head of State;요시프 브로즈 티토 ;1933;1964;1999;LWR;Powerhungry Demagogue;High;M20021;X
+100012;Head of Government;드라기샤 체트코비치 ;1939;1964;1999;PA;Naive Optimist;High;M20032;X
+100013;Head of Government;두산 시모비치 ;1941;1964;1999;SC;Happy Amateur;High;M20033;X
+100014;Head of Government;슬로보단 요바노비치 ;1942;1964;1999;FA;Political Protege;High;M20034;X
+100015;Head of Government;밀로스 트리푸노비치 ;1943;1964;1999;NS;Old General;High;M20035;X
+100016;Head of Government;이반 수바시치 ;1944;1964;1999;ML;Corporate Suit;High;M20014;X
+100017;Head of Government;요시프 브로즈 티토 ;1933;1964;1999;LWR;Backroom Backstabber;High;M20021;X
+100018;Head of Government;블라트코 마섹 ;1933;1964;1999;SD;old airmarshal;High;M20038;X
+100019;Foreign Minister;알렉산더르 크린카르 마르코비치 ;1939;1964;1999;PA;General Staffer;Very High;L46005;X
+100020;Foreign Minister;몸클리우 닌시치;1941;1964;1999;SC;Great Compromiser;Medium;M20013;X
+100021;Foreign Minister;슬로보단 요바노비치 ;1943;1964;1999;FA;Biased Intellectual;High;M20034;X
+100022;Foreign Minister;밀란 그롤 ;1943;1964;1999;NS;Apologetic Clerk;High;M20042;X
+100023;Foreign Minister;보지다르 푸리치 ;1943;1964;1999;NS;Ideological Crusader;High;M20043;X
+100024;Foreign Minister;이반 수바시치 ;1944;1964;1999;ML;Apologetic Clerk;Medium;M20014;X
+100025;Foreign Minister;스타노예 시미치 ;1933;1964;1999;LWR;Great Compromiser;Medium;M20023;X
+100026;Foreign Minister;블라트코 마섹 ;1933;1964;1999;SD;Apologetic Clerk;Medium;M20038;X
+100027;Foreign Minister;에드바르트 카델지 ;1941;1964;1999;SD;Ideological Crusader;Very High;M20047;X
+100028;Foreign Minister;디미트리예 료티치 ;1943;1964;1999;NS;Iron Fisted Brute;Medium;M20048;X
+100029;Minister of Armament;에도 보그단 마르코비치 ;1939;1964;1999;PA;Resource Industrialist;Medium;M20049;X
+100030;Minister of Armament;라디슬라브 폴리치 ;1941;1964;1999;SC;laissez-faire capitalist;Medium;M20050;X
+100031;Minister of Armament;안톤 코자레프 ;1942;1964;1999;FA;Tank Proponent;Medium;M20051;X
+100032;Minister of Armament;타나셰 타사 디니치 ;1943;1964;1999;NS;Corrupt Kleptocrat;Medium;M20052;X
+100033;Minister of Armament;페타르 이베리흐 ;1944;1964;1999;ML;Theoretical Scientist;Medium;M20053;X
+100034;Minister of Armament;밀렌티예 포포비치 ;1933;1964;1999;LWR;Resource Industrialist;High;M20024;X
+100035;Minister of Armament;드라자 미하일로비치 ;1933;1964;1999;SD;Tank Proponent;Medium;M20055;X
+100036;Minister of Security;미셸 요바노비치 ;1939;1964;1999;PA;Compassionate Gentleman;Low;M20056;X
+100037;Minister of Security;몸클리우 두지치 ;1941;1964;1999;SC;Silent Lawyer;Low;M20015;X
+100038;Minister of Security;페타르 그라보브스키 ;1942;1964;1999;FA;Efficient Sociopath;Low;M20058;X
+100039;Minister of Security;밀란 네디치 ;1943;1964;1999;NS;Prince of Terror;Medium;8435;X
+100040;Minister of Security;스피로 키틴셰프 ;1944;1964;1999;NS;Back Stabber;Medium;M20060;X
+100041;Minister of Security;드라고류브 스테파니치 ;1944;1964;1999;ML;Crime Fighter;Medium;M20061;X
+100042;Minister of Security;코카 포포비치 ;1933;1964;1999;SD;Silent Lawyer;Medium;M20025;X
+100043;Head of Military Intelligence;안드리아 스탐파르 ;1939;1964;1999;PA;Technical Specialist;Medium;M20063;X
+100044;Head of Military Intelligence;조르제 페트레리치 ;1941;1964;1999;SC;Industrial Specialist;Medium;M20064;X
+100045;Head of Military Intelligence;디미타르 카트로프 ;1942;1964;1999;FA;Dismal Enigma;Medium;M20065;X
+100046;Head of Military Intelligence;코스타 에카네치 ;1943;1964;1999;NS;Logistics Specialist;Medium;M20066;X
+100047;Head of Military Intelligence;드라고류브 요바노비치 ;1943;1964;1999;NS;Political Specialist;Medium;M20067;X
+100048;Head of Military Intelligence;미하일 밀로사라예비치 ;1944;1964;1999;ML;Technical Specialist;Medium;M20068;X
+100049;Head of Military Intelligence;알렉산더르 란코비치 ;1933;1964;1999;SD;Dismal Enigma;High;M20026;X
+100050;Chief of Staff;라디보예 얀코비치 ;1941;1964;1999;SC;School of Fire Support;Low;L46012;X
+100051;Chief of Staff;디미타르 두예로프 ;1942;1964;1999;FA;School of Manoeuvre;Low;M20072;X
+100052;Chief of Staff;마르코 보조비치 ;1943;1964;1999;NS;School of Mass Combat;Low;L46002;X
+100053;Chief of Staff;요반 니코리치 ;1944;1964;1999;ML;School of Psychology;Low;M20074;X
+100054;Chief of Staff;아르사 요바노비치 ;1933;1964;1999;LWR;School of Mass Combat;Medium;M20075;X
+100055;Chief of Staff;드라자 미하일로비치 ;1933;1964;1999;SD;School of Defence;Medium;M20012;X
+100056;Chief of Army;밀류틴 네디치 ;1941;1964;1999;SC;Decisive Battle Doctrine;Very High;8436;X
+100057;Chief of Army;디미타르 두예로프 ;1942;1964;1999;FA;Armoured Spearhead Doctrine;Very High;M20072;X
+100058;Chief of Army;마르코 보조비치 ;1943;1964;1999;NS;Elastic Defence Doctrine;Very High;L46002;X
+100059;Chief of Army;요반 니코리치 ;1944;1964;1999;ML;Guns and Butter Doctrine;Very High;M20074;X
+100060;Chief of Army;드라자 미하일로비치 ;1933;1964;1999;SD;static defence doctrine;Medium;M20012;X
+100061;Chief of Navy;밀류틴 네디치 ;1941;1964;1999;SC;Decisive Naval Battle Doctrine;High;8436;X
+100062;Chief of Navy;페트라 두메프 ;1942;1964;1999;FA;Indirect Approach Doctrine;High;M20085;X
+100063;Chief of Navy;니콜라 만디치 ;1943;1964;1999;NS;Base Control Doctrine;High;M20086;X
+100064;Chief of Navy;파블 카라조르지예비치 ;1944;1964;1999;ML;Power Projection Doctrine;Very High;3691;X
+100065;Chief of Air Force;페트라 두메프 ;1942;1964;1999;FA;Vertical Envelopment Doctrine;Medium;M20085;X
+100066;Chief of Air Force;아데마가 메시치 ;1943;1964;1999;NS;Army Aviation Doctrine;Medium;M20091;X
+100067;Chief of Air Force;페타르 부크세비치 ;1944;1964;1999;ML;Naval Aviation Doctrine;Medium;L46062;X
+100068;Chief of Air Force;이반 리다르 ;1933;1964;1999;LWR;Air Superiority Doctrine;High;M20093;X
+100069;Head of State;페타르 2세 ;1941;1964;1999;SC;Benevolent Gentleman;High;8437;X
+100070;Head of State;페타르 2세 ;1941;1964;1999;FA;Barking Buffoon;High;8437;X
+100071;Head of State;페타르 2세 ;1941;1964;1999;NS;Popular Figurehead;High;8437;X
+100072;Foreign Minister;몸클리우 닌시치 ;1941;1964;1999;FA;The Cloak N Dagger Schemer;Medium;M20013;X
+100073;Chief of Staff;코카 포포비치 ;1933;1964;1999;LWR;School of Mass Combat;High;M20025;X
+100074;Chief of Army;요시프 브로즈 티토 ;1933;1964;1999;LWR;Armoured Spearhead Doctrine;High;M20028;X
+100075;Chief of Navy;요시프 브로즈 티토 ;1933;1964;1999;LWR;Indirect Approach Doctrine;High;M20029;X
+100076;Head of State;페타르 2세 ;1933;1964;1999;ML;Autocratic Charmer;High;8437;X
+100077;Head of Government;드라자 미하일로비치 ;1933;1964;1999;ML;Naive Optimist;High;M20012;X
+100078;Minister of Armament;이반 수바시치 ;1933;1964;1999;ML;Infantry Proponent;Medium;M20014;X
+100079;Head of Military Intelligence;미로슬라브 스파라이코비치 ;1933;1964;1999;ML;Technical Specialist;High;M20016;X
+100080;Chief of Staff;미하일로 루키치 ;1933;1941;1999;ML;School of Manoeuvre;High;L46020;X
+100081;Chief of Air Force;요시프 브로즈 티토 ;1933;1964;1999;LWR;Army Aviation Doctrine;Medium;M20028;X
+100082;Foreign Minister;코카 포포비치 ;1953;1964;1999;LWR;The Cloak N Dagger Schemer;Very High;M20025;X
+100083;Minister of Armament;이반 고스냑 ;1953;1964;1999;LWR;Infantry Proponent;High;M20104;X
+100084;Minister of Security;블라디미르 시미치 ;1953;1964;1999;LWR;Compassionate Gentleman;Medium;M20105;X
+100085;Head of Military Intelligence;밀로반 질라스 ;1953;1964;1999;SD;Political Specialist;High;M20106;X
+100086;Head of State;알렉산더 1세 ;1921;1935;1999;PA;Die-Hard Reformer;Very High;3136;X
+100087;Head of Government;페타르 지브코비치 ;1925;1933;1999;PA;Political Protege;High;unknownminister;x
+100088;Head of Government;니콜라 우즈노비치 ;1926;1936;1999;SC;silent workhorse;Medium;9302;x
+100089;Head of Government;베리미르 부크셰비치 ;1927;1936;1999;SC;Political Protege;Medium;unknownminister;x
+100090;Head of Government;안톤 코로섹 ;1918;1936;1999;SC;Naive Optimist;High;9930;x
+100091;Head of Government;보지슬라브 마린코비치 ;1921;1933;1999;PA;corporate suit;Medium;3146;x
+100092;Head of Government;밀란 스르스키치 ;1924;1934;1999;PA;silent workhorse;Medium;3963;x
+100093;Head of Government;보골류브 예브티치 ;1934;1941;1999;SC;Backroom Backstabber;Medium;M20004;x
+100094;Head of Military Intelligence;Milivoje Alimpic;1925;1926;1960;PA;logistics specialist;Medium;unknownminister;X
+100095;Head of Military Intelligence;Mihailo Bodi;1929;1931;1941;PA;dismal enigma;Medium;9849;X
+100096;Head of Military Intelligence;Petar Aracic;1931;1936;1941;PA;logistics specialist;Medium;9850;X
+100097;Chief of Staff;Petar Bojovic;1905;1922;1941;PA;school of fire support;Medium;1117;X
+100098;Chief of Staff;Petar Pesic;1921;1930;1945;PA;school of defence;Medium;L46058;X
+100099;Chief of Staff;밀란 네디치 ;1934;1936;1947;PA;school of fire support;Medium;8435;X
+100100;Chief of Staff;밀류틴 네디치 ;1936;1938;1946;PA;school of defence;Medium;8436;X
+100101;Chief of Staff;두산 시모비치 ;1938;1946;1963;PA;school of defence;Medium;M20033;X
+100102;Chief of Army;Petar Pesic;1922;1942;1945;PA;static defence doctrine;Medium;L46058;X
+100103;Chief of Navy;Petar Pesic;1922;1942;1945;PA;decisive naval battle doctrine;Medium;L46058;X
+100104;Chief of Army;두산 시모비치 ;1941;1946;1963;PA;decisive battle doctrine;Medium;M20033;X
+100105;Chief of Navy;두산 시모비치 ;1941;1946;1963;PA;decisive naval battle doctrine;Medium;M20033;X

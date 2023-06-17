@@ -1,0 +1,39 @@
+MAD;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+690001;Head of State;레옹 카일라 ;1933;1964;1999;SC;Resigned Generalissimo;High;M538001;X
+690002;Head of Government;레옹 카일라 ;1933;1964;1999;SC;Old General;High;M538001;X
+690003;Foreign Minister;피에르 장 에르뱅쥐르 ;1933;1964;1999;SC;Apologetic Clerk;High;M538003;X
+690004;Minister of Armament;프랑수아 드 망통 ;1933;1964;1999;SC;Resource Industrialist;Medium;M538004;X
+690005;Minister of Security;앙리 마니가르 ;1933;1964;1999;SC;Crime Fighter;Medium;M538005;X
+690006;Head of Military Intelligence;아르망 안네 ;1933;1964;1999;SC;Industrial Specialist;Medium;M538006;X
+690007;Chief of Staff;앙리 아미엘 ;1933;1964;1999;SC;School of Manoeuvre;Medium;M538007;X
+690008;Chief of Army;앙리 아미엘 ;1933;1964;1999;SC;Armoured Spearhead Doctrine;Medium;M538007;X
+690009;Chief of Navy;조르주 드 바르베지에르 ;1933;1964;1999;SC;Base Control Doctrine;Medium;M538009;X
+690010;Chief of Air Force;막스 게즈 ;1933;1964;1999;SC;Naval Aviation Doctrine;Medium;M538010;X
+690011;Head of State;아르망 안네 ;1939;1964;1999;SL;Barking Buffoon;High;M538006;X
+690012;Head of State;폴 드 장티욤 ;1940;1964;1999;SC;Pig-headed Isolationist;High;L24108;X
+690013;Head of State;피에르 드 생마르 ;1943;1964;1999;SL;Die-hard Reformer;High;M535007;X
+690014;Head of State;마르셀 드 코페 ;1946;1964;1999;SL;Popular Figurehead;High;M538014;X
+690015;Head of State;필리베르 치라나나 ;1933;1964;1999;PA;Insignificant Layman;High;M538015;X
+690016;Head of Government;아르망 안네 ;1939;1964;1999;SL;Political Protege;High;M538006;X
+690017;Head of Government;폴 드 장티욤 ;1940;1964;1999;SC;Flamboyant Tough Guy;High;L24108;X
+690018;Head of Government;피에르 드 생마르 ;1943;1964;1999;SL;Smiling Oilman;High;M535007;X
+690019;Head of Government;마르셀 드 코페 ;1946;1964;1999;SL;Backroom Backstabber;High;M538014;X
+690020;Head of Government;필리베르 치라나나 ;1933;1964;1999;PA;Naive Optimist;High;M538015;X
+690021;Foreign Minister;르네 르무안 ;1942;1964;1999;SL;Great Compromiser;High;M538021;X
+690022;Foreign Minister;장 조르 라자핀드라코토 ;1933;1964;1999;PA;Biased Intellectual;High;M538022;X
+690023;Minister of Armament;폴 비베르 ;1941;1964;1999;SL;Submarine Proponent;Medium;M538023;X
+690024;Minister of Armament;라밀리송 라느리맘피아니나 ;1933;1964;1999;PA;Tank Proponent;Medium;M538024;X
+690025;Minister of Armament;리바 라하리송 ;1943;1964;1999;PA;laissez-faire capitalist;Medium;M538025;X
+690026;Minister of Security;장 피에르 가브리엘 ;1943;1964;1999;SL;Efficient Sociopath;Medium;M538026;X
+690027;Minister of Security;외젠 라코톤드라마리 ;1933;1964;1999;PA;Silent Lawyer;Medium;M538027;X
+690028;Head of Military Intelligence;마르셀 드 코페 ;1943;1964;1999;SL;Logistics Specialist;Medium;M538014;X
+690029;Head of Military Intelligence;울몽 L. 제임스 ;1933;1964;1999;PA;Dismal Enigma;Medium;M538029;X
+690030;Chief of Staff;폴 드 장티욤 ;1940;1964;1999;SC;School of Mass Combat;Medium;L24108;X
+690031;Chief of Staff;조제프 라코톤드라드리아 ;1933;1964;1999;PA;School of Fire Support;Medium;M538031;X
+690032;Chief of Army;피에르 드 생마르 ;1942;1964;1999;SL;Decisive Battle Doctrine;Medium;M535007;X
+690033;Chief of Army;라페노 판자바 ;1933;1964;1999;PA;Armoured Spearhead Doctrine;Medium;M538033;X
+690034;Chief of Navy;장 마리 퀘르빌 ;1942;1964;1999;SL;Open Seas Doctrine;Medium;M538034;X
+690035;Chief of Navy;올리베르 란드리아난테나이나 ;1933;1964;1999;PA;Decisive Naval Battle Doctrine;Medium;M538035;X
+690036;Chief of Air Force;막스 앙들로에르 ;1944;1964;1999;SL;Carpet Bombing Doctrine;Medium;M538036;X
+690037;Chief of Air Force;솔로몽 라베마노엘라 ;1933;1964;1999;PA;Vertical Envelopment Doctrine;Medium;M538037;X

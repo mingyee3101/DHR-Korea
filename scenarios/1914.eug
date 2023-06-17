@@ -1,0 +1,177 @@
+name       = "1914_SCENARIO"
+panel      = "scenarios/data/scenario_1914.bmp"
+header = {
+  name       = "Grand Campaign"
+  startdate  = { year = 1914 }
+  selectable = { AFG ALB ARG AST KOR U09 BEL BHU BOL BRA BUL CAN UCH CHL CGX COL COS CUB CXB CYN DEN DOM ECU ENG ETH FRA U08 GRE GUA HAI HOL HON ITA JAP LIB LUX MEX MON MTN NEP NIC NOR NZL OMN OTT PAN PAR PER POR PRU ROM RUS SWE SAF SAL SAU SCH SIA SIK SPA TIB URU USA VEN YEM SER U02 U03 U05 U50 U51 U52 U53 U57 U58 U59 U91 LBY U60 }
+  ENG        = { }
+  FRA        = { picture = "scenarios\data\propaganda_FRA_WW1.bmp" }
+  RUS        = { picture = "scenarios\data\propaganda_RUS_WW1.bmp" }
+  ITA        = { picture = "scenarios\data\propaganda_ITA_WW1.bmp" }
+  U08        = { }
+  U09        = { }
+  OTT        = { picture = "scenarios\data\propaganda_OTT_WW1.bmp" }
+  USA        = { picture = "scenarios\data\propaganda_USA_WW1.bmp" }
+  JAP        = { picture = "scenarios\data\propaganda_JAP_WW1.bmp" }
+  CYN        = { }
+  CAN        = { picture = "scenarios\data\propaganda_CAN_WW1.bmp" flag_ext = _14 }
+  BEL        = { picture = "scenarios\data\propaganda_BEL_WW1.bmp" }
+  SAF        = { picture = "scenarios\data\propaganda_SAF_WW1.bmp" flag_ext = _14 }
+  GRE        = { picture = "scenarios\data\propaganda_GRE_WW1.bmp" }
+  SER        = { picture = "scenarios\data\propaganda_SER_WW1.bmp" }
+  ROM        = { picture = "scenarios\data\propaganda_ROM_WW1.bmp" }
+  AST        = { picture = "scenarios\data\propaganda_AST_WW1.bmp" }
+  BUL        = { picture = "scenarios\data\propaganda_BUL_WW1.bmp" }
+  U02        = { }
+  KOR        = { }
+}
+globaldata = {
+  startdate = { year = 1914 month = june day = 26 }
+  axis = {
+    id          = { type = 15000 id = 2 }
+    name        = "central"
+    participant = { U08 }
+  }
+  allies = {
+    id          = { type = 15000 id = 1 }
+    name        = "entente"
+    participant = { FRA }
+  }
+  comintern = {
+    id          = { type = 15000 id = 3 }
+    name        = "com1914"
+    participant = { }
+  }
+  alliance = {
+    id          = { type = 15000 id = 4 }
+    participant = { SER MTN }
+  }
+  alliance = {
+    id          = { type = 15000 id = 5 }
+    participant = { U09 ITA }
+  }
+  alliance = {
+    id          = { type = 15000 id = 12 }
+    participant = { U57 U58 U59 }
+  }
+  war = {
+    id          = { type = 15000 id = 9 }
+    date        = { year = 1911 month = january day = 0 }
+    enddate     = { year = 1914 month = june day = 26 }
+    attackers   = {
+      id          = { type = 15000 id = 10 }
+      participant = { U57 U58 U59 }
+    }
+    defenders   = {
+      id          = { type = 15000 id = 11 }
+      participant = { MEX }
+    }
+  }
+  treaty = {
+    id             = { type = 15001 id = 1 }
+    type           = non_aggression
+    country        = "JAP"
+    country        = "UCH"
+    startdate      = { year = 1914 month = january day = 1 }
+    expirydate     = { year = 1916 month = january day = 1 }
+  }
+  treaty = {
+    id             = { type = 15001 id = 2 }
+    type           = trade
+    country        = "U08"
+    country        = "OTT"
+    startdate      = { year = 1871 month = march day = 13 }
+    expirydate     = { year = 1999 month = december day = 29 }
+    money          = 0.5
+    cancel         = no
+  }
+  dormant_leaders   = { 1065007 1065008 1065009 1065010 1065011 1065012 30482 30569 30731 30765 30784 30795 30796 30797 30798 30799 30800 30801 30802 30803 30804 30805 30806 30807 30808 30809 30810 30811 30812 30813 30814 30815 30816 30817 30818 145133 915053 1360011 1360013 1360049 1360078 1360079 1360080 1360081 1360082 1360083 1360084 1360085 1360086 1360087 }
+  dormant_ministers = { 400039 400040 400041 495046 495047 1065011 1065012 1065013 1065014 1065015 1065016 1065017 1065018 1065019 1065020 1070010 1070011 1070012 1270022 1270027 1270028 1270032 1270037 1270038 1270042 1270047 1270048 1270052 1270057 1270058 615116 615112 615110 615200 615201 615202 615203 615204 615205 615206 615207 615208 615209 615210 615211 615212 615213 615214 615215 615216 615217 615218 615219 615220 615221 55210 55216 55212 55300 55301 55302 55303 55304 55305 55306 55307 55308 55309 55310 55311 55312 55313 55314 55315 55316 55317 55318 55319 55320 55321 55322 55323 55324 55325 55326 55350 55351 55352 55353 55354 55355 55356 55357 55358 55359 55360 55361 55362 55363 55364 55365 55366 55367 585001 585002 585003 585004 585005 585006 585007 585008 585009 585010 585011 585012 585013 585014 585015 585016 55400 55401 55402 55403 55404 55405 55406 55407 55408 55409 55410 55411 55412 55413 55414 55415 55416 55417 55418 55419 55420 1185001 1185002 1185003 1185004 1185005 1185006 1185007 1185008 1185009 1185010 915048 915051 }
+  dormant_teams     = { 1065003 615025 585006 585005 585004 585001 1325018 1325019 1325020 1325016 1325032 1325033 1325034 1325035 1325038 1325046 1325047 1325048 55400 55401 55402 55403 55404 55405 55406 55407 55510 55511 55512 55513 55514 55515 55516 55517 55518 55519 55520 55521 55522 55523 55524 55525 55526 55527 55528 55529 55530 55531 55532 55533 55534 55535 55536 55300 55100 55104 55105 55106 55107 55108 55109 55110 55111 55112 55113 55114 55115 55116 55117 55118 55119 55120 55001 55002 55003 55005 55006 55007 55008 55009 55010 55014 55015 55016 55017 55018 55020 55022 55200 55201 55202 55203 55204 55205 55206 55207 55208 55213 55214 55215 55216 55217 55218 55219 55220 55221 55222 55223 55224 55225 55226 55227 55228 55229 55230 55231 55232 55233 55234 55235 55236 55237 55238 55209 55210 55211 260126 260127 260128 260129 260131 260132 260027 260028 260029 260007 260008 260009 260010 260011 260012 260013 260019 260020 260021 260023 260024 260134 260135 260137 260138 260140 260142 260143 260144 260145 260146 260147 260148 260022 260025 260133 260136 260139 260141 260149 260151 260152 260153 915011 }
+  enddate   = { year = 1921 month = january day = 0 }
+}
+
+include = "db\1914_events.txt"
+include = "scenarios\1914\vp.inc"
+include = "scenarios\1914\afg_14.inc"
+include = "scenarios\1914\alb_14.inc"
+include = "scenarios\1914\arg_14.inc"
+include = "scenarios\1914\ast_14.inc"
+include = "scenarios\1914\Austria-Hungary.inc"
+include = "scenarios\1914\bel_14.inc"
+include = "scenarios\1914\bhu_14.inc"
+include = "scenarios\1914\bol_14.inc"
+include = "scenarios\1914\bra_14.inc"
+include = "scenarios\1914\bul_14.inc"
+include = "scenarios\1914\can_14.inc"
+include = "scenarios\1914\china republic.inc"
+include = "scenarios\1914\chl_14.inc"
+include = "scenarios\1914\col_14.inc"
+include = "scenarios\1914\cos_14.inc"
+include = "scenarios\1914\cub_14.inc"
+include = "scenarios\1914\den_14.inc"
+include = "scenarios\1914\dom_14.inc"
+include = "scenarios\1914\ecu_14.inc"
+include = "scenarios\1914\uk.inc"
+include = "scenarios\1914\ethiopia.inc"
+include = "scenarios\1914\FRA - France.inc"
+include = "scenarios\1914\GER - Germany.inc"
+include = "scenarios\1914\greece.inc"
+include = "scenarios\1914\gua.inc"
+include = "scenarios\1914\hai.inc"
+include = "scenarios\1914\holland.inc"
+include = "scenarios\1914\hon.inc"
+include = "scenarios\1914\italy.inc"
+include = "scenarios\1914\japan.inc"
+include = "scenarios\1914\lib.inc"
+include = "scenarios\1914\lux.inc"
+include = "scenarios\1914\mexico.inc"
+include = "scenarios\1914\mon.inc"
+include = "scenarios\1914\newfoundland.inc"
+include = "scenarios\1914\nep.inc"
+include = "scenarios\1914\nic.inc"
+include = "scenarios\1914\norway.inc"
+include = "scenarios\1914\netherlands east indies.inc"
+include = "scenarios\1914\newzealand.inc"
+include = "scenarios\1914\MTN - Montenegro.inc"
+include = "scenarios\1914\omn.inc"
+include = "scenarios\1914\pan.inc"
+include = "scenarios\1914\paraguay.inc"
+include = "scenarios\1914\persia.inc"
+include = "scenarios\1914\portugal.inc"
+include = "scenarios\1914\peru.inc"
+include = "scenarios\1914\romania.inc"
+include = "scenarios\1914\SER - Serbia.inc"
+include = "scenarios\1914\southafrica.inc"
+include = "scenarios\1914\sal.inc"
+include = "scenarios\1914\saudi.inc"
+include = "scenarios\1914\swiss.inc"
+include = "scenarios\1914\siam.inc"
+include = "scenarios\1914\RUS - Russia.inc"
+include = "scenarios\1914\spain.inc"
+include = "scenarios\1914\sweden.inc"
+include = "scenarios\1914\china tibet.inc"
+include = "scenarios\1914\OTT - Ottoman Empire.inc"
+include = "scenarios\1914\U02.inc"
+include = "scenarios\1914\U03.inc"
+include = "scenarios\1914\uruguay.inc"
+include = "scenarios\1914\usa.inc"
+include = "scenarios\1914\venezuela.inc"
+include = "scenarios\1914\hejaz.inc"
+include = "scenarios\1914\jebelshammar.inc"
+include = "scenarios\1914\kuwait.inc"
+include = "scenarios\1914\qatar.inc"
+include = "scenarios\1914\senussi.inc"
+include = "scenarios\1914\trucial.inc"
+include = "scenarios\1914\yem_14.inc"
+include = "scenarios\1914\U57 - RevMexConst.inc"
+include = "scenarios\1914\U58 - RevMexVill.inc"
+include = "scenarios\1914\U59 - RevMexZap.inc"
+include = "scenarios\1914\rebels.inc"
+include = "scenarios\1914\china yunnan.inc"
+include = "scenarios\1914\china guangxi.inc"
+include = "scenarios\1914\china xibei.inc"
+include = "scenarios\1914\china sinkiang.inc"
+include = "scenarios\1914\bases.inc"
+include = "scenarios\1914\depots.inc"
+include = "scenarios\1914\kor.inc"

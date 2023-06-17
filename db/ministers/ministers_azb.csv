@@ -1,0 +1,59 @@
+AZB;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+460001;Head of State;니잠 나리마노프 ;1933;1964;1999;LWR;Stern Imperialist;High;M516001;X
+460002;Head of Government;파라즈 구제이노프 ;1933;1964;1999;LWR;Backroom Backstabber;High;M516002;X
+460003;Foreign Minister;술레이만 루스탐 ;1933;1964;1999;LWR;The Cloak N Dagger Schemer;High;M516003;X
+460004;Minister of Armament;일야스 아판디에프 ;1933;1964;1999;LWR;Theoretical Scientist;Medium;M516004;X
+460005;Minister of Security;아라슈 불불 ;1933;1964;1999;LWR;Compassionate Gentleman;Medium;M516005;X
+460006;Head of Military Intelligence;라술 레자 ;1933;1964;1999;LWR;Industrial Specialist;Medium;M516006;X
+460007;Chief of Staff;마흐무드 누리 베르쾨즈 ;1933;1964;1999;LWR;School of Mass Combat;Medium;M516007;X
+460008;Chief of Army;할릴 마메도프 ;1933;1964;1999;LWR;Elastic Defence Doctrine;Medium;M516008;X
+460009;Chief of Navy;캄비즈 크라스노샤프카 ;1933;1964;1999;LWR;Open Seas Doctrine;High;M516009;X
+460010;Chief of Air Force;구르겐 보스칸 카말랸 ;1933;1964;1999;LWR;Air Superiority Doctrine;Medium;M516010;X
+460011;Head of State;라지브 쿨벤지안 ;1933;1964;1999;ML;Barking Buffoon;High;M516011;X
+460012;Head of Government;술레이만 루스탐 ;1933;1964;1999;SD;Smiling Oilman;High;M516003;X
+460013;Head of Government;아라슈 불불 ;1933;1964;1999;ML;Flamboyant Tough Guy;Medium;M516005;X
+460014;Foreign Minister;하슬라탐 나리마노프 ;1933;1964;1999;LWR;General Staffer;High;M516014;X
+460015;Foreign Minister;마흐마드 아민 라술자드 e;1933;1964;1999;LWR;Biased Intellectual;High;M516015;X
+460016;Foreign Minister;아라슈 불불 ;1933;1964;1999;SD;Great Compromiser;Medium;M516005;X
+460017;Foreign Minister;마함마드 라흐만 ;1933;1964;1999;ML;Iron Fisted Brute;Medium;M516017;X
+460018;Minister of Armament;메흐디 후세인 ;1933;1964;1999;LWR;Tank Proponent;Medium;M516018;X
+460019;Minister of Armament;마흐무드 가스발라탐 ;1933;1964;1999;LWR;laissez-faire capitalist;Medium;M516019;X
+460020;Minister of Armament;아민 아지즈 ;1933;1964;1999;LWR;Infantry Proponent;Medium;M516020;X
+460021;Minister of Armament;라지브 쿨벤지안 ;1933;1964;1999;SD;Corrupt Kleptocrat;High;M516011;X
+460022;Minister of Armament;이스마일 시칼리 ;1933;1964;1999;ML;Military Entrepreneur;High;M516022;X
+460023;Minister of Security;니가르 라피벨리 ;1933;1964;1999;LWR;Crime Fighter;Medium;M516023;X
+460024;Minister of Security;사바트 라흐만 ;1933;1964;1999;LWR;Silent Lawyer;Medium;M516024;X
+460025;Minister of Security;라술 레자 ;1933;1964;1999;SD;Man of the People;Medium;M516006;X
+460026;Minister of Security;미르자 이브라히모프 ;1933;1964;1999;ML;Back Stabber;Medium;M516026;X
+460027;Head of Military Intelligence;나리만 나리마노프 ;1933;1964;1999;LWR;Naval Intelligence Specialist;Medium;M516027;X
+460028;Head of Military Intelligence;술타노프 호스로프 ;1933;1964;1999;SD;Logistics Specialist;Medium;M516028;X
+460029;Head of Military Intelligence;라흐무드 아지즈바유브 ;1933;1964;1999;ML;Dismal Enigma;Medium;M516029;X
+460030;Chief of Staff;사메드 베이 메흐만도로프 ;1933;1964;1999;SD;School of Defence;Medium;M516030;X
+460031;Chief of Staff;할릴 마메도프 ;1933;1964;1999;ML;School of Fire Support;Medium;M516008;X
+460032;Chief of Army;마흐무드 누리 베르쾨즈 ;1933;1964;1999;SD;Elastic Defence Doctrine;Medium;M516007;X
+460033;Chief of Army;수레브 하코프 가스파리안 ;1933;1964;1999;ML;Armoured Spearhead Doctrine;Medium;M516033;X
+460034;Chief of Navy;사메드 베이 메흐만도로프 ;1933;1964;1999;SD;Base Control Doctrine;High;M516030;X
+460035;Chief of Navy;이스마일 마호프 ;1933;1964;1999;ML;Indirect Approach Doctrine;High;M516035;X
+460036;Chief of Air Force;캄비즈 크라스노샤프카 ;1933;1964;1999;SD;Naval Aviation Doctrine;High;M516009;X
+460037;Chief of Air Force;안드로니크 아브람 카자리안 ;1933;1964;1999;ML;Army Aviation Doctrine;High;M516037;X
+460038;Chief of Army;미르자 후세이노프 ;1920;1933;1999;LE;static defence doctrine;Medium;5949;X
+460039;Chief of Army;나림 나리마노프 ;1920;1933;1999;LE;decisive battle doctrine;Medium;5950;X
+460040;Chief of Staff;미르자 후세이노프 ;1920;1933;1999;LE;school of defence;Medium;5949;X
+460041;Chief of Staff;나림 나리마노프 ;1920;1933;1999;LE;school of psychology;Medium;5950;X
+460042;Foreign Minister;알리마르단베이 톱추바쇼프 ;1918;1933;1999;SL;biased intellectual;Medium;5951;X
+460043;Head of Government;파트 알리 칸 코이시키 ;1914;1933;1999;ML;Happy Amateur;Medium;5952;X
+460044;Head of Government;나시베이 유시프베일리 ;1919;1933;1999;ML;Happy Amateur;Medium;5953;X
+460045;Head of Government;미르자 후세이노프 ;1920;1933;1999;ST;Backroom Backstabber;Medium;5949;X
+460046;Head of Government;나림 나리마노프 ;1921;1933;1999;ST;Political Protege;Medium;5950;X
+460047;Head of Government;무흐타르 하지예프 ;1921;1933;1999;ST;Flamboyant Tough Guy;Medium;unknownminister;X
+460048;Head of Government;사마드 알리예프 ;1922;1933;1999;ST;Backroom Backstabber;Medium;5954;X
+460049;Head of State;메메드 레술자드 ;1914;1933;1999;ML;Insignificant Layman;Medium;5955;X
+460050;Head of State;알리마르단베이 톱추바쇼프 ;1918;1933;1999;ML;Insignificant Layman;Medium;5951;X
+460051;Head of State;미르자 후세이노프 ;1920;1933;1999;ST;Popular Figurehead;Medium;5949;X
+460052;Head of State;나림 나리마노프 ;1921;1933;1999;ST;Ruthless Powermonger;Medium;5950;X
+460053;Head of State;무흐타르 하지예프 ;1921;1933;1999;ST;Stern Imperialist;Medium;unknownminister;X
+460054;Head of State;사마드 알리예프 ;1922;1933;1999;ST;Weary Stiffneck;Medium;5954;X
+460055;Minister of Security;아슬란 칸 코이시키 ;1914;1933;1999;SL;efficient sociopath;Medium;unknownminister;X
+460056;Minister of Security;나림 나리마노프 ;1921;1933;1999;LE;crime fighter;Medium;5950;X
+460057;Minister of Security;가잔파르 무사베코프 ;1922;1933;1999;LE;Secret police chief;Medium;5956;X

@@ -1,0 +1,69 @@
+U12;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+875001;Head of State;어나이린 베번 ;1933;1964;1999;LE;Pig-headed Isolationist;High;M1021;X
+875002;Head of Government;클레멘트 애틀리 ;1933;1964;1999;LWR;Silent Workhorse;High;3818;X
+875003;Head of Government;해리 폴릿 ;1933;1964;1999;LE;Ambitious Union Boss;High;M1022;X
+875004;Foreign Minister;어니스트 베빈 ;1933;1964;1999;LWR;The Cloak N Dagger Schemer;High;3820;X
+875005;Foreign Minister;어니스트 베빈 ;1933;1964;1999;LWR;Biased Intellectual;High;3821;X
+875006;Foreign Minister;라자니 팜 덧 ;1933;1964;1999;LE;Biased Intellectual;Medium;M1023;X
+875007;Foreign Minister;필 피러틴 ;1933;1964;1999;ST;The Cloak N Dagger Schemer;Medium;M1056;X
+875008;Foreign Minister;D.N. 프릿 ;1933;1964;1999;ST;Apologetic Clerk;Medium;M1057;X
+875009;Foreign Minister;데이브 스프링홀 ;1933;1964;1999;LE;Iron Fisted Brute;Medium;M1058;X
+875010;Foreign Minister;이안 메카도 ;1933;1964;1999;LE;Ideological Crusader;Medium;M1059;X
+875011;Minister of Armament;휴 달톤 ;1933;1964;1999;LWR;Resource Industrialist;Medium;M1065;X
+875012;Minister of Armament;클레멘트 애틀리 ;1933;1964;1999;LWR;Keynesian economy;Medium;3818;X
+875013;Minister of Armament;스태퍼드 크립스 ;1933;1964;1999;LWR;Air to Ground Proponent;Medium;M1024;X
+875014;Minister of Armament;스태퍼드 크립스 ;1933;1964;1999;LE;Mixed economy;Medium;M1024;X
+875015;Minister of Armament;레슬리 솔레이 ;1933;1964;1999;ST;Resource Industrialist;Medium;M1075;X
+875016;Minister of Armament;아서 호너 ;1933;1964;1999;ST;Planned economy proponent;Medium;M1076;X
+875017;Minister of Armament;잭 가스터 ;1933;1964;1999;ST;Submarine Proponent;Medium;M1077;X
+875018;Minister of Armament;에이브 모펫 ;1933;1964;1999;LE;Tank Proponent;Medium;M1078;X
+875019;Minister of Armament;윌리엄 러스트 ;1933;1964;1999;ST;Infantry Proponent;Medium;M1079;X
+875020;Minister of Armament;코니에 질리아쿠스 ;1933;1964;1999;LE;Air Superiority Proponent;Medium;M1080;X
+875021;Minister of Security;허버트 모리슨 ;1933;1964;1999;LWR;Man of the People;Very High;3821;X
+875022;Minister of Security;제임스 휘터 이드 ;1933;1964;1999;LWR;Prince of Terror;Very High;M1089;X
+875023;Minister of Security;바이올렛 랜스베리 ;1933;1964;1999;ST;Prince of Terror;Medium;M1095;X
+875024;Minister of Security;레스터 허친슨 ;1933;1964;1999;ST;Back Stabber;Medium;M1096;X
+875025;Minister of Security;존 플래츠 밀스 ;1933;1964;1999;LE;Silent Lawyer;Medium;M1097;X
+875026;Minister of Security;시드니 질버만 ;1933;1964;1999;ST;Man of the People;Medium;M1098;X
+875027;Minister of Security;바바라 캐슬 ;1933;1964;1999;LE;Crime Fighter;Medium;M1099;X
+875028;Minister of Security;킴 필비 ;1933;1964;1999;ST;Secret police chief;Very High;M1025;X
+875029;Head of Military Intelligence;브랜든 브라켄 ;1933;1964;1999;LWR;Political Specialist;Very High;M1087;X
+875030;Head of Military Intelligence;윌리엄 갈라처 ;1933;1964;1999;LE;Industrial Specialist;High;M1111;X
+875031;Head of Military Intelligence;크리스토퍼 힐 ;1933;1964;1999;ST;Naval Intelligence Specialist;High;M1112;X
+875032;Head of Military Intelligence;어나이린 베번 ;1933;1964;1999;LE;Dismal Enigma;High;M1021;X
+875033;Head of Military Intelligence;앤소니 블런트 ;1933;1964;1999;LE;Political Specialist;Very High;M1026;X
+875034;Head of Military Intelligence;킴 필비 ;1933;1964;1999;ST;Technical Specialist;Very High;M1105;X
+875035;Chief of Staff;리오넬 이스메이 ;1933;1964;1999;LWR;School of Fire Support;Very High;3829;X
+875036;Chief of Staff;아치볼드 나이 ;1933;1964;1999;LWR;School of Mass Combat;Very High;M1122;X
+875037;Chief of Staff;버나드 몽고메리 ;1933;1964;1999;LWR;School of Manoeuvre;Medium;M1123;X
+875038;Chief of Staff;톰 윈터링햄 ;1933;1964;1999;ST;School of Mass Combat;High;M1027;X
+875039;Chief of Army;버나드 몽고메리 ;1933;1964;1999;LWR;Armoured Spearhead Doctrine;Medium;M1123;X
+875040;Chief of Army;빌 알렉산더 ;1933;1964;1999;ST;Static Defence Doctrine;High;M1028;X
+875041;Chief of Navy;프레드 코프만 ;1933;1964;1999;ST;Indirect Approach Doctrine;High;M1029;X
+875042;Chief of Navy;해리 폴릿 ;1933;1964;1999;ST;Decisive Naval Battle Doctrine;High;M1022;X
+875043;Chief of Air Force;존 스트레이치 ;1933;1964;1999;ST;Carpet Bombing Doctrine;High;M1030;X
+875044;Head of Government;데이비드 로이드 조지 ;1933;1964;1999;LWR;Naive Optimist;Very High;M1160;X
+875045;Foreign Minister;아치볼드 싱클레어 ;1933;1964;1999;LWR;Great Compromiser;High;M1161;X
+875046;Minister of Security;레오 아메리 ;1933;1964;1999;LWR;Crime Fighter;High;M1162;X
+875047;Chief of Air Force;윌리엄 숄토 더글러스 ;1933;1964;1999;LWR;Air Superiority Doctrine;High;L1479;X
+875048;Minister of Armament;알버트 V. 알렉산더 ;1933;1964;1999;LWR;Resource Industrialist;Medium;M1184;X
+875049;Minister of Armament;엠마누엘 신웰 ;1933;1964;1999;LWR;Theoretical Scientist;Medium;M1185;X
+875050;Head of State;조지 6세 ;1933;1964;1999;LWR;Benevolent Gentleman;High;M1033;X
+875051;Head of State;엘리자베스 2세 ;1933;1964;1999;LWR;Popular Figurehead;High;M1182;X
+875052;Head of Government;휴 게이츠켈 ;1933;1964;1999;LWR;Naive Optimist;High;M1194;X
+875053;Head of Government;헤럴드 윌슨 ;1933;1964;1999;LWR;Ambitious Union Boss;High;M1195;X
+875054;Foreign Minister;알프레드 로벤스 ;1933;1964;1999;LWR;Apologetic Clerk;Medium;M1199;X
+875055;Foreign Minister;어나이린 베번 ;1933;1964;1999;LWR;Ideological Crusader;Medium;M1021;X
+875056;Foreign Minister;데니스 힐리 ;1933;1964;1999;LWR;Iron Fisted Brute;Medium;M1201;X
+875057;Foreign Minister;헤럴드 윌슨 ;1933;1964;1999;LWR;Ideological Crusader;Medium;M1195;X
+875058;Foreign Minister;패트릭 고든 워커 ;1933;1964;1999;LWR;Apologetic Clerk;Medium;M1203;X
+875059;Minister of Armament;데니스 힐리 ;1933;1964;1999;LWR;Administrative Genius;Medium;M1195;X
+875060;Minister of Armament;데니스 힐리 ;1933;1964;1999;LWR;Resource Industrialist;Medium;M1201;X
+875061;Minister of Security;패트릭 고든 워커 ;1933;1964;1999;LWR;Silent Lawyer;High;M1203;X
+875062;Minister of Security;프랭크 파켄험 ;1933;1964;1999;LWR;Man of the People;High;M1216;X
+875063;Head of Military Intelligence;제임스 켈러헌 ;1933;1964;1999;LWR;Industrial Specialist;Very High;M1222;X
+875064;Head of State;에드워드 8세 ;1933;1964;1999;LWR;Autocratic Charmer;High;M1011;X
+875065;Head of State;조지 6세 ;1933;1964;1999;LWR;Benevolent Gentleman;High;M1033;X
+875066;Head of State;엘리자베스 2세 ;1933;1964;1999;LWR;Popular Figurehead;High;M1182;X
+875067;Minister of Security;아서 호너 ;1933;1964;1999;ST;Health and safety;Medium;M1076;X

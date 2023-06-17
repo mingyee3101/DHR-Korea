@@ -1,0 +1,64 @@
+U09;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+860001;Head of State;프란츠 요제프 1세 ;1900;1916;1999;PA;Weary Old Emperor;Medium;3504;X
+860002;Head of State;카를 1세 ;1916;1922;1999;PA;die-hard reformer;Medium;3510;X
+860003;Head of State;막시밀리안 폰 외스터라이히 ;1916;1952;1999;PA;benevolent gentleman;Medium;3516;X
+860004;Head of Government;알로이스 렉사 폰 애렌탈 ;1900;1912;1999;PA;flamboyant tough guy;Medium;3494;X
+860005;Head of Government;레오폴트 베르히톨트 ;1900;1942;1999;PA;backroom backstabber;Medium;3514;X
+860006;Head of Government;슈테판 부리안 폰 라예츠 ;1900;1922;1999;PA;silent workhorse;Medium;3525;X
+860007;Head of Government;오토카르 체르닌 ;1900;1932;1999;PA;smiling oilman;Medium;3521;X
+860008;Head of Government;쥴라 안드라시 ;1900;1929;1999;PA;naive optimist;Medium;3508;X
+860009;Head of Government;루드비히 폰 플로토프 ;1900;1948;1999;PA;corporate suit;Medium;3515;X
+860010;Foreign Minister;알로이스 렉사 폰 애렌탈 ;1900;1912;1999;PA;iron fisted brute;Medium;3494;X
+860011;Foreign Minister;레오폴트 베르히톨트 ;1900;1942;1999;PA;general staffer;Medium;3514;X
+860012;Foreign Minister;슈테판 부리안 폰 라예츠 ;1900;1922;1999;PA;ideological crusader;Medium;3525;X
+860013;Foreign Minister;오토카르 체르닌 ;1900;1932;1999;PA;great compromiser;Medium;3521;X
+860014;Foreign Minister;쥴라 안드라시 ;1900;1929;1999;PA;apologetic clerk;Medium;3508;X
+860015;Foreign Minister;루드비히 폰 플로토프 ;1900;1948;1999;PA;biased intellectual;Medium;3515;X
+860016;Minister of Armament;슈테판 부리안 폰 라예츠 ;1900;1922;1999;PA;corrupt kleptocrat;Medium;3525;X
+860017;Minister of Armament;레온 빌린스키 ;1900;1923;1999;PA;resource industrialist;Medium;3513;X
+860018;Minister of Armament;에른스트 폰 쾨버 ;1900;1919;1999;PA;theoretical scientist;Medium;3502;X
+860019;Minister of Armament;콘라드 주 호엔로에 ;1900;1918;1999;PA;Oil baron;Medium;3512;X
+860020;Minister of Armament;알렉산더 스피츠뮐러 ;1900;1953;1999;PA;Steel magnate;Medium;3491;X
+860021;Minister of Armament;파울 로베르트 쿠 흐로바크 ;1900;1931;1999;PA;Industrial chemist;Medium;unknownminister;X
+860022;Minister of Armament;프란츠 사베르 폰 쇠나이흐 ;1900;1916;1999;PA;infantry proponent;Medium;3506;X
+860023;Minister of Armament;모리츠 폰 아우펜베르크 ;1900;1928;1999;PA;tank proponent;Medium;3519;X
+860024;Minister of Armament;알렉산더 폰 크로바틴 ;1900;1933;1999;PA;military entrepreneur;Medium;3492;X
+860025;Minister of Armament;루돌프 폰 슈타인슈태튼 ;1900;1921;1999;PA;air to ground proponent;Medium;3524;X
+860026;Minister of Armament;루돌프 몬테쿠콜리 ;1900;1922;1999;PA;air to sea proponent;Medium;3523;X
+860027;Minister of Armament;안톤 하우스 ;1900;1917;1999;PA;battle fleet proponent;Medium;3496;X
+860028;Minister of Armament;카를 카일러 폰 칼텐펠스 ;1900;1917;1999;PA;submarine proponent;Medium;3511;X
+860029;Minister of Armament;막시밀리안 녜고반 ;1900;1930;1999;PA;battle fleet proponent;Medium;3517;X
+860030;Minister of Armament;프란츠 폰 홀루프 ;1900;1924;1999;PA;air to sea proponent;Medium;3505;X
+860031;Minister of Security;리하르트 폰 비네르트 ;1900;1918;1999;PA;compassionate gentleman;Medium;3522;X
+860032;Minister of Security;귀도 폰 해르틀 ;1900;1928;1999;PA;man of the people;Medium;unknownminister;X
+860033;Minister of Security;막시밀리안 폰 비켄부르크 ;1900;1918;1999;PA;prince of terror;Medium;unknownminister;X
+860034;Minister of Security;카를 헤이놀트 폰 우딘스키 ;1900;1943;1999;PA;crime fighter;Medium;unknownminister;X
+860035;Minister of Security;콘라드 주 호엔로에 ;1900;1918;1999;PA;silent lawyer;Medium;3512;X
+860036;Minister of Security;에라스무스 폰 핸델 ;1900;1928;1999;PA;back stabber;Medium;3501;X
+860037;Minister of Security;에드빈 폰 슈바르체나우 ;1900;1926;1999;PA;efficient sociopath;Medium;unknownminister;X
+860038;Minister of Security;프리드리히 폰 토겐부르크 ;1900;1956;1999;PA;crooked kleptocrat;Medium;unknownminister;X
+860039;Minister of Security;에드문트 폰 가이어 ;1900;1952;1999;PA;Media magnate;Medium;unknownminister;X
+860040;Head of Military Intelligence;아르투르 기슬 폰 기슬링겐 ;1900;1937;1999;PA;industrial specialist;Medium;3498;X
+860041;Head of Military Intelligence;오이겐 호를리츠카 ;1900;1912;1999;PA;political specialist;Medium;unknownminister;X
+860042;Head of Military Intelligence;아우구스트 폰 오스트리미에츠 ;1900;1945;1999;PA;logistics specialist;Medium;9892;X
+860043;Head of Military Intelligence;오스카 폰 흐라닐로비치 ;1900;1945;1999;PA;naval intelligence specialist;Medium;unknownminister;X
+860044;Head of Military Intelligence;막시밀리안 롱게 ;1900;1953;1999;PA;technical specialist;Medium;3518;X
+860045;Head of Military Intelligence;알프레드 레들 ;1900;1913;1999;PA;logistics specialist;Medium;3493;X
+860046;Head of Military Intelligence;안드레아스 피글 ;1900;1967;1999;PA;dismal enigma;Medium;3495;X
+860047;Head of Military Intelligence;구스타프 후브카 ;1900;1962;1999;PA;industrial specialist;Medium;unknownminister;X
+860048;Chief of Staff;프란츠 콘라드 폰 회첸도르프 ;1900;1925;1999;PA;school of fire support;Medium;6517;X
+860049;Chief of Staff;블라시우스 셰무아 ;1900;1920;1999;PA;school of manoeuvre;Medium;3500;X
+860050;Chief of Staff;아르투르 아르츠 폰 슈트라우센부르크 ;1900;1935;1999;PA;school of defence;Medium;3497;X
+860051;Chief of Army;아르투르 폰 볼프라스 ;1900;1922;1999;PA;guns and butter doctrine;Medium;3499;X
+860052;Chief of Army;에두아르트 폰 파르 ;1900;1919;1999;PA;armoured spearhead doctrine;Medium;6640;X
+860053;Chief of Army;프란츠 페르디난트 폰 외스터라이히 ;1900;1914;1999;PA;decisive battle doctrine;Medium;3503;X
+860054;Chief of Army;프리드리히 폰 외스터라이히 ;1900;1936;1999;PA;static defence doctrine;Medium;3507;X
+860055;Chief of Army;카를 1세 ;1916;1922;1999;PA;elastic defence doctrine;Medium;3510;X
+860056;Chief of Army;즈덴코 폰 롭코비츠 ;1900;1933;1999;PA;commando doctrine army;Medium;3526;X
+860057;Chief of Navy;루돌프 몬테쿠콜리 ;1900;1922;1999;PA;base control doctrine;Medium;3523;X
+860058;Chief of Navy;안톤 하우스 ;1900;1917;1999;PA;open seas doctrine;Medium;3496;X
+860059;Chief of Navy;막시밀리안 녜고반 ;1900;1930;1999;PA;decisive naval battle doctrine;Medium;3517;X
+860060;Chief of Navy;호르티 미클로시 ;1900;1957;1999;PA;power projection doctrine;Medium;3996;X
+860065;Chief of Air Force;밀란 에밀 우젤라츠 ;1900;1954;1999;PA;carpet bombing doctrine;Medium;3527;X
+860066;Chief of Air Force;요제프 페르디난트 폰 외스터라이히 ;1900;1942;1999;PA;air superiority doctrine;Medium;3509;X
+860067;Chief of Air Force;오토 엘리슨 폰 니들레프 ;1900;1947;1999;PA;army aviation doctrine;Medium;3520;X

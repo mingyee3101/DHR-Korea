@@ -1,0 +1,89 @@
+NIC;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+315001;Head of State;후안 바티스타 사카사 ;1933;1964;1999;SC;Benevolent Gentleman;High;M48001;X
+315002;Head of Government;훌리안 이리아스 나바로 ;1933;1964;1999;SC;Happy Amateur;High;M48002;X
+315003;Foreign Minister;레오나르도 아르게요 ;1933;1964;1999;SC;Iron Fisted Brute;High;M48003;X
+315004;Minister of Armament;아나스타시오 소모사 ;1933;1964;1999;SC;Corrupt Kleptocrat;Very High;M48004;X
+315005;Minister of Security;알카시오 트레예스 멘도사 ;1933;1964;1999;ML;Crooked Kleptocrat;Very High;M48005;X
+315006;Head of Military Intelligence;레오나르도 아르게요 ;1933;1964;1999;SC;Technical Specialist;Medium;M48003;X
+315007;Chief of Staff;아나스타시오 소모사 ;1933;1964;1999;SC;School of Defence;Very High;M48004;X
+315008;Chief of Army;아우구스토 카라발 ;1933;1964;1999;SC;Elastic Defence Doctrine;Medium;M48008;X
+315009;Chief of Navy;구스타보 플로레스 ;1933;1964;1999;SC;Base Control Doctrine;Very High;M48009;X
+315010;Chief of Air Force;기예르모 R. 쿠아드라 ;1933;1964;1999;SC;Naval Aviation Doctrine;Medium;M48010;X
+315011;Head of State;훌리안 이리아스 나바로 ;1933;1964;1999;SC;Insignificant Layman;High;M48002;X
+315012;Head of State;카를로스 브레네스 ;1933;1964;1999;PA;Autocratic Charmer;High;M48032;X
+315013;Head of State;아나스타시오 소모사 ;1937;1964;1999;SC;Resigned Generalissimo;High;M48004;X
+315014;Head of State;벤하민 라카요 사카사 ;1947;1964;1999;SC;Popular Figurehead;High;M48034;X
+315015;Head of State;빅토르 로만 이 레예스 ;1947;1964;1999;PA;Pig-headed Isolationist;High;M48035;X
+315016;Head of Government;레온 카브랄레스 ;1933;1964;1999;SC;Happy Amateur;High;M48011;X
+315017;Head of Government;아나스타시오 소모사 ;1933;1964;1999;PA;Flamboyant Tough Guy;High;M48004;X
+315018;Head of Government;비센테 모랄레스 ;1937;1964;1999;SC;Naive Optimist;High;M48038;X
+315019;Head of Government;카를로스 A. 비야누에바 ;1939;1964;1999;SC;Political Protege;High;M48039;X
+315020;Head of Government;알카시오 트레예스 멘도사 ;1941;1964;1999;SC;Corporate Suit;High;M48005;X
+315021;Head of Government;카를로스 브레네스 ;1944;1964;1999;SC;Silent Workhorse;High;M48032;X
+315022;Head of Government;기예르모 쿠아드라 ;1947;1964;1999;SC;Ambitious Union Boss;High;M48012;X
+315023;Foreign Minister;다리오 다리오 이 데바일레 ;1933;1964;1999;SC;General Staffer;High;M48043;X
+315024;Foreign Minister;마누엘 코르데로 레예스 ;1937;1964;1999;SC;Great Compromiser;High;unknownminister;X
+315025;Foreign Minister;마리아노 아르게요 ;1939;1964;1999;SC;Biased Intellectual;High;M48044;X
+315026;Foreign Minister;빅토르 로만 이 레예스 ;1944;1964;1999;PA;General Staffer;Very High;M48035;X
+315027;Foreign Minister;실비오 아르게요 ;1947;1964;1999;SC;Great Compromiser;Very High;M48047;X
+315028;Foreign Minister;아나스타시오 소모사 ;1947;1964;1999;PA;The Cloak N Dagger Schemer;High;M48004;X
+315029;Minister of Armament;니콜라스 후아레스 ;1933;1964;1999;SC;Air to Ground Proponent;Very High;M48049;X
+315030;Minister of Armament;토마스 프란시스코 ;1933;1964;1999;PA;Corrupt Kleptocrat;Medium;M48050;X
+315031;Minister of Armament;카를로스 브레네스 ;1937;1964;1999;SC;laissez-faire capitalist;High;M48032;X
+315032;Minister of Armament;살바도르 카데냐스 ;1939;1964;1999;SC;Air Superiority Proponent;High;M48052;X
+315033;Minister of Armament;레오나르도 아르게요 ;1941;1964;1999;SC;Infantry Proponent;High;M48003;X
+315034;Minister of Armament;벤하민 라카요 사카사 ;1943;1964;1999;SC;Administrative Genius;Medium;M48034;X
+315035;Minister of Armament;벤하민 카살 코헨 ;1944;1964;1999;SC;Military Entrepreneur;High;M48055;X
+315036;Minister of Armament;후안 에스트라다 아얄라 ;1947;1964;1999;SC;Air to Ground Proponent;High;M48056;X
+315037;Minister of Armament;호세 클레몬 사카사 ;1947;1964;1999;PA;Tank Proponent;Low;M48016;X
+315038;Minister of Security;아나스타시오 소모사 ;1933;1964;1999;SC;Efficient Sociopath;Low;M48004;X
+315039;Minister of Security;빅토르 로만 이 레예스 ;1939;1964;1999;SC;Prince of Terror;Very High;M48035;X
+315040;Minister of Security;레온 카브랄레스 ;1941;1964;1999;SC;Back Stabber;Medium;M48011;X
+315041;Minister of Security;구스타보 파본 오초아 ;1944;1964;1999;PA;Silent Lawyer;Medium;M48061;X
+315042;Minister of Security;니콜라스 히메네스 ;1947;1964;1999;SC;Compassionate Gentleman;Medium;M48062;X
+315043;Head of Military Intelligence;프란시스코 에스트라사 ;1933;1964;1999;PA;Industrial Specialist;Medium;M48064;X
+315044;Head of Military Intelligence;레오나르도 아르게요 ;1937;1964;1999;SC;Dismal Enigma;Medium;M48065;X
+315045;Head of Military Intelligence;빅토르 로만 이 레예스 ;1941;1964;1999;SC;Technical Specialist;Very High;M48035;X
+315046;Head of Military Intelligence;호세 루이스 비날레스 ;1944;1964;1999;SC;Logistics Specialist;Medium;M48067;X
+315047;Head of Military Intelligence;후안 파블로 에스케라 ;1947;1964;1999;SC;Dismal Enigma;Medium;M48026;X
+315048;Head of Military Intelligence;호세 클레몬 사카사 ;1947;1964;1999;PA;Dismal Enigma;Low;M48016;X
+315049;Chief of Staff;아우구스토 카라발 ;1933;1964;1999;PA;School of Fire Support;Low;M48008;X
+315050;Chief of Staff;마누엘 로케 가르시아 ;1947;1964;1999;SC;School of Manoeuvre;Low;M48017;X
+315051;Chief of Army;아나스타시오 소모사 ;1937;1964;1999;SC;Static Defence Doctrine;Very High;M48004;X
+315052;Chief of Army;빅토르 로만 이 레예스 ;1941;1964;1999;SC;Decisive Battle Doctrine;Very High;M48035;X
+315053;Chief of Army;마누엘 코로벨 키르스크 ;1944;1964;1999;PA;Armoured Spearhead Doctrine;Medium;M48018;X
+315054;Chief of Army;마누엘 로케 가르시아 ;1947;1964;1999;SC;Guns and Butter Doctrine;Low;M48017;X
+315055;Chief of Navy;노엘 니뇨 미란다 ;1944;1964;1999;SC;Open Seas Doctrine;Very High;M48019;X
+315056;Chief of Air Force;호엘 가르시아 살다나 ;1944;1964;1999;SC;Army Aviation Doctrine;Medium;M48020;X
+315057;Head of State;레오나르도 아르게요 ;1947;1964;1999;SC;Die-hard Reformer;High;M48003;X
+315058;Head of Government;아나스타시오 소모사 ;1947;1964;1999;PA;Old General;High;M48004;X
+315059;Head of State;레온 카브랄레스 ;1933;1964;1999;SL;Insignificant Layman;High;M48011;X
+315060;Head of Government;기예르모 쿠아드라 ;1933;1964;1999;SD;Ambitious Union Boss;High;M48012;X
+315061;Foreign Minister;레온 카브랄레스 ;1933;1964;1999;SL;Biased Intellectual;High;M48011;X
+315062;Minister of Security;기예르모 쿠아드라 ;1933;1964;1999;SD;Crime Fighter;High;M48012;X
+315063;Head of State;루이스 카르데날 ;1933;1964;1999;LE;Weary Stiffneck;High;M48021;X
+315064;Head of Government;루이스 카르데날 ;1933;1964;1999;LE;Flamboyant Tough Guy;High;M48021;X
+315065;Foreign Minister;루이스 카르데날 ;1933;1964;1999;LE;Ideological Crusader;Very High;M48021;X
+315066;Minister of Armament;테오필로 S. 그라예스 ;1933;1964;1999;ST;Strategic Air Proponent;Medium;M48024;X
+315067;Minister of Security;후안 Y. 마스케스 ;1933;1964;1999;LE;Efficient Sociopath;Medium;M48025;X
+315068;Head of Military Intelligence;후안 파블로 에스케라 ;1933;1964;1999;LWR;Dismal Enigma;Medium;M48026;X
+315069;Chief of Staff;후안 파블로 에스케라 ;1933;1964;1999;LWR;School of Psychology;Medium;M48026;X
+315070;Chief of Army;마누엘 코로벨 키르스크 ;1933;1964;1999;LWR;Static Defence Doctrine;Medium;M48018;X
+315071;Chief of Navy;노엘 니뇨 미란다 ;1933;1964;1999;LWR;Open Seas Doctrine;Very High;M48019;X
+315072;Chief of Air Force;호엘 가르시아 살다나 ;1933;1964;1999;LWR;Army Aviation Doctrine;Medium;M48020;X
+315073;Head of Government;에밀리아노 바르가스 ;1917;1933;1999;PA;Backroom Backstabber;Medium;2875;X
+315074;Head of Government;디에고 마누엘 볼라뇨스 ;1921;1933;1999;PA;Flamboyant Tough Guy;Medium;6120;X
+315075;Head of Government;로센도 바르가스 ;1923;1933;1999;PA;Happy Amateur;Medium;6121;X
+315076;Head of Government;아돌포 디아스 ;1911;1933;1999;PA;Political Protege;Medium;2876;X
+315077;Head of Military Intelligence;에밀리아노 바르가스 ;1914;1933;1999;PA;LOGISTICS SPECIALIST;Medium;2875;X
+315078;Head of State;에밀리아노 바르가스 ;1917;1933;1999;PA;Autocratic Charmer;Medium;2875;X
+315079;Head of State;디에고 마누엘 볼라뇨스 ;1921;1933;1999;PA;Benevolent Gentleman;Medium;6120;X
+315080;Head of State;로센도 바르가스 ;1923;1933;1999;PA;Benevolent Gentleman;Medium;6121;X
+315081;Head of State;아돌포 디아스 ;1911;1933;1999;PA;Stern Imperialist;Medium;2876;X
+315082;Foreign Minister;바트롤로메 마르티네스 ;1914;1933;1999;PA;Iron Fisted Brute;High;2442;X
+315083;Minister of Armament;디에고 마누엘 볼라뇨스 ;1914;1933;1999;PA;Air to Ground Proponent;Very High;6120;X
+315084;Chief of Staff;에밀리아노 바르가스 ;1914;1933;1999;PA;School of Fire Support;Low;2443;X
+315085;Chief of Army;에밀리아노 바르가스 ;1914;1933;1999;PA;Static Defence Doctrine;Medium;2443;X
+315086;Chief of Navy;에밀리아노 바르가스 ;1914;1933;1999;PA;Open Seas Doctrine;Very High;2443;X
+315087;Minister of Security;길버트 D. 헤트필드 ;1914;1933;1999;PA;Prince of Terror;Medium;2444;X

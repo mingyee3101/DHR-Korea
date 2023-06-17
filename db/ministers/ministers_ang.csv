@@ -1,0 +1,35 @@
+ANG;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+555001;Head of State;안토니우 로페스 마테우스 ;1933;1964;1999;PA;Insignificant Layman;High;M568001;X
+555002;Head of Government;마노엘 코스타 마르케스 ;1933;1964;1999;PA;Flamboyant Tough Guy;High;M568002;X
+555003;Foreign Minister;알바루 드 프레이타스 ;1933;1964;1999;PA;General Staffer;High;M568003;X
+555004;Minister of Armament;바스쿠 로페스 알베스 ;1933;1964;1999;PA;Tank Proponent;Medium;M568004;X
+555005;Minister of Security;파울루 코르데이루 ;1933;1964;1999;PA;Man of the People;Medium;M568005;X
+555006;Head of Military Intelligence;페르난두 페헤이라 멜루 ;1933;1964;1999;PA;Dismal Enigma;Medium;M568006;X
+555007;Chief of Staff;주앙 마세두 에 브리투 ;1933;1964;1999;PA;School of Psychology;Medium;M568007;X
+555008;Chief of Army;프란세스쿠 페헤이라 드 에카 ;1933;1964;1999;PA;Static Defence Doctrine;Medium;M568008;X
+555009;Chief of Navy;모지뉴 드 알부케르크 ;1933;1964;1999;PA;Indirect Approach Doctrine;Medium;M568009;X
+555010;Chief of Air Force;호제리우 팡게이루 ;1933;1964;1999;PA;Army Aviation Doctrine;Medium;M568010;X
+555011;Head of State;이우제니우 다옹 ;1933;1964;1999;ML;Pig-headed Isolationist;High;M568011;X
+555012;Head of State;바스쿠 로페스 알베스 ;1933;1964;1999;LWR;Resigned Generalissimo;High;M568004;X
+555013;Head of Government;빅토르 부르 ;1933;1964;1999;ML;Happy Amateur;High;M568013;X
+555014;Head of Government;파울루 트지필리카 ;1933;1964;1999;LWR;Political Protege;High;M568014;X
+555015;Foreign Minister;왈데마르 보르냐우젱 ;1933;1964;1999;ML;Ideological Crusader;High;M568015;X
+555016;Foreign Minister;마누엘 그라시우아 툴루마 ;1933;1964;1999;LWR;The Cloak N Dagger Schemer;High;M568016;X
+555017;Minister of Armament;페르난두 쿠냐 이 코스타 ;1933;1964;1999;ML;Military Entrepreneur;Medium;M568017;X
+555018;Minister of Armament;조아킹 두아르트 다비드 ;1933;1964;1999;LWR;Resource Industrialist;Medium;M568018;X
+555019;Minister of Security;마누엘 고메스 다 코스타 ;1933;1964;1999;ML;Crooked Kleptocrat;Medium;M568019;X
+555020;Minister of Security;웬세즐라우 보리니 ;1943;1964;1999;ML;Silent Lawyer;Medium;M568020;X
+555021;Minister of Security;이우클리드스 다 코스타 ;1933;1964;1999;LWR;Compassionate Gentleman;Medium;M568021;X
+555022;Head of Military Intelligence;오라시우 실바 이 실바 ;1933;1964;1999;ML;Industrial Specialist;Medium;M568022;X
+555023;Head of Military Intelligence;페드루 드 파울라 ;1933;1964;1999;LWR;Logistics Specialist;Medium;M568023;X
+555024;Chief of Staff;바스쿠 로페스 알베스 ;1943;1964;1999;PA;School of Manoeuvre;Medium;M568004;X
+555025;Chief of Staff;조아킹 플라시두 두라트 ;1933;1964;1999;ML;School of Defence;Medium;M568025;X
+555026;Chief of Staff;줄리우 공칼베스 드 캄푸스 ;1933;1964;1999;LWR;School of Mass Combat;Medium;M568026;X
+555027;Chief of Army;줄리우 드 모라이스 ;1941;1964;1999;PA;Elastic Defence Doctrine;Medium;M568027;X
+555028;Chief of Army;프란시스쿠 달루스 ;1933;1964;1999;ML;Guns and Butter Doctrine;Medium;M568028;X
+555029;Chief of Army;알바루 드 프레이타스 ;1933;1964;1999;LWR;Decisive Battle Doctrine;Medium;M568003;X
+555030;Chief of Navy;프란시스쿠 다 코스타 ;1933;1964;1999;ML;Decisive Naval Battle Doctrine;High;M568030;X
+555031;Chief of Navy;파울루 트지필리카 ;1933;1964;1999;LWR;Base Control Doctrine;High;M568014;X
+555032;Chief of Air Force;주앙 루이스 카르발류 ;1933;1964;1999;ML;Air Superiority Doctrine;Medium;M568032;X
+555033;Chief of Air Force;마누엘 그라시우아 ;1933;1964;1999;LWR;Carpet Bombing Doctrine;Medium;M568016;X

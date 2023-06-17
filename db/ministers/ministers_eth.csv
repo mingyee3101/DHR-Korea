@@ -1,0 +1,83 @@
+ETH;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+245001;Head of State;하일레 셀라시에 1세 ;1930;1964;1999;PA;Stern Imperialist;High;M65001;X
+245002;Head of Government;테클레 하와리아테 ;1933;1964;1999;PA;Happy Amateur;High;M65002;X
+245003;Foreign Minister;헤로우이 올데 셀라시에 ;1933;1964;1999;PA;General Staffer;Very High;M65003;X
+245004;Minister of Armament;헤로우이 올데 셀라시에 ;1933;1964;1999;PA;Military Entrepreneur;Very High;M65003;X
+245005;Minister of Security;테클레 하와리아테 ;1933;1964;1999;PA;Crime Fighter;Very High;M65002;X
+245006;Head of Military Intelligence;하일레 셀라시에 1세 ;1933;1964;1999;PA;Logistics Specialist;Very High;M65001;X
+245007;Chief of Staff;물루구에타 예가주 ;1933;1964;1999;PA;School of Defence;Very High;M65007;X
+245008;Chief of Army;데스타 담투 ;1933;1964;1999;PA;Guns and Butter Doctrine;Very High;M65008;X
+245009;Chief of Navy;세윰 망가샤 ;1933;1964;1999;PA;Indirect Approach Doctrine;Very High;M65009;X
+245010;Chief of Air Force;존 로빈슨 ;1933;1964;1999;PA;Vertical Envelopment Doctrine;Medium;M65010;X
+245011;Head of State;리지 요하네스 ;1933;1964;1999;FA;Insignificant Layman;High;M65011;X
+245012;Head of State;비토리오 에마누엘레 3세 ;1939;1964;1999;FA;Resigned Generalissimo;High;M65033;X
+245013;Head of State;임루 하일레 셀라시에 ;1933;1964;1999;SC;Benevolent Gentleman;High;M65021;X
+245014;Head of Government;마코넨 엔델카추 ;1941;1964;1999;PA;Political Protege;High;M65036;X
+245015;Head of Government;하일레 셀라시에 구그사 ;1930;1964;1999;FA;Naive Optimist;High;M65012;X
+245016;Head of Government;게타추 아바테 ;1939;1964;1999;FA;Old General;High;M65014;X
+245017;Head of Government;임루 하일레 셀라시에 ;1933;1964;1999;SC;Corporate Suit;High;M65021;X
+245018;Head of Government;블라타 조데 벨라이네 ;1941;1964;1999;SC;Silent Workhorse;High;M65024;X
+245019;Foreign Minister;마코넨 엔델카추 ;1941;1964;1999;PA;Great Compromiser;High;M65036;X
+245020;Foreign Minister;아킬리우 합테볼드 ;1942;1964;1999;PA;Biased Intellectual;Very High;M65043;X
+245021;Foreign Minister;메레드 아스파 워센 ;1945;1964;1999;PA;The Cloak N Dagger Schemer;High;M65044;X
+245022;Foreign Minister;할리우 테클레 하이마노트 ;1933;1964;1999;FA;Iron Fisted Brute;Medium;M65013;X
+245023;Foreign Minister;할리에 케베데 ;1939;1964;1999;FA;General Staffer;Medium;M65017;X
+245024;Foreign Minister;할리에 세가 ;1933;1964;1999;SC;Biased Intellectual;Medium;M65023;X
+245025;Foreign Minister;데자 지나치 나데온 ;1941;1964;1999;SC;Iron Fisted Brute;Medium;M65029;X
+245026;Foreign Minister;체하페 타에자즈 ;1941;1964;1999;SC;Ideological Crusader;Very High;M65049;X
+245027;Minister of Armament;피에르 리낭 드 베예퐁 ;1937;1964;1999;PA;Administrative Genius;Very High;M65050;X
+245028;Minister of Armament;체하페 타에자즈 ;1945;1964;1999;PA;Air Superiority Proponent;Very High;M65049;X
+245029;Minister of Armament;게타추 아바테 ;1933;1964;1999;FA;Military Entrepreneur;Medium;M65014;X
+245030;Minister of Armament;할리우 테클레 하이마노트 ;1939;1964;1999;FA;Corrupt Kleptocrat;Medium;M65013;X
+245031;Minister of Armament;블라타 조데 벨라이네 ;1933;1964;1999;SC;Resource Industrialist;Medium;M65024;X
+245032;Minister of Armament;와그숨 워센 할리우 ;1941;1964;1999;SC;Tank Proponent;Medium;M65056;X
+245033;Minister of Security;아킬리우 합테볼드 ;1941;1964;1999;PA;Efficient Sociopath;Very High;M65058;X
+245034;Minister of Security;데아자즈 가브레마리암 ;1945;1964;1999;PA;Compassionate Gentleman;Very High;M65059;X
+245035;Minister of Security;칸티바 워세네 자마넬 ;1933;1964;1999;FA;Prince of Terror;Medium;M65015;X
+245036;Minister of Security;리지 아스라테 ;1939;1964;1999;FA;Silent Lawyer;Medium;M65061;X
+245037;Minister of Security;구그사 아리야 ;1933;1964;1999;SC;Compassionate Gentleman;Medium;M65025;X
+245038;Minister of Security;아토 파시카 ;1941;1964;1999;SC;Prince of Terror;Medium;M65063;X
+245039;Head of Military Intelligence;피크레 셀라세 카타마 ;1941;1964;1999;PA;Logistics Specialist;Very High;M65065;X
+245040;Head of Military Intelligence;타므라트 이게주 ;1945;1964;1999;PA;Dismal Enigma;Very High;M65066;X
+245041;Head of Military Intelligence;마르코스 월데 가브리엘 ;1933;1964;1999;FA;Dismal Enigma;Medium;M65067;X
+245042;Head of Military Intelligence;하일레 셀라시에 구그사 ;1939;1964;1999;FA;Political Specialist;Medium;M65012;X
+245043;Head of Military Intelligence;임루 하일레 셀라시에 ;1933;1964;1999;SC;Political Specialist;Medium;M65021;X
+245044;Head of Military Intelligence;아라야 아베베 ;1941;1964;1999;SC;Industrial Specialist;Medium;M65070;X
+245045;Chief of Staff;하프테 미카엘 아가파리 ;1937;1964;1999;PA;School of Psychology;Very High;M65071;X
+245046;Chief of Staff;하일레 월데 루페 ;1945;1964;1999;PA;School of Mass Combat;Very High;M65072;X
+245047;Chief of Staff;할리에 케베데 ;1933;1964;1999;FA;School of Defence;Medium;M65017;X
+245048;Chief of Staff;월데메스칼 타리쿠 ;1933;1964;1999;SC;School of Defence;Medium;M65027;X
+245049;Chief of Staff;아바네프소 팔차 ;1941;1964;1999;SC;School of Mass Combat;Medium;M65075;X
+245050;Chief of Army;하일레 아바 메르사 ;1941;1964;1999;PA;Decisive Battle Doctrine;Very High;M65077;X
+245051;Chief of Army;아비에 아베베 ;1945;1964;1999;PA;Armoured Spearhead Doctrine;High;M65078;X
+245052;Chief of Army;카사 하일레 다르게 ;1933;1964;1999;FA;Decisive Battle Doctrine;Medium;M65018;X
+245053;Chief of Army;세윰 망가샤 ;1939;1964;1999;FA;Static Defence Doctrine;Medium;M65009;X
+245054;Chief of Army;월데메스칼 타리쿠 ;1933;1964;1999;SC;Guns and Butter Doctrine;Medium;M65027;X
+245055;Chief of Army;카사 하일레 다르게 ;1941;1964;1999;SC;Static Defence Doctrine;Medium;M65018;X
+245056;Chief of Army;아비에 아베베 ;1945;1964;1999;SC;Armoured Spearhead Doctrine;High;M65078;X
+245057;Chief of Navy;원도센 카사 ;1937;1964;1999;PA;Open Seas Doctrine;Medium;M65084;X
+245058;Chief of Navy;리지 요하네스 ;1933;1964;1999;FA;Open Seas Doctrine;Medium;M65011;X
+245059;Chief of Navy;세윰 망가샤 ;1939;1964;1999;FA;Indirect Approach Doctrine;Very High;M65009;X
+245060;Chief of Navy;데자 지나치 나데온 ;1933;1964;1999;SC;Power Projection Doctrine;Medium;M65029;X
+245061;Chief of Air Force;메스핀 실레시 ;1939;1964;1999;PA;Carpet Bombing Doctrine;Medium;M65089;X
+245062;Chief of Air Force;피타우리 자우데 고베나 ;1945;1964;1999;PA;Air Superiority Doctrine;Medium;M65020;X
+245063;Chief of Air Force;피타우리 자우데 고베나 ;1933;1964;1999;FA;Air Superiority Doctrine;Medium;M65020;X
+245064;Chief of Air Force;가브리엘 자우데 길라네 ;1933;1964;1999;SC;Army Aviation Doctrine;Medium;M65030;X
+245065;Chief of Army;기오르기스 디네그데 ;1914;1933;1999;PA;Guns and Butter Doctrine;Very High;3753;X
+245066;Chief of Army;테페리 메코넨 ;1916;1933;1999;PA;Static Defence Doctrine;Very High;2498;X
+245067;Chief of Staff;테페리 메코넨 ;1916;1933;1999;PA;School of Defence;Very High;2498;X
+245068;Chief of Staff;기오르기스 디네그데 ;1914;1933;1999;PA;School of Fire Support;Very High;3753;X
+245069;Foreign Minister;테페리 메코넨 ;1917;1933;1999;PA;Great Compromiser;High;2498;X
+245070;Foreign Minister;티자즈 월데 메스켈 ;1917;1933;1999;PA;Ideological Crusader;High;unknownminister;X
+245071;Foreign Minister;물루게타 이게주 ;1916;1933;1999;PA;General Staffer;Very High;9910;X
+245072;Foreign Minister;데자즈마크 베예네 ;1914;1933;1999;PA;biased intellectual;High;unknownminister;X
+245073;Head of Government;기오르기스 디네그데 ;1914;1933;1999;PA;Political Protege;High;3753;X
+245074;Head of State;자우디투 ;1916;1933;1999;PA;Popular Figurehead;High;2499;X
+245075;Head of State;이야수 5세 ;1914;1933;1999;PA;Stern Imperialist;High;2500;X
+245076;Minister of Armament;기오르기스 디네그데 ;1914;1933;1999;PA;Military Entrepreneur;Very High;3753;X
+245077;Head of Government;미카엘 월로 ;1913;1933;1999;PA;Happy Amateur;Medium;8027;X
+245078;Head of Military Intelligence;기오르기스 디네그데 ;1907;1926;1999;PA;Logistics Specialist;Very High;3753;X
+245079;Minister of Security;기오르기스 디네그데 ;1907;1926;1999;PA;Crime Fighter;Very High;3753;X
+245080;Chief of Air Force;기오르기스 디네그데 ;1907;1926;1999;PA;Army Aviation Doctrine;Very High;3753;X
+245081;Chief of Navy;기오르기스 디네그데 ;1907;1926;1999;PA;Power Projection Doctrine;Very High;3753;X

@@ -1,0 +1,73 @@
+MTN;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+390001;Head of State;세쿨라 드리예비치 ;1933;1964;1999;FA;Autocratic Charmer;High;M544001;X
+390002;Head of Government;블라소 쥬카노비치 ;1933;1964;1999;FA;Ambitious Union Boss;High;M544002;X
+390003;Foreign Minister;요반 S. 플라메넥 ;1933;1964;1999;FA;Iron Fisted Brute;High;M544003;X
+390004;Minister of Armament;에우겐 폰 알보리 ;1933;1964;1999;FA;Corrupt Kleptocrat;Medium;M544004;X
+390005;Minister of Security;류보 부크셰비치 ;1933;1964;1999;FA;Silent Lawyer;Medium;M544005;X
+390006;Head of Military Intelligence;밀류틴 보지치 ;1933;1964;1999;FA;Political Specialist;Medium;M544006;X
+390007;Chief of Staff;루카 고냐 ;1933;1964;1999;FA;School of Psychology;Medium;M544007;X
+390008;Chief of Army;안토 그보베노비치 ;1933;1964;1999;FA;Armoured Spearhead Doctrine;Medium;M544008;X
+390009;Chief of Navy;밀타르 마르티노비치 ;1933;1964;1999;FA;Open Seas Doctrine;Medium;M544009;X
+390010;Chief of Air Force;보라 토도로비치 ;1933;1964;1999;FA;Naval Aviation Doctrine;Medium;M544010;X
+390011;Head of State;다닐로 1세 페트로바 녜고스 ;1921;1940;1999;SC;Popular Figurehead;High;M544011;X
+390012;Head of State;이반 리바르 ;1933;1964;1999;LWR;Pig-headed Isolationist;High;M20093;X
+390013;Head of Government;사보 세로비치 ;1933;1964;1999;SC;Political Protege;High;M544013;X
+390014;Head of Government;파블 쥬리시치 ;1933;1964;1999;LWR;Old General;High;M544014;X
+390015;Foreign Minister;밀타르 마르티노비치 ;1933;1964;1999;FA;General Staffer;High;M544009;X
+390016;Foreign Minister;밀류틴 부키네크 ;1933;1964;1999;SC;Apologetic Clerk;High;M544016;X
+390017;Foreign Minister;요반 두시치 ;1933;1964;1999;LWR;The Cloak N Dagger Schemer;High;M544017;X
+390018;Minister of Armament;크르스트 쥬리시치 ;1942;1964;1999;FA;Tank Proponent;Medium;M544018;X
+390019;Minister of Armament;두한 부코비크 ;1933;1964;1999;SC;Air to Sea Proponent;Medium;M544019;X
+390020;Minister of Armament;고스 코리세브스키 ;1933;1964;1999;LWR;Infantry Proponent;Medium;M544020;X
+390021;Minister of Security;칼 볼프 ;1942;1964;1999;FA;Efficient Sociopath;Medium;M544021;X
+390022;Minister of Security;미트로판 반 ;1933;1964;1999;SC;Back Stabber;Medium;M544022;X
+390023;Minister of Security;이반 그벤코브스키 ;1933;1964;1999;LWR;Prince of Terror;Medium;M544023;X
+390024;Head of Military Intelligence;미르코 티르쿠비치 ;1933;1964;1999;SC;Dismal Enigma;Medium;M544024;X
+390025;Head of Military Intelligence;키로 필리포비치 ;1933;1964;1999;LWR;Industrial Specialist;Medium;M544025;X
+390026;Chief of Staff;발타사르 율야레비치 ;1933;1964;1999;SC;School of Mass Combat;Medium;M544026;X
+390027;Chief of Staff;파블 쥬리시치 ;1933;1964;1999;LWR;School of Defence;Medium;M544014;X
+390028;Chief of Army;빌헬름 베른트 ;1942;1964;1999;FA;Static Defence Doctrine;Medium;M544028;X
+390029;Chief of Army;보지다르 얀코비치 ;1933;1964;1999;SC;Guns and Butter Doctrine;Medium;M544029;X
+390030;Chief of Army;밀란 셰리치 ;1933;1964;1999;LWR;Elastic Defence Doctrine;Medium;M544030;X
+390031;Chief of Navy;에브게녜 포포비치 ;1933;1964;1999;SC;Decisive Naval Battle Doctrine;Medium;M544031;X
+390032;Chief of Navy;쥬라디 네그로스 ;1933;1964;1999;LWR;Indirect Approach Doctrine;Medium;M544032;X
+390033;Chief of Air Force;브란코 페트로비치 ;1933;1964;1999;SC;Air Superiority Doctrine;Medium;M544033;X
+390034;Chief of Air Force;슬로보단 얀코비치 ;1933;1964;1999;LWR;Vertical Envelopment Doctrine;Medium;M544034;X
+390035;Chief of Army;얀코 부코티치 ;1914;1933;1999;PA;static defence doctrine;Medium;2864;X
+390036;Chief of Army;마산 보조비치 ;1914;1933;1999;PA;Decisive Battle Doctrine;Medium;6122;X
+390037;Chief of Army;라도미르 베소비치 ;1914;1933;1999;PA;elastic defence doctrine;Medium;5983;X
+390038;Chief of Army;쥬로 드라고브 소크 ;1914;1933;1999;PA;Guns and Butter Doctrine;High;2865;X
+390039;Chief of Army;니콜라 1세 ;1914;1933;1999;PA;Guns and Butter Doctrine;Very High;2866;X
+390040;Chief of Staff;보지다르 얀코비치 ;1914;1933;1999;PA;school of defence;Medium;2867;X
+390041;Chief of Staff;얀코 부코티치 ;1914;1933;1999;PA;School of Psychology;High;2864;X
+390042;Chief of Staff;니콜라 1세 ;1914;1933;1999;PA;school of defence;Medium;2866;X
+390043;Foreign Minister;페타르 플라메냑 ;1914;1933;1999;PA;Great Compromiser;Medium;2868;X
+390044;Foreign Minister;미르코 미주스코비치 ;1916;1933;1999;PA;Great Compromiser;Medium;unknownminister;X
+390045;Foreign Minister;라자르 미주스코비치 ;1916;1933;1999;PA;Ideological Crusader;Medium;2869;X
+390046;Foreign Minister;밀류틴 토마노비치 ;1917;1933;1999;PA;Ideological Crusader;Medium;unknownminister;X
+390047;Head of Government;얀코 부코티치 ;1914;1933;1999;PA;Flamboyant Tough Guy;High;2864;X
+390048;Head of Government;미로 마타노비치 ;1915;1933;1999;PA;Political Protege;High;6123;X
+390049;Head of Government;라자르 미주스코비치 ;1916;1933;1999;PA;Happy Amateur;High;2869;X
+390050;Head of Government;안드리야 라도비치 ;1916;1933;1999;PA;Political Protege;High;2870;X
+390051;Head of Government;에브게녜 포포비치 ;1917;1933;1999;PA;Happy Amateur;High;unknownminister;X
+390052;Head of Government;미타르 마르티노비치 ;1914;1933;1999;PA;Old General;High;2871;X
+390053;Head of Military Intelligence;류보미르 브리키치 ;1914;1933;1999;PA;Logistics Specialist;Medium;unknownminister;X
+390054;Head of Military Intelligence;마르코 라두로비치 ;1915;1933;1999;PA;Political Specialist;Medium;2872;X
+390055;Head of Military Intelligence;얀코 스파소예비치 ;1916;1933;1999;PA;Logistics Specialist;Medium;unknownminister;X
+390056;Head of State;니콜라 1세 ;1914;1922;1999;PA;Stern Imperialist;High;2866;X
+390057;Minister of Armament;리스토 포포비치 ;1914;1933;1999;PA;military entrepreneur;Medium;2873;X
+390058;Minister of Armament;안드리야 라도비치 ;1915;1933;1999;PA;Administrative Genius;Medium;2870;X
+390059;Minister of Armament;스타니사 일리치 ;1916;1933;1999;PA;Resource Industrialist;Medium;unknownminister;X
+390060;Minister of Security;라둡 고니치 ;1914;1933;1999;PA;Crime Fighter;Medium;2874;X
+390061;Minister of Security;사보 블레티치 ;1914;1933;1999;PA;Silent Lawyer;Medium;unknownminister;X
+390062;Minister of Security;얀코 스파소예비치 ;1916;1933;1999;PA;Compassionate Gentleman;Medium;unknownminister;X
+390063;Minister of Security;요반 플레메냑 ;1914;1933;1999;PA;Compassionate Gentleman;Medium;6124;X
+390064;Head of State;Serafino Mazzolini;1941;1944;1976;FA;Insignificant Layman;High;9109;X
+390065;Head of State;Alessandro Pirzio-Biroli;1941;1944;1999;FA;Insignificant Layman;High;2953;X
+390066;Head of State;Curio Barbasetti di Prun;1943;1944;1953;FA;Insignificant Layman;High;2957;X
+390067;Head of State;Theodor Geib;1943;1944;1999;NS;Insignificant Layman;High;2958;X
+390068;Head of State;Wilhelm Keiper;1944;1963;1999;NS;Insignificant Layman;High;2978;X
+390069;Head of Government;세쿨라 드리예비치 ;1941;1944;1999;FA;Ambitious Union Boss;High;M544001;X
+390070;Head of Government;블라소 쥬카노비치 ;1941;1944;1999;FA;Ambitious Union Boss;High;M544002;X
+390071;Head of Government;류보 부크셰비치 ;1943;1963;1999;FA;Ambitious Union Boss;Medium;M544005;X

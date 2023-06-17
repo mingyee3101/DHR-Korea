@@ -1,0 +1,64 @@
+PRI;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+730047;Head of State;Grigory Semenov;1914;1964;1999;FA;Local tyrant2;High;9599;X
+730048;Head of Government;Vladimir Kislitsin;1916;1964;1999;FA;old general;High;6375;X
+730049;Foreign Minister;Prince Nikolai Ukhtomsky;1917;1964;1999;FA;general staffer;High;9943;X
+730050;Head of Government;Lev Okhotin;1933;1964;1999;NS;Political Protege;High;9944;X
+730051;Minister of Security;Alexei Baksheev;1917;1964;1999;FA;crime fighter;High;9945;X
+730052;Head of Military Intelligence;Benjamin Rychkov;1933;1964;1999;FA;Logistics Specialist;High;9946;X
+730053;Chief of Staff;Vladimir Kislitsin;1916;1964;1999;FA;School of Fire Support;High;6375;X
+730054;Chief of Army;Grigory Verzhbitsky;1915;1964;1999;FA;elastic defence doctrine;High;9947;X
+730055;Head of State;Konstantin Rodzaevsky;1925;1964;1999;NS;Local tyrant2;High;9311;X
+730056;Foreign Minister;Anastasy Vonsyatsky;1917;1964;1999;NS;ideological crusader;High;9948;X
+730057;Chief of Staff;Konstantin Rodzaevsky;1925;1964;1999;NS;school of mass combat;High;9311;X
+730058;Chief of Army;Lev Vlasyevsky;1915;1964;1999;NS;decisive battle doctrine;High;9949;X
+730059;Chief of Air Force;Lev Okhotin;1933;1964;1999;NS;Air Superiority Doctrine;High;9944;X
+730060;Chief of Navy;Boris Shepunov;1917;1964;1999;FA;Decisive Naval Battle Doctrine;High;9950;X
+730061;Minister of Armament;Ivan Mikhailov;1914;1964;1999;FA;laissez-faire capitalist;High;8887;X
+730062;Head of Military Intelligence;Mikhail Matkovskii;1921;1964;1999;NS;Dismal Enigma;High;unknownminister;X
+730001;Head of State;콘라딘 아지모프 ;1933;1964;1999;LE;Barking Buffoon;High;M527001;X
+730002;Head of Government;알렉세이 시푸노프 ;1933;1964;1999;LE;Happy Amateur;High;M527002;X
+730003;Foreign Minister;즐레타프 바란스키 ;1933;1964;1999;LE;Apologetic Clerk;High;M527003;X
+730004;Minister of Armament;페테르 쉬피탈니 ;1933;1964;1999;LE;Resource Industrialist;Medium;M527004;X
+730005;Minister of Security;세르게이 트레챠코프 ;1933;1964;1999;LE;Prince of Terror;Medium;M527005;X
+730006;Head of Military Intelligence;이반 셀레스트;1933;1964;1999;LE;Logistics Specialist;Medium;M527006;X
+730007;Chief of Staff;안톤 쉬포프 ;1933;1964;1999;LE;School of Fire Support;Medium;M527007;X
+730008;Chief of Army;트리필 쉬만스키 ;1933;1964;1999;LE;Elastic Defence Doctrine;Medium;M527008;X
+730009;Chief of Navy;비탈모 파노프 ;1933;1964;1999;LE;Open Seas Doctrine;Medium;M527009;X
+730010;Chief of Air Force;니콜라이 샤트 ;1933;1964;1999;LE;Vertical Envelopment Doctrine;Medium;M527010;X
+730011;Head of State;니콜라이 스미르노프 ;1933;1964;1999;ML;Ruthless Powermonger;High;M527011;X
+730012;Head of State;미르샤 부칠코프 ;1933;1964;1999;PA;Insignificant Layman;High;M527012;X
+730013;Head of Government;미하일 악세이모프 ;1933;1964;1999;ML;Flamboyant Tough Guy;High;M527013;X
+730014;Head of Government;겐나디 시야노프 ;1933;1964;1999;PA;Old Admiral;High;M527014;X
+730015;Foreign Minister;마흐무드 가이달;1933;1964;1999;LE;Ideological Crusader;High;M527015;X
+730016;Foreign Minister;예고르 카힌 ;1933;1964;1999;ML;Biased Intellectual;High;M527016;X
+730017;Foreign Minister;알렉세이 시도렌코 ;1933;1964;1999;ML;Great Compromiser;High;M527017;X
+730018;Foreign Minister;페테르 슐긴 ;1933;1964;1999;PA;Great Compromiser;High;M527018;X
+730019;Foreign Minister;마고메트 가사노비치 ;1933;1964;1999;PA;Iron Fisted Brute;High;M527019;X
+730020;Minister of Armament;시라주딘 하이불라예프 ;1933;1964;1999;LE;Military Entrepreneur;Medium;M527020;X
+730021;Minister of Armament;트라인 트리유바체프 ;1933;1964;1999;ML;Administrative Genius;Medium;M527021;X
+730022;Minister of Armament;겐나디 셀레즈네프 ;1933;1964;1999;ML;Air to Ground Proponent;Medium;M527022;X
+730023;Minister of Armament;블라디미르 볼샤닌 ;1933;1964;1999;PA;Tank Proponent;Medium;M527023;X
+730024;Minister of Armament;로만 바실리예프스키 ;1933;1964;1999;PA;Air to Ground Proponent;Medium;M527024;X
+730025;Minister of Security;겐나디 부카예프 ;1933;1964;1999;LE;Man of the People;Medium;M527025;X
+730026;Minister of Security;빅토르 크리스텐코 ;1933;1964;1999;ML;Compassionate Gentleman;Medium;M527026;X
+730027;Minister of Security;블라디미르 케보르코프 ;1933;1964;1999;ML;Back Stabber;Medium;M527027;X
+730028;Minister of Security;게오르지 가폰 ;1933;1964;1999;PA;Silent Lawyer;Medium;M527028;X
+730029;Minister of Security;알렉산드르 다비덴코 ;1933;1964;1999;PA;Compassionate Gentleman;Medium;M527029;X
+730030;Head of Military Intelligence;옐레나 쉬바노바 ;1933;1964;1999;LE;Industrial Specialist;Medium;M527030;X
+730031;Head of Military Intelligence;빅토르 샤닌 ;1933;1964;1999;ML;Industrial Specialist;Medium;M527031;X
+730032;Head of Military Intelligence;예고르 코테프 ;1933;1964;1999;ML;Technical Specialist;Medium;M527032;X
+730033;Head of Military Intelligence;빅토르 카렐린 ;1933;1964;1999;PA;Dismal Enigma;Medium;M527033;X
+730034;Head of Military Intelligence;윌프레드 필론 ;1933;1964;1999;PA;Logistics Specialist;Medium;M527034;X
+730035;Chief of Staff;볼다르 샬리모프 ;1933;1964;1999;LE;School of Mass Combat;Medium;M527035;X
+730036;Chief of Staff;바실리 시라예프 ;1933;1964;1999;ML;School of Defence;Medium;M527036;X
+730037;Chief of Staff;이반 비소츠키 ;1933;1964;1999;PA;School of Psychology;Medium;M527037;X
+730038;Chief of Army;이반 트레티야크 ;1933;1964;1999;LE;Static Defence Doctrine;Medium;M527038;X
+730039;Chief of Army;파벨 셰인 ;1933;1964;1999;ML;Static Defence Doctrine;Medium;M527039;X
+730040;Chief of Army;파벨 파노프 ;1933;1964;1999;PA;Decisive Battle Doctrine;Medium;M527040;X
+730041;Chief of Navy;드미트리 쿨리크 ;1933;1964;1999;LE;Indirect Approach Doctrine;Medium;M527041;X
+730042;Chief of Navy;이고르 케펜루스 ;1933;1964;1999;ML;Power Projection Doctrine;Medium;M527042;X
+730043;Chief of Navy;세르게이 부치코프 ;1933;1964;1999;PA;Decisive Naval Battle Doctrine;Medium;M527043;X
+730044;Chief of Air Force;빅토르 샤브로프 ;1933;1964;1999;LE;Army Aviation Doctrine;Medium;M527044;X
+730045;Chief of Air Force;미하이 셰브리진 ;1933;1964;1999;ML;Naval Aviation Doctrine;Medium;M527045;X
+730046;Chief of Air Force;그레고리 슈빈 ;1933;1964;1999;PA;Air Superiority Doctrine;Medium;M527046;X

@@ -1,0 +1,42 @@
+OMN;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+400001;Head of State;사이드 빈 타이무르 ;1933;1964;1999;PA;Ruthless Powermonger;High;M92001;X
+400002;Head of Government;사이드 빈 타이무르 ;1933;1964;1999;PA;Backroom Backstabber;High;M92001;X
+400003;Foreign Minister;사이드 빈 타이무르 ;1933;1964;1999;PA;General Staffer;High;M92001;X
+400004;Minister of Armament;제임스 E. 드러먼드 ;1933;1964;1999;SC;Resource Industrialist;Medium;M92004;X
+400005;Minister of Security;헨리 L.W.L. 번험 ;1933;1964;1999;SC;Compassionate Gentleman;Medium;M92005;X
+400006;Head of Military Intelligence;조프리 데니스 ;1933;1964;1999;SC;Technical Specialist;Medium;M92006;X
+400007;Chief of Staff;사이드 빈 타이무르 ;1933;1964;1999;PA;School of Defence;High;M92001;X
+400008;Chief of Army;사이드 빈 타이무르 ;1933;1964;1999;PA;Static Defence Doctrine;High;M92001;X
+400009;Chief of Navy;조프리 클레이던 ;1933;1964;1999;SC;Open Seas Doctrine;Medium;M92009;X
+400010;Chief of Air Force;압둘라 빈 타이무르 ;1933;1964;1999;PA;Air Superiority Doctrine;Medium;M92010;X
+400011;Foreign Minister;허버트 A. 로렌스 피셔 ;1939;1964;1999;SC;Great Compromiser;High;M92011;X
+400012;Foreign Minister;이브라힘 빈 타이무르 ;1944;1964;1999;PA;Iron Fisted Brute;High;M92012;X
+400013;Minister of Armament;아서 핸더슨 ;1941;1964;1999;SC;Infantry Proponent;Medium;M92013;X
+400014;Minister of Armament;제임스 H. 토마스 ;1943;1964;1999;SC;laissez-faire capitalist;Medium;M92014;X
+400015;Minister of Armament;알리 빈 타이무르 ;1945;1964;1999;SC;Corrupt Kleptocrat;Medium;M92015;X
+400016;Minister of Security;로버트 B. 핀레이 ;1940;1964;1999;SC;Silent Lawyer;Medium;M92016;X
+400017;Minister of Security;사이드 빈 타이무르 ;1945;1964;1999;PA;Efficient Sociopath;Medium;M92001;X
+400018;Head of Military Intelligence;해롤드 베레스포드 ;1942;1964;1999;SC;Industrial Specialist;Medium;M92018;X
+400019;Chief of Staff;P.A. 만 ;1938;1964;1999;SC;School of Fire Support;High;M92019;X
+400020;Chief of Staff;앵거스 더글라스 해밀턴 ;1941;1964;1999;SC;School of Mass Combat;High;M92020;X
+400021;Chief of Staff;자밀 빈 타이무르 ;1945;1964;1999;PA;School of Manoeuvre;High;M92021;X
+400022;Chief of Army;에릭 라이트 ;1938;1964;1999;SC;Guns and Butter Doctrine;High;M92022;X
+400023;Chief of Army;앵거스 더글라스 해밀턴 ;1941;1964;1999;SC;Decisive Battle Doctrine;High;M92020;X
+400024;Chief of Army;자히르 빈 타이무르 ;1945;1964;1999;PA;Elastic Defence Doctrine;High;M92024;X
+400025;Chief of Navy;데렉 리프 ;1943;1964;1999;SC;Indirect Approach Doctrine;Medium;M92025;X
+400026;Chief of Air Force;데렉 리프 ;1940;1964;1999;SC;Naval Aviation Doctrine;Medium;M92025;X
+400027;Chief of Air Force;R.E. 마틴 ;1941;1964;1999;SC;Army Aviation Doctrine;Medium;M92027;X
+400028;Chief of Air Force;파브지 빈 타이무르 ;1945;1964;1999;PA;Carpet Bombing Doctrine;Medium;M92028;X
+400029;Head of State;타이무르 빈 페이살 ;1913;1932;1999;PA;Benevolent Gentleman;Very High;6059;X
+400030;Head of Government;로버트 아서 벤 ;1913;1932;1999;PA;Smiling Oilman;Medium;unknownminister;X
+400031;Foreign Minister;타이무르 빈 페이살 ;1913;1932;1999;PA;Great Compromiser;Very High;6059;X
+400032;Minister of Armament;타이무르 빈 페이살 ;1913;1932;1999;PA;Resource Industrialist;Medium;6059;X
+400033;Minister of Security;타이무르 빈 페이살 ;1913;1932;1999;PA;Crime Fighter;Very High;6059;X
+400034;Head of Military Intelligence;타이무르 빈 페이살 ;1913;1932;1999;PA;Dismal Enigma;Medium;6059;X
+400035;Chief of Staff;퍼시 콕스 ;1904;1932;1999;PA;School of Fire Support;Medium;6057;X
+400036;Chief of Army;퍼시 콕스 ;1904;1932;1999;PA;Elastic Defence Doctrine;Medium;6057;X
+400037;Chief of Navy;퍼시 콕스 ;1904;1932;1999;PA;Power Projection Doctrine;Medium;6057;X
+400039;Head of Government;타이무르 빈 페이살 ;1904;1932;1999;PA;Political Protege;Medium;6059;X
+400040;Chief of Staff;타이무르 빈 페이살 ;1904;1932;1999;PA;School of Defence;Medium;6059;X
+400041;Chief of Army;타이무르 빈 페이살 ;1904;1932;1999;PA;Static Defence Doctrine;Medium;6059;X

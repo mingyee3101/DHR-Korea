@@ -1,0 +1,27 @@
+U12;Name;Pic Name;Skill;Start Year;End Year;Speciality1;Speciality2;Speciality3;Speciality4;Speciality5;Speciality6;Speciality7;Speciality8;Speciality9;Speciality10;Speciality11;Speciality12;Speciality13;Speciality14;Speciality15;Speciality16;Speciality17;Speciality18;Speciality19;Speciality20;Speciality21;Speciality22;Speciality23;Speciality24;Speciality25;Speciality26;Speciality27;Speciality28;Speciality29;Speciality30;Speciality31;Speciality32;x
+875001;영국 석유 노동조합 ;T301;7;1900;1970;industrial_engineering;chemistry;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+875002;영국 항공 노동조합 ;T302;6;1900;1970;aeronautics;electronics;technical_efficiency;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+875003;영국 인민 조선소 ;T303;8;1900;1970;naval_engineering;electronics;general_equipment;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+875004;영국 항공설계 노동조합 ;T304;7;1900;1970;aeronautics;electronics;technical_efficiency;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+875005;영국 인민군 ;T305;7;1900;1970;mechanics;artillery;general_equipment;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+875006;영국 전기 노동조합 ;T306;8;1900;1970;electronics;aeronautics;industrial_engineering;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+875007;하란드 앤드 울프 노동조합 ;T307;8;1900;1970;naval_engineering;naval_artillery;aeronautics;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+875008;영국 해양탐사 노동조합 ;T310;6;1900;1970;naval_engineering;electronics;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+875009;영국 인민 병기창 ;T311;8;1900;1970;mechanics;technical_efficiency;artillery;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+875010;로버트 왓슨-와트 ;T312;7;1930;1970;electronics;management;mechanics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+875011;영국 화기제조 노동조합 ;T313;6;1900;1970;mechanics;general_equipment;training;artillery;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+875012;영국 엔지니어 노동조합 ;T315;7;1900;1970;mechanics;chemistry;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+875013;제임스 채드윅 ;T309;7;1930;1970;nuclear_physics;nuclear_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+875014;빅커스-암스트롱 ;T316;8;1900;1970;mechanics;aeronautics;technical_efficiency;artillery;naval_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+875015;앨런 브룩 ;T317;6;1930;1963;decentralized_execution;small_unit_tactics;combined_arms_focus;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+875016;아서 해리스 ;T319;8;1941;1970;bomber_tactics;training;piloting;centralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+875017;찰스 포탈 ;T321;6;1930;1970;bomber_tactics;training;centralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+875018;더들리 클라크 ;T322;7;1939;1970;decentralized_execution;small_unit_tactics;training;individual_courage;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+875019;트래퍼드 리 말러리 ;T328;6;1942;1970;fighter_tactics;training;piloting;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+875020;프랭크 휘틀 ;T329;7;1936;1970;rocketry;aeronautics;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+875021;조지 패짓 톰슨 ;T330;5;1930;1970;nuclear_physics;nuclear_engineering;chemistry;general_equipment;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+875022;루이스 마운트배튼 ;T331;5;1955;1965;small_taskforce_tactics;naval_training;decentralized_execution;centralized_execution;seamanship;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+875023;앨런 튜링 ;T300;9;1930;1953;mathematics;electronics;mechanics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+875024;영국 인민 육군 ;100491;5;1900;1970;centralized_execution;large_unit_tactics;combined_arms_focus;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+875025;영국 인민 해군 ;100492;5;1900;1970;large_taskforce_tactics;naval_training;decentralized_execution;centralized_execution;seamanship;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+875026;영국 인민 공군 ;100493;5;1900;1970;bomber_tactics;training;piloting;fighter_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x

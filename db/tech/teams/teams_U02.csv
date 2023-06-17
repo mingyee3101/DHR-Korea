@@ -1,0 +1,21 @@
+U02;Name;Pic Name;Skill;Start Year;End Year;Speciality1;Speciality2;Speciality3;Speciality4;Speciality5;Speciality6;Speciality7;Speciality8;Speciality9;Speciality10;Speciality11;Speciality12;Speciality13;Speciality14;Speciality15;Speciality16;Speciality17;Speciality18;Speciality19;Speciality20;Speciality21;Speciality22;Speciality23;Speciality24;Speciality25;Speciality26;Speciality27;Speciality28;Speciality29;Speciality30;Speciality31;Speciality32;x
+825001;가든 리치 공업소 ;T23002;4;1900;1970;naval_engineering;electronics;general_equipment;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+825002;힌두스탄 항공기 ;T11403;3;1940;1970;aeronautics;electronics;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+825003;J.R.D. 타타 ;T11407;2;1900;1970;industrial_engineering;technical_efficiency;aeronautics;piloting;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+825004;마자곤 항만회사 ;T11408;4;1900;1970;naval_engineering;naval_artillery;electronics;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+825005;인도 군사학교 ;T11410;4;1900;1970;training;artillery;general_equipment;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+825006;델리 대학교 ;T11412;3;1900;1970;management;chemistry;mechanics;mathematics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+825007;벤카타 라만 ;T11415;4;1930;1970;management;training;mathematics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+825008;아치볼드 웨이벨 ;T10805;6;1942;1947;centralized_execution;large_unit_tactics;combined_arms_focus;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+825009;프랭크 메서비 ;T11417;4;1942;1947;small_unit_tactics;infantry_focus;individual_courage;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+825010;빅터 알렉산더 호프 ;T11418;3;1930;1943;large_unit_tactics;centralized_execution;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+825011;윌리엄 E. 패리 ;T11419;4;1930;1958;naval_training;centralized_execution;small_taskforce_tactics;seamanship;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+825012;인도 왕립 공군 ;100346;3;1930;1964;bomber_tactics;training;piloting;centralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+825013;인도 국영 철도 ;T11406;3;1900;1970;mechanics;industrial_engineering;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+825014;타타 제철소 ;100161;3;1907;1970;industrial_engineering;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+825015;프라풀라 찬드라 로이 ;100162;2;1889;1937;management;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+825016;인도 과학연구협회 ;100163;2;1876;1970;mathematics;nuclear_physics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+825017;벵갈 약학 화학 ;100164;3;1901;1970;medicine;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+825018;버르마흐 석유 ;100347;4;1886;1970;industrial_engineering;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+825019;알라하바드 대학교 ;100165;3;1887;1970;management;chemistry;nuclear_physics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+825020;인도 육군 사관학교 ;100348;3;1907;1970;training;centralized_execution;small_unit_tactics;infantry_focus;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x

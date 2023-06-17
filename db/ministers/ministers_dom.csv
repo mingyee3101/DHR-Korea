@@ -1,0 +1,78 @@
+DOM;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+320001;Head of State;라펠 트루히요 ;1933;1964;1999;PA;Barking Buffoon;High;M49001;X
+320002;Head of Government;하신토 비엔베니도 ;1933;1964;1999;PA;Naive Optimist;High;M49002;X
+320003;Foreign Minister;엘리아스 브라체 ;1933;1964;1999;PA;Great Compromiser;Medium;M49003;X
+320004;Minister of Armament;마누엘 데 헤수스 ;1933;1964;1999;PA;Infantry Proponent;Medium;M49004;X
+320005;Minister of Security;라펠 트루히요 ;1933;1964;1999;PA;Prince of Terror;Low;M49001;X
+320006;Head of Military Intelligence;헤수스 다 코스타 루이스 ;1933;1964;1999;PA;Technical Specialist;Medium;M49006;X
+320007;Chief of Staff;라펠 트루히요 ;1933;1964;1999;PA;School of Defence;Low;M49001;X
+320008;Chief of Army;라펠 트루히요 ;1933;1964;1999;PA;Static Defence Doctrine;Low;M49008;X
+320009;Chief of Navy;움베르토 로하스 ;1933;1964;1999;PA;Indirect Approach Doctrine;Medium;M49009;X
+320010;Chief of Air Force;아니발 바예호 소사 ;1933;1964;1999;PA;Air Superiority Doctrine;Low;M49010;X
+320011;Head of State;하신토 비엔베니도 ;1938;1964;1999;PA;Insignificant Layman;High;M49002;X
+320012;Head of State;마누엘 데 헤수스 ;1940;1964;1999;PA;Benevolent Gentleman;High;M49004;X
+320013;Head of State;엘리아스 브라체 ;1938;1964;1999;SC;Weary Stiffneck;High;M49003;X
+320014;Head of State;라파엘 에스파이야트 ;1946;1964;1999;SC;Popular Figurehead;High;M49035;X
+320015;Head of State;프란크 펠리스 미란다 ;1938;1964;1999;LWR;Popular Figurehead;High;M49030;X
+320016;Head of State;프란시스코 라미레스 ;1942;1964;1999;LWR;Autocratic Charmer;High;M49037;X
+320017;Head of Government;마누엘 데 헤수스 ;1938;1964;1999;PA;Silent Workhorse;High;M49004;X
+320018;Head of Government;라펠 트루히요 ;1940;1964;1999;PA;Backroom Backstabber;High;M49001;X
+320019;Head of Government;알베르토 비엔다 ;1938;1964;1999;SC;Happy Amateur;High;M49015;X
+320020;Head of Government;라파엘 에스파이야트 ;1942;1964;1999;SC;Political Protege;High;M49035;X
+320021;Head of Government;라파엘 보네이 폰데우르 ;1946;1964;1999;SC;Smiling Oilman;High;M49042;X
+320022;Head of Government;프란시스코 라미레스 ;1938;1964;1999;LWR;Happy Amateur;High;M49037;X
+320023;Head of Government;마리오 임버트 맥그리거 ;1942;1964;1999;SD;Corporate Suit;High;M49026;X
+320024;Head of Government;후안 보스크 ;1946;1964;1999;SD;Old General;High;M49021;X
+320025;Foreign Minister;에르네스토 보네티 ;1933;1964;1999;PA;Apologetic Clerk;Medium;M49046;X
+320026;Foreign Minister;훌리오 오르테가 프리에르 ;1937;1964;1999;PA;The Cloak N Dagger Schemer;Medium;M49047;X
+320027;Foreign Minister;아르투로 데스프라델 ;1938;1964;1999;PA;Great Compromiser;Very High;M49048;X
+320028;Foreign Minister;마누엘 페냐 바틀레 ;1943;1964;1999;PA;General Staffer;Very High;M49049;X
+320029;Foreign Minister;헤수스 데 갈린데스 ;1942;1964;1999;SC;Ideological Crusader;Medium;M49013;X
+320030;Foreign Minister;에밀리오 데 로스 산토스 ;1946;1964;1999;SC;Iron Fisted Brute;Medium;M49052;X
+320031;Foreign Minister;안토니오 레이바 포우 ;1938;1964;1999;LWR;Ideological Crusader;Medium;M49025;X
+320032;Foreign Minister;후안 보스크 ;1946;1964;1999;SD;Iron Fisted Brute;Low;M49021;X
+320033;Minister of Armament;이그나시오 바호르도 ;1940;1964;1999;PA;Administrative Genius;High;M49056;X
+320034;Minister of Armament;라펠 트루히요 ;1942;1964;1999;PA;Corrupt Kleptocrat;Very High;M49001;X
+320035;Minister of Armament;루이스 아미아모 티오 ;1946;1964;1999;PA;Corrupt Kleptocrat;Low;M49058;X
+320036;Minister of Armament;헤수스 데 갈린데스 ;1938;1964;1999;SC;laissez-faire capitalist;Medium;M49013;X
+320037;Minister of Armament;라파엘 보네이 폰데우르 ;1942;1964;1999;SC;Infantry Proponent;Medium;M49042;X
+320038;Minister of Armament;호르헤 발라게르 ;1946;1964;1999;SC;Administrative Genius;Low;M49014;X
+320039;Minister of Armament;프란시스코 쿠트리코스 ;1938;1964;1999;SD;Corrupt Kleptocrat;Low;M49024;X
+320040;Minister of Armament;마리오 임버트 맥그리거 ;1946;1964;1999;SD;Resource Industrialist;Medium;M49026;X
+320041;Minister of Security;하신토 비엔베니도 ;1938;1964;1999;PA;Crooked Kleptocrat;High;M49002;X
+320042;Minister of Security;도날드 레이드 카브랄 ;1944;1964;1999;PA;Compassionate Gentleman;Low;M49066;X
+320043;Minister of Security;엑토르 트루히요 ;1946;1964;1999;PA;Crooked Kleptocrat;High;M49067;X
+320044;Minister of Security;라파엘 에스파이야트 ;1938;1964;1999;SC;Efficient Sociopath;Medium;M49035;X
+320045;Minister of Security;알베르토 비엔다 ;1942;1964;1999;SC;Silent Lawyer;Medium;M49015;X
+320046;Minister of Security;안토니오 레이바 포우 ;1938;1964;1999;LWR;Man of the People;Medium;M49025;X
+320047;Head of Military Intelligence;마누엘 데 헤수스 ;1940;1964;1999;PA;Naval Intelligence Specialist;Medium;M49004;X
+320048;Head of Military Intelligence;호르헤 발라게르 ;1942;1964;1999;PA;Logistics Specialist;Medium;M49014;X
+320049;Head of Military Intelligence;엑토르 트루히요 ;1946;1964;1999;PA;Political Specialist;High;M49067;X
+320050;Head of Military Intelligence;알베르토 비엔다 ;1938;1964;1999;SC;Logistics Specialist;Low;M49015;X
+320051;Head of Military Intelligence;프란시스코 라미레스 ;1938;1964;1999;LWR;Industrial Specialist;High;M49037;X
+320052;Head of Military Intelligence;마리오 임버트 맥그리거 ;1946;1964;1999;SD;Dismal Enigma;Medium;M49026;X
+320053;Chief of Staff;마누엘 페냐 바틀레 ;1946;1964;1999;PA;School of Defence;Very High;M49049;X
+320054;Chief of Staff;헤수스 다 코스타 루이스 ;1938;1964;1999;SC;School of Mass Combat;Medium;M49006;X
+320055;Chief of Staff;빅토르 비냐스 로만 ;1938;1964;1999;SD;School of Fire Support;Medium;M49027;X
+320056;Chief of Army;도밍고 데 로스 산토스 ;1938;1964;1999;SC;Armoured Spearhead Doctrine;Low;M49018;X
+320057;Chief of Army;빅토르 비냐스 로만 ;1938;1964;1999;SD;Decisive Battle Doctrine;Medium;M49027;X
+320058;Chief of Navy;오노라시오 유나 로블레스 ;1940;1964;1999;PA;Open Seas Doctrine;High;M49087;X
+320059;Chief of Navy;라펠 트루히요 ;1930;1964;1999;PA;Base Control Doctrine;Very High;M49088;X
+320060;Chief of Navy;에드가르 마르티네스 ;1938;1964;1999;LWR;Indirect Approach Doctrine;Very Low;M49029;X
+320061;Chief of Air Force;훌리오 오르테가 프리에르 ;1942;1964;1999;PA;Army Aviation Doctrine;Medium;M49047;X
+320062;Chief of Air Force;디에고 트라바호 루이스 ;1942;1964;1999;SC;Carpet Bombing Doctrine;High;M49094;X
+320063;Chief of Air Force;프란크 펠리스 미란다 ;1933;1964;1999;LWR;Naval Aviation Doctrine;Medium;M49030;X
+320064;Head of State;라펠 트루히요 ;1930;1964;1999;PA;Barking Buffoon;High;M49001;X
+320065;Chief of Air Force;에드가르 마르티네스 ;1941;1964;1999;LWR;Air Superiority Doctrine;High;M49029;X
+320066;Head of State;후안 보스크 ;1933;1964;1999;LWR;Die-hard Reformer;High;M49021;X
+320067;Head of Government;헤수스 데 갈린데스 ;1933;1964;1999;LWR;Flamboyant Tough Guy;High;M49013;X
+320068;Head of State;엑토르 트루히요 ;1952;1964;1999;PA;Insignificant Layman;High;M49067;X
+320069;Head of Government;호세 보르다스 발데스 ;1913;1933;1999;ML;Corporate Suit;Medium;unknownminister;X
+320070;Head of Government;라몬 바에스 마차도 ;1914;1933;1999;ML;Naive Optimist;Medium;unknownminister;X
+320071;Head of Government;후안 이시드로 히메네스 ;1914;1933;1999;SL;Political Protege;Medium;unknownminister;X
+320072;Head of Government;프란시스코 엔리케스 ;1916;1933;1999;ML;Smiling Oilman;Medium;unknownminister;X
+320073;Head of State;호세 보르다스 발데스 ;1913;1933;1999;ML;Weary Stiffneck;Medium;unknownminister;X
+320074;Head of State;라몬 바에스 마차도 ;1914;1933;1999;ML;Popular Figurehead;Medium;unknownminister;X
+320075;Head of State;후안 이시드로 히메네스 ;1914;1933;1999;SL;Insignificant Layman;Medium;unknownminister;X
+320076;Head of State;프란시스코 엔리케스 ;1916;1933;1999;ML;Barking Buffoon;Medium;unknownminister;X

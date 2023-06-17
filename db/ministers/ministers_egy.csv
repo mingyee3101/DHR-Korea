@@ -1,0 +1,168 @@
+EGY;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+340001;Head of State;푸아드 1세 ;1933;1964;1999;SC;Autocratic Charmer;High;M512001;X
+340002;Head of Government;알리 마히르 파샤 ;1933;1964;1999;SC;Silent Workhorse;High;M512002;X
+340003;Foreign Minister;알리 마히르 파샤 ;1933;1964;1999;SC;Great Compromiser;High;M512002;X
+340004;Minister of Armament;무함마드 알 프란사위 ;1933;1964;1999;SC;Battle Fleet Proponent;Medium;M512004;X
+340005;Minister of Security;무스타파 알 나하스 파샤 ;1933;1964;1999;SC;Silent Lawyer;Medium;M512005;X
+340006;Head of Military Intelligence;무함마드 힐미 잇사 ;1933;1964;1999;SC;Dismal Enigma;Medium;M512006;X
+340007;Chief of Staff;하산 사브리 파샤 ;1933;1964;1999;SC;School of Defence;Medium;M512007;X
+340008;Chief of Army;하산 사브리 파샤 ;1933;1964;1999;SC;Static Defence Doctrine;Medium;M512007;X
+340009;Chief of Navy;압달라 지와르 파샤 ;1933;1964;1999;SC;Indirect Approach Doctrine;Medium;M512009;X
+340010;Chief of Air Force;푸아드 1세 ;1933;1964;1999;SC;Vertical Envelopment Doctrine;Medium;M512010;X
+340011;Head of State;파루크 1세 ;1933;1964;1999;SC;Insignificant Layman;High;M512011;X
+340012;Head of State;파루크 1세 ;1933;1964;1999;SL;Pig-headed Isolationist;High;M512011;X
+340013;Head of State;아가 칸 ;1945;1964;1999;SD;Benevolent Gentleman;High;M512013;X
+340014;Head of Government;무스타파 알 나하스 파샤 ;1933;1964;1999;SC;Flamboyant Tough Guy;High;M512005;X
+340015;Head of Government;하산 사브리 파샤 ;1940;1964;1999;SC;Old General;High;M512007;X
+340016;Head of Government;무함마드 누크라이시 파샤 ;1940;1964;1999;SC;Backroom Backstabber;High;M512016;X
+340017;Head of Government;무함마드 파샤 ;1933;1964;1999;ML;Happy Amateur;High;M512017;X
+340018;Head of Government;알리 마히르 파샤 ;1939;1964;1999;ML;Smiling Oilman;High;M512002;X
+340019;Head of Government;하산 시리 파샤 ;1940;1964;1999;ML;Political Protege;High;M512019;X
+340020;Head of Government;무함마드 누크라이시 파샤 ;1945;1964;1999;ML;Silent Workhorse;High;M512016;X
+340021;Head of Government;이스마일 시드키 파샤 ;1946;1964;1999;ML;Naive Optimist;High;M512021;X
+340022;Head of Government;압델하미드 바다위 파샤 ;1933;1964;1999;SL;Ambitious Union Boss;High;M512022;X
+340023;Head of Government;와세프 부트로스 갈리 ;1938;1964;1999;SL;Political Protege;High;M512023;X
+340024;Head of Government;무스타파 알 나하스 파샤 ;1942;1964;1999;SL;Backroom Backstabber;High;M512005;X
+340025;Head of Government;알리 마히르 파샤 ;1945;1964;1999;SL;Naive Optimist;High;M512025;X
+340026;Head of Government;압달라 지와르 파샤 ;1933;1964;1999;SD;Old Admiral;High;M512009;X
+340027;Head of Government;알리 함시 파샤 ;1940;1964;1999;SD;Corporate Suit;High;M512027;X
+340028;Foreign Minister;와세프 부트로스 갈리 ;1933;1964;1999;SC;The Cloak N Dagger Schemer;High;M512023;X
+340029;Foreign Minister;압델파타 야야 파샤 ;1937;1964;1999;SC;Apologetic Clerk;High;M512029;X
+340030;Foreign Minister;하산 사브리 파샤 ;1939;1964;1999;SC;General Staffer;High;M512007;X
+340031;Foreign Minister;살리브 사미 베이 ;1940;1964;1999;SC;Iron Fisted Brute;High;M512031;X
+340032;Foreign Minister;무함마드 파샤 ;1945;1964;1999;SC;Biased Intellectual;High;M512017;X
+340033;Foreign Minister;이브라힘 압델 하디 ;1946;1964;1999;SC;The Cloak N Dagger Schemer;High;M512033;X
+340034;Foreign Minister;아흐메드 카샤바 파샤 ;1947;1964;1999;SC;Apologetic Clerk;High;M512034;X
+340035;Foreign Minister;압둘라 나하위 ;1933;1964;1999;ML;Biased Intellectual;High;M512035;X
+340036;Foreign Minister;하산 시리 파샤 ;1940;1964;1999;ML;Great Compromiser;High;M512019;X
+340037;Foreign Minister;무함마드 누크라이시 파샤 ;1944;1964;1999;ML;Apologetic Clerk;High;M512016;X
+340038;Foreign Minister;압델하미드 바다위 파샤 ;1946;1964;1999;ML;The Cloak N Dagger Schemer;High;M512038;X
+340039;Foreign Minister;아흐메드 로프티 알 사예드 ;1946;1964;1999;ML;Biased Intellectual;High;M512039;X
+340040;Foreign Minister;엘리에 네심 무세리 ;1933;1964;1999;SL;Great Compromiser;High;M512040;X
+340041;Foreign Minister;알리 마히르 파샤 ;1942;1964;1999;SL;The Cloak N Dagger Schemer;High;M512002;X
+340042;Foreign Minister;알리 함시 파샤 ;1933;1964;1999;SD;The Cloak N Dagger Schemer;Medium;M512042;X
+340043;Foreign Minister;와세프 부트로스 갈리 ;1940;1964;1999;SD;Great Compromiser;High;M512023;X
+340044;Foreign Minister;무스타파 알 나하스 파샤 ;1942;1964;1999;SD;General Staffer;High;M512005;X
+340045;Minister of Armament;파루크 1세 ;1933;1964;1999;SC;Corrupt Kleptocrat;High;M512045;X
+340046;Minister of Armament;알리 타할 ;1941;1964;1999;SC;laissez-faire capitalist;High;M512046;X
+340047;Minister of Armament;무함마드 파샤 ;1943;1964;1999;SC;Resource Industrialist;High;M512017;X
+340048;Minister of Armament;압델하미드 솔리만 ;1945;1964;1999;SC;Air Superiority Proponent;Medium;M512048;X
+340049;Minister of Armament;와히드 가일람 파샤 ;1933;1964;1999;ML;laissez-faire capitalist;Medium;M512049;X
+340050;Minister of Armament;탈라트 하브 ;1938;1964;1999;ML;Administrative Genius;Medium;M512050;X
+340051;Minister of Armament;탈랄 알 쿠로스 ;1941;1964;1999;ML;Air to Ground Proponent;High;M512051;X
+340052;Minister of Armament;살리브 사미 베이 ;1945;1964;1999;ML;Tank Proponent;High;M512031;X
+340053;Minister of Armament;무함마드 살라 알 딘 ;1933;1964;1999;SL;Air to Sea Proponent;High;M512053;X
+340054;Minister of Armament;알리 하수나 파샤 ;1941;1964;1999;SL;Infantry Proponent;High;M512054;X
+340055;Minister of Armament;알리 아미르 파샤 ;1945;1964;1999;SL;Administrative Genius;High;M512055;X
+340056;Minister of Armament;무함마드 파흐미 알 카이스 ;1933;1964;1999;SD;Strategic Air Proponent;High;M512056;X
+340057;Minister of Armament;압드 엘 아짐 ;1942;1964;1999;SD;Infantry Proponent;High;M512057;X
+340058;Minister of Armament;아가 칸 ;1944;1964;1999;SD;Resource Industrialist;High;M512058;X
+340059;Minister of Security;아밀 알 후세이니 ;1938;1964;1999;SC;Efficient Sociopath;High;M512059;X
+340060;Minister of Security;무함마드 파샤 ;1940;1964;1999;SC;Compassionate Gentleman;High;M512017;X
+340061;Minister of Security;나왈 자키 ;1943;1964;1999;SC;Man of the People;High;M512061;X
+340062;Minister of Security;카멜 나비흐 파샤 ;1933;1964;1999;ML;Man of the People;Medium;M512062;X
+340063;Minister of Security;랄프 스티븐슨 ;1942;1964;1999;ML;Prince of Terror;Medium;M512063;X
+340064;Minister of Security;로마르코스 한나 파샤 ;1944;1964;1999;ML;Crime Fighter;Medium;M512064;X
+340065;Minister of Security;살리브 사미르 파샤 ;1933;1964;1999;SL;Back Stabber;Medium;M512065;X
+340066;Minister of Security;무함마드 나지브 파샤 ;1942;1964;1999;SL;Compassionate Gentleman;Medium;M512066;X
+340067;Minister of Security;무함마드 힐미 잇사 ;1945;1964;1999;SL;Man of the People;Medium;M512006;X
+340068;Minister of Security;가파르 왈리 파샤 ;1933;1964;1999;SD;Back Stabber;Medium;M512068;X
+340069;Minister of Security;마크란 에베이드 파샤 ;1940;1964;1999;SD;Man of the People;Medium;M512069;X
+340070;Minister of Security;알리 힐라리 파샤 ;1946;1964;1999;SD;Crime Fighter;Medium;M512070;X
+340071;Head of Military Intelligence;무함마드 알 프란사위 ;1933;1964;1999;SC;Technical Specialist;Medium;M512004;X
+340072;Head of Military Intelligence;피에르 라코 ;1941;1964;1999;SC;Industrial Specialist;Medium;M512072;X
+340073;Head of Military Intelligence;솔리마 사미 ;1933;1964;1999;ML;Naval Intelligence Specialist;Medium;M512073;X
+340074;Head of Military Intelligence;알리 함시 파샤 ;1933;1964;1999;SL;Industrial Specialist;Medium;M512027;X
+340075;Head of Military Intelligence;조지 크레스웰 ;1942;1964;1999;SL;Dismal Enigma;Medium;M512076;X
+340076;Head of Military Intelligence;아가 칸 ;1933;1964;1999;SD;Industrial Specialist;Medium;M512077;X
+340077;Head of Military Intelligence;와히드 라파트 ;1944;1964;1999;SD;Technical Specialist;Medium;M512078;X
+340078;Chief of Staff;압델하미드 솔리만 ;1938;1964;1999;SC;School of Psychology;Medium;M512048;X
+340079;Chief of Staff;하산 시리 파샤 ;1933;1964;1999;ML;School of Defence;High;M512019;X
+340080;Chief of Staff;아빌 나시란 ;1941;1964;1999;ML;School of Manoeuvre;Medium;M512080;X
+340081;Chief of Staff;무함마드 아플라탄 ;1933;1964;1999;SL;School of Mass Combat;Medium;M512083;X
+340082;Chief of Staff;압달라 지와르 파샤 ;1933;1964;1999;SD;School of Manoeuvre;High;M512009;X
+340083;Chief of Army;무함마드 나구입 ;1943;1964;1999;SC;Decisive Battle Doctrine;High;M512088;X
+340084;Chief of Army;하산 시리 파샤 ;1933;1964;1999;ML;Elastic Defence Doctrine;High;M512019;X
+340085;Chief of Army;무스타파 카멜 ;1933;1964;1999;SL;Decisive Battle Doctrine;High;M512087;X
+340086;Chief of Army;와세프 부트로스 갈리 ;1933;1964;1999;SD;Guns and Butter Doctrine;High;M512023;X
+340087;Chief of Navy;무함마드 아즈미 파샤 ;1943;1964;1999;SC;Base Control Doctrine;Medium;M512096;X
+340088;Chief of Navy;탈랄 알 쿠로스 ;1933;1964;1999;ML;Indirect Approach Doctrine;High;M512051;X
+340089;Chief of Navy;피에르 라코 ;1933;1964;1999;SL;Power Projection Doctrine;Medium;M512072;X
+340090;Chief of Navy;알리 하미드 파샤 ;1942;1964;1999;SL;Base Control Doctrine;Medium;unknownminister;X
+340091;Chief of Navy;와히드 라파트 ;1944;1964;1999;SD;Power Projection Doctrine;Medium;M512078;X
+340092;Chief of Air Force;압델하미드 솔리만 ;1933;1964;1999;SC;Air Superiority Doctrine;Medium;M512048;X
+340093;Chief of Air Force;무함마드 아즈미 파샤 ;1943;1964;1999;SC;Army Aviation Doctrine;Medium;M512096;X
+340094;Chief of Air Force;무함마드 나시드 ;1933;1964;1999;ML;Army Aviation Doctrine;Medium;M512105;X
+340095;Chief of Air Force;알리 마히르 파샤 ;1933;1964;1999;SL;Naval Aviation Doctrine;High;M512002;X
+340096;Chief of Air Force;알리 함시 파샤 ;1941;1964;1999;SL;Carpet Bombing Doctrine;Medium;M512027;X
+340097;Chief of Air Force;아가 칸 ;1933;1964;1999;SD;Army Aviation Doctrine;Medium;M512077;X
+340098;Chief of Air Force;솔리마 사미 ;1942;1964;1999;SD;Naval Aviation Doctrine;Medium;M512073;X
+340099;Head of State;무함마드 나구입 ;1952;1964;1999;SD;Resigned Generalissimo;High;M512088;X
+340100;Head of Government;이브라힘 압델 하디 ;1949;1964;1999;SC;Political Protege;High;M512033;X
+340101;Head of Government;무함마드 나구입 ;1952;1964;1999;SD;Old General;High;M512088;X
+340102;Minister of Armament;누레딘 아라프 ;1952;1964;1999;SD;Theoretical Scientist;High;M512114;X
+340103;Minister of Security;카말레딘 후세인 ;1952;1964;1999;SD;Prince of Terror;Medium;M512115;X
+340104;Chief of Staff;무함마드 나구입 ;1952;1964;1999;SD;School of Mass Combat;High;M512088;X
+340105;Chief of Army;가말 압델 나세르 ;1952;1964;1999;SD;Armoured Spearhead Doctrine;High;6003;X
+340106;Chief of Air Force;가말 압델 나세르 ;1952;1964;1999;SD;Carpet Bombing Doctrine;Medium;6003;X
+340107;Chief of Army;렉스 윈게이트 ;1914;1933;1999;ML;Decisive Battle Doctrine;High;2418;X
+340108;Chief of Army;리 스택 ;1914;1933;1999;ML;elastic defence doctrine;High;2419;X
+340109;Chief of Staff;리 스택 ;1914;1933;1999;ML;School of Fire Support;High;2419;X
+340110;Chief of Staff;렉스 윈게이트 ;1914;1933;1999;ML;school of manoeuvre;High;2418;X
+340111;Foreign Minister;무함마드 파크리 파샤 ;1922;1933;1999;SL;Biased Intellectual;Very High;3746;X
+340112;Foreign Minister;압드 알 칼렉 파샤 ;1914;1933;1999;SL;Great Compromiser;Very High;2420;X
+340113;Foreign Minister;아흐마드 히스멧 파샤 ;1923;1933;1999;SL;Great Compromiser;Very High;2422;X
+340114;Foreign Minister;아흐마드 지웨르 파샤 ;1924;1933;1999;SL;Great Compromiser;Very High;2421;X
+340115;Foreign Minister;와시프 갈리 에펜디 ;1914;1933;1999;FA;Ideological Crusader;High;M512023;X
+340116;Foreign Minister;타피크 리파트 파샤 ;1923;1933;1999;SL;Ideological Crusader;Very High;unknownminister;X
+340117;Foreign Minister;와시프 갈리 에펜디 ;1924;1933;1999;LWR;Ideological Crusader;Very High;M512023;X
+340118;Head of Government;무함마드 타피크 나심 파샤 ;1922;1933;1999;SL;Backroom Backstabber;Very High;2423;X
+340119;Head of Government;야야 이브라힘 파샤 ;1923;1933;1999;SL;Flamboyant Tough Guy;Very High;2424;X
+340120;Head of Government;사드 자글룰 파샤 ;1924;1933;1999;LWR;Happy Amateur;Very High;2425;X
+340121;Head of Government;아흐마드 지웨르 파샤 ;1924;1933;1999;SL;Naive Optimist;Very High;2421;X
+340122;Head of Government;사드 자글룰 파샤 ;1914;1933;1999;PA;Political Protege;Very High;2425;X
+340123;Head of Government;압드 알 칼렉 파샤 ;1914;1933;1999;SL;Smiling Oilman;Very High;2420;X
+340124;Head of State;사드 자글룰 파샤 ;1914;1933;1999;PA;powerhungry demagogue;Very High;2425;X
+340125;Head of State;압바스 2세 ;1914;1933;1999;PA;Die-hard Reformer;Very High;2426;X
+340126;Head of State;푸아드 1세 ;1914;1933;1999;ML;Autocratic Charmer;Very High;M512001;X
+340127;Minister of Armament;아들리 야칸 파샤 ;1914;1933;1999;SL;Administrative Genius;Very High;2427;X
+340128;Minister of Armament;아흐마드 히스멧 파샤 ;1923;1933;1999;SL;Laissez-Faire Capitalist;Very High;2422;X
+340129;Minister of Armament;무함마드 타피크 나심 파샤 ;1924;1933;1999;SL;Resource Industrialist;Very High;2423;X
+340130;Minister of Armament;아흐마드 지웨르 파샤 ;1924;1933;1999;SL;military entrepreneur;Very High;2421;X
+340131;Minister of Security;아흐마드 히스멧 파샤 ;1923;1933;1999;SL;Compassionate Gentleman;Very High;2422;X
+340132;Minister of Security;이스마일 시드키 ;1924;1933;1999;SL;Crime Fighter;Very High;2428;X
+340133;Minister of Security;파탈라 바라카트 ;1924;1933;1999;LWR;Man of the People;Very High;2429;X
+340134;Minister of Security;아들리 야칸 파샤 ;1914;1933;1999;SL;Silent Lawyer;Medium;2427;X
+340135;Chief of Staff;오스카 문젤 ;1951;1964;1999;PA;School of Fire Support;High;5994;x
+340136;Head of State;압델 하킴 아메르 ;1955;1964;1999;LE;Resigned Generalissimo;Medium;5995;x
+340137;Head of Government;압델 하킴 아메르 ;1955;1964;1999;LE;Old General;Medium;5995;x
+340138;Chief of Army;압델 하킴 아메르 ;1955;1964;1999;LE;Armoured Spearhead Doctrine;Medium;5995;x
+340139;Chief of Army;압델 하킴 아메르 ;1955;1964;1999;LWR;Armoured Spearhead Doctrine;Medium;5995;x
+340140;Chief of Army;압델 라티프 보그다디 ;1954;1964;1999;LWR;Static Defence Doctrine;Medium;5996;x
+340141;Minister of Security;압델 라티프 보그다디 ;1953;1964;1999;LWR;Man of the People;Medium;5996;x
+340142;Head of Military Intelligence;알리 사브리 ;1955;1964;1999;SD;Dismal Enigma;High;5997;x
+340143;Head of Military Intelligence;알리 사브리 ;1955;1964;1999;LWR;Dismal Enigma;High;5997;x
+340144;Foreign Minister;안와르 엘 사다트 ;1951;1964;1999;LWR;General Staffer;High;5998;x
+340145;Foreign Minister;안와르 엘 사다트 ;1951;1964;1999;PA;General Staffer;High;5998;x
+340146;Minister of Security;가말 살렘 ;1954;1964;1999;LWR;Prince of Terror;Medium;5999;x
+340147;Minister of Armament;할레드 모히에딘 ;1952;1964;1999;LE;Tank Proponent;Medium;6000;x
+340148;Minister of Armament;할레드 모히에딘 ;1952;1964;1999;LWR;Tank Proponent;Medium;6000;x
+340149;Chief of Staff;아지즈 알리 알 마스리 ;1937;1964;1999;FA;School of Manoeuvre;Very High;6001;x
+340150;Chief of Army;후세인 엘 샤페이 ;1954;1964;1999;SD;Decisive Battle Doctrine;Very High;6002;x
+340151;Chief of Staff;후세인 엘 샤페이 ;1944;1964;1999;SD;School of Mass Combat;Very High;6002;x
+340152;Head of Government;가말 압델 나세르 ;1954;1964;1999;SD;Flamboyant Tough Guy;Very High;6003;x
+340153;Head of State;가말 압델 나세르 ;1956;1964;1999;SD;Die-hard Reformer;Very High;6003;x
+340154;Chief of Army;무함마드 후세인 탄타위 ;1957;1964;1999;SD;Armoured Spearhead Doctrine;Very High;6004;x
+340155;Chief of Staff;무함마드 후세인 탄타위 ;1957;1964;1999;SD;School of Fire Support;Very High;6004;x
+340156;Chief of Staff;자카리아 모히에딘 ;1948;1964;1999;SD;School of Psychology;High;6005;x
+340157;Minister of Security;자카리아 모히에딘 ;1951;1964;1999;SD;Silent Lawyer;High;6005;x
+340158;Head of Military Intelligence;자카리아 모히에딘 ;1951;1964;1999;SD;Political Specialist;High;6005;x
+340159;Head of State;무함마드 나구입 ;1953;1964;1999;ML;Stern Imperialist;Very High;6006;x
+340160;Head of Government;무함마드 나구입 ;1953;1964;1999;ML;Old General;Very High;6006;x
+340161;Chief of Staff;무함마드 나구입 ;1944;1964;1999;ML;School of Defence;Very High;6006;x
+340162;Minister of Armament;무함마드 나구입 ;1952;1964;1999;ML;Infantry Proponent;Very High;6006;x
+340163;Chief of Navy;무함마드 나구입 ;1940;1964;1999;ML;Indirect Approach Doctrine;High;6006;x
+340164;Minister of Security;살라흐 나스르 ;1957;1964;1999;SD;Crime Fighter;High;6007;x
+340165;Foreign Minister;살라흐 살렘 ;1953;1964;1999;LWR;The Cloak N Dagger Schemer;Medium;6008;x
+340166;Minister of Security;사이드 크투브 ;1952;1964;1999;PA;Silent Lawyer;High;6009;x

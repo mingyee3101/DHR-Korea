@@ -1,0 +1,31 @@
+U18;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+905001;Head of State;폴 메딩거 ;1933;1964;1999;ST;Pig-headed Isolationist;High;M66021;X
+905002;Head of State;마르틴 카르프 ;1933;1964;1999;LE;Die-hard Reformer;High;M66024;X
+905003;Head of Government;레네 불룸 ;1933;1964;1999;LWR;Ambitious Union Boss;High;M66039;X
+905004;Head of Government;폴 메딩거 ;1933;1964;1999;ST;Ambitious Union Boss;High;M66021;X
+905005;Head of Government;마르틴 카르프 ;1933;1964;1999;LE;Corporate Suit;High;M66024;X
+905006;Foreign Minister;피에르 크리에르 ;1933;1964;1999;LWR;Apologetic Clerk;High;M66045;X
+905007;Foreign Minister;레네 불룸 ;1933;1964;1999;LWR;Iron Fisted Brute;High;M66039;X
+905008;Foreign Minister;폴 메딩거 ;1933;1964;1999;ST;Biased Intellectual;Medium;M66021;X
+905009;Foreign Minister;프랑수아 샴멜 ;1933;1964;1999;LE;General Staffer;Very High;M66050;X
+905010;Minister of Armament;피에르 크리에르 ;1933;1964;1999;LWR;Resource Industrialist;High;M66045;X
+905011;Minister of Armament;알렉스 피더스필 ;1933;1964;1999;LWR;Infantry Proponent;Medium;M66055;X
+905012;Minister of Armament;마르틴 카르프 ;1933;1964;1999;ST;Infantry Proponent;Medium;M66024;X
+905013;Minister of Armament;진 피에르 카우더 ;1933;1964;1999;LE;Military Entrepreneur;Medium;M66025;X
+905014;Minister of Security;레네 불룸 ;1933;1964;1999;LWR;Crime Fighter;Very High;M66039;X
+905015;Minister of Security;요제프 고에데르트 ;1933;1964;1999;LWR;Compassionate Gentleman;Medium;M66066;X
+905016;Minister of Security;진 피에르 카우더 ;1933;1964;1999;ST;Man of the People;Medium;M66025;X
+905017;Minister of Security;미셀 한센 ;1933;1964;1999;LE;Efficient Sociopath;High;M66070;X
+905018;Head of Military Intelligence;요제프 토케르트 ;1933;1964;1999;LWR;Technical Specialist;Very High;M66073;X
+905019;Head of Military Intelligence;프랑수아 샴멜 ;1933;1964;1999;LWR;Logistics Specialist;Very High;M66050;X
+905020;Head of Military Intelligence;찰스 베커 ;1933;1964;1999;LWR;Political Specialist;Very High;M66075;X
+905021;Head of Military Intelligence;진 피에르 카우더 ;1933;1964;1999;ST;Industrial Specialist;Medium;M66025;X
+905022;Head of Military Intelligence;막스 베커링 ;1933;1964;1999;LE;Dismal Enigma;Low;M66080;X
+905023;Chief of Staff;알렉스 피더스필 ;1933;1964;1999;LWR;School of Fire Support;Medium;M66055;X
+905024;Chief of Staff;프랑수아 샴멜 ;1933;1964;1999;LWR;School of Mass Combat;Very High;M66050;X
+905025;Chief of Staff;마르틴 카르프 ;1933;1964;1999;ST;School of Mass Combat;Medium;M66024;X
+905026;Chief of Army;마르틴 카르프 ;1933;1964;1999;ST;Elastic Defence Doctrine;Medium;M66024;X
+905027;Chief of Navy;폴 메딩거 ;1933;1964;1999;ST;Base Control Doctrine;Medium;M66021;X
+905028;Chief of Air Force;진 마크 슈테펜 ;1933;1964;1999;LE;Vertical Envelopment Doctrine;Medium;M66030;X
+905029;Minister of Security;오이겐 샤우스 ;1933;1964;1999;LWR;Man of the People;Medium;M66114;X

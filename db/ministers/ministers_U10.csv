@@ -1,0 +1,67 @@
+U10;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyality;Picture Name;X
+;Replacements;;;;;;;;;X
+865001;Head of State;벤야민 부르스 ;1933;1964;1999;ST;Insignificant Layman;High;M8040;X
+865002;Head of State;얀 디에테르스 ;1933;1964;1999;ST;Autocratic Charmer;High;M8041;X
+865003;Head of State;사울 더 그루트 ;1933;1964;1999;ST;Ruthless Powermonger;High;M8021;X
+865004;Head of Government;요한 알바르다 ;1933;1964;1999;LWR;Happy Amateur;High;M8043;X
+865005;Head of Government;니콜라스 뵈제마커르 ;1933;1964;1999;ST;Happy Amateur;High;M8054;X
+865006;Head of Government;다비드 베인쿠프 ;1933;1964;1999;ST;Naive Optimist;High;M8022;X
+865007;Head of Government;다니엘 가울루저 ;1933;1964;1999;ST;Smiling Oilman;High;M8025;X
+865008;Foreign Minister;세르바티우스 바르트 ;1933;1964;1999;LWR;Great Compromiser;Medium;M8057;X
+865009;Foreign Minister;헤오르허 반 덴 베르흐 ;1933;1964;1999;LWR;Iron Fisted Brute;Medium;M8059;X
+865010;Foreign Minister;얀 반 로이언 ;1933;1964;1999;LWR;Biased Intellectual;Low;M8060;X
+865011;Foreign Minister;하를레스 크라머르 ;1933;1964;1999;LWR;The Cloak N Dagger Schemer;Very High;M8062;X
+865012;Foreign Minister;벤야민 부르스 ;1933;1964;1999;ST;Great Compromiser;Medium;M8040;X
+865013;Foreign Minister;니콜라스 뵈제마커르 ;1933;1964;1999;ST;The Cloak N Dagger Schemer;Very High;M8054;X
+865014;Foreign Minister;다비드 베인쿠프 ;1933;1964;1999;ST;Biased Intellectual;Low;M8022;X
+865015;Foreign Minister;사울 더 그루트 ;1933;1964;1999;ST;Ideological Crusader;Low;M8021;X
+865016;Foreign Minister;빌렘 반 라베스터인 ;1933;1964;1999;ST;Apologetic Clerk;Medium;M8023;X
+865017;Minister of Armament;야콥 반 헬데런 ;1933;1964;1999;LWR;laissez-faire capitalist;High;M8077;X
+865018;Minister of Armament;람베르튀스 H. 만스홀트 ;1933;1964;1999;LWR;Resource Industrialist;Medium;M8078;X
+865019;Minister of Armament;요한 알바르다 ;1933;1964;1999;LWR;laissez-faire capitalist;High;M8043;X
+865020;Minister of Armament;야커스 더 카트 ;1933;1964;1999;LWR;Military Entrepreneur;High;M8081;X
+865021;Minister of Armament;하를레스 크라머르 ;1933;1964;1999;LWR;Air Superiority Proponent;Very High;M8062;X
+865022;Minister of Armament;얀 틴베르건 ;1933;1964;1999;LWR;Resource Industrialist;Very High;M8084;X
+865023;Minister of Armament;페이터르 베르그스마 ;1933;1964;1999;ST;laissez-faire capitalist;Medium;M8102;X
+865024;Minister of Armament;야커스 더 카트 ;1933;1964;1999;ST;Military Entrepreneur;High;M8081;X
+865025;Minister of Armament;얀 포스트마 ;1933;1964;1999;ST;Theoretical Scientist;Low;M8024;X
+865026;Minister of Armament;야코뷔스 엥헬스 ;1933;1964;1999;ST;Strategic Air Proponent;High;M8105;X
+865027;Minister of Security;프란크 반 데르 후스 ;1933;1964;1999;LWR;Man of the People;Medium;M8106;X
+865028;Minister of Security;얀 베르그메이어르 ;1933;1964;1999;LWR;Compassionate Gentleman;Medium;M8107;X
+865029;Minister of Security;루이스 벨 ;1933;1964;1999;LWR;Man of the People;Medium;M8044;X
+865030;Minister of Security;하를레스 크라머르 ;1933;1964;1999;LWR;Silent Lawyer;Very High;M8062;X
+865031;Minister of Security;요한 브라우티함 ;1933;1964;1999;LWR;Prince of Terror;Medium;M8110;X
+865032;Minister of Security;포커 보스만 ;1933;1964;1999;ST;Compassionate Gentleman;High;M8123;X
+865033;Minister of Security;헨드리퀴스 스네블리어트 ;1933;1964;1999;ST;Man of the People;High;M8124;X
+865034;Minister of Security;다니엘 가울루저 ;1933;1964;1999;ST;Crime Fighter;Low;M8025;X
+865035;Head of Military Intelligence;에마뉘엘 부크만 ;1933;1964;1999;LWR;Dismal Enigma;Very High;M8126;X
+865036;Head of Military Intelligence;하르멘 더 부르 ;1933;1964;1999;LWR;Political Specialist;Very High;M8127;X
+865037;Head of Military Intelligence;하를레스 크라머르 ;1933;1964;1999;LWR;Technical Specialist;Very High;M8062;X
+865038;Head of Military Intelligence;얀 람베르튀스 파베르;1933;1964;1999;LWR;Political Specialist;Very High;M8129;X
+865039;Head of Military Intelligence;빌렘 드레스 ;1933;1964;1999;LWR;Logistics Specialist;Very High;M8130;X
+865040;Head of Military Intelligence;아브라함 메니스트 ;1933;1964;1999;ST;Political Specialist;High;M8026;X
+865041;Head of Military Intelligence;이나 빌레커스 맥도날드 ;1933;1964;1999;ST;Dismal Enigma;Very High;M8141;X
+865042;Chief of Staff;베른하르트 콜토프 ;1933;1964;1999;LWR;School of Psychology;High;M8142;X
+865043;Chief of Staff;토마스 스트뤼크 ;1933;1964;1999;ST;School of Mass Combat;High;M8027;X
+865044;Chief of Staff;헤르트 스테린하 ;1933;1964;1999;ST;School of Defence;High;M8152;X
+865045;Chief of Staff;야코뷔스 엥헬스 ;1933;1964;1999;ST;School of Psychology;High;M8105;X
+865046;Chief of Army;알렉산데르 더 레이우 ;1933;1964;1999;ST;Elastic Defence Doctrine;Very High;M8162;X
+865047;Chief of Army;니코 반 스트라턴 ;1933;1964;1999;ST;Armoured Spearhead Doctrine;Low;M8028;X
+865048;Chief of Army;안톤 쿠에만스 ;1933;1964;1999;ST;Guns and Butter Doctrine;Very High;M8164;X
+865049;Chief of Navy;크리스티안 베크만 ;1933;1964;1999;ST;Base Control Doctrine;Low;M8170;X
+865050;Chief of Navy;포커 보스만 ;1933;1964;1999;ST;Open Seas Doctrine;High;M8123;X
+865051;Chief of Air Force;페트뤼스 W. 베스트 ;1933;1964;1999;LWR;Naval Aviation Doctrine;High;M8172;X
+865052;Chief of Air Force;얀 디에테르스 ;1933;1964;1999;ST;Vertical Envelopment Doctrine;High;M8041;X
+865053;Chief of Air Force;윌리우스 제거르스 ;1933;1964;1999;ST;Air Superiority Doctrine;Low;M8030;X
+865054;Chief of Army;베른하르트 콜토프 ;1933;1964;1999;LWR;Elastic Defence Doctrine;High;M8142;X
+865055;Head of State;빌헬미나 ;1933;1964;1999;LWR;Stern Imperialist;Very High;M8001;X
+865056;Head of State;율리아나 ;1933;1964;1999;LWR;Popular Figurehead;High;M8186;X
+865057;Head of Government;빌렘 드레스 ;1933;1964;1999;LWR;Ambitious Union Boss;High;M8130;X
+865058;Foreign Minister;디르크 U. 스티커르 ;1933;1964;1999;LWR;Great Compromiser;Medium;M8189;X
+865059;Foreign Minister;얀 빌렘 베이언 ;1933;1964;1999;LWR;Apologetic Clerk;Medium;M8190;X
+865060;Minister of Armament;빔 스호킹 ;1933;1964;1999;LWR;Air to Ground Proponent;Medium;M8191;X
+865061;Minister of Armament;루이스 더 비서르 ;1933;1964;1999;LE;Theoretical Scientist;Medium;M8192;X
+865062;Minister of Armament;케스 스타프 ;1933;1964;1999;LWR;Resource Industrialist;Medium;M8193;X
+865063;Minister of Security;퇸 스트루이켄 ;1933;1964;1999;LWR;Back Stabber;Medium;M8195;X
+865064;Minister of Security;헨리크 뮐데르이어 ;1933;1964;1999;LWR;Crime Fighter;Medium;M8196;X
+865065;Minister of Security;레엔더르트 A. 돈커르 ;1933;1964;1999;LWR;Compassionate Gentleman;Medium;M8197;X

@@ -1,0 +1,46 @@
+LAO;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+685001;Head of State;시사방 봉 ;1933;1964;1999;SL;Pig-headed Isolationist;High;M540001;X
+685002;Head of Government;유진 유트로프 ;1933;1964;1999;SL;Political Protege;High;M540002;X
+685003;Foreign Minister;파야 카마오;1933;1964;1999;SL;Great Compromiser;High;M540003;X
+685004;Minister of Armament;자크 무셀 블레소 ;1933;1964;1999;SL;Resource Industrialist;Medium;M540004;X
+685005;Minister of Security;자크 르노뱅 ;1933;1964;1999;SL;Compassionate Gentleman;Medium;M540005;X
+685006;Head of Military Intelligence;루이 A.M. 브레시 ;1933;1964;1999;SL;Dismal Enigma;Medium;M540006;X
+685007;Chief of Staff;아드리앙 A.M. 로크 ;1933;1964;1999;SL;School of Defence;Medium;M540007;X
+685008;Chief of Army;펫사랏 마하오파탓 ;1933;1964;1999;SL;Static Defence Doctrine;Medium;M540008;X
+685009;Chief of Navy;소바나 라트 ;1933;1964;1999;SL;Decisive Naval Battle Doctrine;Medium;M540009;X
+685010;Chief of Air Force;보운 옴 ;1933;1964;1999;SL;Army Aviation Doctrine;Medium;M540010;X
+685011;Head of State;사방 반타나 ;1933;1964;1999;PA;Autocratic Charmer;High;M540011;X
+685012;Head of State;수파누 봉 ;1933;1964;1999;ST;Die-hard Reformer;High;M540012;X
+685013;Head of Government;아드리앙 A.M. 로크 ;1940;1964;1999;SL;Old General;High;M540007;X
+685014;Head of Government;루이 A.M. 브레시 ;1941;1964;1999;SL;Ambitious Union Boss;High;M540006;X
+685015;Head of Government;파야 카마오 ;1945;1964;1999;SL;Corporate Suit;High;M540003;X
+685016;Head of Government;보운 옴 ;1946;1964;1999;SL;old airmarshal;High;M540010;X
+685017;Head of Government;소바나 라트 ;1947;1964;1999;SL;Flamboyant Tough Guy;High;M540009;X
+685018;Head of Government;펫사랏 마하오파탓 ;1933;1964;1999;PA;Old General;High;M540008;X
+685019;Head of Government;캄부라톰 오마우 ;1933;1964;1999;ST;Happy Amateur;High;M540019;X
+685020;Head of Government;폼비한 카이손 ;1945;1964;1999;ST;Backroom Backstabber;High;M540020;X
+685021;Foreign Minister;사소리트 카타이돈;1942;1964;1999;SL;The Cloak N Dagger Schemer;High;M540021;X
+685022;Foreign Minister;보운 옴 ;1933;1964;1999;PA;General Staffer;High;M540010;X
+685023;Foreign Minister;피에르 브로솔레트 ;1933;1964;1999;LE;Iron Fisted Brute;High;M540023;X
+685024;Minister of Armament;레옹 마르티노 드플라 ;1942;1964;1999;SL;Tank Proponent;Medium;M540024;X
+685025;Minister of Armament;소바나 라트 ;1933;1964;1999;PA;laissez-faire capitalist;Medium;M540009;X
+685026;Minister of Armament;쥘 뮈라키올 ;1933;1964;1999;ST;Infantry Proponent;Medium;M540026;X
+685027;Minister of Security;자크 르콩트 부아네 ;1942;1964;1999;SL;Back Stabber;Medium;M540027;X
+685028;Minister of Security;펫사랏 마하오파탓 ;1933;1964;1999;PA;Silent Lawyer;Medium;M540008;X
+685029;Minister of Security;폼비한 카이손;1933;1964;1999;ST;Efficient Sociopath;Medium;M540029;X
+685030;Head of Military Intelligence;루이 마이레 ;1942;1964;1999;SL;Logistics Specialist;Medium;M540030;X
+685031;Head of Military Intelligence;포산나니 콘 ;1933;1964;1999;PA;Political Specialist;Medium;M540031;X
+685032;Head of Military Intelligence;캄부라톰 오마우 ;1933;1964;1999;ST;Technical Specialist;Medium;M540019;X
+685033;Chief of Staff;로제르 시노 ;1942;1964;1999;SL;School of Mass Combat;Medium;M540033;X
+685034;Chief of Staff;아파이 카오 ;1933;1964;1999;PA;School of Manoeuvre;Medium;M540034;X
+685035;Chief of Staff;피치트 두옹차이 ;1933;1964;1999;ST;School of Psychology;Medium;M540035;X
+685036;Chief of Army;앙리 아들린 ;1943;1964;1999;SL;Elastic Defence Doctrine;Medium;M540036;X
+685037;Chief of Army;사방 봉 ;1933;1964;1999;PA;Armoured Spearhead Doctrine;Medium;M540037;X
+685038;Chief of Army;방 파오 ;1933;1964;1999;ST;Guns and Butter Doctrine;Medium;M540038;X
+685039;Chief of Navy;모리스 베이루 ;1943;1964;1999;SL;Base Control Doctrine;Medium;M540039;X
+685040;Chief of Navy;아파이 카오 ;1933;1964;1999;PA;Power Projection Doctrine;Medium;M540034;X
+685041;Chief of Navy;수파누 봉 ;1933;1964;1999;ST;Open Seas Doctrine;Medium;M540041;X
+685042;Chief of Air Force;피에르 드 매스몽 ;1942;1964;1999;SL;Carpet Bombing Doctrine;Medium;M540042;X
+685043;Chief of Air Force;소리트 사소리트 ;1933;1964;1999;PA;Air Superiority Doctrine;Medium;M540043;X
+685044;Chief of Air Force;방 파오 ;1933;1964;1999;ST;Vertical Envelopment Doctrine;Medium;M540038;X

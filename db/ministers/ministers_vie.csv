@@ -1,0 +1,230 @@
+VIE;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+790001;Head of State;¹Ù¿À´ÙÀÌ ;1925;1964;1999;SL;Weary Stiffneck;High;M542001;X
+790002;Head of Government;¸£·¹ ·Î¹ğ ;1933;1964;1999;SL;Flamboyant Tough Guy;High;M542002;X
+790003;Foreign Minister;¶Ëµ¶ÇÁ¾û ;1933;1964;1999;SL;The Cloak N Dagger Schemer;High;M542003;X
+790004;Minister of Armament;ÀÀ¿ì¿º¹İ¶¶ ;1933;1964;1999;SL;Resource Industrialist;Medium;M542004;X
+790005;Minister of Security;È£´ÚÂä ;1933;1964;1999;SL;Man of the People;Medium;M542005;X
+790006;Head of Military Intelligence;Àå µåÄí ;1933;1964;1999;SL;Logistics Specialist;Medium;M542006;X
+790007;Chief of Staff;Á¶¸£ÁÖ Ä«Æ®·Î ;1933;1964;1999;SL;School of Manoeuvre;Medium;L24029;X
+790008;Chief of Army;±â µå º¸¾Æ¸£³× ;1933;1964;1999;SL;Static Defence Doctrine;Medium;M542008;X
+790009;Chief of Navy;ÇÇ¿¡¸£ ÆÄ½ºÅ°¿¡ ;1933;1964;1999;SL;Decisive Naval Battle Doctrine;Medium;M542009;X
+790010;Chief of Air Force;Áæ ºê·¹ºñ ;1933;1964;1999;SL;Army Aviation Doctrine;Medium;M542010;X
+790011;Head of State;È£Âî¹Î ;1933;1964;1999;LE;Ruthless Powermonger;High;M542012;X
+790012;Head of Government;Áæ ºê·¹ºñ ;1933;1964;1999;SL;old airmarshal;High;M542010;X
+790013;Head of Government;Á¶¸£ÁÖ Ä«Æ®·Î ;1939;1964;1999;SL;Old General;High;L24029;X
+790014;Head of Government;Àå µåÄí ;1940;1964;1999;SL;Naive Optimist;High;M542006;X
+790015;Head of Government;Á¶¸£ÁÖ Æ¼¿¡¸® ´Ù¸£Á¤·ç ;1945;1964;1999;SL;Old Admiral;High;L24173;X
+790016;Head of Government;¿¡¹Ğ º¸¾ß·¹¸£ ;1947;1964;1999;SL;Corporate Suit;High;M542017;X
+790017;Head of Government;ÀÀ¿ÀµòÁö¿¥ ;1933;1964;1999;PA;Smiling Oilman;High;M542018;X
+790018;Head of Government;Âê¾ûÂğ ;1933;1964;1999;LE;Backroom Backstabber;High;M542019;X
+790019;Foreign Minister;·çÀÌ Á¶ÇÁ¸£ ;1938;1964;1999;SL;Great Compromiser;High;M542020;X
+790020;Foreign Minister;·¹¿Ë½º Á¶¸£ ;1940;1964;1999;SL;General Staffer;High;M542021;X
+790021;Foreign Minister;ÀÀ¿ÀµòÁö¿¥ ;1943;1964;1999;SL;Iron Fisted Brute;High;M542018;X
+790022;Foreign Minister;ÀÀ¿ì¿º¹İ¾¥¾ğ ;1933;1964;1999;PA;Apologetic Clerk;High;6400;X
+790023;Foreign Minister;ÆÊ¹İµ¿ ;1933;1964;1999;LE;Ideological Crusader;High;M542024;X
+790024;Minister of Armament;ÀÀ¿ì¿º¹İÆ¾ ;1941;1964;1999;SL;Battle Fleet Proponent;Medium;M542025;X
+790025;Minister of Armament;ÇÇ¿¡¸£ ¸£Æ÷½´ ;1943;1964;1999;SL;Administrative Genius;Medium;M542026;X
+790026;Minister of Armament;·¹¹İÈ£¾Ç ;1933;1964;1999;PA;Theoretical Scientist;Medium;M542027;X
+790027;Minister of Armament;Áî¾ûÆ¼¿¡¿ì¶ß¾ï ;1941;1964;1999;PA;Submarine Proponent;Medium;M542028;X
+790028;Minister of Armament;ÆÊµÎÀÌÅæ ;1943;1964;1999;PA;Resource Industrialist;Medium;M542029;X
+790029;Minister of Armament;·¹ÁÖ¾ğ ;1933;1964;1999;LE;Military Entrepreneur;Medium;M542030;X
+790030;Minister of Security;ÇÇ¿¡¸£ ·çÀÌ µå·¹Ç¶½º ;1942;1964;1999;SL;Compassionate Gentleman;Medium;M542031;X
+790031;Minister of Security;Â§ÀÚÅä¾ÆÀÌ ;1943;1964;1999;SL;Efficient Sociopath;Medium;M542032;X
+790032;Minister of Security;ÀÀ¿ÀÁø´º ;1933;1964;1999;PA;Prince of Terror;Medium;M542033;X
+790033;Minister of Security;Áî¾û¹İ¹Î ;1943;1964;1999;PA;Back Stabber;Medium;6389;X
+790034;Minister of Security;ÅÂ·ç ;1933;1964;1999;LE;Silent Lawyer;Medium;M542035;X
+790035;Head of Military Intelligence;¿¡¹Ğ º¸¾ß·¹¸£ ;1941;1964;1999;SL;Political Specialist;Medium;M542017;X
+790036;Head of Military Intelligence;ÇÇ¿¡¸£ ÀÏ·¹ ;1943;1964;1999;SL;Naval Intelligence Specialist;Medium;M542037;X
+790037;Head of Military Intelligence;ÆÊ¶ÈÄíÀÌ¾î ;1933;1964;1999;PA;Dismal Enigma;Medium;M542038;X
+790038;Head of Military Intelligence;ÆÇÈÄÀÌ„ª ;1933;1964;1999;LE;Political Specialist;Medium;M542039;X
+790039;Head of Military Intelligence;·¹Å¸ÀÎ ;1941;1964;1999;LE;Industrial Specialist;Medium;M542040;X
+790040;Chief of Staff;·¹¿Ë½º Á¶¸£ ;1940;1964;1999;SL;School of Fire Support;Medium;M542021;X
+790041;Chief of Staff;·¹„œ ;1945;1964;1999;SL;School of Mass Combat;Medium;M542042;X
+790042;Chief of Staff;ÀÀ¿ì¿ºÈå¿ì²¿ ;1933;1964;1999;PA;School of Defence;Medium;M542043;X
+790043;Chief of Staff;º¸ÀÀ¿ì¿ºÀâ ;1933;1964;1999;LE;School of Psychology;Medium;M542044;X
+790044;Chief of Army;Àå µåÄí ;1941;1964;1999;SL;Decisive Battle Doctrine;Medium;M542006;X
+790045;Chief of Army;Áî¾û¹İ¹Î ;1945;1964;1999;SL;Armoured Spearhead Doctrine;Medium;6389;X
+790046;Chief of Army;È£Âî¹Î ;1933;1964;1999;LE;Guns and Butter Doctrine;Medium;M542047;X
+790047;Chief of Army;º¸ÀÀ¿ì¿ºÀâ ;1942;1964;1999;LE;Elastic Defence Doctrine;Medium;M542048;X
+790048;Chief of Navy;ÇÇ¿¡¸£ ÀÏ·¹ ;1942;1964;1999;SL;Base Control Doctrine;Medium;M542037;X
+790049;Chief of Navy;Á¶¸£ÁÖ Æ¼¿¡¸® ´Ù¸£Á¤·ç ;1944;1964;1999;SL;Open Seas Doctrine;Medium;L24173;X
+790050;Chief of Navy;È£¶²²Ù¿º ;1933;1964;1999;PA;Indirect Approach Doctrine;Medium;M542051;X
+790051;Chief of Navy;¶ß¶û¶ÓÁ· ;1933;1964;1999;LE;Power Projection Doctrine;Medium;M542052;X
+790052;Chief of Air Force;¹Ì¼Ğ ºÎµğ¿¡ ;1942;1964;1999;SL;Naval Aviation Doctrine;Medium;M542053;X
+790053;Chief of Air Force;ÇÁ·¹µ¥¸¯ ¸£ ¶ûÁî ;1933;1964;1999;PA;Vertical Envelopment Doctrine;Medium;M542054;X
+790054;Chief of Air Force;ÀÀ¿ì¿ºÈå¿ìÅä ;1933;1964;1999;LE;Air Superiority Doctrine;Medium;M542055;X
+790055;Head of State;ÁÖÀÌ¶² ;1914;1933;1999;PA;Popular Figurehead;Very high;6383;X
+790056;Head of Government;ÂŞ¿Ë´©²ô¾û ;1914;1933;1999;PA;Flamboyant Tough Guy;Medium;6384;X
+790057;Foreign Minister;È£´ÚÂä ;1914;1933;1999;PA;Biased Intellectual;Medium;M542005;X
+790058;Minister of Armament;È£¾Ó±î¿ÀÄ«ÀÌ ;1914;1933;1999;PA;Military Entrepreneur;Medium;6385;X
+790059;Minister of Security;ÈÄÀÎ²Á ;1914;1933;1999;PA;Compassionate Gentleman;Medium;6386;X
+790060;Head of Military Intelligence;È£¾Ó±î¿ÀÄ«ÀÌ ;1914;1933;1999;PA;Political Specialist;Medium;6385;X
+790061;Chief of Staff;È£¾Ó±î¿ÀÄ«ÀÌ ;1914;1933;1999;PA;School of Psychology;Medium;6385;X
+790062;Chief of Army;ÁÖÀÌ¶² ;1914;1933;1999;PA;Guns and Butter Doctrine;Very high;6383;X
+790063;Chief of Navy;ÁÖÀÌ¶² ;1914;1933;1999;PA;Base Control Doctrine;Very high;6383;X
+790064;Chief of Air Force;ÁÖÀÌ¶² ;1914;1933;1999;PA;Army Aviation Doctrine;Very high;6383;X
+790065;Head of State;Ä«ÀÌµò ;1916;1933;1999;PA;Autocratic Charmer;Very high;6387;X
+790066;Head of State;²Ù¿ËÀç ;1922;1933;1999;FA;Stern Imperialist;High;6388;X
+790067;Head of State;ÀÀ¿ÀµòÁö¿¥ ;1955;1964;1999;PA;Autocratic Charmer;Medium;M542018;X
+790068;Head of State;Áî¾û¹İ¹Î ;1963;1970;1999;PA;Resigned Generalissimo;Medium;6389;X
+790069;Head of State;ÀÀ¿ì¿ºÄ«ÀÎ ;1964;1970;1999;PA;Resigned Generalissimo;Medium;6390;X
+790070;Head of State;Â¾Æ¼¿£Å°¿¥ ;1964;1970;1999;SC;Resigned Generalissimo;Medium;6391;X
+790071;Head of State;ÆÇÄ¬½º¿ì ;1964;1970;1999;SC;Weary Stiffneck;Medium;6392;X
+790072;Head of Government;²Ù¿ËÀç ;1922;1933;1999;FA;Silent Workhorse;Medium;6388;X
+790073;Head of Government;ÆÇº¸ÀÌÂ¼¿ì ;1922;1933;1999;SC;Naive Optimist;Medium;6393;X
+790074;Head of Government;ÀÀ¿ì¿ºÈå¿ì¹ÙÀÌ ;1923;1933;1999;PA;Flamboyant Tough Guy;Medium;6394;X
+790075;Head of Government;¶ÉÅ¿ÇÑ ;1925;1933;1999;PA;Silent Workhorse;Medium;6395;X
+790076;Head of Government;ÆÊ²ÙÀÎ ;1932;1933;1999;PA;Backroom Backstabber;Medium;6396;X
+790077;Head of Government;ÈËÀåÀÀ¿ì¿º ;1933;1964;1999;FA;Corporate Suit;Medium;unknownminister;X
+790078;Head of Government;Â¾²Îºó ;1933;1964;1999;FA;Backroom Backstabber;Medium;6397;X
+790079;Head of Government;Â¾ÂĞ³¦ ;1945;1964;1999;PA;Naive Optimist;Medium;6398;X
+790080;Head of Government;ÀÀ¿ì¿º¹İÆ¾ ;1946;1964;1999;SL;Naive Optimist;Medium;M542025;X
+790081;Head of Government;·¹¹İÈ£¾Ç ;1946;1964;1999;SL;Naive Optimist;Medium;6399;X
+790082;Head of Government;ÀÀ¿ì¿º¹İ¾¥¾ğ ;1947;1964;1999;SL;Old General;Medium;6400;X
+790083;Head of Government;¹Ù¿À´ÙÀÌ ;1949;1964;1999;SL;Flamboyant Tough Guy;Medium;M542001;X
+790084;Head of Government;ÀÀ¿ì¿ºÆÇ·Õ ;1950;1964;1999;SL;Naive Optimist;Medium;6401;X
+790085;Head of Government;Â¾¹İÈå¿ì ;1950;1964;1999;SL;Flamboyant Tough Guy;Medium;6402;X
+790086;Head of Government;ÀÀ¿ì¿º¹İ¶¶ ;1952;1964;1999;SL;Backroom Backstabber;Medium;M542004;X
+790087;Head of Government;ºÎ¿ì·Ï ;1954;1964;1999;SL;Political Protege;Medium;6403;X
+790088;Head of Government;ÀÀ¿ÀÁø´º ;1955;1964;1999;PA;Political Protege;High;M542033;X
+790089;Head of Government;ÀÀ¿ì¿ºÀÀ¿ÁÅä ;1963;1970;1999;SC;Flamboyant Tough Guy;Medium;7984;X
+790090;Head of Government;ÀÀ¿ì¿ºÄ«ÀÎ ;1964;1970;1999;PA;Backroom Backstabber;Medium;6390;X
+790091;Head of Government;ÀÀ¿ì¿º¾¥¾ğ¿À¾ÆÀÎ ;1964;1970;1999;SC;Corporate Suit;Medium;6404;X
+790092;Head of Government;Â§¹İÈÄ¿Ë ;1964;1970;1999;SC;Flamboyant Tough Guy;Medium;6405;X
+790093;Foreign Minister;ÈÄÀÎ²Á ;1914;1933;1999;PA;Biased Intellectual;Medium;6386;X
+790094;Foreign Minister;ÀÀ¿ì¿ºÄ¬´Ï¿¥ ;1920;1933;1999;PA;Biased Intellectual;Medium;7980;X
+790095;Foreign Minister;ÆÇº¸ÀÌÂ¼¿ì ;1922;1933;1999;SC;Biased Intellectual;Medium;6393;X
+790096;Foreign Minister;Å¸ÀÌ¹İ¶Ç¾È ;1922;1933;1999;PA;Biased Intellectual;Medium;6406;X
+790097;Foreign Minister;ÀÀ¿ì¿ºÁøÈ£¾Ö ;1923;1933;1999;PA;Biased Intellectual;Medium;unknownminister;X
+790098;Foreign Minister;Â§¹İ¾È ;1933;1964;1999;FA;Apologetic Clerk;Medium;6407;X
+790099;Foreign Minister;ÀÀ¿ì¿º¹İ¾¥¾ğ ;1945;1964;1999;SL;General Staffer;High;6400;X
+790100;Foreign Minister;Â§¹İÂŞ¿Ë ;1945;1964;1999;SL;Great Compromiser;Medium;6408;X
+790101;Foreign Minister;ÀÀ¿ì¿º¹İ·Õ ;1949;1964;1999;SC;Biased Intellectual;Medium;unknownminister;X
+790102;Foreign Minister;ÀÀ¿ì¿ºÆÇ·Õ ;1950;1964;1999;SL;Biased Intellectual;Medium;6401;X
+790103;Foreign Minister;Â¾¹İÈå¿ì ;1950;1964;1999;PA;Biased Intellectual;Medium;6402;X
+790104;Foreign Minister;ÂŞ¿Ëºó¶Ë ;1952;1964;1999;SC;The Cloak N Dagger Schemer;Medium;unknownminister;X
+790105;Foreign Minister;ÀÀ¿ì¿º²Ù¿ÁÁø ;1954;1964;1999;SC;The Cloak N Dagger Schemer;Medium;unknownminister;X
+790106;Foreign Minister;Â§¹İÁ¶ ;1954;1964;1999;SC;Great Compromiser;Medium;7981;X
+790107;Foreign Minister;ÀÀ¿ÀÁø·ç¿º ;1955;1964;1999;PA;Ideological Crusader;High;6409;X
+790108;Foreign Minister;ºÎ¹İ¸¶¿ì ;1955;1964;1999;SC;Biased Intellectual;Medium;6410;X
+790109;Foreign Minister;ÆÊÀå¶÷ ;1963;1970;1999;PA;Apologetic Clerk;Medium;6411;X
+790110;Foreign Minister;ÆÇÈÄÀÌ„ª ;1964;1970;1999;SC;Ideological Crusader;Medium;M542039;X
+790111;Minister of Armament;ÀÀ¿ì¿ºÈå¿ì¹ÙÀÌ ;1914;1933;1999;PA;Administrative Genius;Medium;6394;X
+790112;Minister of Armament;ÈÄÀÎ²Á ;1914;1933;1999;PA;Resource Industrialist;Medium;6386;X
+790113;Minister of Armament;ÆÇº¸ÀÌÂ¼¿ì ;1922;1933;1999;SC;Theoretical Scientist;Medium;6393;X
+790114;Minister of Armament;²Ù¿ËÀç ;1922;1933;1999;FA;Laissez-faire Capitalist;Medium;6388;X
+790115;Minister of Armament;ÆÊ²ÙÀÎ ;1929;1964;1999;PA;Laissez-faire Capitalist;Medium;6396;X
+790116;Minister of Armament;Å¸ÀÌ¹İ¶Ç¾È ;1929;1964;1999;PA;Administrative Genius;Medium;6406;X
+790117;Minister of Armament;ÀÀ¿ì¿º¹İ¶¶ ;1930;1964;1999;SL;Resource Industrialist;Medium;M542004;X
+790118;Minister of Armament;È£ÀÛÄ«ÀÌ ;1933;1964;1999;PA;Resource Industrialist;Medium;6412;X
+790119;Minister of Armament;Â§ÈÄ¿ì²Ç ;1933;1964;1999;FA;Administrative Genius;Medium;unknownminister;X
+790120;Minister of Armament;È£¾Ó³²ÈË ;1933;1964;1999;FA;Theoretical Scientist;Medium;7983;X
+790121;Minister of Armament;ÈÄ¾Ó¾¥¾ğÇÑ ;1945;1964;1999;SL;Theoretical Scientist;Medium;6413;X
+790122;Minister of Armament;ÀÀ¿ì¿º¹İÈù ;1945;1964;1999;SL;Air to Ground Proponent;Medium;6414;X
+790123;Minister of Armament;ÆÇ¾ÆÀÎ ;1945;1964;1999;SL;Administrative Genius;Medium;6415;X
+790124;Minister of Armament;ÀÀ¿ì¿º¹İ¾¥¾ğ ;1946;1964;1999;SL;Infantry Proponent;Medium;6400;X
+790125;Minister of Armament;Â¾²Îºó ;1948;1964;1999;PA;Military Entrepreneur;Medium;6397;X
+790126;Minister of Armament;Â¾¹İÈå¿ì ;1950;1964;1999;PA;Administrative Genius;Medium;6402;X
+790127;Minister of Armament;ÀÀ¿ì¿º¹İºñ ;1952;1964;1999;SL;Military Entrepreneur;Medium;6416;X
+790128;Minister of Armament;Â§ÂäÁß ;1954;1964;1999;SC;Theoretical Scientist;Medium;6417;X
+790129;Minister of Armament;ÆÇÈÄÀÌ„ª ;1954;1964;1999;SC;Theoretical Scientist;Medium;M542039;X
+790130;Minister of Armament;ÀÀ¿ÀµòÁö¿¥ ;1954;1964;1999;PA;Resource Industrialist;Medium;M542018;X
+790131;Minister of Armament;ÀÀ¿ÀÁø±ñ ;1955;1964;1999;PA;Corrupt Kleptocrat;High;6418;X
+790132;Minister of Armament;Áî¾û¹İ¹Î ;1956;1964;1999;PA;Military Entrepreneur;Medium;6389;X
+790133;Minister of Armament;ÀÀ¿ì¿ºÄ«ÀÎ ;1959;1964;1999;PA;Infantry Proponent;Medium;6390;X
+790134;Minister of Armament;Â§¹İÁ¸ ;1963;1970;1999;PA;Corrupt Kleptocrat;Medium;6419;X
+790135;Minister of Armament;Â¾Æ¼¿£Å°¿¥ ;1964;1970;1999;SC;Military Entrepreneur;Medium;6391;X
+790136;Minister of Armament;ÀÀ¿ì¿º¹İÆ¼¾Ö¿ì ;1964;1970;1999;PA;Corrupt Kleptocrat;Medium;6432;X
+790137;Minister of Security;ÂŞ¿Ë´©²ô¾û ;1914;1933;1999;PA;Prince of Terror;Medium;6384;X
+790138;Minister of Security;ÀÀ¿ì¿ºÈå¿ì¹ÙÀÌ ;1917;1933;1999;PA;Man of the People;Medium;6394;X
+790139;Minister of Security;¶ÉÅ¿ÇÑ ;1925;1933;1999;PA;Compassionate Gentleman;Medium;6395;X
+790140;Minister of Security;Å¸ÀÌ¹İ¶Ç¾È ;1933;1933;1999;PA;Compassionate Gentleman;Medium;6406;X
+790141;Minister of Security;ºÎÀÌÀåÁ¶¾È ;1933;1933;1999;PA;Silent Lawyer;Medium;6437;X
+790142;Minister of Security;ÀÀ¿ÀµòÁö¿¥ ;1933;1933;1999;PA;Back Stabber;Medium;M542018;X
+790143;Minister of Security;ÀÀ¿ì¿ºÇÏÀÌÅº ;1933;1964;1999;FA;Efficient Sociopath;Medium;unknownminister;X
+790144;Minister of Security;È£¾Ó³²ÈË ;1933;1964;1999;FA;Man of the People;Medium;7983;X
+790145;Minister of Security;È£ÀÀ¿Á¶÷ ;1933;1964;1999;FA;Back Stabber;Medium;unknownminister;X
+790146;Minister of Security;ÆÊ²ÙÀÎ ;1942;1964;1999;PA;Man of the People;Medium;6396;X
+790147;Minister of Security;Â§Áø³² ;1945;1964;1999;SL;Efficient Sociopath;Medium;unknownminister;X
+790148;Minister of Security;ÆÇ¾ÆÀÎ ;1945;1964;1999;SL;Silent Lawyer;Medium;6415;X
+790149;Minister of Security;ÀÀ¿ì¿º¹İ¶¶ ;1946;1964;1999;SL;Prince of Terror;Medium;M542004;X
+790150;Minister of Security;ÀÀ¿ì¿º¹İÆ¾ ;1946;1964;1999;SL;Compassionate Gentleman;Medium;M542025;X
+790151;Minister of Security;Â§¹İÁ¸ ;1951;1964;1999;PA;Prince of Terror;Medium;6419;X
+790152;Minister of Security;ÀÀ¿ì¿º¹İºñ ;1954;1964;1999;SL;Compassionate Gentleman;Medium;6416;X
+790153;Minister of Security;ÀÀ¿ì¿ºÀÀ¿ÁÅä ;1954;1964;1999;SC;Efficient Sociopath;Medium;7984;X
+790154;Minister of Security;ºÎ¿ì·Ï ;1954;1964;1999;SL;Prince of Terror;Medium;6403;X
+790155;Minister of Security;ÀÀ¿ì¿º¶ÉÈ£¾È ;1954;1964;1999;SC;Efficient Sociopath;Medium;6420;X
+790156;Minister of Security;ÆÊÀå±îÀÎ ;1955;1964;1999;SC;Compassionate Gentleman;Medium;6421;X
+790157;Minister of Security;Â§·¹¾¥¾ğ ;1955;1964;1999;PA;Efficient Sociopath;High;6436;X
+790158;Minister of Security;ÀÀ¿ì¿º¹İÀÌ ;1955;1964;1999;PA;Crime Fighter;Medium;6423;X
+790159;Minister of Security;ÀÀ¿ì¿º¹İÇª¿Á ;1963;1970;1999;PA;Efficient Sociopath;Medium;6424;X
+790160;Minister of Security;¸°²Îºñ¾Ø ;1964;1970;1999;PA;Prince of Terror;Medium;6425;X
+790161;Head of Military Intelligence;ÆÊ²ÙÀÎ ;1916;1933;1999;PA;Technical Specialist;Medium;6396;X
+790162;Head of Military Intelligence;ÆÊ¸®¾Ö¿ì ;1929;1964;1999;PA;Logistics Specialist;Medium;7982;X
+790163;Head of Military Intelligence;Â§Âä¶ø ;1933;1964;1999;FA;Logistics Specialist;Medium;unknownminister;X
+790164;Head of Military Intelligence;ÂŞ¿Ë¾ÆÀÎ¸¸ ;1933;1964;1999;FA;Political Specialist;Medium;unknownminister;X
+790165;Head of Military Intelligence;ÀÀ¿ÀÁø´º ;1954;1964;1999;PA;Political Specialist;Medium;M542033;X
+790166;Head of Military Intelligence;ÆÊÀå±îÀÎ ;1954;1964;1999;SC;Dismal Enigma;Medium;6421;X
+790167;Head of Military Intelligence;·¹¹İ¶ì ;1955;1964;1999;PA;Dismal Enigma;Medium;6422;X
+790168;Head of Military Intelligence;ÀÀ¿ì¿º¹İÀÌ ;1955;1964;1999;PA;Industrial Specialist;Medium;6423;X
+790169;Head of Military Intelligence;ÀÀ¿ì¿º¹İÇª¿Á ;1955;1964;1999;PA;Political Specialist;Medium;6424;X
+790170;Head of Military Intelligence;ÀÀ¿ÀÁø±ñ ;1957;1964;1999;PA;Political Specialist;Medium;6418;X
+790171;Head of Military Intelligence;·¹²Î¶× ;1958;1964;1999;PA;Political Specialist;Medium;6426;X
+790172;Head of Military Intelligence;Â§³¦¶Ñ¿º ;1956;1964;1999;SC;Political Specialist;Medium;6427;X
+790173;Head of Military Intelligence;¸¶ÀÌÈÄ¿ì¾¥¾ğ ;1961;1964;1999;PA;Political Specialist;Medium;6428;X
+790174;Head of Military Intelligence;Â§¹İÈ£ ;1964;1970;1999;PA;Technical Specialist;Medium;6429;X
+790175;Chief of Staff;²Ù¿ËÀç ;1922;1964;1999;FA;School of Psychology;Medium;6388;X
+790176;Chief of Staff;ÆÊ¸®¾Ö¿ì ;1929;1964;1999;PA;School of Psychology;Medium;7982;X
+790177;Chief of Staff;Â§Âä¶ø ;1933;1964;1999;FA;School of Psychology;Medium;unknownminister;X
+790178;Chief of Staff;Â¾²Îºó ;1933;1964;1999;FA;School of Psychology;Medium;6397;X
+790179;Chief of Staff;ÀÀ¿ì¿º¹İÅ¸ÀÎ ;1943;1964;1999;FA;School of Psychology;Medium;6430;X
+790180;Chief of Staff;ÀÀ¿ì¿º¹İÈù ;1945;1964;1999;SL;School of Defence;Medium;6414;X
+790181;Chief of Staff;Â§¹İÁ¸ ;1953;1964;1999;PA;School of Psychology;Medium;6419;X
+790182;Chief of Staff;Â§¹İ¹Î ;1953;1964;1999;PA;School of Fire Support;Medium;6431;X
+790183;Chief of Staff;ÆÊÀå±îÀÎ ;1954;1964;1999;SC;School of Manoeuvre;Medium;6421;X
+790184;Chief of Staff;·¹¹İ¶ì ;1954;1964;1999;PA;School of Defence;Medium;6422;X
+790185;Chief of Staff;ÀÀ¿ì¿º¹İºñ ;1954;1964;1999;SL;School of Defence;Medium;6416;X
+790186;Chief of Staff;Â¾Æ¼¿£Å°¿¥ ;1962;1970;1999;SC;School of Psychology;Medium;6391;X
+790187;Chief of Staff;ÀÀ¿ì¿ºÄ«ÀÎ ;1964;1970;1999;PA;School of Psychology;Medium;6390;X
+790189;Chief of Staff;ÀÀ¿ì¿º¹İÆ¼¾Ö¿ì ;1964;1970;1999;PA;School of Defence;Medium;6432;X
+790190;Chief of Army;Ä«ÀÌµò ;1916;1933;1999;PA;Guns and Butter Doctrine;Very high;6387;X
+790191;Chief of Army;²Ù¿ËÀç ;1922;1933;1999;FA;Guns and Butter Doctrine;Medium;6388;X
+790192;Chief of Army;¹Ù¿À´ÙÀÌ ;1925;1946;1999;PA;Guns and Butter Doctrine;Very high;M542001;X
+790193;Chief of Army;Â§Âä¶ø ;1933;1964;1999;FA;Guns and Butter Doctrine;Medium;unknownminister;X
+790194;Chief of Army;Â¾²Îºó ;1933;1964;1999;FA;Guns and Butter Doctrine;Medium;6397;X
+790195;Chief of Army;ÀÀ¿ì¿º¹İÅ¸ÀÎ ;1943;1964;1999;FA;Static defence Doctrine;Medium;6430;X
+790196;Chief of Army;ÀÀ¿ì¿º¹İÈù ;1945;1964;1999;SL;Static defence Doctrine;Medium;6414;X
+790197;Chief of Army;ÀÀ¿ì¿º¹İºñ ;1954;1964;1999;SL;Guns and Butter Doctrine;Medium;6416;X
+790198;Chief of Army;·¹¹İ¶ì ;1954;1964;1999;PA;Static defence Doctrine;Medium;6422;X
+790199;Chief of Army;ÆÊÀå±îÀÎ ;1954;1964;1999;SC;Armoured Spearhead Doctrine;Medium;6421;X
+790201;Chief of Army;Â§¹İÁ¸ ;1962;1970;1999;PA;Static defence Doctrine;Medium;6419;X
+790202;Chief of Army;ÀÀ¿ì¿ºÄ«ÀÎ ;1964;1970;1999;PA;Decisive Battle Doctrine;Medium;6390;X
+790203;Chief of Army;Â¾Æ¼¿£Å°¿¥ ;1964;1970;1999;SC;Guns and Butter Doctrine;Medium;6391;X
+790204;Chief of Army;Â§¹İ¹Î ;1964;1970;1999;PA;Guns and Butter Doctrine;Medium;6431;X
+790205;Chief of Navy;Ä«ÀÌµò ;1916;1933;1999;PA;Base Control Doctrine;Very high;6387;X
+790206;Chief of Navy;²Ù¿ËÀç ;1922;1933;1999;FA;Base Control Doctrine;Medium;6388;X
+790207;Chief of Navy;¹Ù¿À´ÙÀÌ ;1925;1946;1999;PA;Base Control Doctrine;Very high;M542001;X
+790208;Chief of Navy;ÀÀ¿ì¿º¹İºñ ;1954;1964;1999;SL;Base Control Doctrine;Medium;6416;X
+790209;Chief of Navy;·¹²Î¹Ì ;1955;1964;1999;PA;Open Seas Doctrine;Medium;6433;X
+790210;Chief of Navy;Â§¹İÂË ;1957;1964;1999;PA;Decisive Naval Battle Doctrine;Medium;6434;X
+790211;Chief of Navy;Âäµı±ø ;1963;1970;1999;PA;Base Control Doctrine;Medium;6435;X
+790212;Chief of Air Force;Ä«ÀÌµò ;1916;1933;1999;PA;Army Aviation Doctrine;Very high;6387;X
+790213;Chief of Air Force;²Ù¿ËÀç ;1922;1933;1999;FA;Army Aviation Doctrine;Medium;6388;X
+790214;Chief of Air Force;¹Ù¿À´ÙÀÌ ;1925;1946;1999;PA;Army Aviation Doctrine;Very high;M542001;X
+790215;Chief of Air Force;ÀÀ¿ì¿º¹İÈù ;1945;1964;1999;SL;Vertical Envelopment Doctrine;Medium;6414;X
+790216;Chief of Air Force;ÀÀ¿ì¿ºÄ«ÀÎ ;1955;1964;1999;PA;Army Aviation Doctrine;Medium;6390;X
+790217;Chief of Air Force;Â§¹İÈ£ ;1956;1964;1999;PA;Air Superiority Doctrine;Medium;6429;X
+790218;Chief of Air Force;ÀÀ¿ì¿º¾¥¾ğºó ;1957;1964;1999;PA;Army Aviation Doctrine;Medium;6438;X
+790219;Chief of Air Force;ÀÀ¿ì¿º±î¿À³¢ ;1959;1964;1999;SC;Carpet Bombing Doctrine;Medium;6439;X
+790220;Chief of Air Force;ÈÄÀÎÈÄ¿ìÈ÷¾Ø ;1962;1970;1999;PA;Army Aviation Doctrine;Medium;6440;X
+790221;Minister of Armament;ÆÊ¸®¾Ö¿ì ;1929;1964;1999;PA;Military Entrepreneur;Medium;7982;X
+790222;Head of Government;ÀÀ¿ÀµòÁö¿¥ ;1933;1964;1999;FA;Flamboyant Tough Guy;High;M542018;X
+790223;Foreign Minister;ÀÀ¿ì¿º¹İ¾¥¾ğ ;1933;1964;1999;FA;Ideological Crusader;High;M542023;X
+790224;Minister of Armament;·¹¹İÈ£¾Ç ;1933;1964;1999;FA;Theoretical Scientist;Medium;M542027;X
+790225;Minister of Security;ÀÀ¿ÀÁø´º ;1933;1964;1999;FA;Silent Lawyer;Medium;M542033;X
+790226;Head of Military Intelligence;ÆÊ¶ÈÄíÀÌ¾î ;1933;1964;1999;FA;Industrial Specialist;Medium;M542038;X
+790227;Chief of Staff;ÀÀ¿ì¿ºÈå¿ì²¿ ;1933;1964;1999;FA;School of Manoeuvre;Medium;M542043;X
+790228;Chief of Army;Áî¾û¹İ¹Î ;1933;1964;1999;FA;Decisive Battle Doctrine;Medium;M542046;X
+790229;Chief of Navy;È£¶²²Ù¿º ;1933;1964;1999;FA;Decisive Naval Battle Doctrine;Medium;M542051;X
+790230;Chief of Air Force;Áî¾û¹İ¹Î ;1933;1964;1999;FA;Naval Aviation Doctrine;Medium;M542046;X

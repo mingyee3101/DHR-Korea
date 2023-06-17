@@ -1,0 +1,23 @@
+POR;Name;Pic Name;Skill;Start Year;End Year;Speciality1;Speciality2;Speciality3;Speciality4;Speciality5;Speciality6;Speciality7;Speciality8;Speciality9;Speciality10;Speciality11;Speciality12;Speciality13;Speciality14;Speciality15;Speciality16;Speciality17;Speciality18;Speciality19;Speciality20;Speciality21;Speciality22;Speciality23;Speciality24;Speciality25;Speciality26;Speciality27;Speciality28;Speciality29;Speciality30;Speciality31;Speciality32;x
+20001;리스본 해군 병기창 ;T2800;4;1900;1970;naval_engineering;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+20002;OGMA ;T2801;3;1918;1933;aeronautics;aircraft_testing;avionics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+20003;OGMA ;100446;3;1933;1970;aeronautics;technical_efficiency;aircraft_testing;fighter_design;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+20004;알페이트 병기창 ;T2802;3;1938;1970;naval_engineering;technical_efficiency;naval_artillery;electronics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+20005;포르투갈 철도 ;100270;3;1900;1953;industrial_engineering;mechanics;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+20006;포르투갈 철도 ;T2803;4;1954;1970;electronics;mechanics;management;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+20007;호세 노르통 드 마투스 ;T2804;2;1915;1917;small_unit_tactics;centralized_execution;infantry_focus;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+20008;포르투갈 산업부 ;100876;2;1903;1933;industrial_engineering;mechanics;management;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+20009;포르투갈 산업부 ;100876;4;1933;1970;industrial_engineering;mechanics;management;technical_efficiency;electronics;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+20010;OGME ;T2806;3;1917;1970;mechanics;technical_efficiency;general_equipment;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+20011;산타클라라 병기창 ;T2807;3;1900;1970;artillery;general_equipment;munitions;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+20012;포르투갈 해군학교 ;T2808;3;1900;1957;small_taskforce_tactics;seamanship;naval_training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+20013;포르투갈 해군학교 ;T2808;4;1957;1970;small_taskforce_tactics;seamanship;naval_training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+20014;포르투갈 공군 ;T2809;4;1930;1978;training;piloting;fighter_tactics;bomber_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+20015;Companhia Uniao Fabril;100269;4;1930;1970;industrial_engineering;chemistry;management;naval_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+20016;포르투갈 군수공장 ;100442;2;1890;1970;artillery;general_equipment;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+20017;포르투갈 전쟁학교 ;100444;2;1911;1919;small_unit_tactics;centralized_execution;training;cavalry_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+20018;포르투갈 육군학교 ;100445;2;1919;1937;small_unit_tactics;centralized_execution;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+20019;포르투갈 육군학교 ;100445;3;1937;1970;training;small_unit_tactics;centralized_execution;infantry_focus;combined_arms_focus;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+20020;Jaime Afreixo;100443;3;1926;1940;small_taskforce_tactics;seamanship;centralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+20021;Sarmento de Beires;100874;2;1917;1926;training;aircraft_testing;piloting;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+20022;리스본 대학교 ;100875;3;1911;1970;medicine;chemistry;management;mathematics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x

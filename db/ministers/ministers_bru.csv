@@ -1,0 +1,33 @@
+BRU;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+335001;Head of State;파두카 아흐마드 무하메드 ;1933;1964;1999;SC;Autocratic Charmer;High;M567001;X
+335002;Head of Government;폴 암스트롱 ;1933;1964;1999;SC;Corporate Suit;High;M567002;X
+335003;Foreign Minister;휴버트 오글턴 ;1933;1964;1999;SC;Iron Fisted Brute;Very High;M567003;X
+335004;Minister of Armament;나완나가르 란지트 ;1933;1964;1999;SC;Infantry Proponent;Very High;M567004;X
+335005;Minister of Security;데이비드 H. 크로터 ;1933;1964;1999;SC;Silent Lawyer;Very High;M567005;X
+335006;Head of Military Intelligence;사이먼 젠킨슨 ;1933;1964;1999;SC;Dismal Enigma;Very High;M567006;X
+335007;Chief of Staff;오마르 알리 살리프 ;1933;1964;1999;SC;School of Psychology;Very High;M567007;X
+335008;Chief of Army;H.L. 헨더슨 ;1933;1964;1999;SC;Decisive Battle Doctrine;Very High;M567008;X
+335009;Chief of Navy;R.M.C. 에런트 ;1933;1964;1999;SC;Indirect Approach Doctrine;Very High;M567009;X
+335010;Chief of Air Force;H.H. 다운 ;1933;1964;1999;SC;Air Superiority Doctrine;Very High;M567010;X
+335011;Head of State;비자야신지 라즈피팔라 ;1933;1964;1999;FA;Popular Figurehead;High;M567011;X
+335012;Head of Government;무하메드 투투 ;1933;1964;1999;FA;Political Protege;High;M567012;X
+335013;Foreign Minister;시오르 칼라 누다이 ;1933;1964;1999;FA;Ideological Crusader;Very High;M567013;X
+335014;Foreign Minister;아흐마드 카마룰 ;1945;1964;1999;SC;General Staffer;Very High;M567014;X
+335015;Minister of Armament;알리 엔양 ;1933;1964;1999;FA;Air to Ground Proponent;Very High;M567015;X
+335016;Minister of Armament;파두카 알리 ;1942;1964;1999;SC;laissez-faire capitalist;Very High;M567016;X
+335017;Minister of Security;사친 이브라힘 야쿠트 ;1933;1964;1999;FA;Man of the People;Very High;M567017;X
+335018;Minister of Security;압달라 라지크 ;1945;1964;1999;SC;Prince of Terror;Very High;M567018;X
+335019;Head of Military Intelligence;푸두크 마르탄다 ;1933;1964;1999;FA;Industrial Specialist;Very High;M567019;X
+335020;Head of Military Intelligence;나빌 마시후르 ;1943;1964;1999;SC;Logistics Specialist;Very High;M567020;X
+335021;Chief of Staff;이시마엘 타라나구르 ;1933;1964;1999;FA;School of Defence;Very High;M567021;X
+335022;Chief of Staff;압둘라 라타크 ;1944;1964;1999;SC;School of Mass Combat;Very High;M567022;X
+335023;Chief of Army;라마 바르마 6세 ;1933;1964;1999;FA;Static Defence Doctrine;Very High;M567023;X
+335024;Chief of Army;오마르 알리 살리프 ;1944;1964;1999;SC;Armoured Spearhead Doctrine;Very High;M567007;X
+335025;Chief of Navy;라마 바르마 6세 ;1933;1964;1999;FA;Base Control Doctrine;Very High;M567023;X
+335026;Chief of Navy;데와나가르 싱 ;1944;1964;1999;SC;Open Seas Doctrine;Very High;M567026;X
+335027;Chief of Air Force;이시마엘 타라나구르 ;1933;1964;1999;FA;Vertical Envelopment Doctrine;Very High;M567021;X
+335028;Chief of Air Force;C.S. 오디 ;1941;1964;1999;SC;Naval Aviation Doctrine;Very High;M567028;X
+335029;Chief of Air Force;도널드 엠크 ;1945;1964;1999;SC;Army Aviation Doctrine;Very High;M567029;X
+335030;Head of State;오마르 알리 카이리 ;1950;1964;1999;SC;Benevolent Gentleman;High;M567030;X
+335031;Head of Government;오마르 알리 카이리 ;1947;1964;1999;SC;Smiling Oilman;High;M567030;X

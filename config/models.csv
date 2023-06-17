@@ -1,0 +1,2378 @@
+#######################;;;;;;;;;;;X
+# muster; -1- ; -2- ; -3- ; -4- ; -5- ; -6- ;; -8- ;;;X
+#######################;;;;;;;;;;;X
+# Majors;;;;;;;;;;;X
+# England;;;;;;;;;;;X
+# England land brigades;;;;;;;;;;;X
+BRIG_MODEL_ENG_1_0;¿Àµå³Í½º BL 15 ÆÄ¿îµå ;;;;;;;;;;X
+BRIG_MODEL_ENG_1_1;¿Àµå³Í½º QF 4.5ÀÎÄ¡ ;;;;;;;;;;X
+BRIG_MODEL_ENG_1_2;BL 6ÀÎÄ¡ Mk. VII ;;;;;;;;;;X
+BRIG_MODEL_ENG_1_3;BL 8ÀÎÄ¡ Mk. VI ;;;;;;;;;;X
+BRIG_MODEL_ENG_1_4;BL 6ÀÎÄ¡ Mk. XIX ;;;;;;;;;;X
+BRIG_MODEL_ENG_1_5;¿Àµå³Í½º QF 18 ÆÄ¿îµå Mk II ;;;;;;;;;;X
+BRIG_MODEL_ENG_1_6;;;;;;;;;;;X
+BRIG_MODEL_ENG_1_7;;;;;;;;;;;X
+BRIG_MODEL_ENG_1_8;¿Àµå³Í½º QF 18 ÆÄ¿îµå Mk IV ;;;;;;;;;;X
+BRIG_MODEL_ENG_1_9;¿Àµå³Í½º QF 25 ÆÄ¿îµå ;;;;;;;;;;X
+BRIG_MODEL_ENG_1_10;BL 4.5ÀÎÄ¡ ;;;;;;;;;;X
+BRIG_MODEL_ENG_1_11;155mm °î»çÆ÷ ;;;;;;;;;;X
+BRIG_MODEL_ENG_1_12;;;;;;;;;;;X
+BRIG_MODEL_ENG_1_13;;;;;;;;;;;X
+BRIG_MODEL_ENG_2_0;¹öÄ¡ ;;;;;;;;;;X
+BRIG_MODEL_ENG_2_1;ºñ¼ó ;;;;;;;;;;X
+BRIG_MODEL_ENG_2_2;M7 ÇÁ¸®½ºÆ® ;;;;;;;;;;X
+BRIG_MODEL_ENG_2_3;25 ÆÄ¿îµå SP. ¼½½ºÅæ ;;;;;;;;;;X
+BRIG_MODEL_ENG_2_4;M40 GMC ;;;;;;;;;;X
+BRIG_MODEL_ENG_2_5;;;;;;;;;;;X
+BRIG_MODEL_ENG_2_6;;;;;;;;;;;X
+BRIG_MODEL_ENG_2_7;M107 GMC ;;;;;;;;;;X
+BRIG_MODEL_ENG_6_0;2 ÆÄ¿îµå. Æ÷¸£Å× ;;;;;;;;;;X
+BRIG_MODEL_ENG_6_1;¾ÆÅ³·¹½º Mk. IC ;;;;;;;;;;X
+BRIG_MODEL_ENG_6_2;¼Å¸Õ ÆÄÀÌ¾îÇÃ¶óÀÌ ;;;;;;;;;;X
+BRIG_MODEL_ENG_6_3;17 ÆÄ¿îµå ¾ÆÃ³ ;;;;;;;;;;X
+BRIG_MODEL_ENG_6_4;A39 ÅçÅäÀÌ½º ;;;;;;;;;;X
+BRIG_MODEL_ENG_6_5;FV4101 Ã¼¸®¾îÆ¼¾î ;;;;;;;;;;X
+BRIG_MODEL_ENG_6_6;;;;;;;;;;;X
+BRIG_MODEL_ENG_6_7;FV4401 ÄÁÅÙ¼Å½º ;;;;;;;;;;X
+BRIG_MODEL_ENG_7_0;¸¶Å© A ÈÖÆê ;;;;;;;;;;X
+BRIG_MODEL_ENG_7_1;¸¶Å© C È£³Ý ;;;;;;;;;;X
+BRIG_MODEL_ENG_7_2;ºòÄ¿Áî L-A Mk I ;;;;;;;;;;X
+BRIG_MODEL_ENG_7_3;ºòÄ¿Áî L-A Mk II ;;;;;;;;;;X
+BRIG_MODEL_ENG_7_4;ºòÄ¿Áî L-A Mk III ;;;;;;;;;;X
+BRIG_MODEL_ENG_7_5;ºòÄ¿Áî L-A Mk VI ;;;;;;;;;;X
+BRIG_MODEL_ENG_7_6;Mk. I A9 ¼øÇ×ÀüÂ÷ ;;;;;;;;;;X
+BRIG_MODEL_ENG_7_7;Mk. II A10 ¼øÇ×ÀüÂ÷ ;;;;;;;;;;X
+BRIG_MODEL_ENG_7_8;M5 Çã´Ï ;;;;;;;;;;X
+BRIG_MODEL_ENG_8_0;¸¶Å© IV ;;;;;;;;;;X
+BRIG_MODEL_ENG_8_1;¸¶Æ¿´Ù Mk. II ;;;;;;;;;;X
+BRIG_MODEL_ENG_8_2;Mk. III ¹ß·»Å¸ÀÎ ;;;;;;;;;;X
+BRIG_MODEL_ENG_8_3;Ã³Ä¥ Mk. III ;;;;;;;;;;X
+BRIG_MODEL_ENG_8_4;Ã³Ä¥ Mk. VII ;;;;;;;;;;X
+BRIG_MODEL_ENG_8_5;FV214 ÄÁÄõ·¯ ;;;;;;;;;;X
+BRIG_MODEL_ENG_9_0;¸¶Å© I ;;;;;;;;;;X
+BRIG_MODEL_ENG_9_1;A43 ºí·¢ÇÁ¸°½º ;;;;;;;;;;X
+BRIG_MODEL_ENG_10_0;ÀüÀï¿ë ¿£ÁøÅ¾Á¦ Â÷ ;;;;;;;;;;X
+BRIG_MODEL_ENG_10_1;·Ñ½º·ÎÀÌ½º Àå°©Â÷ ;;;;;;;;;;X
+BRIG_MODEL_ENG_10_2;¶õÃ¼½ºÅÍ 6x4 Àå°©Â÷ ;;;;;;;;;;X
+BRIG_MODEL_ENG_10_3;Ä«µç-·ÎÀÌµå Mk.VI ;;;;;;;;;;X
+BRIG_MODEL_ENG_10_5;Çè¹ö Á¤ÂûÂ÷ ;;;;;;;;;;X
+BRIG_MODEL_ENG_10_6;AEC Àå°©Â÷  Mk. III ;;;;;;;;;;X
+BRIG_MODEL_ENG_10_7;Æä·µ Àå°©Â÷ ;;;;;;;;;;X
+BRIG_MODEL_ENG_10_8;FV601 »ì¶óµò ;;;;;;;;;;X
+# England air brigades;;;;;;;;;;;X
+BRIG_MODEL_ENG_14_0;Æä¾î¸® III ;;;;;;;;;;X
+BRIG_MODEL_ENG_14_1;¾Á/¸®ÆÝ/´Ô·Îµå ;;;;;;;;;;X
+BRIG_MODEL_ENG_14_2;»þÅ©/¹èÇÉ/¾¾ ±Û·¡µð¿¡ÀÌÅÍ ;;;;;;;;;;X
+BRIG_MODEL_ENG_14_3;½ºÅ¥¾î/¼ÒµåÇÇ½¬/·ÎÅ© ;;;;;;;;;;X
+BRIG_MODEL_ENG_14_4;½ºÅ¥¾î/¾Ù¹öÄÚ¾î/Ç®¸Ó ;;;;;;;;;;X
+BRIG_MODEL_ENG_14_5;¹Ù¶óÄí´Ù/ÆÄÀÌ¾îÇÃ¶óÀÌ ;;;;;;;;;;X
+BRIG_MODEL_ENG_14_6;¾¾ È£³Ý/¿ÍÀÌ¹ø/¾¾ Ç»¸® ;;;;;;;;;;X
+BRIG_MODEL_ENG_14_7;¾¾ È£Å©/¾îÅÃÄ¿ ;;;;;;;;;;X
+BRIG_MODEL_ENG_14_8;¾¾ º£³ð/½Ã¹ÌÅÍ ;;;;;;;;;;X
+BRIG_MODEL_ENG_14_9;¾¾ È£Å© (F-1) / ¾¾ È£Å© (FB-3) ;;;;;;;;;;X
+BRIG_MODEL_ENG_15_0;º¼ÅÏ Æú µðÆÄÀÌ¾ðÆ® ;;;;;;;;;;X
+BRIG_MODEL_ENG_15_1;¿þ½ºÆ²·£µå ÈÙÀ©µå ;;;;;;;;;;X
+BRIG_MODEL_ENG_15_2;µå ÇÏºô·£µå ¸ð½ºÅ°Åä F Mk.II ;;;;;;;;;;X
+BRIG_MODEL_ENG_15_3;¿þ½ºÆ²·£µå À£Å² ;;;;;;;;;;X
+BRIG_MODEL_ENG_15_4;µå ÇÏºô·£µå È£³Ý ;;;;;;;;;;X
+BRIG_MODEL_ENG_15_5;È£Ä¿ ÇåÅÍ ;;;;;;;;;;X
+BRIG_MODEL_ENG_15_6;½´ÆÛ¸¶¸° ½Ã¹ÌÅÍ ;;;;;;;;;;X
+# England land units;;;;;;;;;;;X
+MODEL_ENG_4_0;ºòÄ¿Áî L-A Mk. VI ;;;;;;;;;;X
+MODEL_ENG_4_1;Mk. I A9 ¼øÇ×ÀüÂ÷ ;;;;;;;;;;X
+MODEL_ENG_4_2;Mk. II A10 ¼øÇ×ÀüÂ÷ ;;;;;;;;;;X
+MODEL_ENG_5_0;Mk. IV A13 ¼øÇ×ÀüÂ÷ ;;;;;;;;;;X
+MODEL_ENG_5_1;Mk. VI A15 Å©·ç¼¼ÀÌ´õ ;;;;;;;;;;X
+MODEL_ENG_5_2;Mk. VIII A23M Å©·ÒÀ£ ;;;;;;;;;;X
+MODEL_ENG_5_3;A34 ÄÚ¸ä ;;;;;;;;;;X
+MODEL_ENG_5_4;FV4007 ¼¾Ãò¸®¿Â Mk. III ;;;;;;;;;;X
+MODEL_ENG_5_5;FV4011 ¼¾Ãò¸®¿Â Mk. V ;;;;;;;;;;X
+MODEL_ENG_5_6;FV4015 ¼¾Ãò¸®¿Â Mk. X ;;;;;;;;;;X
+MODEL_ENG_5_7;FV4201 Ä¡ÇÁÆ¾ ;;;;;;;;;;X
+# England air units;;;;;;;;;;;X
+MODEL_ENG_12_0;¼ÙÀ§µå Æà ;;;;;;;;;;X
+MODEL_ENG_12_1;RAF S.E.5a ;;;;;;;;;;X
+MODEL_ENG_12_2;ºê¸®½ºÆ² F.2 ÀüÅõ±â ;;;;;;;;;;X
+MODEL_ENG_12_3;¾Ï½ºÆ®·Õ ÈÖÆ®¿ö½º ½Ã½ºÅ² ;;;;;;;;;;X
+MODEL_ENG_12_4;±Û·Î½ºÅÍ ±Û·¡µð¿¡ÀÌÅÍ ;;;;;;;;;;X
+MODEL_ENG_12_5;½´ÆÛ¸¶¸° ½ºÇÍÆÄÀÌ¾î Mk I ;;;;;;;;;;X
+MODEL_ENG_12_6;È£Ä¿ Å¸ÀÌÇ¬ ;;;;;;;;;;X
+MODEL_ENG_12_7;È£Ä¿ ÅÛÆä½ºÆ® ;;;;;;;;;;X
+MODEL_ENG_12_8;±Û·Î½ºÅÍ ¹ÌÆ¼¾î F 4 ;;;;;;;;;;X
+MODEL_ENG_12_9;±Û·Î½ºÅÍ ¹ÌÆ¼¾î F 8 ;;;;;;;;;;X
+MODEL_ENG_12_10;±Û·Î½ºÅÍ Àçºí¸° ;;;;;;;;;;X
+MODEL_ENG_12_11;È£Ä¿ ÇåÅÍ ;;;;;;;;;;X
+MODEL_ENG_12_12;µå ÇÏºô·£µå ºò½¼ ;;;;;;;;;;X
+MODEL_ENG_12_13;¸Æµµ³Ú-´õ±Û·¯½º F-4 ÆÒÅÒ II ;;;;;;;;;;X
+MODEL_ENG_13_0;RAF B.E.2a ;;;;;;;;;;X
+MODEL_ENG_13_1;ºê¸®½ºÆ² ½ºÄ«¿ìÆ® a ;;;;;;;;;;X
+MODEL_ENG_13_2;¿¡¾îÄÚ D.H.2 ;;;;;;;;;;X
+MODEL_ENG_13_3;¼ÙÀ§µå »ï¿±±â ;;;;;;;;;;X
+MODEL_ENG_13_4;¼ÙÀ§µå Ä«¸á ;;;;;;;;;;X
+MODEL_ENG_13_5;¼ÙÀ§µå ½º³ªÀÌÇÁ ;;;;;;;;;;X
+MODEL_ENG_13_6;±Û·Î½ºÅÍ ±×¸®ºê ;;;;;;;;;;X
+MODEL_ENG_13_7;ºê¸®½ºÆ² ºÒµ¶ ;;;;;;;;;;X
+MODEL_ENG_13_8;È£Ä¿ Çã¸®ÄÉÀÎ Mk I ;;;;;;;;;;X
+MODEL_ENG_13_9;È£Ä¿ Çã¸®ÄÉÀÎ Mk IIa ;;;;;;;;;;X
+MODEL_ENG_13_10;½´ÆÛ¸¶¸° ½ºÇÍÆÄÀÌ¾î Mk XIV ;;;;;;;;;;X
+MODEL_ENG_13_11;±Û·Î½ºÅÍ ¹ÌÆ¼¾î F 1 ;;;;;;;;;;X
+MODEL_ENG_13_12;µå ÇÏºô·£µå ¹ìÆÄÀÌ¾î Mk.1 ;;;;;;;;;;X
+MODEL_ENG_13_13;µå ÇÏºô·£µå ¹ìÆÄÀÌ¾î F.3 ;;;;;;;;;;X
+MODEL_ENG_13_14;½´ÆÛ¸¶¸° ½ºÀ§ÇÁÆ® ;;;;;;;;;;X
+MODEL_ENG_13_15;À×±Û¸®½¬ ÀÏ·ºÆ®¸¯ ¶óÀÌÆ®´× F.1 ;;;;;;;;;;X
+MODEL_ENG_13_16;À×±Û¸®½¬ ÀÏ·ºÆ®¸¯ ¶óÀÌÆ®´× F.3 ;;;;;;;;;;X
+MODEL_ENG_32_0;È£Ä¿ P.1052 ;;;;;;;;;;X
+MODEL_ENG_32_1;»ç¿î´õ½º-·Î SR.177 ;;;;;;;;;;X
+MODEL_ENG_14_1;ÇÚµé¸® ÆäÀÌÁö V/1500 ;;;;;;;;;;X
+MODEL_ENG_14_2;Æä¾î¸® ÇÚ´ø ;;;;;;;;;;X
+MODEL_ENG_14_3;¼îÆ® ½ºÅÐ¸µ ;;;;;;;;;;X
+MODEL_ENG_14_4;ÇÚµé¸® ÆäÀÌÁö ÇÛ¸®ÆÑ½º ;;;;;;;;;;X
+MODEL_ENG_14_5;¾Æºê·Î ·©Ä«½ºÅÍ ;;;;;;;;;;X
+MODEL_ENG_14_6;¾Æºê·Î ¸µÄÁ ;;;;;;;;;;X
+MODEL_ENG_14_7;ºòÄ¿Áî ¹ß¸®¾ðÆ® ;;;;;;;;;;X
+MODEL_ENG_14_8;¾Æºê·Î ¹úÄÁ ;;;;;;;;;;X
+MODEL_ENG_14_9;ÇÚµé¸® ÆäÀÌÁö ºòÅÍ ;;;;;;;;;;X
+MODEL_ENG_15_1;ÇÚµé¸® ÆäÀÌÁö O/100 ;;;;;;;;;;X
+MODEL_ENG_15_2;ÇÚµé¸® ÆäÀÌÁö O/400 ;;;;;;;;;;X
+MODEL_ENG_15_3;ºòÄ¿Áî ºñ¹Ì ;;;;;;;;;;X
+MODEL_ENG_15_4;º¼ÅÏ Æú »çÀÌµå½ºÆ®·£µå ;;;;;;;;;;X
+MODEL_ENG_15_5;ÇÚµé¸® ÆäÀÌÁö ÇìÀÌÆ÷µå ;;;;;;;;;;X
+MODEL_ENG_15_6;¾Ï½ºÆ®·Õ ÈÖÆ®¿ö½º ÈÖÆ²¸® ;;;;;;;;;;X
+MODEL_ENG_15_7;ºòÄ¿Áî À£¸µÅÏ ;;;;;;;;;;X
+MODEL_ENG_15_8;µå ÇÏºô·£µå ¸ð½ºÅ°Åä ;;;;;;;;;;X
+MODEL_ENG_15_9;µå ÇÏºô·£µå º£³ð FB1 ;;;;;;;;;;X
+MODEL_ENG_15_10;µå ÇÏºô·£µå º£³ð FB4 ;;;;;;;;;;X
+MODEL_ENG_15_11;À×±Û¸®½¬ ÀÏ·ºÆ®¸¯ Äµ¹ö¶ó ;;;;;;;;;;X
+MODEL_ENG_15_12;BAC TSR-2 ;;;;;;;;;;X
+MODEL_ENG_16_0;¼îÆ® 184 ;;;;;;;;;;X
+MODEL_ENG_16_1;½´ÆÛ¸¶¸° »ç¿ì½ºÇÜÆ° ;;;;;;;;;;X
+MODEL_ENG_16_2;¼îÆ® ½ã´õ·£µå ;;;;;;;;;;X
+MODEL_ENG_16_3;ºê¸®½ºÆ² ºäÆ÷Æ® ;;;;;;;;;;X
+MODEL_ENG_16_4;ºê¸®½ºÆ² ºê¸®°Çµå ;;;;;;;;;;X
+MODEL_ENG_16_5;ºòÄ¿Áî ¿ö¸¯ ;;;;;;;;;;X
+MODEL_ENG_16_6;Æä¾î¸® °¡³Ý ;;;;;;;;;;X
+MODEL_ENG_16_7;¾Æºê·Î ¼¨Å¬ÅÏ ;;;;;;;;;;X
+MODEL_ENG_16_8;È£Ä¿-½Ãµé¸® ´Ô·Îµå ;;;;;;;;;;X
+MODEL_ENG_17_0;È£Ä¿ ÇÏÆ® ;;;;;;;;;;X
+MODEL_ENG_17_1;Æä¾î¸® ¹èÆ² ;;;;;;;;;;X
+MODEL_ENG_17_2;È£Ä¿ Çã¸®ÄÉÀÎ Mk IV ;;;;;;;;;;X
+MODEL_ENG_17_3;ºê¸®½ºÆ² º¸ÆÄÀÌÅÍ Mk IC ;;;;;;;;;;X
+MODEL_ENG_17_4;ºê¸®½ºÆ² º¸ÆÄÀÌÅÍ Mk VI ;;;;;;;;;;X
+MODEL_ENG_17_5;µå ÇÏºô·£µå ¸ð½ºÅ°Åä B.XVI ;;;;;;;;;;X
+MODEL_ENG_17_6;ºí·¢¹ø ¹öÄ¿´Ï¾î ;;;;;;;;;;X
+MODEL_ENG_18_0;ÇÚµé¸® ÆäÀÌÁö H.P.45 ;;;;;;;;;;X
+MODEL_ENG_18_1;ºê¸®½ºÆ² º½º£ÀÌ ;;;;;;;;;;X
+MODEL_ENG_18_2;¾Ï½ºÆ®·Õ-ÈÖÆ®¿ö½º ¾Ù¹ö¸» ;;;;;;;;;;X
+MODEL_ENG_18_3;´õ±Û·¯½º ´ÙÄÚÅ¸ ;;;;;;;;;;X
+MODEL_ENG_18_4;¾Æºê·Î ·©Ä³½ºÆ®¸®¾ð ;;;;;;;;;;X
+MODEL_ENG_18_5;ºí·¢¹ø º£¹ú¸® ;;;;;;;;;;X
+MODEL_ENG_20_0;Åä¸£ ;;;;;;;;;;X
+MODEL_ENG_20_1;ºí·ç ½ºÆ®¸¯ ;;;;;;;;;;X
+# England naval units;;;;;;;;;;;X
+MODEL_ENG_21_0;¾ÆÀÛ½º ±Þ ;;;;;;;;;;X
+MODEL_ENG_21_1;¸¶Á¦½ºÆ½ ±Þ ;;;;;;;;;;X
+MODEL_ENG_21_2;µå·¹µå³ëÆ® ±Þ ;;;;;;;;;;X
+MODEL_ENG_21_3;¿À¸®¿Â ±Þ ;;;;;;;;;;X
+MODEL_ENG_21_4;Äý ¿¤¸®ÀÚº£½º ±Þ ;;;;;;;;;;X
+MODEL_ENG_21_5;N3 ±Þ ;;;;;;;;;;X
+MODEL_ENG_21_6;³Ú½¼ ±Þ ;;;;;;;;;;X
+MODEL_ENG_21_7;Å· Á¶Áö 5¼¼ ±Þ ;;;;;;;;;;X
+MODEL_ENG_21_8;¶óÀÌ¿Â ±Þ ;;;;;;;;;;X
+MODEL_ENG_22_0;¸®¾Ø´õ ±Þ ;;;;;;;;;;X
+MODEL_ENG_22_1;¼¾Æ¼³Ú ±Þ ;;;;;;;;;;X
+MODEL_ENG_22_2;Å¸¿î ±Þ ;;;;;;;;;;X
+MODEL_ENG_22_3;¿¡¸Þ¶öµå ±Þ ;;;;;;;;;;X
+MODEL_ENG_22_4;¸®¾Ø´õ ±Þ ;;;;;;;;;;X
+MODEL_ENG_22_5;»ç¿ì½ºÇÜÆ° ±Þ ;;;;;;;;;;X
+MODEL_ENG_22_6;¹Ì³ëÅ¸¿ì·Î½º ±Þ ;;;;;;;;;;X
+MODEL_ENG_22_8;Å¸ÀÌ°Å ±Þ ;;;;;;;;;;X
+MODEL_ENG_23_0;»þ³í ±Þ ;;;;;;;;;;X
+MODEL_ENG_23_1;Å©·¹½Ã ±Þ ;;;;;;;;;;X
+MODEL_ENG_23_2;¹Ì³ëÅ¸¿ì·Î½º ±Þ ;;;;;;;;;;X
+MODEL_ENG_23_3;Ä«¿îÆ¼ ±Þ ;;;;;;;;;;X
+MODEL_ENG_23_4;¿äÅ© ±Þ ;;;;;;;;;;X
+MODEL_ENG_24_0;ÀÎºó½Ãºí ±Þ ;;;;;;;;;;X
+MODEL_ENG_24_1;¸®³ª¿î ±Þ ;;;;;;;;;;X
+MODEL_ENG_24_2;¾îµå¹Ì·² ±Þ ;;;;;;;;;;X
+MODEL_ENG_24_3;G3 ±Þ ;;;;;;;;;;X
+MODEL_ENG_25_0;D ±Þ ;;;;;;;;;;X
+MODEL_ENG_25_1;E ±Þ ;;;;;;;;;;X
+MODEL_ENG_25_2;H ±Þ ;;;;;;;;;;X
+MODEL_ENG_25_3;S ±Þ ;;;;;;;;;;X
+MODEL_ENG_25_4;W ±Þ ;;;;;;;;;;X
+MODEL_ENG_25_5;F ±Þ ;;;;;;;;;;X
+MODEL_ENG_25_6;Æ®¶óÀÌ¹ú ±Þ ;;;;;;;;;;X
+MODEL_ENG_25_7;O ±Þ ;;;;;;;;;;X
+MODEL_ENG_25_8;¹èÆ² ±Þ ;;;;;;;;;;X
+MODEL_ENG_25_9;Ä«¿îÆ¼ ±Þ ;;;;;;;;;;X
+MODEL_ENG_26_0;Ä¿·¹ÀÌÁ®½º ±Þ ;;;;;;;;;;X
+MODEL_ENG_26_2;¾ÆÅ© ·Î¿­ ±Þ ;;;;;;;;;;X
+MODEL_ENG_26_3;ÀÏ·¯½ºÆ®¸®¾î½º ±Þ ;;;;;;;;;;X
+MODEL_ENG_26_4;ÀÓÇÃ·¡Ä¿ºí ±Þ ;;;;;;;;;;X
+MODEL_ENG_26_5;¿Àµ¥ÀÌ¼Å½º ±Þ ;;;;;;;;;;X
+MODEL_ENG_26_6;¸ôÅ¸ ±Þ ;;;;;;;;;;X
+MODEL_ENG_27_0;¿¥ÇÁ·¹½º ±Þ ;;;;;;;;;;X
+MODEL_ENG_27_1;¾Æ°Å½º ±Þ ;;;;;;;;;;X
+MODEL_ENG_27_2;Çì¸£¸Þ½º ±Þ ;;;;;;;;;;X
+MODEL_ENG_27_3;¾îº¥Á® ±Þ ;;;;;;;;;;X
+MODEL_ENG_28_0;È¦·£µå ±Þ ;;;;;;;;;;X
+MODEL_ENG_28_1;E-º¸Æ® ±Þ ;;;;;;;;;;X
+MODEL_ENG_28_2;H-º¸Æ® ±Þ ;;;;;;;;;;X
+MODEL_ENG_28_3;¿Àµò ±Þ ;;;;;;;;;;X
+MODEL_ENG_28_4;S-º¸Æ® ±Þ ;;;;;;;;;;X
+MODEL_ENG_28_5;T-º¸Æ® ±Þ ;;;;;;;;;;X
+MODEL_ENG_28_6;¾öÆÄÀÌ¾î ±Þ ;;;;;;;;;;X
+MODEL_ENG_28_7;ÀÍ½ºÇÃ·Î·¯ ±Þ ;;;;;;;;;;X
+MODEL_ENG_28_9;Æ÷ÆÛÁî ±Þ ;;;;;;;;;;X
+MODEL_ENG_29_0;µå·¹µå³ëÆ® ±Þ ;;;;;;;;;;X
+MODEL_ENG_31_0;À¯´ÏÄÜ ±Þ ;;;;;;;;;;X
+MODEL_ENG_31_1;ÄÝ·Î¼­½º ±Þ ;;;;;;;;;;X
+MODEL_ENG_31_2;¸¶Á¦½ºÆ½ ±Þ ;;;;;;;;;;X
+MODEL_ENG_31_3;ÄËÅ¸¿ì·Î ±Þ ;;;;;;;;;;X
+#;;;;;;;;;;;X
+# France;;;;;;;;;;;X
+# France land brigade;;;;;;;;;;;X
+BRIG_MODEL_FRA_1_0;M1897 75mm ¾ßÆ÷ ;;;;;;;;;;X
+BRIG_MODEL_FRA_1_1;M1912 75mm ¾ßÆ÷ ;;;;;;;;;;X
+BRIG_MODEL_FRA_1_2;M1913 105mm ¾ßÆ÷ ;;;;;;;;;;X
+BRIG_MODEL_FRA_1_3;M1917 C 155mm ¾ßÆ÷ ;;;;;;;;;;X
+BRIG_MODEL_FRA_1_4;GPF 155mm ¾ßÆ÷ ;;;;;;;;;;X
+BRIG_MODEL_FRA_1_5;;;;;;;;;;;X
+BRIG_MODEL_FRA_1_6;;;;;;;;;;;X
+BRIG_MODEL_FRA_1_7;M1935 105mm ¾ßÆ÷ ;;;;;;;;;;X
+BRIG_MODEL_FRA_1_8;;;;;;;;;;;X
+BRIG_MODEL_FRA_1_9;GPF 194mm ¾ßÆ÷ ;;;;;;;;;;X
+BRIG_MODEL_FRA_1_10;;;;;;;;;;;X
+BRIG_MODEL_FRA_1_11;;;;;;;;;;;X
+BRIG_MODEL_FRA_1_12;;;;;;;;;;;X
+BRIG_MODEL_FRA_1_13;;;;;;;;;;;X
+BRIG_MODEL_FRA_2_0;SAu-40 ;;;;;;;;;;X
+BRIG_MODEL_FRA_2_1;ARL-40 ;;;;;;;;;;X
+BRIG_MODEL_FRA_2_2;;;;;;;;;;;X
+BRIG_MODEL_FRA_2_3;;;;;;;;;;;X
+BRIG_MODEL_FRA_2_4;;;;;;;;;;;X
+BRIG_MODEL_FRA_2_5;;;;;;;;;;;X
+BRIG_MODEL_FRA_2_6;ELC AMX ;;;;;;;;;;X
+BRIG_MODEL_FRA_2_7;AMX-13 105mm ÀÚÁÖÆ÷ ;;;;;;;;;;X
+BRIG_MODEL_FRA_6_0;¶óÇÇ W15 ;;;;;;;;;;X
+BRIG_MODEL_FRA_6_1;;;;;;;;;;;X
+BRIG_MODEL_FRA_6_2;;;;;;;;;;;X
+BRIG_MODEL_FRA_6_3;;;;;;;;;;;X
+BRIG_MODEL_FRA_6_4;;;;;;;;;;;X
+BRIG_MODEL_FRA_6_5;AMX-13 ;;;;;;;;;;X
+BRIG_MODEL_FRA_6_6;AMX 50 ±¸ÃàÀüÂ÷ ;;;;;;;;;;X
+BRIG_MODEL_FRA_7_0;¸£³ë FT 17 ;;;;;;;;;;X
+BRIG_MODEL_FRA_7_1;;;;;;;;;;;X
+BRIG_MODEL_FRA_7_2;;;;;;;;;;;X
+BRIG_MODEL_FRA_7_3;¸£³ë FT 31 ;;;;;;;;;;X
+BRIG_MODEL_FRA_7_4;AMR 33 ;;;;;;;;;;X
+BRIG_MODEL_FRA_7_5;AMR 35 ;;;;;;;;;;X
+#BRIG_MODEL_FRA_7_5;¸£³ë R35 ;;;;;;;;;;X
+BRIG_MODEL_FRA_7_6;È£Ä¡Å°½º H-35 ;;;;;;;;;;X
+BRIG_MODEL_FRA_7_7;¼Ò¹«¾Æ S35 ;;;;;;;;;;X
+BRIG_MODEL_FRA_7_8;È£Ä¡Å°½º H-39 ;;;;;;;;;;X
+#BRIG_MODEL_FRA_7_9;¸£³ë R40 ;;;;;;;;;;X
+BRIG_MODEL_FRA_8_0;½´³×µ¥¸£ CA1 ;;;;;;;;;;X
+BRIG_MODEL_FRA_8_1;»þ¸£ 2C ;;;;;;;;;;X
+BRIG_MODEL_FRA_8_2;¸£³ë B1 ;;;;;;;;;;X
+BRIG_MODEL_FRA_8_3;;;;;;;;;;;X
+BRIG_MODEL_FRA_8_4;ARL-44 ;;;;;;;;;;X
+BRIG_MODEL_FRA_8_5;AMX-50 12cm ÁÖÆ÷ ;;;;;;;;;;X
+BRIG_MODEL_FRA_9_0;ÇÁ·Ô-·¡ÇÇ À°»óÀüÇÔ ;;;;;;;;;;X
+BRIG_MODEL_FRA_9_1;FCM-F1 ;;;;;;;;;;X
+BRIG_MODEL_FRA_10_0;;;;;;;;;;;X
+BRIG_MODEL_FRA_10_1;ÇªÁ¶ Àå°©Â÷ ;;;;;;;;;;X
+BRIG_MODEL_FRA_10_2;;;;;;;;;;;X
+BRIG_MODEL_FRA_10_3;AMC ½´³×µ¥¸£ P 16 ;;;;;;;;;;X
+BRIG_MODEL_FRA_10_4;ÆÄ³ª¸£ 178 ;;;;;;;;;;X
+BRIG_MODEL_FRA_10_5;ÆÄ³ª¸£ 201 ;;;;;;;;;;X
+BRIG_MODEL_FRA_10_6;EBR-75 ;;;;;;;;;;X
+BRIG_MODEL_FRA_10_7;ÆÄ³ª¸£ AML ;;;;;;;;;;X
+# France air brigade;;;;;;;;;;;X
+BRIG_MODEL_FRA_14_0;PL.2/PL.9 ;;;;;;;;;;X
+BRIG_MODEL_FRA_14_1;F.270/PL.4/D.1 ;;;;;;;;;;X
+BRIG_MODEL_FRA_14_2;´ºÆ÷¸£ 140/PL.16/À§º¸ 74 ;;;;;;;;;;X
+BRIG_MODEL_FRA_14_3;LN.401/PL.16/D.373 ;;;;;;;;;;X
+BRIG_MODEL_FRA_14_4;SB2U ºóµðÄÉÀÌÅÍ/D.750/D.373 ;;;;;;;;;;X
+BRIG_MODEL_FRA_14_5;SBD µ·Æ²¸®½º/F6F ÇïÄ¹ ;;;;;;;;;;X
+BRIG_MODEL_FRA_14_6;SBD µ·Æ²¸®½º/TBF ¾îº¥Á®/F6F ÇïÄ¹ ;;;;;;;;;;X
+BRIG_MODEL_FRA_14_7;AD ½ºÄ«ÀÌ·¹ÀÌ´õ/TBF ¾îº¥Á®/F4U ÄÝ¼¼¾î ;;;;;;;;;;X
+BRIG_MODEL_FRA_14_8;S.E.202 ¾ÆÄþ·Ð / Br.1050 ¾Ë¸®Á¦ ;;;;;;;;;;X
+BRIG_MODEL_FRA_14_9;´å¼Ò ¿¡ÅÁ´Ù¸£ IV / Br.1050 ¾Ë¸®Á¦ ;;;;;;;;;;X
+BRIG_MODEL_FRA_15_0;Æ÷Å×Áî 631 ;;;;;;;;;;X
+BRIG_MODEL_FRA_15_1;Æ÷Å×Áî 671 ;;;;;;;;;;X
+BRIG_MODEL_FRA_15_2;¼öµå-¿¡½ºÆ® ¿¡ºñ¿¡ÀÌ¼Ç SE.100 ;;;;;;;;;;X
+BRIG_MODEL_FRA_15_4;´å¼Ò ¿ì¶ó°£ ;;;;;;;;;;X
+BRIG_MODEL_FRA_15_5;¼öµå ¿¡ºñ¿¡ÀÌ¼Ç ¹Ù¿À¶Ñ¸£ IIN ;;;;;;;;;;X
+BRIG_MODEL_FRA_15_6;´å¼Ò ¹Ì¶óÁö IIIC ;;;;;;;;;;X
+# France Land Units;;;;;;;;;;;X
+MODEL_FRA_4_0;¸£³ë AMC 35 ;;;;;;;;;;X
+MODEL_FRA_4_1;È£Ä¡Å°½º H-35 ;;;;;;;;;;X
+MODEL_FRA_4_2;¼Ò¹«¾Æ S-35 ;;;;;;;;;;X
+MODEL_FRA_5_0;»þ¸£ B1 ;;;;;;;;;;X
+MODEL_FRA_5_1;»þ¸£ B1 bis ;;;;;;;;;;X
+MODEL_FRA_5_2;;;;;;;;;;;X
+MODEL_FRA_5_3;;;;;;;;;;;X
+MODEL_FRA_5_4;ARL-44 ;;;;;;;;;;X
+MODEL_FRA_5_5;;;;;;;;;;;X
+MODEL_FRA_5_6;AMX-13 ;;;;;;;;;;X
+MODEL_FRA_5_7;AMX-30 ;;;;;;;;;;X
+# France air units;;;;;;;;;;;X
+MODEL_FRA_12_0;SPAD S.VII ;;;;;;;;;;X
+MODEL_FRA_12_1;Äíµå·Õ R.4 ;;;;;;;;;;X
+MODEL_FRA_12_2;Äíµå·Õ R.11 ;;;;;;;;;;X
+MODEL_FRA_12_3;¸ð·¹ÀÎ-¼Ö´Ï¿¡¸£ AN ;;;;;;;;;;X
+MODEL_FRA_12_4;´ºÆ÷¸£-µé¶óÁÖ NiD.62 ;;;;;;;;;;X
+MODEL_FRA_12_5;µå¿Í¶í´À D.520 ;;;;;;;;;;X
+MODEL_FRA_12_6;µå¿Í¶í´À D.550 ;;;;;;;;;;X
+MODEL_FRA_12_7;º¸¿ìÆ® F4U ÄÝ¼¼¾î ;;;;;;;;;;X
+MODEL_FRA_12_8;´å¼Ò ¿ì¶ó°£ ;;;;;;;;;;X
+MODEL_FRA_12_9;´å¼Ò ¹Ì½ºÅ×¸£ ;;;;;;;;;;X
+MODEL_FRA_12_10;´å¼Ò ¹Ì½ºÅ×¸£ IV ;;;;;;;;;;X
+MODEL_FRA_12_11;´å¼Ò ½¬Æä¸£ ¹Ì½ºÅ×¸£ ;;;;;;;;;;X
+MODEL_FRA_12_12;´å¼Ò ¹Ì¶óÁö IIIE ;;;;;;;;;;X
+MODEL_FRA_12_13;´å¼Ò ¹Ì¶óÁö 5 ;;;;;;;;;;X
+MODEL_FRA_13_0;ºí·¹¸®¿À XI ;;;;;;;;;;X
+MODEL_FRA_13_1;¸ð·¹ÀÎ-¼Ö´Ï¿¡¸£ L ;;;;;;;;;;X
+MODEL_FRA_13_2;¸ð·¹ÀÎ-¼Ö´Ï¿¡¸£ N ;;;;;;;;;;X
+MODEL_FRA_13_3;´ºÆ÷¸£ 17 ;;;;;;;;;;X
+MODEL_FRA_13_4;SPAD S.XIII ;;;;;;;;;;X
+MODEL_FRA_13_5;´ºÆ÷¸£ 28 ;;;;;;;;;;X
+MODEL_FRA_13_6;´ºÆ÷¸£-µé¶óÁÖ NiD.29 ;;;;;;;;;;X
+MODEL_FRA_13_7;µå¿Í¶í´À D.500 ;;;;;;;;;;X
+MODEL_FRA_13_8;¸ð·¹ÀÎ-¼Ö´Ï¿¡¸£ MS.406 ;;;;;;;;;;X
+MODEL_FRA_13_9;ºí·Î½´ MB.152 ;;;;;;;;;;X
+MODEL_FRA_13_10;¾Æ½º³¯ VG.33 ;;;;;;;;;;X
+MODEL_FRA_13_11;±Û·Î½ºÅÍ ¹ÌÆ¼¾î ;;;;;;;;;;X
+MODEL_FRA_13_12;µå ÇÏºô·£µå ¹ìÆÄÀÌ¾î ;;;;;;;;;;X
+MODEL_FRA_13_13;´å¼Ò ¹Ì½ºÅ×¸£ II ;;;;;;;;;;X
+MODEL_FRA_13_14;´å¼Ò ¹Ì½ºÅ×¸£ IVa ;;;;;;;;;;X
+MODEL_FRA_13_15;´å¼Ò ¹Ì¶óÁö III ;;;;;;;;;;X
+MODEL_FRA_13_16;´å¼Ò ¹Ì¶óÁö IIIC ;;;;;;;;;;X
+MODEL_FRA_32_0;¸£µÚÅ© 0.21 ;;;;;;;;;;X
+MODEL_FRA_32_1;¸£µÚÅ© 0.22 ;;;;;;;;;;X
+MODEL_FRA_14_2;¸®¿À·¹ ¿§ ¿Ã¸®ºñ¿¡ LeO.203 ;;;;;;;;;;X
+MODEL_FRA_14_3;ÆÄ¾Æ¸Á F.222 ;;;;;;;;;;X
+MODEL_FRA_14_4;ºí·Î½´ MB.162 ;;;;;;;;;;X
+MODEL_FRA_14_5;ºê·¹°Ô 482 ;;;;;;;;;;X
+MODEL_FRA_14_9;´å¼Ò ¹Ì¶óÁö IV ;;;;;;;;;;X
+MODEL_FRA_15_0;ÆÄ¾Æ¸Á M.F.7 ·ÕÈ¥ ;;;;;;;;;;X
+MODEL_FRA_15_1;Äíµå·Õ G.4 ;;;;;;;;;;X
+MODEL_FRA_15_2;ÆÄ¾Æ¸Á F.50 ;;;;;;;;;;X
+MODEL_FRA_15_3;ÆÄ¾Æ¸Á F.60 °ñ¸®¾Ñ ;;;;;;;;;;X
+MODEL_FRA_15_4;¾Æ¹Ì¿À 143 ;;;;;;;;;;X
+MODEL_FRA_15_5;ºí·Î½´ MB.210 ;;;;;;;;;;X
+MODEL_FRA_15_6;¸®¿À·¹ ¿§ ¿Ã¸®ºñ¿¡ LeO.451 ;;;;;;;;;;X
+MODEL_FRA_15_7;¸¶Æ¾ B-26 ¸Ó·Î´õ ;;;;;;;;;;X
+MODEL_FRA_15_8;µå ÇÏºô·£µå ¸ð½ºÅ°Åä ;;;;;;;;;;X
+MODEL_FRA_15_9;¼öµå ¿¡ºñ¿¡ÀÌ¼Ç ¾ÆÄþ·Ð ;;;;;;;;;;X
+MODEL_FRA_15_10;¼öµå ¿¡ºñ¿¡ÀÌ¼Ç ¹Ù¿À¶Ñ¸£ ;;;;;;;;;;X
+MODEL_FRA_15_11;¼öµå-¿¡½ºÆ® ¿¡ºñ¿¡ÀÌ¼Ç ¹Ù¸£´õ ;;;;;;;;;;X
+MODEL_FRA_15_12;SEPECAT Àç±Ô¾î ;;;;;;;;;;X
+MODEL_FRA_16_1;¶óÅ×ÄÚ¿¡¸£ 550 ;;;;;;;;;;X
+MODEL_FRA_16_2;·ç¾Æ¸£ LN.401 ;;;;;;;;;;X
+MODEL_FRA_16_3;Æ÷Å×Áî-CAMS 141 ;;;;;;;;;;X
+MODEL_FRA_16_4;¾Æ¹Ì¿À 351 ;;;;;;;;;;X
+MODEL_FRA_16_5;·ÏÈ÷µå P-2 ³ÜÆª ;;;;;;;;;;X
+MODEL_FRA_16_7;ºê·¹°Ô ¾Ë¸®Á¦ ;;;;;;;;;;X
+MODEL_FRA_16_8;ºê·¹°Ô ¾ÆÆ²¶õÆ½ ;;;;;;;;;;X
+MODEL_FRA_17_0;¾Æ¹Ì¿À 120 ;;;;;;;;;;X
+MODEL_FRA_17_1;ºê·¹°Ô Br.691 ;;;;;;;;;;X
+MODEL_FRA_17_2;ºê·¹°Ô 693 ;;;;;;;;;;X
+MODEL_FRA_17_3;¸®ÆÛºí¸¯ P-47 ½ã´õº¼Æ® ;;;;;;;;;;X
+MODEL_FRA_17_4;ºê·¹°Ô ¹úÃÄ ;;;;;;;;;;X
+MODEL_FRA_17_5;ºê·¹°Ô Å¸¿Â ;;;;;;;;;;X
+MODEL_FRA_17_6;¼öµå-¿¡½ºÆ® ¿¡ºñ¿¡ÀÌ¼Ç ¹Ì½ºÆ®¶ö ;;;;;;;;;;X
+MODEL_FRA_18_0;ÆÄ¾Æ¸Á F.63 °ñ¸®¾Ñ ;;;;;;;;;;X
+MODEL_FRA_18_1;ºí·Î½´ MB.220 ;;;;;;;;;;X
+MODEL_FRA_18_2;ºê·¹°Ô 470 ;;;;;;;;;;X
+MODEL_FRA_18_3;Æ÷Å×Áî 662 ;;;;;;;;;;X
+MODEL_FRA_18_4;¼öµå-¿¡½ºÆ® ¿¡ºñ¿¡ÀÌ¼Ç ¶û±×µ¶ ;;;;;;;;;;X
+MODEL_FRA_18_5;³ë¸£ ¿¡ºñ¿¡ÀÌ¼Ç ³ë¶óÆ²¶ó ;;;;;;;;;;X
+# France naval units;;;;;;;;;;;X
+MODEL_FRA_21_0;¾Ó¸® 4¼¼ ;;;;;;;;;;X
+MODEL_FRA_21_1;»þ¸¦¸¶´º ±Þ ;;;;;;;;;;X
+MODEL_FRA_21_2;Äí¸£º£ ±Þ ;;;;;;;;;;X
+MODEL_FRA_21_3;ºê¸£Å¸´º ±Þ ;;;;;;;;;;X
+MODEL_FRA_21_4;¸®¿Ë ±Þ ;;;;;;;;;;X
+MODEL_FRA_21_5;³ë¸£¸Áµð ±Þ ;;;;;;;;;;X
+MODEL_FRA_21_7;¸®½¶¸®¿Ü ±Þ ;;;;;;;;;;X
+MODEL_FRA_21_8;¾ËÀÚ½º ±Þ ;;;;;;;;;;X
+MODEL_FRA_22_0;¶óÆä·çÁî ±Þ ;;;;;;;;;;X
+MODEL_FRA_22_1;ÁÙ¸®¾Ó µå ¶ó ±×¶óºñ¿¡¸£ ±Þ ;;;;;;;;;;X
+MODEL_FRA_22_3;µà°¡ÀÌ-Åø·ç¾Ó ±Þ ;;;;;;;;;;X
+MODEL_FRA_22_4;¶ó °¥¸®¼Ò´Ï¿¡¸£ ±Þ ;;;;;;;;;;X
+MODEL_FRA_22_5;µå ±×¶ó½º ±Þ ;;;;;;;;;;X
+MODEL_FRA_22_8;ÄÝº£¸£ ±Þ ;;;;;;;;;;X
+MODEL_FRA_23_1;¾Æ¹Ì¶ö »þ¸£³×¸£ ±Þ ;;;;;;;;;;X
+MODEL_FRA_23_2;¿¡µå°¡ Å°³× ±Þ ;;;;;;;;;;X
+MODEL_FRA_23_3;µÚÄË ±Þ ;;;;;;;;;;X
+MODEL_FRA_23_4;¾ËÁ¦¸® ±Þ ;;;;;;;;;;X
+MODEL_FRA_23_5;»ý ·çÀÌ ±Þ ;;;;;;;;;;X
+MODEL_FRA_24_3;‰èÄÉ¸£Å© ±Þ ;;;;;;;;;;X
+MODEL_FRA_25_1;¾Æ¸£Å©ºßÁî ±Þ ;;;;;;;;;;X
+MODEL_FRA_25_2;ºÎ²ø¸®¿¡ ±Þ ;;;;;;;;;;X
+MODEL_FRA_25_3;¾Æ¶óºê ±Þ ;;;;;;;;;;X
+MODEL_FRA_25_4;ºê¶ó½ºÅ© ±Þ ;;;;;;;;;;X
+MODEL_FRA_25_5;¸ð°¡µµ¸£ ±Þ ;;;;;;;;;;X
+MODEL_FRA_25_6;ÇÏ¸£µð ±Þ ;;;;;;;;;;X
+MODEL_FRA_25_9;T 47 ±Þ ;;;;;;;;;;X
+MODEL_FRA_26_1;Á¶ÇÁ¸£ ±Þ ;;;;;;;;;;X
+MODEL_FRA_26_7;Å¬·¹¸Á¼Ò ±Þ ;;;;;;;;;;X
+MODEL_FRA_27_0;Çªµå¸£ ±Þ ;;;;;;;;;;X
+MODEL_FRA_27_1;º£¾Æ¸¥ ±Þ ;;;;;;;;;;X
+MODEL_FRA_28_0;¼¼ÀÌ·» ±Þ ;;;;;;;;;;X
+MODEL_FRA_28_1;ºê·ò¸Þ¸£ ±Þ ;;;;;;;;;;X
+MODEL_FRA_28_2;µåÇªÀÌ µå ·Ò ±Þ ;;;;;;;;;;X
+MODEL_FRA_28_3;½Ã¸£¼¼ ±Þ ;;;;;;;;;;X
+MODEL_FRA_28_4;´ÙÀÌ¿¡³ª ±Þ ;;;;;;;;;;X
+MODEL_FRA_28_5;¹Ì³×¸£ºê ±Þ ;;;;;;;;;;X
+MODEL_FRA_28_6;¿À·Î¶ó ±Þ ;;;;;;;;;;X
+MODEL_FRA_28_7;¶ó Å©·¹¿Ã ±Þ ;;;;;;;;;;X
+MODEL_FRA_28_8;»çÇÇ¸£ ±Þ ;;;;;;;;;;X
+MODEL_FRA_28_9;³ª¸£¹ß ±Þ ;;;;;;;;;;X
+MODEL_FRA_29_0;½¬¸£ÄíÇÁ ±Þ ;Surcouf-class;;;;;;;;;X
+#;;;;;;;;;;;X
+# Germany;;;;;;;;;;;X
+# Germany land brigades;;;;;;;;;;;X
+BRIG_MODEL_GER_1_0;7.7cm FK 96 ;;;;;;;;;;X
+BRIG_MODEL_GER_1_1;15cm sFh 13 ;;;;;;;;;;X
+BRIG_MODEL_GER_1_2;10.5 cm leFh 16 ;;;;;;;;;;X
+BRIG_MODEL_GER_1_3;15cm K 16 ;;;;;;;;;;X
+BRIG_MODEL_GER_1_4;17cm SK ;;;;;;;;;;X
+BRIG_MODEL_GER_1_5;21cm ±¸Æ÷ 16 ;;;;;;;;;;X
+BRIG_MODEL_GER_1_6;10.5cm leFh 16 ;;;;;;;;;;X
+BRIG_MODEL_GER_1_7;7.5cm IG 18 ;;;;;;;;;;X
+BRIG_MODEL_GER_1_8;10.5cm LeFh 18 ;;;;;;;;;;X
+BRIG_MODEL_GER_1_9;15cm sFh 18 ;;;;;;;;;;X
+BRIG_MODEL_GER_1_10;15cm K 39 ;;;;;;;;;;X
+BRIG_MODEL_GER_1_11;17cm K 18 ;;;;;;;;;;X
+BRIG_MODEL_GER_1_12;24cm K 3 ;;;;;;;;;;X
+BRIG_MODEL_GER_1_13;10.5cm M1 °î»çÆ÷ ;;;;;;;;;;X
+BRIG_MODEL_GER_2_0;StuG III ;;;;;;;;;;X
+BRIG_MODEL_GER_2_1;StuH ;;;;;;;;;;X
+BRIG_MODEL_GER_2_2;Sfl º£½ºÆä ;;;;;;;;;;X
+BRIG_MODEL_GER_2_3;Sfl ÈÉ¸á ;;;;;;;;;;X
+BRIG_MODEL_GER_2_4;°Ô½¬Ã÷¹Ù°Õ VI ±×¸±·¹ ;;;;;;;;;;X
+BRIG_MODEL_GER_2_5;;;;;;;;;;;X
+BRIG_MODEL_GER_2_6;;;;;;;;;;;X
+BRIG_MODEL_GER_6_0;PzJg.I ;;;;;;;;;;X
+BRIG_MODEL_GER_6_1;SdKfz. 139 ¸¶´õ III ;;;;;;;;;;X
+BRIG_MODEL_GER_6_2;¾ßÅ©Æ®ÆÇÅÍ ;;;;;;;;;;X
+BRIG_MODEL_GER_6_3;SdKfz. 186 ¾ßÅ©Æ®Æ¼°Å ;;;;;;;;;;X
+BRIG_MODEL_GER_6_4;¾ßÅ©Æ®ÆÇÀú E-75 ;;;;;;;;;;X
+BRIG_MODEL_GER_6_5;;;;;;;;;;;X
+BRIG_MODEL_GER_6_6;Ä«³ë³Ù¾ßÅ©Æ®ÆÇÃ³ ;;;;;;;;;;X
+BRIG_MODEL_GER_7_0;LK I ;;;;;;;;;;X
+BRIG_MODEL_GER_7_1;LK II ;;;;;;;;;;X
+BRIG_MODEL_GER_7_2;¿À¹ö½¶·¹Áö¿£ ;;;;;;;;;;X
+BRIG_MODEL_GER_7_3;°æ Æ®·¢ÅÍ VK-35 ;;;;;;;;;;X
+BRIG_MODEL_GER_7_4;PzKpfw. I Ausf. B ;;;;;;;;;;X
+BRIG_MODEL_GER_7_5;PzKpfw. II Ausf. a ;;;;;;;;;;X
+BRIG_MODEL_GER_7_6;PzKpfw. II Ausf. D ;;;;;;;;;;X
+BRIG_MODEL_GER_7_7;PzKpfw. 38t ;;;;;;;;;;X
+BRIG_MODEL_GER_7_8;PzKpfw. III Ausf. N ;;;;;;;;;;X
+BRIG_MODEL_GER_8_0;A7V ;;;;;;;;;;X
+BRIG_MODEL_GER_8_1;10.5cm K(gp.Sfl.) 'µðÄ¿ ¸·½º' ;;;;;;;;;;X
+BRIG_MODEL_GER_8_2;12.8cm K(gp.Sfl.) '½ºÅõ·¯ ¿¡¹Ð' ;;;;;;;;;;X
+BRIG_MODEL_GER_8_3;PzKpfw.VI Æ¼°Å I ;;;;;;;;;;X
+BRIG_MODEL_GER_8_4;PzKpfw.VI Æ¼°Å II ;;;;;;;;;;X
+BRIG_MODEL_GER_9_0;A7V-U ;;;;;;;;;;X
+BRIG_MODEL_GER_9_1;PzKpfw.VII ¸¶¿ì½º ;;;;;;;;;;X
+BRIG_MODEL_GER_10_0;;;;;;;;;;;X
+BRIG_MODEL_GER_10_1;¿¡¸£ÇÏ¸£Æ® E-V/4 ;;;;;;;;;;X
+BRIG_MODEL_GER_10_2;DZVB 21 ;;;;;;;;;;X
+BRIG_MODEL_GER_10_3;SdKfz. 13 ;;;;;;;;;;X
+BRIG_MODEL_GER_10_4;SdKfz. 222 ;;;;;;;;;;X
+BRIG_MODEL_GER_10_5;SdKfz. 231 ;;;;;;;;;;X
+BRIG_MODEL_GER_10_6;;;;;;;;;;;X
+BRIG_MODEL_GER_10_7;½ºÆÄ¾ÆÆÇÃ³ M41 ;;;;;;;;;;X
+# Germany air brigades;;;;;;;;;;;X
+BRIG_MODEL_GER_14_0;He.51 / Hs.123 ;;;;;;;;;;X
+BRIG_MODEL_GER_14_1;He.51 / Hs.123 ;;;;;;;;;;X
+BRIG_MODEL_GER_14_2;Ju 87B ½´ÅõÄ«/Fi 167/Ar 197 ;;;;;;;;;;X
+BRIG_MODEL_GER_14_3;Ju 87C ½´ÅõÄ«/Fi 167/Bf 109T ;;;;;;;;;;X
+BRIG_MODEL_GER_14_4;Ju 87D ½´ÅõÄ«/Fi 167/Bf 109T ;;;;;;;;;;X
+BRIG_MODEL_GER_14_5;Ju 87D ½´ÅõÄ«/Fi 167/Me 155 ;;;;;;;;;;X
+BRIG_MODEL_GER_14_6;Me.155 / Ju.87C ½´ÅõÄ« ;;;;;;;;;;X
+BRIG_MODEL_GER_14_7;Fw.190T / Ju.87C ½´ÅõÄ« ;;;;;;;;;;X
+BRIG_MODEL_GER_14_8;He.162 / Hs.132 ;;;;;;;;;;X
+BRIG_MODEL_GER_15_0;¸Þ¼­½´¹ÌÆ® Bf 110C ;;;;;;;;;;X
+BRIG_MODEL_GER_15_1;¸Þ¼­½´¹ÌÆ® Bf 110F ;;;;;;;;;;X
+BRIG_MODEL_GER_15_2;¸Þ¼­½´¹ÌÆ® Me 410 È£¸£´Ï¼¼ ;;;;;;;;;;X
+BRIG_MODEL_GER_15_3;¸Þ¼­½´¹ÌÆ® Me 609 ;;;;;;;;;;X
+BRIG_MODEL_GER_15_4;¸Þ¼­½´¹ÌÆ® Me-262 ;;;;;;;;;;X
+BRIG_MODEL_GER_15_5;°íÅ¸ Go-229 ;;;;;;;;;;X
+BRIG_MODEL_GER_15_6;È£Æ° Ho.XIIIB ;;;;;;;;;;X
+# Germany;;;;;;;;;;;X
+# Germany land units;;;;;;;;;;;X
+MODEL_GER_4_0;PzKpfw. II Ausf. a ;;;;;;;;;;X
+MODEL_GER_4_1;PzKpfw. II Ausf. D ;;;;;;;;;;X
+MODEL_GER_4_2;PzKpfw. 38t ;;;;;;;;;;X
+MODEL_GER_5_0;PzKpfw. III Ausf. E ;;;;;;;;;;X
+MODEL_GER_5_1;PzKpfw. IV Ausf. F;;;;;;;;;;X
+MODEL_GER_5_2;PzKpfw. V ÆÇÅÍ Ausf. a ;;;;;;;;;;X
+MODEL_GER_5_3;PzKpfw. V ÆÇÅÍ Ausf. D ;;;;;;;;;;X
+MODEL_GER_5_4;PzKpfw. ÆÇÅÍ II ;;;;;;;;;;X
+MODEL_GER_5_5;E-75 Æ¼°Å III ;;;;;;;;;;X
+MODEL_GER_5_6;E-90 Æ¼°Å III ;;;;;;;;;;X
+MODEL_GER_5_7;PzKpfw. ·¹¿ÀÆÄµå I ;;;;;;;;;;X
+# Germany air units;;;;;;;;;;;X
+MODEL_GER_12_0;DFW C.V ;;;;;;;;;;X
+MODEL_GER_12_1;ÇÒ¹ö½´Å¸Æ® CL.II ;;;;;;;;;;X
+MODEL_GER_12_2;Æ÷Ä¿ Dr.I ;;;;;;;;;;X
+MODEL_GER_12_3;µµ¸£´Ï¿¡ Do 10 ;;;;;;;;;;X
+MODEL_GER_12_4;¾Æ¶óµµ Ar 68 ;;;;;;;;;;X
+MODEL_GER_12_5;¸Þ¼­½´¹ÌÆ® Bf 109E ¿¡¹Ð ;;;;;;;;;;X
+MODEL_GER_12_6;Æ÷ÄÉ-º¼ÇÁ Fw 190a ;;;;;;;;;;X
+MODEL_GER_12_7;Æ÷ÄÉ-º¼ÇÁ Fw 190D ;;;;;;;;;;X
+MODEL_GER_12_8;¸Þ¼­½´¹ÌÆ® Me 262 ½´¹ßº£ ;;;;;;;;;;X
+MODEL_GER_12_9;¸Þ¼­½´¹ÌÆ® P.1101 ;;;;;;;;;;X
+MODEL_GER_12_10;È£ÅÙ Ho 229 ;;;;;;;;;;X
+MODEL_GER_13_0;·³ÇÃ·¯ Å¸¿ìº£ ;;;;;;;;;;X
+MODEL_GER_13_1;¾Æºñ¾ÆÆ½ B.I ;;;;;;;;;;X
+MODEL_GER_13_2;Æ÷Ä¿ E.I ;;;;;;;;;;X
+MODEL_GER_13_3;¾Ë¹ÙÆ®·Î½º D.III ;;;;;;;;;;X
+MODEL_GER_13_4;¾Ë¹ÙÆ®·Î½º D.V ;;;;;;;;;;X
+MODEL_GER_13_5;Æ÷Ä¿ D.VII ;;;;;;;;;;X
+MODEL_GER_13_6;ÇÏÀÎÄÌ HD 37 ;;;;;;;;;;X
+MODEL_GER_13_7;ÇÏÀÎÄÌ He 51 ;;;;;;;;;;X
+MODEL_GER_13_8;¸Þ¼­½´¹ÌÆ® Bf 109D ;;;;;;;;;;X
+MODEL_GER_13_9;¸Þ¼­½´¹ÌÆ® Bf 109F ÇÁ¶õÃ÷ ;;;;;;;;;;X
+MODEL_GER_13_10;¸Þ¼­½´¹ÌÆ® Bf 109G ±¸½ºÅ¸ÇÁ ;;;;;;;;;;X
+MODEL_GER_13_11;ÇÏÀÎÄÌ He 162 »ø·¯¸Ç´õ ;;;;;;;;;;X
+MODEL_GER_13_12;Æ÷ÄÉ-º¼ÇÁ Ta 183 ;;;;;;;;;;X
+MODEL_GER_13_13;¸®ÇÇ½´ P.13a ;;;;;;;;;;X
+MODEL_GER_32_0;¸Þ¼­½´¹ÌÆ® Me 163 ÄÚ¸ÞÆ® ;;;;;;;;;;X
+MODEL_GER_32_1;¸Þ¼­½´¹ÌÆ® Me 263 ;;;;;;;;;;X
+MODEL_GER_14_0;Á¦ÇÃ¸°-½´Å¸ÄË V.G.O.I ;;;;;;;;;;X
+MODEL_GER_14_1;Á¦ÇÃ¸°-½´Å¸ÄË R.VI ;;;;;;;;;;X
+MODEL_GER_14_2;µµ¸£´Ï¿¡ Do P ;;;;;;;;;;X
+MODEL_GER_14_3;À¶Ä¿½º Ju 89 ;;;;;;;;;;X
+MODEL_GER_14_4;À¶Ä¿½º Ju 290 ;;;;;;;;;;X
+MODEL_GER_14_5;À¶Ä¿½º Ju 488 ;;;;;;;;;;X
+MODEL_GER_14_6;¸Þ¼­½´¹ÌÆ® Me 264 ¾Æ¸Þ¸®Ä« ;;;;;;;;;;X
+MODEL_GER_14_7;À¶Ä¿½º EF 132 ;;;;;;;;;;X
+MODEL_GER_14_8;¸Þ¼­½´¹ÌÆ® Me-264 ;;;;;;;;;;X
+MODEL_GER_15_1;AEG G.II ;;;;;;;;;;X
+MODEL_GER_15_2;°íÅ¸ G.IV ;;;;;;;;;;X
+MODEL_GER_15_3;°íÅ¸ G.VIII ;;;;;;;;;;X
+MODEL_GER_15_4;µµ¸£´Ï¿¡ Do 11 ;;;;;;;;;;X
+MODEL_GER_15_5;µµ¸£´Ï¿¡ Do 17 ÇÁ¸®°Õ´õ ºí¶óÀÌ½´Æ¼ÇÁÆ® ;;;;;;;;;;X
+MODEL_GER_15_6;ÇÏÀÎÄÌ He 111 ;;;;;;;;;;X
+MODEL_GER_15_7;À¶Ä¿½º Ju 88 ;;;;;;;;;;X
+MODEL_GER_15_8;À¶Ä¿½º Ju 188 ¸®Ã³ ;;;;;;;;;;X
+MODEL_GER_15_9;¾Æ¶óµµ Ar 234 ºí¸®Ã÷ ;;;;;;;;;;X
+MODEL_GER_15_10;ÇÏÀÎÄÌ He 343 ;;;;;;;;;;X
+MODEL_GER_16_1;µµ¸£´Ï¿¡ Do J ¿ù ;;;;;;;;;;X
+MODEL_GER_16_2;µµ¸£´Ï¿¡ Do 217 ;;;;;;;;;;X
+MODEL_GER_16_3;Æ÷ÄÉ-º¼ÇÁ Fw 200 ÄÜµ¹ ;;;;;;;;;;X
+MODEL_GER_16_4;À¶Ä¿½º Ju 390 ;;;;;;;;;;X
+MODEL_GER_16_5;À¶Ä¿½º Ju 287 ;;;;;;;;;;X
+MODEL_GER_16_6;ºê·¹°Ô ¾ÆÆ²¶õÆ½ ;;;;;;;;;;X
+MODEL_GER_17_0;Çî¼Ð Hs 123 ;;;;;;;;;;X
+MODEL_GER_17_1;À¶Ä¿½º Ju 87B ½´ÅõÄ« ;;;;;;;;;;X
+MODEL_GER_17_2;À¶Ä¿½º Ju 87G ½´ÅõÄ« ;;;;;;;;;;X
+MODEL_GER_17_3;Çî¼Ð Hs 129 ;;;;;;;;;;X
+MODEL_GER_17_4;Çî¼Ð Hs 132 ;;;;;;;;;;X
+MODEL_GER_17_5;µµ¸£´Ï¿¡ ¾ËÆÄ Á¦Æ® ;;;;;;;;;;X
+MODEL_GER_18_0;À¶Ä¿½º W 34 ;;;;;;;;;;X
+MODEL_GER_18_1;À¶Ä¿½º Ju 52/3m ÅºÅÍ À¯ ;;;;;;;;;;X
+MODEL_GER_18_2;¾Æ¶óµµ Ar 232 ;;;;;;;;;;X
+MODEL_GER_18_3;¸Þ¼­½´¹ÌÆ® Me 323 ±â°£Æ® ;;;;;;;;;;X
+MODEL_GER_18_4;À¶Ä¿½º Ju-352 ;;;;;;;;;;X
+MODEL_GER_18_5;Æ®·£½º¿Ã C-160 ;;;;;;;;;;X
+MODEL_GER_19_0;V1 ;;;;;;;;;;X
+MODEL_GER_20_0;V2 ;;;;;;;;;;X
+MODEL_GER_20_1;V2A9 ;;;;;;;;;;X
+MODEL_GER_20_2;V2A10 ;;;;;;;;;;X
+# Germany naval units;;;;;;;;;;;X
+MODEL_GER_21_0;ÇÁ¸®µå¸®È÷ ´ë¿Õ ±Þ ;;;;;;;;;;X
+MODEL_GER_21_1;Ä«ÀÌÀú ±Þ ;;;;;;;;;;X
+MODEL_GER_21_2;³ª¼Ò ±Þ ;;;;;;;;;;X
+MODEL_GER_21_4;¹ÙÀÌ¿¡¸¥ ±Þ ;;;;;;;;;;X
+MODEL_GER_21_5;L 20a ±Þ ;;;;;;;;;;X
+MODEL_GER_21_7;ºñ½º¸¶¸£Å© ±Þ ;;;;;;;;;;X
+MODEL_GER_21_8;H ±Þ ;;;;;;;;;;X
+MODEL_GER_22_0;°¡Á© ±Þ ;;;;;;;;;;X
+MODEL_GER_22_1;ºê·¹¸à ±Þ ;;;;;;;;;;X
+MODEL_GER_22_2;¸¶±×µ¥ºÎ¸£Å© ±Þ ;;;;;;;;;;X
+MODEL_GER_22_3;¿¥µ§ ±Þ ;;;;;;;;;;X
+MODEL_GER_22_4;´µ¸¥º£¸£Å© ±Þ ;;;;;;;;;;X
+MODEL_GER_22_5;M ±Þ ;;;;;;;;;;X
+MODEL_GER_23_1;¹ÙÈåÆ® ±Þ ;;;;;;;;;;X
+MODEL_GER_23_2;»þ¸¥È£¸£½ºÆ® ±Þ ;;;;;;;;;;X
+MODEL_GER_23_4;µµÀÌÄ¥¶õÆ® ±Þ ;;;;;;;;;;X
+MODEL_GER_23_5;È÷ÆÛ ±Þ ;;;;;;;;;;X
+MODEL_GER_23_6;P ±Þ ;;;;;;;;;;X
+MODEL_GER_24_0;¸ôÆ®ÄÉ ±Þ ;;;;;;;;;;X
+MODEL_GER_24_1;µ¥¸£ÇÃ¸µ°Ô¸£ ±Þ ;;;;;;;;;;X
+MODEL_GER_24_2;¸¶ÄËÁ¨ ±Þ ;;;;;;;;;;X
+MODEL_GER_24_3;»þ¸¥È£¸£½ºÆ® ±Þ ;;;;;;;;;;X
+MODEL_GER_24_4;O ±Þ ;;;;;;;;;;X
+MODEL_GER_25_0;T90 ±Þ ;;;;;;;;;;X
+MODEL_GER_25_1;S114 ±Þ ;;;;;;;;;;X
+MODEL_GER_25_2;S165 ±Þ ;;;;;;;;;;X
+MODEL_GER_25_5;1934Çü ±Þ ;;;;;;;;;;X
+MODEL_GER_25_6;1936AÇü ±Þ ;;;;;;;;;;X
+MODEL_GER_25_7;Z37 ±Þ ;;;;;;;;;;X
+MODEL_GER_25_9;ÇÔºÎ¸£Å© ±Þ ;;;;;;;;;;X
+MODEL_GER_26_2;±×¶óÇÁ Ã¼Æç¸° ±Þ ;;;;;;;;;;X
+MODEL_GER_28_1;U-27Çü ±Þ ;;;;;;;;;;X
+MODEL_GER_28_2;U-43Çü ±Þ ;;;;;;;;;;X
+MODEL_GER_28_4;IIÇü ±Þ ;;;;;;;;;;X
+MODEL_GER_28_5;VIIÇü ±Þ ;;;;;;;;;;X
+MODEL_GER_28_6;IXÇü ±Þ ;;;;;;;;;;X
+MODEL_GER_28_7;XXIÇü ±Þ ;;;;;;;;;;X
+MODEL_GER_28_8;201Çü ±Þ ;;;;;;;;;;X
+MODEL_GER_28_9;205Çü ±Þ ;;;;;;;;;;X
+MODEL_GER_29_1;IXD2Çü ±Þ ;Type IXD2-class;;;;;;;;;X
+#;;;;;;;;;;;X
+# Italy;;;;;;;;;;;X
+# Italy land brigades;;;;;;;;;;;X
+BRIG_MODEL_ITA_1_0;06³â½Ä 75/27 ¾ßÆ÷ ;;;;;;;;;;X
+BRIG_MODEL_ITA_1_1;13³â½Ä 105/28 ¾ßÆ÷ ;;;;;;;;;;X
+BRIG_MODEL_ITA_1_2;14³â½Ä 149/12 °î»çÆ÷ ;;;;;;;;;;X
+BRIG_MODEL_ITA_1_3;149/35 ¾ßÆ÷ ;;;;;;;;;;X
+BRIG_MODEL_ITA_1_4;;;;;;;;;;;X
+BRIG_MODEL_ITA_1_5;;;;;;;;;;;X
+BRIG_MODEL_ITA_1_6;;;;;;;;;;;X
+BRIG_MODEL_ITA_1_7;34³â½Ä 75/18 °î»çÆ÷ ;;;;;;;;;;X
+BRIG_MODEL_ITA_1_8;75/27 °î»çÆ÷ ;;;;;;;;;;X
+BRIG_MODEL_ITA_1_9;40³â½Ä 75/18 °î»çÆ÷ ;;;;;;;;;;X
+BRIG_MODEL_ITA_1_10;149/40 ¾ßÆ÷ ;;;;;;;;;;X
+BRIG_MODEL_ITA_1_11;210/22 °î»çÆ÷ ;;;;;;;;;;X
+BRIG_MODEL_ITA_1_12;;;;;;;;;;;X
+BRIG_MODEL_ITA_1_13;;;;;;;;;;;X
+BRIG_MODEL_ITA_2_0;¼¼¸ðº¥Å× da 75/18 M40 ;;;;;;;;;;X
+BRIG_MODEL_ITA_2_1;¼¼¸ðº¥Å× da 75/32 M41 ;;;;;;;;;;X
+BRIG_MODEL_ITA_2_2;¼¼¸ðº¥Å× da 105/25 ;;;;;;;;;;X
+BRIG_MODEL_ITA_2_3;¼¼¸ðº¥Å× da 149/40 ;;;;;;;;;;X
+BRIG_MODEL_ITA_2_4;;;;;;;;;;;X
+BRIG_MODEL_ITA_2_5;;;;;;;;;;;X
+BRIG_MODEL_ITA_2_6;;;;;;;;;;;X
+BRIG_MODEL_ITA_6_0;¼¼¸ðº¥Å× da 47/32 L40 ;;;;;;;;;;X
+BRIG_MODEL_ITA_6_1;¼¼¸ðº¥Å× da 75/18 M40 ;;;;;;;;;;X
+BRIG_MODEL_ITA_6_2;¼¼¸ðº¥Å× da 90/53 M41 ;;;;;;;;;;X
+BRIG_MODEL_ITA_6_3;;;;;;;;;;;X
+BRIG_MODEL_ITA_6_4;;;;;;;;;;;X
+BRIG_MODEL_ITA_6_5;;;;;;;;;;;X
+BRIG_MODEL_ITA_6_6;;;;;;;;;;;X
+BRIG_MODEL_ITA_7_0;;;;;;;;;;;X
+BRIG_MODEL_ITA_7_2;ÇÇ¾ÆÆ® 3000 M21 ;;;;;;;;;;X
+BRIG_MODEL_ITA_7_3;ÇÇ¾ÆÆ® 3000 M23 ;;;;;;;;;;X
+BRIG_MODEL_ITA_7_4;ÇÇ¾ÆÆ® 3000 M30 ;;;;;;;;;;X
+BRIG_MODEL_ITA_7_5;CV-33 ;;;;;;;;;;X
+BRIG_MODEL_ITA_7_6;CV-35 ;;;;;;;;;;X
+BRIG_MODEL_ITA_7_7;M13/40 ;;;;;;;;;;X
+BRIG_MODEL_ITA_7_8;L6/40 ;;;;;;;;;;X
+BRIG_MODEL_ITA_8_0;ÇÇ¾ÆÆ® 2000 ;;;;;;;;;;X
+BRIG_MODEL_ITA_8_1;;;;;;;;;;;X
+BRIG_MODEL_ITA_8_2;;;;;;;;;;;X
+BRIG_MODEL_ITA_8_3;P40 ;;;;;;;;;;X
+BRIG_MODEL_ITA_8_4;P43 ;;;;;;;;;;X
+BRIG_MODEL_ITA_9_0;;;;;;;;;;;X
+BRIG_MODEL_ITA_9_1;;;;;;;;;;;X
+BRIG_MODEL_ITA_10_0;;;;;;;;;;;X
+BRIG_MODEL_ITA_10_1;¶õÄ¡¾Æ ¾È»ìµµ IZ ;;;;;;;;;;X
+BRIG_MODEL_ITA_10_2;;;;;;;;;;;X
+BRIG_MODEL_ITA_10_3;;;;;;;;;;;X
+BRIG_MODEL_ITA_10_4;L3/29 ;;;;;;;;;;X
+BRIG_MODEL_ITA_10_5;AB 41 ;;;;;;;;;;X
+BRIG_MODEL_ITA_10_6;;;;;;;;;;;X
+BRIG_MODEL_ITA_10_7;;;;;;;;;;;X
+# Italy air brigades;;;;;;;;;;;X
+BRIG_MODEL_ITA_14_0;M.14/M.15 ;;;;;;;;;;X
+BRIG_MODEL_ITA_14_1;CR.42 ÆÈÄÚ / Br.65 ;;;;;;;;;;X
+BRIG_MODEL_ITA_14_2;G.50 ÇÁ·¿Ã­ / Br.65 ;;;;;;;;;;X
+BRIG_MODEL_ITA_14_3;Re.2001 ÆÈÄÚ II/ Ju.87T ÇÇÅ°¾Æ·¼·Î ;;;;;;;;;;X
+BRIG_MODEL_ITA_14_4;Ju 87C ½´ÅõÄ«/Re.2001 OR ÆÈÄÚ II ;;;;;;;;;;X
+BRIG_MODEL_ITA_14_5;Re.2005 »çÁöÅ¸¸®¿À / Re.2002 ¾Æ¸®¿¡Å× ;;;;;;;;;;X
+BRIG_MODEL_ITA_15_0;ÇÇ¾ÆÆ® CR.25 ;;;;;;;;;;X
+BRIG_MODEL_ITA_15_1;ºê·¹´Ù Ba.88 ¸°Ã¼ ;;;;;;;;;;X
+BRIG_MODEL_ITA_15_2;IMAM Ro.57 ;;;;;;;;;;X
+BRIG_MODEL_ITA_15_4;IMAM Ro.58 ;;;;;;;;;;X
+BRIG_MODEL_ITA_15_5;»çº¸ÀÌ¾Æ-¸¶¸£ÄÉÆ¼ SM.92 ;;;;;;;;;;X
+BRIG_MODEL_ITA_15_6;¾Æ¿¡¸£Æä¸£ ·¹¿À³× ;;;;;;;;;;X
+# Italy land units;;;;;;;;;;;X
+MODEL_ITA_4_0;CV-33 ;;;;;;;;;;X
+MODEL_ITA_4_1;CV-35 ;;;;;;;;;;X
+MODEL_ITA_4_2;M13/40 ;;;;;;;;;;X
+MODEL_ITA_5_0;M11/39 ;;;;;;;;;;X
+MODEL_ITA_5_1;M14/41 ;;;;;;;;;;X
+MODEL_ITA_5_2;M15/42 ;;;;;;;;;;X
+MODEL_ITA_5_3;P23/40 ;;;;;;;;;;X
+MODEL_ITA_5_4;P23/43 ;;;;;;;;;;X
+MODEL_ITA_5_5;;;;;;;;;;;X
+MODEL_ITA_5_6;;;;;;;;;;;X
+MODEL_ITA_5_7;;;;;;;;;;;X
+# Italy air units;;;;;;;;;;;X
+MODEL_ITA_12_0;SPAD S.VII ;;;;;;;;;;X
+MODEL_ITA_12_1;Æ÷¹Ð¸®¿À PE ;;;;;;;;;;X
+MODEL_ITA_12_2;SIAI S.50 ;;;;;;;;;;X
+MODEL_ITA_12_3;ÇÇ¾ÆÆ® CR.31 ;;;;;;;;;;X
+MODEL_ITA_12_4;ÇÇ¾ÆÆ® CR.32 ;;;;;;;;;;X
+MODEL_ITA_12_5;¸¶Å° C.200 »ç¿¡Å¸ ;;;;;;;;;;X
+MODEL_ITA_12_6;¸¶Å° C.202 Æú°í·¹ ;;;;;;;;;;X
+MODEL_ITA_12_7;¸¶Å° C.205 º§Æ®·Î ;;;;;;;;;;X
+MODEL_ITA_12_8;¾Æ¿¡¸£Æä¸£ »çÁöÅ¸¸®¿À ;;;;;;;;;;X
+MODEL_ITA_12_9;¾Æ¿¡¸£Æä¸£ ¾Æ¸®¿¡Å× ;;;;;;;;;;X
+MODEL_ITA_12_10;¸®ÆÛºí¸¯ F-84 ½ã´õÁ¦Æ® ;;;;;;;;;;X
+MODEL_ITA_12_11;³ë½º ¾Æ¸Þ¸®Ä­ F-86K ¼¼ÀÌ¹ö µµ±× ;;;;;;;;;;X
+MODEL_ITA_12_12;ÇÇ¾ÆÆ® G.91 ;;;;;;;;;;X
+MODEL_ITA_13_0;ÆÄ¾Æ¸Á MF.7 ;;;;;;;;;;X
+MODEL_ITA_13_1;Ä«ÇÁ·Î´Ï Ca.18 ;;;;;;;;;;X
+MODEL_ITA_13_2;Äíµå·Õ G.3 ;;;;;;;;;;X
+MODEL_ITA_13_3;´ºÆ÷¸£ 17 ;;;;;;;;;;X
+MODEL_ITA_13_4;SPAD S.XIII ;;;;;;;;;;X
+MODEL_ITA_13_5;¾Ó¸®¿À AR.2 ;;;;;;;;;;X
+MODEL_ITA_13_6;ÇÇ¾ÆÆ® CR.20 ;;;;;;;;;;X
+MODEL_ITA_13_7;ÇÇ¾ÆÆ® CR.30 ;;;;;;;;;;X
+MODEL_ITA_13_8;ÇÇ¾ÆÆ® G.50 ÇÁ·¿Ã­ ;;;;;;;;;;X
+MODEL_ITA_13_9;·¹Áö¾Æ³× Re.2000 ÆÈÄÚ ;;;;;;;;;;X
+MODEL_ITA_13_10;·¹Áö¾Æ³× Re.2005 »çÁöÅ¸¸®¿À ;;;;;;;;;;X
+MODEL_ITA_13_11;Ä«ÇÁ·Î´Ï Ä¯ÇÇ´Ï N.1 ;;;;;;;;;;X
+MODEL_ITA_13_12;ÇÇ¾ÆÆ® G.55 Ã¾Å¸¿ì·Î ;;;;;;;;;;X
+MODEL_ITA_13_13;·¹Áö¾Æ³× Re.2007 ;;;;;;;;;;X
+MODEL_ITA_13_14;³ë½º ¾Æ¸Þ¸®Ä­ F-86 ¼¼ÀÌ¹ö ;;;;;;;;;;X
+MODEL_ITA_13_15;·ÏÈ÷µå F-104 ½ºÅ¸ÆÄÀÌÅÍ ;;;;;;;;;;X
+MODEL_ITA_13_16;·ÏÈ÷µå F-104S ½ºÅ¸ÆÄÀÌÅÍ ;;;;;;;;;;X
+MODEL_ITA_32_0;Ä«ÇÁ·Î´Ï Ä¯ÇÇ´Ï CC.2 ;;;;;;;;;;X
+MODEL_ITA_32_1;Ä«ÇÁ·Î´Ï Ä¯ÇÇ´Ï Ca.183bis ;;;;;;;;;;X
+MODEL_ITA_14_0;Ä«ÇÁ·Î´Ï Ca.2 ;;;;;;;;;;X
+MODEL_ITA_14_1;Ä«ÇÁ·Î´Ï Ca.4 ;;;;;;;;;;X
+MODEL_ITA_14_2;ÇÇ¾ÆÁö¿À P.16 ;;;;;;;;;;X
+MODEL_ITA_14_3;ÇÇ¾ÆÁö¿À P.50 ;;;;;;;;;;X
+MODEL_ITA_14_4;ÇÇ¾ÆÁö¿À P.108 º½¹Ù¸£µð¿¡·¹ ;;;;;;;;;;X
+MODEL_ITA_14_5;ÇÇ¾ÆÁö¿À P.112 ;;;;;;;;;;X
+MODEL_ITA_14_6;ÇÇ¾ÆÁö¿À P.114 ;;;;;;;;;;X
+MODEL_ITA_15_0;Ä«ÇÁ·Î´Ï Ca.1 ;;;;;;;;;;X
+MODEL_ITA_15_1;Äíµå·Õ G.4 ;;;;;;;;;;X
+MODEL_ITA_15_2;Ä«ÇÁ·Î´Ï Ca.30 ;;;;;;;;;;X
+MODEL_ITA_15_3;Ä«ÇÁ·Î´Ï Ca.5 ;;;;;;;;;;X
+MODEL_ITA_15_4;Ä«ÇÁ·Î´Ï Ca.133 ;;;;;;;;;;X
+MODEL_ITA_15_5;»çº¸ÀÌ¾Æ-¸¶¸£ÄÉÆ¼ SM.81 ÇÇÇÇ½ºÆ®·¼·Î ;;;;;;;;;;X
+MODEL_ITA_15_6;ÇÇ¾ÆÆ® BR.20 Ä¡ÄÚ³Ä ;;;;;;;;;;X
+MODEL_ITA_15_7;ÇÇ¾ÆÆ® BR.20M Ä¡ÄÚ³Ä ;;;;;;;;;;X
+MODEL_ITA_15_8;»çº¸ÀÌ¾Æ-¸¶¸£ÄÉÆ¼ SM.89 ;;;;;;;;;;X
+MODEL_ITA_16_0;¸¶Å° M.18;;;;;;;;;;X
+MODEL_ITA_16_1;»çº¸ÀÌ¾Æ-¸¶¸£ÄÉÆ¼ S.55 ;;;;;;;;;;X
+MODEL_ITA_16_2;»çº¸ÀÌ¾Æ-¸¶¸£ÄÉÆ¼ SM.79 ½ºÆÄ¸£ºñ¿¡·Î ;;;;;;;;;;X
+MODEL_ITA_16_3;»çº¸ÀÌ¾Æ-¸¶¸£ÄÉÆ¼ SM.84 ;;;;;;;;;;X
+MODEL_ITA_16_5;·ÏÈ÷µå P-2 ³ÜÆª ;;;;;;;;;;X
+MODEL_ITA_16_7;±×·¯¸Õ S-2 Æ®·¡Ä¿ ;;;;;;;;;;X
+MODEL_ITA_16_8;ºê·¹°Ô ¾ÆÆ²¶õÆ½ ;;;;;;;;;;X
+MODEL_ITA_17_0;Ä«ÇÁ·Î´Ï Ca.111 ;;;;;;;;;;X
+MODEL_ITA_17_1;ºê·¹´Ù Ba.65 ;;;;;;;;;;X
+MODEL_ITA_17_2;À¶Ä¿½º Ju 87D ½´ÅõÄ« ;;;;;;;;;;X
+MODEL_ITA_17_3;»çº¸ÀÌ¾Æ-¸¶¸£ÄÉÆ¼ SM.89 ;;;;;;;;;;X
+MODEL_ITA_17_4;ÇÇ¾ÆÆ® G-91R ;;;;;;;;;;X
+MODEL_ITA_17_5;¸®ÆÛºí¸¯ F-84F ½ã´õ½ºÆ®¸¯ ;;;;;;;;;;X
+MODEL_ITA_17_6;ÇÇ¾ÆÆ® G.91Y ;;;;;;;;;;X
+MODEL_ITA_18_0;IMAM Ro.10 ;;;;;;;;;;X
+MODEL_ITA_18_1;»çº¸ÀÌ¾Æ-¸¶¸£ÄÉÆ¼ SM.75 ¸¶¸£¼öÇÇ¾Ë·¹ ;;;;;;;;;;X
+MODEL_ITA_18_2;»çº¸ÀÌ¾Æ-¸¶¸£ÄÉÆ¼ SM.82 Ä­±¸·ç ;;;;;;;;;;X
+MODEL_ITA_18_3;»çº¸ÀÌ¾Æ-¸¶¸£ÄÉÆ¼ SM.95 ;;;;;;;;;;X
+MODEL_ITA_18_4;ÇÇ¾ÆÆ® G.12 ;;;;;;;;;;X
+MODEL_ITA_18_5;Æä¾îÂ÷ÀÏµå C-119 ÇÃ¶óÀ× º¹½ºÄ« ;;;;;;;;;;X
+# Italy naval units;;;;;;;;;;;X
+MODEL_ITA_21_0;Ä«ÀÌ¿À µÑ¸®¿À ±Þ ;;;;;;;;;;X
+MODEL_ITA_21_1;¾Æ¹Ì¶ö¸®¿À µð ¼¼ÀÎÆ® º» ±Þ ;;;;;;;;;;X
+MODEL_ITA_21_2;´ÜÅ× ¾Ë¸®±â¿¡¸® ±Þ ;;;;;;;;;;X
+MODEL_ITA_21_4;Ä«¶óÄ¡¿Ã·Î ±Þ ;;;;;;;;;;X
+MODEL_ITA_21_7;ºñÅä¸®¿À º£³×Åä ±Þ ;;;;;;;;;;X
+MODEL_ITA_22_0;¿¡Æ®³ª ±Þ ;;;;;;;;;;X
+MODEL_ITA_22_1;Äâ¸£Åä ±Þ ;;;;;;;;;;X
+MODEL_ITA_22_2;Ä¯ÆÄ´Ï¾Æ ±Þ ;;;;;;;;;;X
+MODEL_ITA_22_3;ÁÖ»ç³ë ±Þ ;;;;;;;;;;X
+MODEL_ITA_22_4;¸óÅ×ÄíÄÝ¸® ±Þ ;;;;;;;;;;X
+MODEL_ITA_22_5;Ä«ÇÇÅ¸´Ï ·Î¸¶´Ï ±Þ ;;;;;;;;;;X
+MODEL_ITA_22_6;¿¡Æ®³ª ±Þ ;;;;;;;;;;X
+MODEL_ITA_23_1;¸¶¸£ÄÚ Æú·Î ±Þ ;;;;;;;;;;X
+MODEL_ITA_23_2;ÇÇ»ç ±Þ ;;;;;;;;;;X
+MODEL_ITA_23_3;Æ®·»Åä ±Þ ;;;;;;;;;;X
+MODEL_ITA_23_4;ÀÚ¶ó ±Þ ;;;;;;;;;;X
+MODEL_ITA_25_0;¶÷Æ÷ ±Þ ;;;;;;;;;;X
+MODEL_ITA_25_1;¼Ö´ÙÆ¼ ¾Æ¸£Æ¿¸®¿¡·¹ ±Þ ;;;;;;;;;;X
+MODEL_ITA_25_2;ÀÎµµ¹ÌÅä ±Þ ;;;;;;;;;;X
+MODEL_ITA_25_3;¶ó ¸¶»ç ±Þ ;;;;;;;;;;X
+MODEL_ITA_25_4;¼¿¶ó ±Þ ;;;;;;;;;;X
+MODEL_ITA_25_5;¸¶¿¡½ºÆ®¶ö·¹ ±Þ ;;;;;;;;;;X
+MODEL_ITA_25_6;¼Ö´ÙÆ¼ ±Þ ;;;;;;;;;;X
+MODEL_ITA_25_7;ÄÚ¸¸´ÜÆ¼ ¸Þ´Þ¸®¿¡ µµ·Î ±Þ ;;;;;;;;;;X
+MODEL_ITA_25_9;ÀÓÆÄºñµµ ±Þ ;;;;;;;;;;X
+MODEL_ITA_26_2;¾ÆÄþ¶ó ±Þ ;;;;;;;;;;X
+MODEL_ITA_27_0;ÁÖ¼¼Æä ¹Ì¶ö¸®¾Æ ±Þ ;;;;;;;;;;X
+MODEL_ITA_27_1;½ºÆÄ¸£ºñ¿¡·Î ±Þ ;;;;;;;;;;X
+MODEL_ITA_28_0;µ¨ÇÇ³ë ±Þ ;;;;;;;;;;X
+MODEL_ITA_28_1;³ª¿ìÆ¿·ç½º ±Þ ;;;;;;;;;;X
+MODEL_ITA_28_2;F ±Þ ;;;;;;;;;;X
+MODEL_ITA_28_3;¸¶¸á¸® ±Þ ;;;;;;;;;;X
+MODEL_ITA_28_4;½Ã·¹³ª ±Þ ;;;;;;;;;;X
+MODEL_ITA_28_5;¸¶¸£¼¿·Î ±Þ ;;;;;;;;;;X
+MODEL_ITA_28_6;¾ÆÄ¡¾ÆÀÌ¿À ±Þ ;;;;;;;;;;X
+MODEL_ITA_28_7;ÇÃ·çÅä ±Þ ;;;;;;;;;;X
+#MODEL_ITA_28_8;°¡Åä ±Þ ;;;;;;;;;;X
+MODEL_ITA_28_9;ÅäÆ¼ ±Þ ;;;;;;;;;;X
+MODEL_ITA_29_0;Ettore Fieramosca-class;Ettore Fieramosca-class;;;;;;;;;X
+# JapaN ;;;;;;;;;;;X
+# land brigadE ;;;;;;;;;;;X
+BRIG_MODEL_JAP_1_0;;;;;;;;;;;X
+BRIG_MODEL_JAP_1_1;;;;;;;;;;;X
+BRIG_MODEL_JAP_1_2;;;;;;;;;;;X
+BRIG_MODEL_JAP_1_3;;;;;;;;;;;X
+BRIG_MODEL_JAP_1_4;;;;;;;;;;;X
+BRIG_MODEL_JAP_1_5;;;;;;;;;;;X
+BRIG_MODEL_JAP_1_6;;;;;;;;;;;X
+BRIG_MODEL_JAP_1_7;11½Ä 3.7cm ;;;;;;;;;;X
+BRIG_MODEL_JAP_1_8;38½Ä 10cm ;;;;;;;;;;X
+BRIG_MODEL_JAP_1_9;4½Ä 15cm ;;;;;;;;;;X
+BRIG_MODEL_JAP_1_10;91½Ä 10cm ;;;;;;;;;;X
+BRIG_MODEL_JAP_1_11;96½Ä 15cm ;;;;;;;;;;X
+BRIG_MODEL_JAP_1_12;;;;;;;;;;;X
+BRIG_MODEL_JAP_1_13;;;;;;;;;;;X
+BRIG_MODEL_JAP_2_0;2½Ä È£ÀÌ ;;;;;;;;;;X
+BRIG_MODEL_JAP_2_1;3½Ä È£´Ï III ;;;;;;;;;;X
+BRIG_MODEL_JAP_2_2;4½Ä È£·Î ;;;;;;;;;;X
+BRIG_MODEL_JAP_2_3;;;;;;;;;;;X
+BRIG_MODEL_JAP_2_4;;;;;;;;;;;X
+BRIG_MODEL_JAP_2_5;;;;;;;;;;;X
+BRIG_MODEL_JAP_2_6;;;;;;;;;;;X
+BRIG_MODEL_JAP_6_0;1½Ä È£´Ï I ;;;;;;;;;;X
+BRIG_MODEL_JAP_6_1;1½Ä È£´Ï II ;;;;;;;;;;X
+BRIG_MODEL_JAP_6_2;3½Ä È£´Ï III ;;;;;;;;;;X
+BRIG_MODEL_JAP_6_3;;;;;;;;;;;X
+BRIG_MODEL_JAP_6_4;;;;;;;;;;;X
+BRIG_MODEL_JAP_6_5;;;;;;;;;;;X
+BRIG_MODEL_JAP_6_6;;;;;;;;;;;X
+BRIG_MODEL_JAP_7_0;°æ ÀüÂ÷ ;;;;;;;;;;X
+BRIG_MODEL_JAP_7_1;¸¶Å© A ÈÖÆê ;;;;;;;;;;X
+BRIG_MODEL_JAP_7_2;Ä«µç ·ÎÀÌµå ÃÊ¼ÒÇü ÀüÂ÷ ;;;;;;;;;;X
+BRIG_MODEL_JAP_7_3;94½Ä Å×ÄÉ ;;;;;;;;;;X
+BRIG_MODEL_JAP_7_4;ºòÄ¿Áî 6 Åæ ;;;;;;;;;;X
+BRIG_MODEL_JAP_7_5;95½Ä ÇÏ°í ;;;;;;;;;;X
+BRIG_MODEL_JAP_7_6;97½Ä Å×ÄÉ ;;;;;;;;;;X
+BRIG_MODEL_JAP_7_7;98½Ä ÄÉ´Ï ;;;;;;;;;;X
+BRIG_MODEL_JAP_7_8;2½Ä ÄÉÅä ;;;;;;;;;;X
+BRIG_MODEL_JAP_8_0;;;;;;;;;;;X
+BRIG_MODEL_JAP_8_1;;;;;;;;;;;X
+BRIG_MODEL_JAP_8_2;½ÃÁ¦ 1È£ ÀüÂ÷ ;;;;;;;;;;X
+BRIG_MODEL_JAP_8_3;91½Ä ;;;;;;;;;;X
+BRIG_MODEL_JAP_8_4;94½Ä ;;;;;;;;;;X
+BRIG_MODEL_JAP_8_5;;;;;;;;;;;X
+BRIG_MODEL_JAP_9_0;;;;;;;;;;;X
+BRIG_MODEL_JAP_9_1;O-I ;;;;;;;;;;X
+BRIG_MODEL_JAP_10_0;;;;;;;;;;;X
+BRIG_MODEL_JAP_10_1;;;;;;;;;;;X
+BRIG_MODEL_JAP_10_2;;;;;;;;;;;X
+BRIG_MODEL_JAP_10_3;;;;;;;;;;;X
+BRIG_MODEL_JAP_10_4;25Çü ºòÄ¿Áî Å©·Î½½¸® ´Ù¿Í ;;;;;;;;;;X
+BRIG_MODEL_JAP_10_5;2592½Ä ¿À»çÄ« ÈÄÄÚÄí°í ;;;;;;;;;;X
+BRIG_MODEL_JAP_10_6;2595½Ä ¼Ò±â ;;;;;;;;;;X
+BRIG_MODEL_JAP_10_7;;;;;;;;;;;X
+# Japan air brigades;;;;;;;;;;;X
+BRIG_MODEL_JAP_14_0;¹Ì¾²ºñ½Ã 1MT/¹Ì¾²ºñ½Ã 1MF ;;;;;;;;;;X
+BRIG_MODEL_JAP_14_1;¹Ì¾²ºñ½Ã B1M/³ªÄ«Áö¸¶ A1N ;;;;;;;;;;X
+BRIG_MODEL_JAP_14_2;¾ÆÀÌÄ¡ D1A /¹Ì¾²ºñ½Ã B2M/³ªÄ«Áö¸¶ A2N ;;;;;;;;;;X
+BRIG_MODEL_JAP_14_3;¹Ì¾²ºñ½Ã B5M /¿äÄÚ½ºÄ« B4Y /¹Ì¾²ºñ½Ã A5M ;;;;;;;;;;X
+BRIG_MODEL_JAP_14_4;¾ÆÀÌÄ¡ D3A /³ªÄ«Áö¸¶ B5N /¹Ì¾²ºñ½Ã A6M2 Á¦·Î¼¾ ;;;;;;;;;;X
+BRIG_MODEL_JAP_14_5;¿äÄÚ½ºÄ« D4Y ½ºÀÌ¼¼ÀÌ/³ªÄ«Áö¸¶ B6N ÅÙÀÜ/¹Ì¾²ºñ½Ã A6M5 Á¦·Î¼¾ ;;;;;;;;;;X
+BRIG_MODEL_JAP_14_6;¿äÄÚ½ºÄ« D4Y ½ºÀÌ¼¼ÀÌ/³ªÄ«Áö¸¶ B6N ÅÙÀÜ/¹Ì¾²ºñ½Ã A7M ·¿Çª ;;;;;;;;;;X
+BRIG_MODEL_JAP_14_7;¹Ì¾²ºñ½Ã A7M2 ·¿Çª /¾ÆÀÌÄ¡ B7A2 ·ù¼¼ÀÌ ;;;;;;;;;;X
+BRIG_MODEL_JAP_14_8;³ªÄ«Áö¸¶ Ki-201 Ä«·ù /³ªÄ«Áö¸¶ J9Y ±êÄ« ;;;;;;;;;;X
+BRIG_MODEL_JAP_15_0;°¡¿Í»çÅ° Ki-38 ;;;;;;;;;;X
+BRIG_MODEL_JAP_15_1;°¡¿Í»çÅ° Ki-45 Åä·ù ;;;;;;;;;;X
+BRIG_MODEL_JAP_15_2;°¡¿Í»çÅ° Ki-102 ;;;;;;;;;;X
+BRIG_MODEL_JAP_15_3;°¡¿Í»çÅ° Ki-96 ;;;;;;;;;;X
+BRIG_MODEL_JAP_15_4;¸®Äí±º Ki-93 ;;;;;;;;;;X
+BRIG_MODEL_JAP_15_5;³ªÄ«Áö¸¶ Ki-201 Ä«·ù ;;;;;;;;;;X
+BRIG_MODEL_JAP_15_6;¹Ì¾²ºñ½Ã F-1 ;;;;;;;;;;X
+## Japan land units;;;;;;;;;;;X
+MODEL_JAP_4_0;95½Ä ÇÏ°í ;;;;;;;;;;X
+MODEL_JAP_4_1;97½Ä Å×ÄÉ ;;;;;;;;;;X
+MODEL_JAP_4_2;98½Ä ÄÉ´Ï ;;;;;;;;;;X
+MODEL_JAP_5_0;97½Ä Ä¡ÇÏ ;;;;;;;;;;X
+MODEL_JAP_5_1;1½Ä Ä¡Çì ;;;;;;;;;;X
+MODEL_JAP_5_2;3½Ä Ä¡´© ;;;;;;;;;;X
+MODEL_JAP_5_3;4½Ä Ä¡Åä ;;;;;;;;;;X
+MODEL_JAP_5_4;5½Ä Ä¡¸® ;;;;;;;;;;X
+MODEL_JAP_5_5;;;;;;;;;;;X
+MODEL_JAP_5_6;;;;;;;;;;;X
+MODEL_JAP_5_7;61½Ä ;;;;;;;;;;X
+# Japan air units;;;;;;;;;;;X
+MODEL_JAP_12_0;¼ÙÀ§µå ½ºÆ®·¯ÅÍ ;;;;;;;;;;X
+MODEL_JAP_12_1;»ï¼Õ 2 ;;;;;;;;;;X
+MODEL_JAP_12_2;°¡ÀÌ½ÃÅ° 7È£ ;;;;;;;;;;X
+MODEL_JAP_12_3;¹Ì¾²ºñ½Ã 91½Ä ;;;;;;;;;;X
+MODEL_JAP_12_4;°¡¿Í»çÅ° 92½Ä ;;;;;;;;;;X
+MODEL_JAP_12_5;³ªÄ«Áö¸¶ Ki-44 ¼îÅ° ;;;;;;;;;;X
+MODEL_JAP_12_6;¹Ì¾²ºñ½Ã J2M ¶óÀÌµ§ ;;;;;;;;;;X
+MODEL_JAP_12_7;¹Ì¾²ºñ½Ã N1K2 ½Ãµ§Ä«ÀÌ ;;;;;;;;;;X
+MODEL_JAP_12_8;Å¥½´ J7W1 ½Åµ§ ;;;;;;;;;;X
+MODEL_JAP_12_9;³ªÄ«Áö¸¶ Ki-201 Ä«·ù ;;;;;;;;;;X
+MODEL_JAP_12_11;³ë½º ¾Æ¸Þ¸®Ä­ F-86F ¼¼ÀÌ¹ö ;;;;;;;;;;X
+MODEL_JAP_12_12;¹Ì¾²ºñ½Ã F-1 ;;;;;;;;;;X
+MODEL_JAP_12_13;¸Æµµ³Ú-´õ±Û·¯½º F-4E ÆÒÅÒ II ;;;;;;;;;;X
+MODEL_JAP_13_0;ÆÄ¾Æ¸Á III ;;;;;;;;;;X
+MODEL_JAP_13_1;°¡ÀÌ½ÃÅ° 6È£ ;;;;;;;;;;X
+MODEL_JAP_13_2;ÀÌÀÚÅ° 2È£ ¼ÀÇª°í ;;;;;;;;;;X
+MODEL_JAP_13_3;´ºÆ÷¸£ 11 ;;;;;;;;;;X
+MODEL_JAP_13_4;SPAD S.XIII ;;;;;;;;;;X
+MODEL_JAP_13_5;´ºÆ÷¸£ 24 ;;;;;;;;;;X
+MODEL_JAP_13_6;´ºÆ÷¸£-µé¶óÁÖ NiD 29 ;;;;;;;;;;X
+MODEL_JAP_13_7;°¡¿Í»çÅ° Ki-10 ;;;;;;;;;;X
+MODEL_JAP_13_8;³ªÄ«Áö¸¶ Ki-27 ;;;;;;;;;;X
+MODEL_JAP_13_9;³ªÄ«Áö¸¶ Ki-43 ÇÏ¾ßºÎ»ç ;;;;;;;;;;X
+MODEL_JAP_13_10;³ªÄ«Áö¸¶ Ki-61 È÷¿£ ;;;;;;;;;;X
+MODEL_JAP_13_11;³ªÄ«Áö¸¶ Ki-84 ÇÏ¾ßÅ× ;;;;;;;;;;X
+MODEL_JAP_13_12;¹Ì¾²ºñ½Ã J8M2 ½´½ºÀÌ ;;;;;;;;;;X
+MODEL_JAP_13_13;Å¥½´ J7W2 ½Ãµ§Ä«ÀÌ ;;;;;;;;;;X
+MODEL_JAP_13_14;¹ÌÁî³ë ½Å·ù ;;;;;;;;;;X
+MODEL_JAP_13_15;·ÏÈ÷µå F-104J ½ºÅ¸ÆÄÀÌÅÍ ;;;;;;;;;;X
+MODEL_JAP_32_0;¹Ì¾²ºñ½Ã J8M3 ½´½ºÀÌ ;;;;;;;;;;X
+MODEL_JAP_32_1;¹Ì¾²ºñ½Ã Ki-202 ½´½ºÀÌ Ä«ÀÌ ;;;;;;;;;;X
+MODEL_JAP_14_2;¹Ì¾²ºñ½Ã Ki-20 ;;;;;;;;;;X
+MODEL_JAP_14_3;³ªÄ«Áö¸¶ B6N ÅÙÀÜ ;;;;;;;;;;X
+MODEL_JAP_14_4;³ªÄ«Áö¸¶ G5N ½ÅÀÜ ;;;;;;;;;;X
+MODEL_JAP_14_5;³ªÄ«Áö¸¶ G8N ·»ÀÜ ;;;;;;;;;;X
+MODEL_JAP_14_6;³ªÄ«Áö¸¶ G10N ;;;;;;;;;;X
+MODEL_JAP_15_1;Äíµå·Õ G.4 ;;;;;;;;;;X
+MODEL_JAP_15_4;°¡¿Í»çÅ° Ka 87 ;;;;;;;;;;X
+MODEL_JAP_15_5;¹Ì¾²ºñ½Ã Ki-2 ;;;;;;;;;;X
+MODEL_JAP_15_6;°¡¿Í»çÅ° Ki-48 ;;;;;;;;;;X
+MODEL_JAP_15_7;³ªÄ«Áö¸¶ Ki-49 µ··ù ;;;;;;;;;;X
+MODEL_JAP_15_8;¹Ì¾²ºñ½Ã Ki-67 È÷·ù ;;;;;;;;;;X
+MODEL_JAP_15_9;³ªÄ«Áö¸¶ J9Y2 ±êÄ« Ä«ÀÌ ;;;;;;;;;;X
+MODEL_JAP_15_12;¹Ì¾²ºñ½Ã F-1 ;;;;;;;;;;X
+MODEL_JAP_16_0;¼ÙÀ§µå ÄíÄí ;;;;;;;;;;X
+MODEL_JAP_16_2;¹Ì¾²ºñ½Ã G3M ;;;;;;;;;;X
+MODEL_JAP_16_3;¹Ì¾²ºñ½Ã G4M ;;;;;;;;;;X
+MODEL_JAP_16_4;Ä«¿Í´Ï½Ã H8K ;;;;;;;;;;X
+MODEL_JAP_16_5;Å¥½´ Q1W ÅäÄ«ÀÌ ;;;;;;;;;;X
+MODEL_JAP_16_6;°¡¿Í»çÅ° P-2J ;;;;;;;;;;X
+MODEL_JAP_16_8;½Å ¸ÞÀÌ¿Í PS-1 ;;;;;;;;;;X
+MODEL_JAP_17_0;¹Ì¾²ºñ½Ã Ki-30 ;;;;;;;;;;X
+MODEL_JAP_17_1;°¡¿Í»çÅ° Ki-32 ;;;;;;;;;;X
+MODEL_JAP_17_2;¿äÄÚ½ºÄ« D4Y ½ºÀÌ¼¼ÀÌ ;;;;;;;;;;X
+MODEL_JAP_17_3;Å¸Ä¡Ä«¿Í Ki-74 ;;;;;;;;;;X
+MODEL_JAP_17_4;°¡¿Í»çÅ° Ki-66 ;;;;;;;;;;X
+MODEL_JAP_18_1;³ªÄ«Áö¸¶ Ki-34 ;;;;;;;;;;X
+MODEL_JAP_18_2;Å¸Ä¡Ä«¿Í Ki-54 ;;;;;;;;;;X
+MODEL_JAP_18_3;¹Ì¾²ºñ½Ã Ki-57 ;;;;;;;;;;X
+MODEL_JAP_18_4;¹Ì¾²ºñ½Ã G6M ;;;;;;;;;;X
+MODEL_JAP_18_5;ÄÚÄí»çÀÌ KU-7 ¸¶³ªÁî·ç ;;;;;;;;;;X
+# # Japan naval units;;;;;;;;;;;X
+MODEL_JAP_21_0;ÈÄ¼Ò ±Þ ;;;;;;;;;;X
+MODEL_JAP_21_1;ÈÄÁö ±Þ ;;;;;;;;;;X
+MODEL_JAP_21_2;Ä«¿ÍÄ¡ ±Þ ;;;;;;;;;;X
+MODEL_JAP_21_3;ÈÄ¼Ò ±Þ ;;;;;;;;;;X
+MODEL_JAP_21_4;ÀÌ¼¼ ±Þ ;;;;;;;;;;X
+MODEL_JAP_21_5;³ª°¡Åä ±Þ ;;;;;;;;;;X
+MODEL_JAP_21_6;±â ±Þ ;;;;;;;;;;X
+MODEL_JAP_21_7;13È£ ±Þ ;;;;;;;;;;X
+MODEL_JAP_21_11;¾ß¸¶Åä ±Þ ;;;;;;;;;;X
+MODEL_JAP_21_12;A-150 ±Þ ;;;;;;;;;;X
+MODEL_JAP_22_0;³ª´Ï¿Í ±Þ ;;;;;;;;;;X
+MODEL_JAP_22_1;µµ³× ±Þ ;;;;;;;;;;X
+MODEL_JAP_22_2;Ä¡Äí¸¶ ±Þ ;;;;;;;;;;X
+MODEL_JAP_22_3;¼¾´ÙÀÌ ±Þ ;;;;;;;;;;X
+MODEL_JAP_22_6;¾Æ°¡³ë ±Þ ;;;;;;;;;;X
+MODEL_JAP_23_0;È÷¿¡ÀÌ ±Þ ;;;;;;;;;;X
+MODEL_JAP_23_1;¾ÆÁî¸¶ ±Þ ;;;;;;;;;;X
+MODEL_JAP_23_2;Ä«½º°¡ ±Þ ;;;;;;;;;;X
+MODEL_JAP_23_3;ÈÄ·çÅ¸Ä« ±Þ ;;;;;;;;;;X
+MODEL_JAP_23_4;´ÙÄ«¿À ±Þ ;;;;;;;;;;X
+MODEL_JAP_23_5;µµ³× ±Þ ;;;;;;;;;;X
+MODEL_JAP_24_0;¾²Äí¹Ù ±Þ ;;;;;;;;;;X
+MODEL_JAP_24_1;°ø°í ±Þ ;;;;;;;;;;X
+MODEL_JAP_24_2;¾Æ¸¶±â ±Þ ;;;;;;;;;;X
+#MODEL_JAP_24_3;13È£ ±Þ ;;;;;;;;;;X
+MODEL_JAP_24_4;B-64 ±Þ ;;;;;;;;;;X
+MODEL_JAP_25_0;ÀÌÄ«ÁÖÄ¡ ±Þ ;;;;;;;;;;X
+MODEL_JAP_25_1;Ä«¹ÌÄ«Á¦ ±Þ ;;;;;;;;;;X
+MODEL_JAP_25_2;¿ì¹ÌÄ«Á¦ ±Þ ;;;;;;;;;;X
+MODEL_JAP_25_3;ÀÌ¼ÒÄ«Á¦ ±Þ ;;;;;;;;;;X
+MODEL_JAP_25_4;¹«Ã÷Å° ±Þ ;;;;;;;;;;X
+MODEL_JAP_25_5;½Ã¶óÃ÷À¯ ±Þ ;;;;;;;;;;X
+MODEL_JAP_25_6;Ä«°Ô·Î ±Þ ;;;;;;;;;;X
+MODEL_JAP_25_7;¾ÆÅ°ÁîÅ° ±Þ ;;;;;;;;;;X
+MODEL_JAP_25_9;¾Æ¸¶Ã÷Ä«Á¦ ±Þ ;;;;;;;;;;X
+MODEL_JAP_26_0;¾ÆÄ«±â ±Þ ;;;;;;;;;;X
+MODEL_JAP_26_2;¼Ò·ù ±Þ ;;;;;;;;;;X
+MODEL_JAP_26_3;¼îÄ«Äí ±Þ ;;;;;;;;;;X
+MODEL_JAP_26_4;Å¸ÀÌÈ£ ±Þ ;;;;;;;;;;X
+#MODEL_JAP_26_5;¿î·ù ±Þ ;;;;;;;;;;X
+MODEL_JAP_27_0;¿ÍÄ«¹Ì¾ß ±Þ ;;;;;;;;;;X
+MODEL_JAP_27_2;È£¼î ±Þ ;;;;;;;;;;X
+MODEL_JAP_27_3;Å¸ÀÌ¿ä ±Þ ;;;;;;;;;;X
+MODEL_JAP_28_0;VIIÇü ±Þ ;;;;;;;;;;X
+MODEL_JAP_28_1;Ä«ÀÌÃò I ±Þ ;;;;;;;;;;X
+MODEL_JAP_28_2;KD1-º¸Æ® ±Þ ;;;;;;;;;;X
+MODEL_JAP_28_3;J1-º¸Æ® ±Þ ;;;;;;;;;;X
+MODEL_JAP_28_4;J3 ±Þ ;;;;;;;;;;X
+MODEL_JAP_28_5;DÇü ±Þ ;;;;;;;;;;X
+MODEL_JAP_28_6;ST-º¸Æ® ±Þ ;;;;;;;;;;X
+MODEL_JAP_28_7;Äí·Î½Ã¿À ±Þ ;;;;;;;;;;X
+MODEL_JAP_28_8;ÇÏ¾ß½Ã¿À ±Þ ;;;;;;;;;;X
+MODEL_JAP_29_0;Áë¼¾°¡Å¸ ±Þ ;;;;;;;;;;X
+MODEL_JAP_29_1;Áë¼¾ ¿À¾²°¡Å¸ ±Þ ;;;;;;;;;;X
+MODEL_JAP_29_2;¼¾ ÅäÄí ±Þ ;;;;;;;;;;X
+MODEL_JAP_31_0;·ùÁ¶ ±Þ ;;;;;;;;;;X
+MODEL_JAP_31_1;Ä¡Åä¼¼ ±Þ ;;;;;;;;;;X
+# USSR;;;;;;;;;;;X
+# land brigades;;;;;;;;;;;X
+BRIG_MODEL_SOV_1_0;ÇªÆ¿·ÎÇÁ 76.2mm M1900 ;;;;;;;;;;X
+BRIG_MODEL_SOV_1_1;ÇªÆ¿·ÎÇÁ 76.2mm M1902 ;;;;;;;;;;X
+BRIG_MODEL_SOV_1_2;¿ÀºÎÃÊÇÁ 15.2cm M1904 ;;;;;;;;;;X
+BRIG_MODEL_SOV_1_3;10.7cm °î»çÆ÷ M1910 ;;;;;;;;;;X
+BRIG_MODEL_SOV_1_4;12.2cm °î»çÆ÷ M1910 ;;;;;;;;;;X
+BRIG_MODEL_SOV_1_5;;;;;;;;;;;X
+BRIG_MODEL_SOV_1_6;;;;;;;;;;;X
+BRIG_MODEL_SOV_1_7;;;;;;;;;;;X
+BRIG_MODEL_SOV_1_8;7.62cm F22 ;;;;;;;;;;X
+BRIG_MODEL_SOV_1_9;12.2cm M1938 M-30 ;;;;;;;;;;X
+BRIG_MODEL_SOV_1_10;15.2cm M1937 ML-20 ;;;;;;;;;;X
+BRIG_MODEL_SOV_1_11;20.3cm B-4 ;;;;;;;;;;X
+BRIG_MODEL_SOV_1_12;;;;;;;;;;;X
+BRIG_MODEL_SOV_1_13;;;;;;;;;;;X
+BRIG_MODEL_SOV_2_0;KV-2 ;;;;;;;;;;X
+BRIG_MODEL_SOV_2_1;SU-76 ;;;;;;;;;;X
+BRIG_MODEL_SOV_2_2;SU-152 ;;;;;;;;;;X
+BRIG_MODEL_SOV_2_3;ISU-152 ;;;;;;;;;;X
+BRIG_MODEL_SOV_2_4;ISU-152 m45 ;;;;;;;;;;X
+BRIG_MODEL_SOV_2_5;ISU-152K ;;;;;;;;;;X
+BRIG_MODEL_SOV_2_6;ISU-152m ;;;;;;;;;;X
+BRIG_MODEL_SOV_6_0;ZiS-30 ;;;;;;;;;;X
+BRIG_MODEL_SOV_6_1;SU-76 ;;;;;;;;;;X
+BRIG_MODEL_SOV_6_2;SU-85 ;;;;;;;;;;X
+BRIG_MODEL_SOV_6_3;SU-100 ;;;;;;;;;;X
+BRIG_MODEL_SOV_6_4;T-44/100 ;;;;;;;;;;X
+BRIG_MODEL_SOV_6_5;ASU-57 ;;;;;;;;;;X
+BRIG_MODEL_SOV_6_6;ASU-85 ;;;;;;;;;;X
+BRIG_MODEL_SOV_6_7;;;;;;;;;;;X
+BRIG_MODEL_SOV_7_0;FT-17 ;;;;;;;;;;X
+BRIG_MODEL_SOV_7_1;¸¶Å© A Å×ÀÏ·¯ ;;;;;;;;;;X
+BRIG_MODEL_SOV_7_2;;;;;;;;;;;X
+BRIG_MODEL_SOV_7_3;;;;;;;;;;;X
+BRIG_MODEL_SOV_7_4;MS-1 ;;;;;;;;;;X
+BRIG_MODEL_SOV_7_5;BT-5 ;;;;;;;;;;X
+BRIG_MODEL_SOV_7_6;BT-7 ;;;;;;;;;;X
+BRIG_MODEL_SOV_7_7;T-26 m38 ;;;;;;;;;;X
+BRIG_MODEL_SOV_7_8;T-70/80 ;;;;;;;;;;X
+BRIG_MODEL_SOV_8_0;¸¶Å© V ¸®Ä«¸£µµ ;;;;;;;;;;X
+BRIG_MODEL_SOV_8_1;T-35 ;;;;;;;;;;X
+BRIG_MODEL_SOV_8_2;KV-1 ;;;;;;;;;;X
+BRIG_MODEL_SOV_8_3;KV-85 ;;;;;;;;;;X
+BRIG_MODEL_SOV_8_4;IS-2 ;;;;;;;;;;X
+BRIG_MODEL_SOV_8_5;T-10 ;;;;;;;;;;X
+BRIG_MODEL_SOV_9_0;;;;;;;;;;;X
+BRIG_MODEL_SOV_9_1;KV-4 ;;;;;;;;;;X
+BRIG_MODEL_SOV_10_0;;;;;;;;;;;X
+BRIG_MODEL_SOV_10_1;¿À½ºÆ¾-ÇªÆ¿·ÎÇÁ ;;;;;;;;;;X
+BRIG_MODEL_SOV_10_2;ÀÌÁ¶¸£½ºÅ°-ÇÇ¾ÆÆ® ;;;;;;;;;;X
+BRIG_MODEL_SOV_10_3;FAI ;;;;;;;;;;X
+BRIG_MODEL_SOV_10_4;BA-10 ;;;;;;;;;;X
+BRIG_MODEL_SOV_10_5;BA-64 ;;;;;;;;;;X
+BRIG_MODEL_SOV_10_6;;;;;;;;;;;X
+BRIG_MODEL_SOV_10_7;BTR-40 ;;;;;;;;;;X
+BRIG_MODEL_SOV_10_8;BRDM-1 ;;;;;;;;;;X
+# USSR air brigades;;;;;;;;;;;X
+BRIG_MODEL_SOV_14_9;Yak-36 ;;;;;;;;;;X
+BRIG_MODEL_SOV_15_0;ÅõÆú·¹ÇÁ DI-8 ;;;;;;;;;;X
+BRIG_MODEL_SOV_15_1;¾ßÄÚºí·¹ÇÁ Yak-2 ;;;;;;;;;;X
+BRIG_MODEL_SOV_15_2;ÆäÆ®·ªÄÚÇÁ Pe-3 ;;;;;;;;;;X
+BRIG_MODEL_SOV_15_4;¾ßÄÚºí·¹ÇÁ Yak-17 ;;;;;;;;;;X
+BRIG_MODEL_SOV_15_5;Yak-25 'ÇÃ·¡½Ã¶óÀÌÆ®' ;;;;;;;;;;X
+BRIG_MODEL_SOV_15_6;Yak-28P 'ÆÄÀÌ¾î¹Ù' ;;;;;;;;;;X
+BRIG_MODEL_SOV_15_8;ÅõÆú·¹ÇÁ Tu-128 'ÇÇµé·¯' ;;;;;;;;;;X
+# USSR;;;;;;;;;;;X
+# land units;;;;;;;;;;;X
+MODEL_SOV_4_0;BT-5 ;;;;;;;;;;X
+MODEL_SOV_4_1;BT-7 ;;;;;;;;;;X
+MODEL_SOV_4_2;T-26 m28 ;;;;;;;;;;X
+MODEL_SOV_5_0;T-28 m38 ;;;;;;;;;;X
+MODEL_SOV_5_1;T-34/76 m41 ;;;;;;;;;;X
+MODEL_SOV_5_2;T-34/76 m43 ;;;;;;;;;;X
+MODEL_SOV_5_3;T-34/85 ;;;;;;;;;;X
+MODEL_SOV_5_4;T-44 ;;;;;;;;;;X
+MODEL_SOV_5_5;T-54 ;;;;;;;;;;X
+MODEL_SOV_5_6;T-55 ;;;;;;;;;;X
+MODEL_SOV_5_7;T-62 ;;;;;;;;;;X
+# air units;;;;;;;;;;;X
+MODEL_SOV_12_0;´ºÆ÷¸£ 10 ;;;;;;;;;;X
+MODEL_SOV_12_1;½ÃÄÚ¸£½ºÅ° S-XVI ;;;;;;;;;;X
+MODEL_SOV_12_2;ÆÄ¾Æ¸Á HF.30 ;;;;;;;;;;X
+MODEL_SOV_12_3;Æú¸®Ä«¸£Æ÷ÇÁ I-5 ;;;;;;;;;;X
+MODEL_SOV_12_4;Æú¸®Ä«¸£Æ÷ÇÁ I-16 ÀÌ»è ;;;;;;;;;;X
+MODEL_SOV_12_5;¹ÌÄÚ¾á-±¸·¹ºñÄ¡ MiG-3 ;;;;;;;;;;X
+MODEL_SOV_12_6;¶óº¸Ã÷Å² La-5 ;;;;;;;;;;X
+MODEL_SOV_12_7;¶óº¸Ã÷Å² La-7 'ÇÉ' ;;;;;;;;;;X
+MODEL_SOV_12_8;¹ÌÄÚ¾á-±¸·¹ºñÄ¡ MiG-9 'ÆÄ°í' ;;;;;;;;;;X
+MODEL_SOV_12_9;¹ÌÄÚ¾á-±¸·¹ºñÄ¡ MiG-15 'ÆÄ°íÆ®' ;;;;;;;;;;X
+MODEL_SOV_12_10;¹ÌÄÚ¾á-±¸·¹ºñÄ¡ MiG-17 'ÇÁ·¹½ºÄÚ' ;;;;;;;;;;X
+MODEL_SOV_12_11;¹ÌÄÚ¾á-±¸·¹ºñÄ¡ MiG-19 'ÆÄ¸Ó' ;;;;;;;;;;X
+MODEL_SOV_12_12;¹ÌÄÚ¾á-±¸·¹ºñÄ¡ MiG-21 'ÇÇ½Ãº£µå' ;;;;;;;;;;X
+MODEL_SOV_12_13;¹ÌÄÚ¾á-±¸·¹ºñÄ¡ MiG-21bis 'ÇÇ½Ãº£µå' ;;;;;;;;;;X
+MODEL_SOV_13_0;¸ð·¹ÀÎ-¼Ö´Ï¿¡¸£ G ;;;;;;;;;;X
+MODEL_SOV_13_1;¸ð·¹ÀÎ-¼Ö´Ï¿¡¸£ L ;;;;;;;;;;X
+MODEL_SOV_13_2;¸ð½ºÄ«-ºñ½ºÆ®¸®Ã÷Å° MB-bis ;;;;;;;;;;X
+MODEL_SOV_13_3;¾Æ³ªÆ®¶ó ¾Æ³ª¸ó ;;;;;;;;;;X
+MODEL_SOV_13_4;¾Æ³ªÆ®¶ó ¾Æ³ªµð½º ;;;;;;;;;;X
+MODEL_SOV_13_5;Æú¸®Ä«¸£Æ÷ÇÁ I-1 ;;;;;;;;;;X
+MODEL_SOV_13_6;Æú¸®Ä«¸£Æ÷ÇÁ I-3 ;;;;;;;;;;X
+MODEL_SOV_13_7;Æú¸®Ä«¸£Æ÷ÇÁ I-15 Â÷ÀÌÄ« ;;;;;;;;;;X
+MODEL_SOV_13_8;¾ßÄÚºí·¹ÇÁ Yak-1 ;;;;;;;;;;X
+MODEL_SOV_13_9;¾ßÄÚºí·¹ÇÁ Yak-3 ;;;;;;;;;;X
+MODEL_SOV_13_10;¾ßÄÚºí·¹ÇÁ Yak-9 'ÇÁ·©Å©' ;;;;;;;;;;X
+MODEL_SOV_13_11;¾ßÄÚºí·¹ÇÁ Yak-15 'Æä´õ' ;;;;;;;;;;X
+MODEL_SOV_13_12;¾ßÄÚºí·¹ÇÁ Yak-17 'Æä´õ' ;;;;;;;;;;X
+MODEL_SOV_13_13;¶óº¸Ã÷Å² La-15 'ÆÒÅ×ÀÏ' ;;;;;;;;;;X
+MODEL_SOV_13_14;¾ßÄÚºí·¹ÇÁ Yak-23 'ÇÃ·Î¶ó' ;;;;;;;;;;X
+MODEL_SOV_13_15;¼öÈ£ÀÌ Su-9 'ÇÇ½ÃÆ÷Æ®' ;;;;;;;;;;X
+MODEL_SOV_13_16;¼öÈ£ÀÌ Su-11 'ÇÇ½ÃÆ÷Æ®' ;;;;;;;;;;X
+MODEL_SOV_32_0;º£·¹Áî³Å-ÀÌ»ç¿¹ÇÁ BI-1 ;;;;;;;;;;X
+MODEL_SOV_32_1;º£·¹Áî³Å-ÀÌ»ç¿¹ÇÁ BI-6 ;;;;;;;;;;X
+MODEL_SOV_14_0;½ÃÄÚ¸£½ºÅ° ÀÏ·ª ¹«·Î¸äÃ÷ ;;;;;;;;;;X
+MODEL_SOV_14_1;¾Æ³ªÆ®¶ó DE ;;;;;;;;;;X
+MODEL_SOV_14_2;ÅõÆú·¹ÇÁ TB-3 ;;;;;;;;;;X
+MODEL_SOV_14_3;ÅõÆú·¹ÇÁ TB-6 ;;;;;;;;;;X
+MODEL_SOV_14_4;ÆäÆ®·ªÄÚÇÁ Pe-8 ;;;;;;;;;;X
+MODEL_SOV_14_5;ÅõÆú·¹ÇÁ Tu-4 'ºÒ' ;;;;;;;;;;X
+MODEL_SOV_14_6;¹Ì¾ß½ÃÃ¼ÇÁ M-4 '¹ÙÀÌ½¼' ;;;;;;;;;;X
+MODEL_SOV_14_7;ÅõÆú·¹ÇÁ Tu-16 '¹èÀú' ;;;;;;;;;;X
+MODEL_SOV_14_8;ÅõÆú·¹ÇÁ Tu-95 'º£¾î' ;;;;;;;;;;X
+MODEL_SOV_14_9;¹Ì¾ß½ÃÃ¼ÇÁ M-50 '¹Ù¿î´õ' ;;;;;;;;;;X
+MODEL_SOV_15_4;ÅõÆú·¹ÇÁ TB-1 ;;;;;;;;;;X
+MODEL_SOV_15_5;ÅõÆú·¹ÇÁ SB Ä«Ãß»þ ;;;;;;;;;;X
+MODEL_SOV_15_6;ÆäÆ®·ªÄÚÇÁ Pe-2 Æä½´Ä« ;;;;;;;;;;X
+MODEL_SOV_15_7;ÀÏ·ù½Å Il-4 '¹ä' ;;;;;;;;;;X
+MODEL_SOV_15_8;ÅõÆú·¹ÇÁ Tu-2 '¹èÆ®' ;;;;;;;;;;X
+MODEL_SOV_15_9;ÅõÆú·¹ÇÁ Tu-12 ;;;;;;;;;;X
+MODEL_SOV_15_10;ÅõÆú·¹ÇÁ Tu-82 'ºÎÃ³' ;;;;;;;;;;X
+MODEL_SOV_15_11;ÀÏ·ù½Å Il-28 'ºñ±Û' ;;;;;;;;;;X
+MODEL_SOV_15_12;ÀÏ·ù½Å Il-54 'ºí·Î¿ì·¥ÇÁ' ;;;;;;;;;;X
+MODEL_SOV_16_2;¾Æ¸£Ç×°Ö½ºÅ° Ar-2 ;;;;;;;;;;X
+MODEL_SOV_16_3;ÀÏ·ù½Å Il-4T '¹ä' ;;;;;;;;;;X
+MODEL_SOV_16_4;ÅõÆú·¹ÇÁ Tu-2T '¹èÆ®' ;;;;;;;;;;X
+MODEL_SOV_16_6;º£¸®¿¹ÇÁ Be-6 '¸ÅÁö' ;;;;;;;;;;X
+MODEL_SOV_16_8;º£¸®¿¹ÇÁ Be-12 '¸ÞÀÏ' ;;;;;;;;;;X
+MODEL_SOV_17_0;¼öÈ£ÀÌ Su-2 ;;;;;;;;;;X
+MODEL_SOV_17_1;¼öÈ£ÀÌ Su-4 ;;;;;;;;;;X
+MODEL_SOV_17_2;ÀÏ·ù½Å Il-2 ½´Åõ¸£¸ðºò ;;;;;;;;;;X
+MODEL_SOV_17_3;ÀÏ·ù½Å Il-2M ½´Åõ¸£¸ðºò ;;;;;;;;;;X
+MODEL_SOV_17_4;ÀÏ·ù½Å Il-10 'ºñ½ºÆ®' ;;;;;;;;;;X
+MODEL_SOV_17_5;ÀÏ·ù½Å Il-16 ;;;;;;;;;;X
+MODEL_SOV_17_6;Su-7 'ÇÇÅÍ' ;;;;;;;;;;X
+MODEL_SOV_18_0;ÅõÆú·¹ÇÁ TB-3 ;;;;;;;;;;X
+MODEL_SOV_18_2;¸®½´³ëÇÁ Li-2 'Ä¸' ;;;;;;;;;;X
+MODEL_SOV_18_3;ÀÏ·ù½Å Il-12 'ÄÚÄ¡' ;;;;;;;;;;X
+MODEL_SOV_18_4;¾ÈÅä³ëÇÁ An-2 'ÄÝÆ®' ;;;;;;;;;;X
+MODEL_SOV_18_5;¾ÈÅä³ëÇÁ An-8 'Ä·ÇÁ' ;;;;;;;;;;X
+MODEL_SOV_20_0;SUB-1 ½ºÄ¿³Ê ;;;;;;;;;;X
+MODEL_SOV_20_1;SUB-3 »þÀÌ½ºÅÍ ;;;;;;;;;;X
+MODEL_SOV_20_2;SUB-6 »õÇÁ¿ìµå ;;;;;;;;;;X
+# naval units;;;;;;;;;;;X
+MODEL_SOV_21_0;·ç»ìÄ« ±Þ ;;;;;;;;;;X
+MODEL_SOV_21_1;ÆäÆ®·ÎÆÄºí·ÎÇÁ½ºÅ© ±Þ ;;;;;;;;;;X
+MODEL_SOV_21_2;°­±¸Æ® ±Þ ;;;;;;;;;;X
+MODEL_SOV_21_8;¼Òº¶Ã÷Å° ¼ÒÀ¯Áî ±Þ ;;;;;;;;;;X
+MODEL_SOV_22_0;ÄÚ¹ÎÅ×¸¥ ±Þ ;;;;;;;;;;X
+MODEL_SOV_22_2;½ºº£Æ²¶ó³ª ±Þ ;;;;;;;;;;X
+MODEL_SOV_22_3;ÇÁ·ÎÇÉÅ×¸¥ ±Þ ;;;;;;;;;;X
+MODEL_SOV_22_5;ÇÁ·ÎÁ§Æ® 65 ±Þ ;;;;;;;;;;X
+MODEL_SOV_22_8;Å²´Ù ±Þ ;;;;;;;;;;X
+MODEL_SOV_23_0;Å©³ÄÁî Æ÷ÀÚ¸£½ºÅ° ±Þ ;;;;;;;;;;X
+MODEL_SOV_23_1;¹Ù¾á ±Þ ;;;;;;;;;;X
+MODEL_SOV_23_5;Å°·ÎÇÁ ±Þ ;;;;;;;;;;X
+MODEL_SOV_23_7;½ºº£¸£µé·ÎÇÁ ±Þ ;;;;;;;;;;X
+MODEL_SOV_23_8;½½¶ó¹Ù ±Þ ;;;;;;;;;;X
+MODEL_SOV_24_1;º¸·Îµð³ë ±Þ ;;;;;;;;;;X
+MODEL_SOV_24_3;Å©·Ð½´Å¸Æ® ±Þ ;;;;;;;;;;X
+MODEL_SOV_24_5;½ºÅ»¸°±×¶óµå ±Þ ;;;;;;;;;;X
+MODEL_SOV_25_0;ÇÁ·çÆ®Å° ±Þ ;;;;;;;;;;X
+MODEL_SOV_25_1;Æ®º£¸£µð ±Þ ;;;;;;;;;;X
+MODEL_SOV_25_3;µ¥¸£ÁîÅ° ±Þ ;;;;;;;;;;X
+MODEL_SOV_25_6;¿À±×³×º¸ÀÌ ±Þ ;;;;;;;;;;X
+MODEL_SOV_25_7;¿ÀÇªÆ®´Ï ±Þ ;;;;;;;;;;X
+MODEL_SOV_25_8;½ºÄÚ¸® ±Þ ;;;;;;;;;;X
+MODEL_SOV_25_9;ÄÝÆ¾ ±Þ ;;;;;;;;;;X
+MODEL_SOV_26_5;ÇÁ·ÎÁ§Æ® 72 ±Þ ;;;;;;;;;;X
+MODEL_SOV_26_6;ÄÚ½ºÆ®·Î¹ÌÆ¼³ë¹Ù ±Þ ;;;;;;;;;;X
+MODEL_SOV_26_7;ÇÁ·ÎÁ§Æ® 85 ±Þ ;;;;;;;;;;X
+MODEL_SOV_28_0;µåÁ¦ºñ¿¡Ã÷Å° ±Þ ;;;;;;;;;;X
+MODEL_SOV_28_1;³ª¸£¹ß ±Þ ;;;;;;;;;;X
+MODEL_SOV_28_2;AG-º¸Æ® ±Þ ;;;;;;;;;;X
+MODEL_SOV_28_3;I °è¿­ ;;;;;;;;;;X
+MODEL_SOV_28_4;XI °è¿­ ;;;;;;;;;;X
+MODEL_SOV_28_5;XIIbis °è¿­ ;;;;;;;;;;X
+MODEL_SOV_28_6;XV °è¿­ ;;;;;;;;;;X
+MODEL_SOV_28_7;XVI °è¿­ ;;;;;;;;;;X
+MODEL_SOV_28_8;À§½ºÅ° ±Þ ;;;;;;;;;;X
+MODEL_SOV_28_9;·Î¹Ì¿À ±Þ ;;;;;;;;;;X
+MODEL_SOV_29_1;Ä«Ãò»þ ±Þ ;;;;;;;;;;X
+MODEL_SOV_31_1;ÇÁ·ÎÁ§Æ® 71 ±Þ ;;;;;;;;;;X
+# USa ;;;;;;;;;;;X
+# land brigades;;;;;;;;;;;X
+BRIG_MODEL_USA_1_0;M1902 3ÀÎÄ¡ ;;;;;;;;;;X
+BRIG_MODEL_USA_1_1;M1908 6ÀÎÄ¡ ;;;;;;;;;;X
+BRIG_MODEL_USA_1_2;M1917A1 15.5cm °î»çÆ÷ ;;;;;;;;;;X
+BRIG_MODEL_USA_1_3;M1917 15.5cm ¾ßÆ÷ ;;;;;;;;;;X
+BRIG_MODEL_USA_1_4;;;;;;;;;;;X
+BRIG_MODEL_USA_1_5;7.5cm M1 ;;;;;;;;;;X
+BRIG_MODEL_USA_1_6;;;;;;;;;;;X
+BRIG_MODEL_USA_1_7;M115 203mm °î»çÆ÷ ;;;;;;;;;;X
+BRIG_MODEL_USA_1_8;15.5cm ·Õ Åè ;;;;;;;;;;X
+BRIG_MODEL_USA_1_9;105mm M2A1 ;;;;;;;;;;X
+BRIG_MODEL_USA_1_10;155mm °î»çÆ÷ M114 ;;;;;;;;;;X
+BRIG_MODEL_USA_1_11;15.5cm M59 ·Õ Åè ;;;;;;;;;;X
+BRIG_MODEL_USA_1_12;;;;;;;;;;;X
+BRIG_MODEL_USA_1_13;;;;;;;;;;;X
+BRIG_MODEL_USA_2_0;;;;;;;;;;;X
+BRIG_MODEL_USA_2_1;M8 ½ºÄà ;;;;;;;;;;X
+BRIG_MODEL_USA_2_2;M7 ÇÁ¸®½ºÆ® ;;;;;;;;;;X
+BRIG_MODEL_USA_2_3;M12 GMC ;;;;;;;;;;X
+BRIG_MODEL_USA_2_4;M40 GMC ;;;;;;;;;;X
+BRIG_MODEL_USA_2_5;M53 GMC ;;;;;;;;;;X
+BRIG_MODEL_USA_2_6;;;;;;;;;;;X
+BRIG_MODEL_USA_2_7;M107 GMC ;;;;;;;;;;X
+BRIG_MODEL_USA_6_0;3.7cm ÁÖÆ÷ Æ÷¸£Å× ;;;;;;;;;;X
+BRIG_MODEL_USA_6_1;M10 ¿ï¹ö¸° ;;;;;;;;;;X
+BRIG_MODEL_USA_6_2;M18 ÇïÄ¹ ;;;;;;;;;;X
+BRIG_MODEL_USA_6_3;M36 Àè½¼ ;;;;;;;;;;X
+BRIG_MODEL_USA_6_4;T95 GMC ;;;;;;;;;;X
+BRIG_MODEL_USA_6_5;M56 ½ºÄÝÇÇ¿Â ;;;;;;;;;;X
+BRIG_MODEL_USA_6_6;M50 ¿ÂÅä½º ;;;;;;;;;;X
+BRIG_MODEL_USA_7_0;6Åæ ÀüÂ÷ M1917 ;;;;;;;;;;X
+BRIG_MODEL_USA_7_1;Å©¸®½ºÆ¼ M1919 ;;;;;;;;;;X
+BRIG_MODEL_USA_7_2;Å©¸®½ºÆ¼ M1921 ;;;;;;;;;;X
+BRIG_MODEL_USA_7_3;T1 °æ ÀüÂ÷ ;;;;;;;;;;X
+BRIG_MODEL_USA_7_4;T1E3 °æ ÀüÂ÷ ;;;;;;;;;;X
+BRIG_MODEL_USA_7_5;M2A4 °æ ÀüÂ÷ ;;;;;;;;;;X
+BRIG_MODEL_USA_7_6;M3 ½ºÆ©¾îÆ® ;;;;;;;;;;X
+BRIG_MODEL_USA_7_7;M5 ½ºÆ©¾îÆ® ;;;;;;;;;;X
+BRIG_MODEL_USA_7_8;M24 Ã¤ÇÇ ;;;;;;;;;;X
+BRIG_MODEL_USA_8_0;¸¶Å© VII ¸®¹öÆ¼ ;;;;;;;;;;X
+BRIG_MODEL_USA_8_1;;;;;;;;;;;X
+BRIG_MODEL_USA_8_2;T1E3 Áß ÀüÂ÷ ;;;;;;;;;;X
+BRIG_MODEL_USA_8_3;M26 ÆÛ½Ì ;;;;;;;;;;X
+BRIG_MODEL_USA_8_4;T26E1 ½´ÆÛ ÆÛ½Ì ;;;;;;;;;;X
+BRIG_MODEL_USA_8_5;M103 Áß ÀüÂ÷ ;;;;;;;;;;X
+BRIG_MODEL_USA_9_0;È¦Æ® °¡¼Ö¸°-Àü±â ÀüÂ÷ ;;;;;;;;;;X
+BRIG_MODEL_USA_9_1;T29 ;;;;;;;;;;X
+BRIG_MODEL_USA_10_0;µ¥ÀÌºñµå½¼ ÀÚµ¿Â÷ ¹èÅÍ¸® ;;;;;;;;;;X
+BRIG_MODEL_USA_10_1;µ¥ÀÌºñµå½¼ Ä³µô¶ô Àå°©Â÷ ;;;;;;;;;;X
+BRIG_MODEL_USA_10_2;Å· Àå°©Â÷ ;;;;;;;;;;X
+BRIG_MODEL_USA_10_3;M1 ÀüÅõ Â÷·® ;;;;;;;;;;X
+BRIG_MODEL_USA_10_4;M3 Á¤ÂûÂ÷ ;;;;;;;;;;X
+BRIG_MODEL_USA_10_5;M8 ±×·¹ÀÌÇÏ¿îµå ;;;;;;;;;;X
+BRIG_MODEL_USA_10_6;M38 ¿ïÇÁÇÏ¿îµå ;;;;;;;;;;X
+BRIG_MODEL_USA_10_7;;;;;;;;;;;X
+BRIG_MODEL_USA_10_8;Ä³µô¶ô °ÔÀÌÁö ÄÚ¸¸µµ ;;;;;;;;;;X
+# USA air brigades;;;;;;;;;;;X
+BRIG_MODEL_USA_14_0;DT/FC ;;;;;;;;;;X
+BRIG_MODEL_USA_14_1;S2C/T4M/FF ;;;;;;;;;;X
+BRIG_MODEL_USA_14_2;SBC Çï´ÙÀÌ¹ö/T4M/±×·¯¸Õ F3F ;;;;;;;;;;X
+BRIG_MODEL_USA_14_3;SB2U ºóµðÄÉÀÌÅÍ/TBD µ¥¹Ù½ºÅ×ÀÌÅÍ/F2A ¹öÆÈ·Î ;;;;;;;;;;X
+BRIG_MODEL_USA_14_4;SBD µ·Æ²¸®½º/TBD µ¥¹Ù½ºÅ×ÀÌÅÍ/F4F ¿ÍÀÏµåÄ¹ ;;;;;;;;;;X
+BRIG_MODEL_USA_14_5;SB2C Çï´ÙÀÌ¹ö/TBF ¾îº¥Á®/F6F ÇïÄ¹ ;;;;;;;;;;X
+BRIG_MODEL_USA_14_6;F4U ÄÝ¼¼¾î/AD ½ºÄ«ÀÌ·¹ÀÌ´õ/F9F ÆÇÅÍ ;;;;;;;;;;X
+BRIG_MODEL_USA_14_7;F4U ÄÝ¼¼¾î/AD ½ºÄ«ÀÌ·¹ÀÌ´õ/F9F Äí°Å ;;;;;;;;;;X
+BRIG_MODEL_USA_14_8;A4D ½ºÄ«ÀÌÈ£Å©/A3D ½ºÄ«ÀÌ¿ö¸®¾î/F11F Å¸ÀÌ°Å ;;;;;;;;;;X
+BRIG_MODEL_USA_15_0;ÄÜ¼Ö¸®µ¥ÀÌÆ® P-30 ;;;;;;;;;;X
+BRIG_MODEL_USA_15_1;·ÏÈ÷µå P-38D ¶óÀÌÆ®´× ;;;;;;;;;;X
+BRIG_MODEL_USA_15_2;·ÏÈ÷µå P-38F ¶óÀÌÆ®´× ;;;;;;;;;;X
+BRIG_MODEL_USA_15_3;·ÏÈ÷µå P-38J ¶óÀÌÆ®´× ;;;;;;;;;;X
+BRIG_MODEL_USA_15_4;³ë½º ¾Æ¸Þ¸®Ä­ P-82 Æ®À© ¸Ó½ºÅÊ ;;;;;;;;;;X
+BRIG_MODEL_USA_15_5;³ë½º·Ó F-89 ½ºÄÝÇÇ¿Â ;;;;;;;;;;X
+BRIG_MODEL_USA_15_6;·ÏÈ÷µå F-94 ½ºÅ¸ÆÄÀÌ¾î ;;;;;;;;;;X
+BRIG_MODEL_USA_15_7;ÄÁº£¾î F-102 µ¨Å¸ ´ë°Å ;;;;;;;;;;X
+BRIG_MODEL_USA_15_8;ÄÁº£¾î F-102 µ¨Å¸ ´ë°Å ;;;;;;;;;;X
+# USa ;;;;;;;;;;;X
+# land units;;;;;;;;;;;X
+MODEL_USA_4_0;M2A4 °æ ÀüÂ÷ ;;;;;;;;;;X
+MODEL_USA_4_1;M3 °æ ÀüÂ÷ ;;;;;;;;;;X
+MODEL_USA_4_3;M5 °æ ÀüÂ÷ ;;;;;;;;;;X
+MODEL_USA_5_0;M2 ÁßÇü ÀüÂ÷ ;;;;;;;;;;X
+MODEL_USA_5_1;M3 ¸® ;;;;;;;;;;X
+MODEL_USA_5_2;M4 ¼Å¸Õ ;;;;;;;;;;X
+MODEL_USA_5_3;M4A3E8(76)W ¼Å¸Õ ;;;;;;;;;;X
+MODEL_USA_5_4;M26 ÆÛ½Ì ;;;;;;;;;;X
+MODEL_USA_5_5;M47 ÆÐÆ° I ;;;;;;;;;;X
+MODEL_USA_5_6;M48 ÆÐÆ° II ;;;;;;;;;;X
+MODEL_USA_5_7;M60A1 ÁÖ·Â ÀüÂ÷ ;;;;;;;;;;X
+# air units;;;;;;;;;;;X
+MODEL_USA_12_0;¼ÙÀ§µå ½ºÆ®·¯ÅÍ ;;;;;;;;;;X
+MODEL_USA_12_1;ºê¸®½ºÆ² F.2 ÀüÅõ±â ;;;;;;;;;;X
+MODEL_USA_12_2;Ä¿Æ¼½º 18-t ;;;;;;;;;;X
+MODEL_USA_12_3;º¸À× P-12 ;;;;;;;;;;X
+MODEL_USA_12_4;º£¸¦¸®³Ê-Á¶ÀÌ½º P-16 ;;;;;;;;;;X
+MODEL_USA_12_5;¼¼¹ö½ºÅ° P-35 °¡µå¸Ç ;;;;;;;;;;X
+MODEL_USA_12_6;º§ P-39 ¿¡¾î¶óÄÚºê¶ó ;;;;;;;;;;X
+MODEL_USA_12_7;¸®ÆÛºí¸¯ P-47 ½ã´õº¼Æ® ;;;;;;;;;;X
+MODEL_USA_12_8;º§ P-59 ¿¡¾î¶óÄÚ¸ä ;;;;;;;;;;X
+MODEL_USA_12_9;¸®ÆÛºí¸¯ F-84 ½ã´õÁ¦Æ® ;;;;;;;;;;X
+MODEL_USA_12_10;¸®ÆÛºí¸¯ F-84F ½ã´õÁ¦Æ® ;;;;;;;;;;X
+MODEL_USA_12_11;¸Æµµ³Ú F-101 ºÎµÎ ;;;;;;;;;;X
+MODEL_USA_12_12;¸®ÆÛºí¸¯ F-105 ½ã´õÄ¡ÇÁ ;;;;;;;;;;X
+MODEL_USA_12_13;¸Æµµ³Ú-´õ±Û·¯½º F-4 ÆÒÅÒ II ;;;;;;;;;;X
+MODEL_USA_13_0;¶óÀÌÆ® B Çü ;;;;;;;;;;X
+MODEL_USA_13_1;Ä¿Æ¼½º R Çü ;;;;;;;;;;X
+MODEL_USA_13_2;¾Æºê·Î 504 ;;;;;;;;;;X
+MODEL_USA_13_3;´ºÆ÷¸£ 17 ;;;;;;;;;;X
+MODEL_USA_13_4;SPAD S.XIII ;;;;;;;;;;X
+MODEL_USA_13_5;´ºÆ÷¸£ 28 ;;;;;;;;;;X
+MODEL_USA_13_6;Ä¿Æ¼½º P-6 È£Å© ;;;;;;;;;;X
+MODEL_USA_13_7;º¸À× P-26 ÇÇ½´ÅÍ ;;;;;;;;;;X
+MODEL_USA_13_8;Ä¿Æ¼½º P-36 È£Å© ;;;;;;;;;;X
+MODEL_USA_13_9;Ä¿Æ¼½º P-40 ¿öÈ£Å© ;;;;;;;;;;X
+MODEL_USA_13_10;³ë½º ¾Æ¸Þ¸®Ä­ P-51 ¸Ó½ºÅÊ ;;;;;;;;;;X
+MODEL_USA_13_11;·ÏÈ÷µå P-80 ½´ÆÃ ½ºÅ¸ ;;;;;;;;;;X
+MODEL_USA_13_12;³ë½º ¾Æ¸Þ¸®Ä­ F-86A ¼¼ÀÌ¹ö ;;;;;;;;;;X
+MODEL_USA_13_13;³ë½º ¾Æ¸Þ¸®Ä­ F-86D ¼¼ÀÌ¹ö ;;;;;;;;;;X
+MODEL_USA_13_14;³ë½º ¾Æ¸Þ¸®Ä­ F-100 ½´ÆÛ ¼¼ÀÌ¹ö ;;;;;;;;;;X
+MODEL_USA_13_15;·ÏÈ÷µå F-104 ½ºÅ¸ÆÄÀÌÅÍ ;;;;;;;;;;X
+MODEL_USA_13_16;ÄÁº£¾î F-106 µ¨Å¸ ´ÙÆ® ;;;;;;;;;;X
+MODEL_USA_32_0;³ë½º·Ó P-79 ÇÃ¶óÀ× ·¥ ;;;;;;;;;;X
+MODEL_USA_32_1;¸®ÆÛºí¸¯ F-91 ½ã´õ¼ÁÅÍ ;;;;;;;;;;X
+MODEL_USA_14_4;º¸À× B-17 ÇÃ¶óÀ× Æ÷Æ®¸®½º ;;;;;;;;;;X
+MODEL_USA_14_5;ÄÜ¼Ö¸®µ¥ÀÌÆ® B-24 ¸®¹ö·¹ÀÌÅÍ ;;;;;;;;;;X
+MODEL_USA_14_6;º¸À× B-29 ½´ÆÛÆ÷Æ®¸®½º ;;;;;;;;;;X
+MODEL_USA_14_7;ÄÁº£¾î B-36 ÇÇ½º¸ÞÀÌÄ¿ ;;;;;;;;;;X
+MODEL_USA_14_8;º¸À× B-47 ½ºÆ®¶óÅäÁ¦Æ® ;;;;;;;;;;X
+MODEL_USA_14_9;º¸À× B-52 ½ºÆ®¶óÅäÆ÷Æ®¸®½º ;;;;;;;;;;X
+MODEL_USA_15_1;Äíµå·Õ G.4 ;;;;;;;;;;X
+MODEL_USA_15_2;ÇÚµé¸® ÆäÀÌÁö O/400 ;;;;;;;;;;X
+MODEL_USA_15_3;¸¶Æ¾ MB-1 ;;;;;;;;;;X
+MODEL_USA_15_4;Å°½ºÅæ B-3 ;;;;;;;;;;X
+MODEL_USA_15_5;¸¶Æ¾ B-10 ;;;;;;;;;;X
+MODEL_USA_15_6;´õ±Û·¯½º DB-7 º¸½ºÅæ ;;;;;;;;;;X
+MODEL_USA_15_7;³ë½º ¾Æ¸Þ¸®Ä­ B-25 ¹ÌÃ¿ ;;;;;;;;;;X
+MODEL_USA_15_8;¸¶Æ¾ B-26 ¸Ó·Î´õ ;;;;;;;;;;X
+MODEL_USA_15_9;´õ±Û·¯½º A-26 ÀÎº£ÀÌ´õ ;;;;;;;;;;X
+MODEL_USA_15_10;³ë½º ¾Æ¸Þ¸®Ä­ B-45 Åä³×ÀÌµµ ;;;;;;;;;;X
+MODEL_USA_15_11;¸¶Æ¾ B-57 Äµ¹ö¶ó ;;;;;;;;;;X
+MODEL_USA_15_12;´õ±Û·¯½º B-66 µð½ºÆ®·ÎÀÌ¾î ;;;;;;;;;;X
+MODEL_USA_16_0;Æç¸¯½ºÅä F5L ;;;;;;;;;;X
+MODEL_USA_16_1;ÄÜ¼Ö¸®µ¥ÀÌÆ® P2Y ;;;;;;;;;;X
+MODEL_USA_16_2;ÄÜ¼Ö¸®µ¥ÀÌÆ® PBY Ä«Å»¸®³ª ;;;;;;;;;;X
+MODEL_USA_16_3;¸¶Æ¾ PBM ¸¶¸®³× ;;;;;;;;;;X
+MODEL_USA_16_4;ÄÜ¼Ö¸®µ¥ÀÌÆ® PB4Y ÇÁ¶óÀÌ¹öÆ¼¾î ;;;;;;;;;;X
+MODEL_USA_16_5;·ÏÈ÷µå P-2 ³ÜÆª ;;;;;;;;;;X
+MODEL_USA_16_6;·ÏÈ÷µå P-2F ³ÜÆª ;;;;;;;;;;X
+MODEL_USA_16_7;±×·¯¸Õ S-2 Æ®·¡Ä¿ ;;;;;;;;;;X
+MODEL_USA_16_8;·ÏÈ÷µå P-3 ¿À¸®¿Â ;;;;;;;;;;X
+MODEL_USA_17_0;Ä¿Æ¼½º A-12 ½´¶óÀÌÅ© ;;;;;;;;;;X
+MODEL_USA_17_1;³ë½º·Ó A-17 ;;;;;;;;;;X
+MODEL_USA_17_2;¹úÆ¼ A-31 º¥Àü½º ;;;;;;;;;;X
+MODEL_USA_17_3;³ë½º ¾Æ¸Þ¸®Ä­ A-36 ¾ÆÆÄÄ¡ ;;;;;;;;;;X
+MODEL_USA_17_4;´õ±Û·¯½º A-1 ½ºÄ«ÀÌ·¹ÀÌ´õ ;;;;;;;;;;X
+MODEL_USA_17_5;¹úÆ¼ A-41 ;;;;;;;;;;X
+MODEL_USA_17_6;´õ±Û·¯½º A-4 ½ºÄ«ÀÌÈ£Å© ;;;;;;;;;;X
+MODEL_USA_18_0;´õ±Û·¯½º C-1 ;;;;;;;;;;X
+MODEL_USA_18_1;´õ±Û·¯½º C-33 ;;;;;;;;;;X
+MODEL_USA_18_2;Ä¿Æ¼½º-¶óÀÌÆ® C-46 ÄÚ¸¸µµ ;;;;;;;;;;X
+MODEL_USA_18_3;´õ±Û·¯½º C-47 ½ºÄ«ÀÌÆ®·¹ÀÎ ;;;;;;;;;;X
+MODEL_USA_18_4;´õ±Û·¯½º C-54 ½ºÄ«ÀÌ¸¶½ºÅÍ ;;;;;;;;;;X
+MODEL_USA_18_5;Æä¾îÂ÷ÀÏµå C-119 ÇÃ¶óÀ× º¹½ºÄ« ;;;;;;;;;;X
+MODEL_USA_20_0;·¹µå½ºÅæ ;;;;;;;;;;X
+MODEL_USA_20_1;Åä¸£ ;;;;;;;;;;X
+MODEL_USA_20_2;¾ÆÆ²¶ó½º-D ;;;;;;;;;;X
+# naval units;;;;;;;;;;;X
+MODEL_USA_21_0;Ç»¸®ÅÏ ±Þ ;;;;;;;;;;X
+MODEL_USA_21_1;ÀÏ¸®³ëÀÌ ±Þ ;;;;;;;;;;X
+MODEL_USA_21_2;µ¨¶ó¿þ¾î ±Þ ;;;;;;;;;;X
+MODEL_USA_21_3;´º¿å ±Þ ;;;;;;;;;;X
+MODEL_USA_21_4;³×¹Ù´Ù ±Þ ;;;;;;;;;;X
+MODEL_USA_21_5;Å×³×½Ã ±Þ ;;;;;;;;;;X
+MODEL_USA_21_6;ÄÝ·Î¶óµµ ±Þ ;;;;;;;;;;X
+MODEL_USA_21_7;³ë½º Ä³·Ñ¶óÀÌ³ª ±Þ ;;;;;;;;;;X
+MODEL_USA_21_8;¾ÆÀÌ¿À¿Í ±Þ ;;;;;;;;;;X
+MODEL_USA_21_11;¸óÅ¸³ª ±Þ ;;;;;;;;;;X
+MODEL_USA_22_0;¾ÆÆ²¶õÅ¸ ±Þ ;;;;;;;;;;X
+MODEL_USA_22_1;Ã¼½ºÅÍ ±Þ ;;;;;;;;;;X
+MODEL_USA_22_3;¿À¸¶ÇÏ ±Þ ;;;;;;;;;;X
+MODEL_USA_22_5;ºê·èÅ¬¸° ±Þ ;;;;;;;;;;X
+MODEL_USA_22_6;Å¬¸®ºí·£µå ±Þ ;;;;;;;;;;X
+MODEL_USA_22_7;¿öÃ¼½ºÅÍ ±Þ ;;;;;;;;;;X
+MODEL_USA_22_8;°¶º£½ºÅÏ ±Þ ;;;;;;;;;;X
+MODEL_USA_22_9;º£ÀÎºê¸®Áö ±Þ ;;;;;;;;;;X
+MODEL_USA_23_1;´º¿å ±Þ ;;;;;;;;;;X
+MODEL_USA_23_2;¼¼ÀÎÆ® ·çÀÌ½º ±Þ ;;;;;;;;;;X
+MODEL_USA_23_3;Ææ»çÄÝ¶ó ±Þ ;;;;;;;;;;X
+MODEL_USA_23_4;´º¿Ã¸®¾ð½º ±Þ ;;;;;;;;;;X
+MODEL_USA_23_5;À§Ä¡Åä ±Þ ;;;;;;;;;;X
+MODEL_USA_23_6;º¼Æ¼¸ð¾î ±Þ ;;;;;;;;;;X
+MODEL_USA_23_7;µð ¸ðÀÎ ±Þ ;;;;;;;;;;X
+MODEL_USA_23_8;¿Ã¹ö´Ï ±Þ ;;;;;;;;;;X
+MODEL_USA_24_2;·º½ÌÅÏ ±Þ ;;;;;;;;;;X
+MODEL_USA_24_4;¾Ë·¡½ºÄ« ±Þ ;;;;;;;;;;X
+MODEL_USA_25_1;º£ÀÎºê¸®Áö ±Þ ;;;;;;;;;;X
+MODEL_USA_25_2;Æúµù ±Þ ;;;;;;;;;;X
+MODEL_USA_25_3;À§Å°½º ±Þ ;;;;;;;;;;X
+#MODEL_USA_25_4;Å¬·½½¼ ±Þ ;;;;;;;;;;X
+MODEL_USA_25_5;ÆÐ·¯°Í ±Þ ;;;;;;;;;;X
+MODEL_USA_25_6;½ÉÁî ±Þ ;;;;;;;;;;X
+MODEL_USA_25_7;ÇÃ·¹Ã³ ±Þ ;;;;;;;;;;X
+MODEL_USA_25_8;±â¾î¸µ ±Þ ;;;;;;;;;;X
+MODEL_USA_25_9;¾Æ´ã½º ±Þ ;;;;;;;;;;X
+MODEL_USA_26_0;·º½ÌÅÏ ±Þ ;;;;;;;;;;X
+MODEL_USA_26_1;·¹ÀÎÀú ±Þ ;;;;;;;;;;X
+MODEL_USA_26_2;¿äÅ©Å¸¿î ±Þ ;;;;;;;;;;X
+MODEL_USA_26_4;¿¡½Ä½º ±Þ ;;;;;;;;;;X
+MODEL_USA_26_5;¹Ìµå¿þÀÌ ±Þ ;;;;;;;;;;X
+MODEL_USA_26_6;À¯³ªÀÌÆ¼µå ½ºÅ×ÀÌÃ÷ ±Þ ;;;;;;;;;;X
+MODEL_USA_26_7;Æ÷·¹½ºÅ» ±Þ ;;;;;;;;;;X
+MODEL_USA_26_8;¿£ÅÍÇÁ¶óÀÌÁî ±Þ ;;;;;;;;;;X
+MODEL_USA_27_0;¶óÀÌÆ® ±Þ ;;;;;;;;;;X
+MODEL_USA_27_1;·©±Û¸® ±Þ ;;;;;;;;;;X
+MODEL_USA_27_3;·Õ ¾ÆÀÏ·£µå ±Þ ;;;;;;;;;;X
+MODEL_USA_27_4;Ä«»çºí¶ûÄ« ±Þ ;;;;;;;;;;X
+MODEL_USA_28_0;È¦·£µå ±Þ ;;;;;;;;;;X
+MODEL_USA_28_1;K-º¸Æ® ;;;;;;;;;;X
+MODEL_USA_28_2;S-º¸Æ® ;;;;;;;;;;X
+MODEL_USA_28_3;¹Ù¶óÄí´Ù ±Þ ;;;;;;;;;;X
+MODEL_USA_28_4;Æ÷ÆÛÁî ±Þ ;;;;;;;;;;X
+MODEL_USA_28_5;»ç¸£°í ±Þ ;;;;;;;;;;X
+MODEL_USA_28_6;°¡Åä ±Þ ;;;;;;;;;;X
+MODEL_USA_28_7;¹ß¶ó¿À ±Þ ;;;;;;;;;;X
+MODEL_USA_28_8;ÅÊ ±Þ ;;;;;;;;;;X
+MODEL_USA_28_9;¼¼ÀÏÇÇ½¬ ±Þ ;;;;;;;;;;X
+MODEL_USA_29_0;³ª¿Ð ±Þ ;;;;;;;;;;X
+MODEL_USA_31_1;ÀÎµðÆæ´ø½º ±Þ ;;;;;;;;;;X
+MODEL_USA_31_2;»çÀÌÆÇ ±Þ ;;;;;;;;;;X
+#;;;;;;;;;;;X
+# Canada ;;;;;;;;;;;X
+# Canada land brigades;;;;;;;;;;;X
+BRIG_MODEL_CAN_2_2;ºñ¼ó ;;;;;;;;;;X
+BRIG_MODEL_CAN_2_3;¼½½ºÅÏ ;;;;;;;;;;X
+BRIG_MODEL_CAN_6_0;2 ÆÄ¿îµå. Æ÷¸£Å× ;;;;;;;;;;X
+BRIG_MODEL_CAN_6_1;µðÄÁ ;;;;;;;;;;X
+BRIG_MODEL_CAN_6_2;¾ÆÃ³ ;;;;;;;;;;X
+BRIG_MODEL_CAN_7_0;ÈÖÇÍ ;;;;;;;;;;X
+BRIG_MODEL_CAN_7_1;Ä«µç ·ÎÀÌµå Mk.VI ;;;;;;;;;;X
+BRIG_MODEL_CAN_7_8;RAM II ;;;;;;;;;;X
+BRIG_MODEL_CAN_8_0;¸¶Æ¿´Ù Mk.II ;;;;;;;;;;X
+BRIG_MODEL_CAN_8_1;Mk.IV A22 Ã³Ä¥ Mk.I ;;;;;;;;;;X
+BRIG_MODEL_CAN_8_2;Mk.IV A22 Ã³Ä¥ Mk.VII ;;;;;;;;;;X
+BRIG_MODEL_CAN_9_0;A39 ÅçÅäÀÌ½º ;;;;;;;;;;X
+BRIG_MODEL_CAN_10_0;Çè¹ö Mk.I ;;;;;;;;;;X
+BRIG_MODEL_CAN_10_1;½ºÅÂ±×ÇÏ¿îµå Mk.I ;;;;;;;;;;X
+BRIG_MODEL_CAN_10_2;Æä·µ Mk 1/2 ;;;;;;;;;;X
+# Canada air brigades;;;;;;;;;;;X
+BRIG_MODEL_CAN_14_0;´Ô·Îµå / ¼ÒµåÇÇ½Ã ;;;;;;;;;;X
+BRIG_MODEL_CAN_14_1;´Ô·Îµå / ¼ÒµåÇÇ½Ã ;;;;;;;;;;X
+BRIG_MODEL_CAN_14_2;¾¾ ±Û·¡µð¿¡ÀÌÅÍ / ¼ÒµåÇÇ½Ã ;;;;;;;;;;X
+BRIG_MODEL_CAN_14_3;¾¾ ±Û·¡µð¿¡ÀÌÅÍ / ½ºÅ¥¾î / ¼ÒµåÇÇ½Ã ;;;;;;;;;;X
+BRIG_MODEL_CAN_14_4;Ç®¸Ó / ½ºÅ¥¾î / ¾Ù¹öÄÚ¾î ;;;;;;;;;;X
+BRIG_MODEL_CAN_14_5;ÆÄÀÌ¾îÇÃ¶óÀÌ / ¹Ù¶óÄí´Ù ;;;;;;;;;;X
+BRIG_MODEL_CAN_14_6;¾¾ ÆÄÀÌ¾î / ÆÄÀÌ¾îºê·£µå ;;;;;;;;;;X
+BRIG_MODEL_CAN_14_7;¾¾ Ç»¸® / ¿ÍÀÌ¹ø ;;;;;;;;;;X
+BRIG_MODEL_CAN_14_8;¾¾ º£³ð / ¾îÅÃÄ¿ ;;;;;;;;;;X
+BRIG_MODEL_CAN_14_9;F2H-3 ¹ê½Ã / ¾îÅÃÄ¿ ;;;;;;;;;;X
+BRIG_MODEL_CAN_15_4;Ä³³ªµå¿¡¾î F-86 ¼¼ÀÌ¹ö ;;;;;;;;;;X
+BRIG_MODEL_CAN_15_5;¸Æµµ³Ú CF-101 ºÎµÎ ;;;;;;;;;;X
+# Canada land units;;;;;;;;;;;X
+MODEL_CAN_4_0;ºòÄ¿Áî Mk.VIC ;;;;;;;;;;X
+MODEL_CAN_4_1;½ºÆ©¾îÆ®  Mk.V ;;;;;;;;;;X
+MODEL_CAN_5_0;¼øÇ×ÀüÂ÷ Mk.I A9 ;;;;;;;;;;X
+MODEL_CAN_5_1;·¥ I ;;;;;;;;;;X
+MODEL_CAN_5_2;±×¸®Áñ¸® I ;;;;;;;;;;X
+MODEL_CAN_5_3;M26 ÆÛ½Ì ;;;;;;;;;;X
+MODEL_CAN_5_4;¼¾Ãò¸®¿Â Mk.3 ;;;;;;;;;;X
+MODEL_CAN_5_5;¼¾Ãò¸®¿Â Mk.V ;;;;;;;;;;X
+# Canada air units;;;;;;;;;;;X
+# Canada naval units;;;;;;;;;;;X
+MODEL_CAN_22_0;¾ÆÆú·Î ±Þ ;;;;;;;;;;X
+MODEL_CAN_22_2;¾Æ·¹Åõ»ç ±Þ ;;;;;;;;;;X
+MODEL_CAN_22_5;Å©¶ó¿î ÄÝ·Î´Ï ±Þ ;;;;;;;;;;X
+MODEL_CAN_22_6;¹Ì³ëÅ¸¿ì·Î½º ±Þ ;;;;;;;;;;X
+MODEL_CAN_22_4;¿ÂÅ¸¸®¿À ±Þ ;;;;;;;;;;X
+MODEL_CAN_23_1;´ÙÀÌ¾îµ© ±Þ ;;;;;;;;;;X
+MODEL_CAN_25_2;M ±Þ ;;;;;;;;;;X
+MODEL_CAN_25_3;S ±Þ ;;;;;;;;;;X
+MODEL_CAN_25_4;¸®¹ö ±Þ ;;;;;;;;;;X
+MODEL_CAN_25_5;G ±Þ ;;;;;;;;;;X
+MODEL_CAN_25_6;Æ®¶óÀÌ¹ú ±Þ ;;;;;;;;;;X
+MODEL_CAN_25_7;V ±Þ ;;;;;;;;;;X
+MODEL_CAN_28_1;CC ±Þ ;;;;;;;;;;X
+MODEL_CAN_28_2;H-º¸Æ® ±Þ ;;;;;;;;;;X
+MODEL_CAN_31_1;ÄÝ·Î¼­½º ±Þ ;;;;;;;;;;X
+MODEL_CAN_31_2;¸¶Á¦½ºÆ½ ±Þ ;;;;;;;;;;X
+#;;;;;;;;;;;X
+# Argentina ;;;;;;;;;;;X
+# Argentina naval units;;;;;;;;;;;X
+MODEL_ARG_21_0;·Î½º ¾Èµ¥½º ±Þ ;;;;;;;;;;X
+MODEL_ARG_21_1;¸®º£¸£Å¸µå ±Þ ;;;;;;;;;;X
+MODEL_ARG_21_3;¸®¹Ù´Ùºñ¾Æ ±Þ ;;;;;;;;;;X
+MODEL_ARG_22_0;´©¿¡º£ µ¥ ÈÇ¸®¿À ±Þ ;;;;;;;;;;X
+MODEL_ARG_22_4;¶ó ¾Æ¸£ÇîÆ¼³ª ±Þ ;;;;;;;;;;X
+MODEL_ARG_22_5;Çì³×¶ö º§±×¶ó³ë ±Þ ;;;;;;;;;;X
+MODEL_ARG_23_1;°¡¸®¹ßµð ±Þ ;;;;;;;;;;X
+MODEL_ARG_23_3;º£ÀÎÆ¼½ÅÄÚ µ¥ ¸¶¿ä ±Þ ;;;;;;;;;;X
+MODEL_ARG_25_2;»ê ·çÀÌ½º ±Þ ;;;;;;;;;;X
+MODEL_ARG_25_4;Ãò·çÄ« ±Þ ;;;;;;;;;;X
+MODEL_ARG_25_5;ºÎ¿¡³ë½º ¾ÆÀÌ·¹½º ±Þ ;;;;;;;;;;X
+MODEL_ARG_28_3;»êÅ¸ Æä ±Þ ;;;;;;;;;;X
+#;;;;;;;;;;;X
+# Australia ;;;;;;;;;;;X
+# Australia naval units;;;;;;;;;;;X
+MODEL_AST_22_1;Æç·Î·¯½º ±Þ ;;;;;;;;;;X
+MODEL_AST_22_2;Å¸¿î ±Þ ;;;;;;;;;;X
+MODEL_AST_22_4;¸®¾Ø´õ ±Þ ;;;;;;;;;;X
+MODEL_AST_23_3;Ä«¿îÆ¼ ±Þ ;;;;;;;;;;X
+MODEL_AST_24_0;ÀÎµðÆÐÆ¼°Åºí ±Þ ;;;;;;;;;;X
+MODEL_AST_25_1;¸®¹ö ±Þ ;;;;;;;;;;X
+MODEL_AST_25_3;S ±Þ ;;;;;;;;;;X
+MODEL_AST_25_6;Æ®¶óÀÌ¹ú ±Þ ;;;;;;;;;;X
+MODEL_AST_25_7;ANZAC ±Þ ;;;;;;;;;;X
+MODEL_AST_25_8;ÆÛ½º ±Þ ;;;;;;;;;;X
+MODEL_AST_27_0;¾Ë¹ÙÆ®·Î½º ±Þ ;;;;;;;;;;X
+MODEL_AST_28_1;E-º¸Æ® ±Þ ;;;;;;;;;;X
+MODEL_AST_28_2;J-º¸Æ® ±Þ ;;;;;;;;;;X
+MODEL_AST_28_3;O-º¸Æ® ±Þ ;;;;;;;;;;X
+MODEL_AST_31_1;ÄÝ·Î¼­½º ±Þ ;;;;;;;;;;X
+MODEL_AST_31_2;¸¶Á¦½ºÆ½ ±Þ ;;;;;;;;;;X
+# Australia land units;;;;;;;;;;;X
+BRIG_MODEL_AST_10_4;µù°í Á¤ÂûÂ÷ ;;;;;;;;;;X
+MODEL_AST_5_1;¼¾Æ¼³Ú AC ;;;;;;;;;;X
+#;;;;;;;;;;;X
+# Brazil;;;;;;;;;;;X
+# Brazil naval units;;;;;;;;;;;X
+MODEL_BRA_21_0;¸®¾ÆÃß¿¤·Î ±Þ ;;;;;;;;;;X
+MODEL_BRA_21_2;¹Ì³ª½º Á¦¶óÀÌ½º ±Þ ;;;;;;;;;;X
+MODEL_BRA_21_3;¸®¿ì µ¥ ÀÚ³×ÀÌ·ç ±Þ ;;;;;;;;;;X
+MODEL_BRA_22_0;·¹Çªºí¸®Ä« ±Þ ;;;;;;;;;;X
+MODEL_BRA_22_1;¹ÙÀÌ¾Æ ±Þ ;;;;;;;;;;X
+MODEL_BRA_25_1;ÆÄ¶ó ±Þ ;;;;;;;;;;X
+MODEL_BRA_25_6;¸¶¸£½Ç¸®¿À µð¾î½º ±Þ ;;;;;;;;;;X
+MODEL_BRA_25_7;¾ÆÅ©·¹ ±Þ ;;;;;;;;;;X
+MODEL_BRA_28_3;¹ß¸±¶ó ±Þ ;;;;;;;;;;X
+#;;;;;;;;;;;X
+# Chile;;;;;;;;;;;X
+# Chile naval units;;;;;;;;;;;X
+MODEL_CHL_21_0;¾Ë¹Ì¶õÅ× ÄÚ¶ó³× ±Þ ;;;;;;;;;;X
+MODEL_CHL_21_2;¾Ë¹Ì¶õÅ× ¶óÅä·¹ ±Þ ;;;;;;;;;;X
+MODEL_CHL_22_0;¿¡½º¸Þ·¼´Ù ±Þ ;;;;;;;;;;X
+MODEL_CHL_23_0;ºí¶ûÄÚ ¿£Ä®¶ó´Ù ±Þ ;;;;;;;;;;X
+MODEL_CHL_23_1;¾Ë¹Ì¶õÅ× ¿ÀÀÌ±ä½º ±Þ ;;;;;;;;;;X
+MODEL_CHL_25_2;¾Ë¹Ì¶õÅ× ¸°Ä¡ ±Þ ;;;;;;;;;;X
+MODEL_CHL_25_4;¼¼¶ó³ë ±Þ ;;;;;;;;;;X
+MODEL_CHL_25_9;¾Ë¹Ì¶õÅ× ±Þ ;;;;;;;;;;X
+MODEL_CHL_28_3;Ä¸Æ¾ ¿Àºê¶óÀÌ¾ð ±Þ ;;;;;;;;;;X
+#;;;;;;;;;;;X
+# Sweden;;;;;;;;;;;X
+# Sweden naval units;;;;;;;;;;;X
+MODEL_SWE_22_1;ÇÊ±â¾ß ±Þ ;;;;;;;;;;X
+MODEL_SWE_22_4;°íÆ²¶õµå ±Þ ;;;;;;;;;;X
+MODEL_SWE_22_6;Æ®·¹ Å©·Î³× ±Þ ;;;;;;;;;;X
+MODEL_SWE_23_0;½ºº£¾Æ ±Þ *;;;;;;;;;;X
+MODEL_SWE_23_1;¾Æ¶õ ±Þ ;;;;;;;;;;X
+MODEL_SWE_23_2;½ºº£¸®¿¹ ±Þ ;;;;;;;;;;X
+MODEL_SWE_25_0;¹Â´Ñ ±Þ ;;;;;;;;;;X
+MODEL_SWE_25_1;¸ðµ¥ ±Þ ;;;;;;;;;;X
+MODEL_SWE_25_2;ÈÞÁø ±Þ ;;;;;;;;;;X
+MODEL_SWE_25_3;ºê¶û¿¤ ±Þ ;;;;;;;;;;X
+MODEL_SWE_25_4;¿¡·»¼Ðµå ±Þ ;;;;;;;;;;X
+MODEL_SWE_25_5;È£¸¥ ±Þ ;;;;;;;;;;X
+MODEL_SWE_25_6;¿¹Å×º¸¸® ±Þ ;;;;;;;;;;X
+MODEL_SWE_25_7;¸ðµ¥ ±Þ ;;;;;;;;;;X
+MODEL_SWE_25_8;¿ß¶õµå ±Þ ;;;;;;;;;;X
+MODEL_SWE_25_9;ÇÒ¶õµå ±Þ ;;;;;;;;;;X
+MODEL_SWE_27_0;µå¸®½ºÅØÇìÅÙ ±Þ ;;;;;;;;;;X
+MODEL_SWE_28_1;ÇÏ¿º ±Þ ;;;;;;;;;;X
+MODEL_SWE_28_2;½º¹Ù¸£µåÇÇ½ºÄË ±Þ ;;;;;;;;;;X
+MODEL_SWE_28_3;¹ß·» ±Þ ;;;;;;;;;;X
+MODEL_SWE_28_4;µå¶óÄË ±Þ ;;;;;;;;;;X
+MODEL_SWE_28_5;µ¨ÇÇ³Ù ±Þ ;;;;;;;;;;X
+MODEL_SWE_28_6;¼î¿¤·¹¿ä³×Æ® ±Þ ;;;;;;;;;;X
+MODEL_SWE_28_7;³ÜÅ÷ ±Þ ;;;;;;;;;;X
+#MODEL_SWE_28_8;µå¶óÄË II ±Þ ;;;;;;;;;;X
+# Poland;;;;;;;;;;;X
+# Poland land units;;;;;;;;;;;X
+BRIG_MODEL_POL_7_4;7TP ;;;;;;;;;;X
+BRIG_MODEL_POL_10_3;TK-3 ;;;;;;;;;;X
+BRIG_MODEL_POL_7_1;¸£³ë FT-17 ;;;;;;;;;;X
+BRIG_MODEL_POL_7_2;¸£³ë R35 ;;;;;;;;;;X
+BRIG_MODEL_POL_7_3;TK-S ;;;;;;;;;;X
+BRIG_MODEL_POL_7_5;10TP ;;;;;;;;;;X
+MODEL_POL_5_0;14TPjw ;;;;;;;;;;X
+MODEL_POL_5_1;20TP ;;;;;;;;;;X
+MODEL_POL_5_2;T-34 m.44 ;;;;;;;;;;X
+MODEL_POL_5_3;T-44 ;;;;;;;;;;X
+BRIG_MODEL_POL_29_1;¸£³ë FT-17 ;;;;;;;;;;X
+BRIG_MODEL_POL_29_2;¸£³ë R35 ;;;;;;;;;;X
+BRIG_MODEL_POL_29_3;14TPjw ;;;;;;;;;;X
+BRIG_MODEL_POL_29_4;20TP ;;;;;;;;;;X
+BRIG_MODEL_POL_29_5;T-34 m.44 ;;;;;;;;;;X
+BRIG_MODEL_POL_29_6;T-44 ;;;;;;;;;;X
+# Poland air units;;;;;;;;;;;X
+MODEL_POL_12_4;PZL P.45 ¼ÒÄÝ ;;;;;;;;;;X
+MODEL_POL_12_5;PZL P.62 ;;;;;;;;;;X
+MODEL_POL_12_6;WSK LIM-6P ;;;;;;;;;;X
+MODEL_POL_13_4;PZL P.11c ;;;;;;;;;;X
+MODEL_POL_13_5;PZL P.24 ;;;;;;;;;;X
+MODEL_POL_13_6;PZL P.50 ¾ß½ºÆ®ÀðÇÁ ;;;;;;;;;;X
+MODEL_POL_13_7;PZL P.63 ;;;;;;;;;;X
+MODEL_POL_13_8;PZL P.56 Ä«´Ï¾Æ ;;;;;;;;;;X
+MODEL_POL_13_9;WSK ¹Ì¿¤·¹Ã÷ LIM-1 ;;;;;;;;;;X
+MODEL_POL_13_10;WSK LIM-2 ;;;;;;;;;;X
+MODEL_POL_14_4;ºí·ÎÈå MB.162 ;;;;;;;;;;X
+MODEL_POL_15_5;LWS-4 ÁÖºê¸£ ;;;;;;;;;;X
+MODEL_POL_15_6;PZL P.37 ·Î½º ;;;;;;;;;;X
+MODEL_POL_15_7;PZL P.49 ¹Ì½º ;;;;;;;;;;X
+MODEL_POL_16_1;Cant Z.506B ¿¡¾î¿ø ;;;;;;;;;;X
+MODEL_POL_16_2;RWD 22 ;;;;;;;;;;X
+MODEL_POL_17_0;PZL P.46 ¼û ;;;;;;;;;;X
+MODEL_POL_17_1;PZL ·Î½î½º ;;;;;;;;;;X
+MODEL_POL_18_1;PZL 27 ;;;;;;;;;;X
+MODEL_POL_18_2;·ÏÈ÷µå L-14H ;;;;;;;;;;X
+# Poland naval units;;;;;;;;;;;X
+MODEL_POL_22_5;ÄÜ¶óµå ±Þ ;;;;;;;;;;X
+MODEL_POL_25_5;ºñÇã ±Þ ;;;;;;;;;;X
+MODEL_POL_25_6;±×·Ò ±Þ ;;;;;;;;;;X
+MODEL_POL_28_4;ÀªÅ© ±Þ ;;;;;;;;;;X
+MODEL_POL_28_5;Orzel ±Þ ;;;;;;;;;;X
+# Russia ;;;;;;;;;;;X
+# Russian land brigades;;;;;;;;;;;X
+BRIG_MODEL_RUS_1_0;ÇªÆ¿·ÎÇÁ 76.2mm M1900 ;;;;;;;;;;X
+BRIG_MODEL_RUS_1_1;ÇªÆ¿·ÎÇÁ 76.2mm M1902 ;;;;;;;;;;X
+BRIG_MODEL_RUS_1_2;¿ÀºÎÈ£ÇÁ 15.2cm M1904 ;;;;;;;;;;X
+BRIG_MODEL_RUS_1_3;M1910 10.7cm °î»çÆ÷ ;;;;;;;;;;X
+BRIG_MODEL_RUS_1_4;M1910 12.2cm °î»çÆ÷ ;;;;;;;;;;X
+BRIG_MODEL_RUS_7_0;º£Áîµ¥È£µå ;;;;;;;;;;X
+BRIG_MODEL_RUS_7_1;¸¶Å© A Å×ÀÏ·¯ ;;;;;;;;;;X
+BRIG_MODEL_RUS_8_0;¸¶Å© V ¸®Ä«¸£µµ ;;;;;;;;;;X
+BRIG_MODEL_RUS_10_0;³ªÄ«½¬µåÁ¦-»þ·Ð ;;;;;;;;;;X
+BRIG_MODEL_RUS_10_1;¿À½ºÆ¾-ÇªÆ¿·ÎÇÁ ;;;;;;;;;;X
+BRIG_MODEL_RUS_10_2;ÀÌÁ¶¸£½ºÅ°-ÇÇ¾ÆÆ® ;;;;;;;;;;X
+# Russian air units;;;;;;;;;;;X
+MODEL_RUS_12_0;´ºÆ÷¸£ 10 ;;;;;;;;;;X
+MODEL_RUS_12_1;½ÃÄÚ¸£½ºÅ° S-XVI ;;;;;;;;;;X
+MODEL_RUS_12_2;ÆÄ¾Æ¸Á HF.30 ;;;;;;;;;;X
+MODEL_RUS_13_0;¸ð·¹ÀÎ-¼Ö´Ï¿¡¸£ G ;;;;;;;;;;X
+MODEL_RUS_13_1;¸ð·¹ÀÎ-¼Ö´Ï¿¡¸£ L ;;;;;;;;;;X
+MODEL_RUS_13_2;¸ð½ºÄ«-ºñ½ºÆ®¸®Ã÷Å° MB-bis ;;;;;;;;;;X
+MODEL_RUS_13_3;¾Æ³ªÆ®¶ó ¾Æ³ª¸ó ;;;;;;;;;;X
+MODEL_RUS_13_4;¾Æ³ªÆ®¶ó ¾Æ³ªµð½º ;;;;;;;;;;X
+MODEL_RUS_14_0;½ÃÄÚ¸£½ºÅ° ÀÏ·ª ¹«·Î¸äÃ÷ ;;;;;;;;;;X
+MODEL_RUS_14_1;¾Æ³ªÆ®¶ó DE ;;;;;;;;;;X
+# naval units;;;;;;;;;;;X
+MODEL_RUS_21_0;Ç¥Æ®¸£ º§¸®Å° ±Þ ;;;;;;;;;;X
+MODEL_RUS_21_1;ÆäÆ®·ÎÆÄºí·ÎÇÁ½ºÅ© ±Þ ;;;;;;;;;;X
+MODEL_RUS_21_2;Æ÷ÅÛÅ² ±Þ ;;;;;;;;;;X
+MODEL_RUS_21_3;¼¼¹Ù½ºÅäÆú ±Þ ;;;;;;;;;;X
+MODEL_RUS_21_4;ÀÓÆç¶óÆ®¸®Â÷ ¸¶¸®¾ß ±Þ ;;;;;;;;;;X
+MODEL_RUS_22_0;ºñÅËÁî ±Þ ;;;;;;;;;;X
+MODEL_RUS_22_1;¹Ù·ª±× ±Þ ;;;;;;;;;;X
+MODEL_RUS_22_2;½ºº£Æ²¶ó³ª ±Þ ;;;;;;;;;;X
+MODEL_RUS_23_0;Å©³ÄÁî Æ÷ÀÚ¸£½ºÅ° ±Þ ;;;;;;;;;;X
+MODEL_RUS_23_1;¹Ù¾á ±Þ ;;;;;;;;;;X
+MODEL_RUS_23_2;·ù¸®Å© ±Þ ;;;;;;;;;;X
+MODEL_RUS_24_1;ÀÌÁî¸¶ÀÏ ±Þ ;;;;;;;;;;X
+MODEL_RUS_25_0;Ä«·¹ÀÌÃ÷ ±Þ ;;;;;;;;;;X
+MODEL_RUS_25_1;¼ÒÄÝ ±Þ ;;;;;;;;;;X
+MODEL_RUS_25_2;³ëºò ±Þ ;;;;;;;;;;X
+MODEL_RUS_25_3;ÇÇµµ´Ï½Ã ±Þ ;;;;;;;;;;X
+MODEL_RUS_27_0;¾Ë¸¶Áî ±Þ ;;;;;;;;;;X
+MODEL_RUS_27_1;¿À¸¦¸®Â÷ ±Þ ;;;;;;;;;;X
+MODEL_RUS_28_0;µ¨ÇÉ ±Þ ;;;;;;;;;;X
+MODEL_RUS_28_1;³ª¸£¹ß ±Þ ;;;;;;;;;;X
+MODEL_RUS_28_2;¹Ù½º ±Þ ;;;;;;;;;;X
+# Temp models as duplicates;;;;;;;;;;;X
+# France ;;;;;;;;;;;X
+# France land brigade ;;;;;;;;;;;X
+BRIG_MODEL_U01_1_0;M1897 75mm ¾ßÆ÷ ;;;;;;;;;;X
+BRIG_MODEL_U01_1_1;M1912 75mm ¾ßÆ÷ ;;;;;;;;;;X
+BRIG_MODEL_U01_1_2;M1913 105mm ¾ßÆ÷ ;;;;;;;;;;X
+BRIG_MODEL_U01_1_3;M1917 C 155mm ¾ßÆ÷ ;;;;;;;;;;X
+BRIG_MODEL_U01_1_4;GPF 155mm ¾ßÆ÷ ;;;;;;;;;;X
+BRIG_MODEL_U01_1_5;;;;;;;;;;;X
+BRIG_MODEL_U01_1_6;;;;;;;;;;;X
+BRIG_MODEL_U01_1_7;M1935 105mm ¾ßÆ÷ ;;;;;;;;;;X
+BRIG_MODEL_U01_1_8;;;;;;;;;;;X
+BRIG_MODEL_U01_1_9;GPF 194mm ¾ßÆ÷ ;;;;;;;;;;X
+BRIG_MODEL_U01_1_10;;;;;;;;;;;X
+BRIG_MODEL_U01_1_11;;;;;;;;;;;X
+BRIG_MODEL_U01_1_12;;;;;;;;;;;X
+BRIG_MODEL_U01_1_13;;;;;;;;;;;X
+BRIG_MODEL_U01_2_0;SAu-40 ;;;;;;;;;;X
+BRIG_MODEL_U01_2_1;ARL-40 ;;;;;;;;;;X
+BRIG_MODEL_U01_2_2;;;;;;;;;;;X
+BRIG_MODEL_U01_2_3;;;;;;;;;;;X
+BRIG_MODEL_U01_2_4;;;;;;;;;;;X
+BRIG_MODEL_U01_2_5;;;;;;;;;;;X
+BRIG_MODEL_U01_2_6;ELC AMX ;;;;;;;;;;X
+BRIG_MODEL_U01_2_7;AMX 13 105 ÀÚÁÖÆ÷ ;;;;;;;;;;X
+BRIG_MODEL_U01_6_0;¶óÇÇ W15 ;;;;;;;;;;X
+BRIG_MODEL_U01_6_1;;;;;;;;;;;X
+BRIG_MODEL_U01_6_2;;;;;;;;;;;X
+BRIG_MODEL_U01_6_3;;;;;;;;;;;X
+BRIG_MODEL_U01_6_4;;;;;;;;;;;X
+BRIG_MODEL_U01_6_5;AMX-13 ;;;;;;;;;;X
+BRIG_MODEL_U01_6_6;AMX 50 ±¸ÃàÀüÂ÷ ;;;;;;;;;;X
+BRIG_MODEL_U01_7_0;¸£³ë FT 17 ;;;;;;;;;;X
+BRIG_MODEL_U01_7_1;;;;;;;;;;;X
+BRIG_MODEL_U01_7_2;;;;;;;;;;;X
+BRIG_MODEL_U01_7_3;¸£³ë FT 31 ;;;;;;;;;;X
+BRIG_MODEL_U01_7_4;AMR 33 ;;;;;;;;;;X
+BRIG_MODEL_U01_7_5;AMR 35 ;;;;;;;;;;X
+#BRIG_MODEL_U01_7_5;¸£³ë R35 ;;;;;;;;;;X
+BRIG_MODEL_U01_7_6;È£Ä¡Å°½º H-35 ;;;;;;;;;;X
+BRIG_MODEL_U01_7_7;¼Ò¹«¾Æ S35 ;;;;;;;;;;X
+BRIG_MODEL_U01_7_8;È£Ä¡Å°½º H-39 ;;;;;;;;;;X
+#BRIG_MODEL_U01_7_9;¸£³ë R40 ;;;;;;;;;;X
+BRIG_MODEL_U01_8_0;½´³×µ¥¸£ CA1 ;;;;;;;;;;X
+BRIG_MODEL_U01_8_1;»þ¸£ 2C ;;;;;;;;;;X
+BRIG_MODEL_U01_8_2;¸£³ë B1 ;;;;;;;;;;X
+BRIG_MODEL_U01_8_3;;;;;;;;;;;X
+BRIG_MODEL_U01_8_4;ARL-44 ;;;;;;;;;;X
+BRIG_MODEL_U01_8_5;AMX-50 12cm ÁÖÆ÷ ;;;;;;;;;;X
+BRIG_MODEL_U01_9_0;ÇÁ·Ô-·¡ÇÇ À°»óÀüÇÔ ;;;;;;;;;;X
+BRIG_MODEL_U01_9_1;FCM-F1 ;;;;;;;;;;X
+BRIG_MODEL_U01_10_0;;;;;;;;;;;X
+BRIG_MODEL_U01_10_1;ÇªÁ¶ Àå°©Â÷ ;;;;;;;;;;X
+BRIG_MODEL_U01_10_2;;;;;;;;;;;X
+BRIG_MODEL_U01_10_3;AMC ½´³×µ¥¸£ P 16 ;;;;;;;;;;X
+BRIG_MODEL_U01_10_4;ÆÄ³ª¸£ 178 ;;;;;;;;;;X
+BRIG_MODEL_U01_10_5;ÆÄ³ª¸£ 201 ;;;;;;;;;;X
+BRIG_MODEL_U01_10_6;EBR-75 ;;;;;;;;;;X
+BRIG_MODEL_U01_10_7;ÆÄ³ª¸£ AML ;;;;;;;;;;X
+# France air brigadE ;;;;;;;;;;;X
+BRIG_MODEL_U01_14_0;PL.2/PL.9 ;;;;;;;;;;X
+BRIG_MODEL_U01_14_1;F.270/PL.4/D.1 ;;;;;;;;;;X
+BRIG_MODEL_U01_14_2;´ºÆ÷¸£ 140/PL.16/À§º¸ 74 ;;;;;;;;;;X
+BRIG_MODEL_U01_14_3;LN.401/PL.16/D.373 ;;;;;;;;;;X
+BRIG_MODEL_U01_14_4;SB2U ºóµðÄÉÀÌÅÍ/D.750/D.37 3;;;;;;;;;;X
+BRIG_MODEL_U01_14_5;SBD µ·Æ²¸®½º/F6F ÇïÄ¹ ;;;;;;;;;;X
+BRIG_MODEL_U01_14_6;SBD µ·Æ²¸®½º/TBF ¾îº¥Á®/F6F ÇïÄ¹ ;;;;;;;;;;X
+BRIG_MODEL_U01_14_7;AD ½ºÄ«ÀÌ·¹ÀÌ´õ/TBF ¾îº¥Á®/F4U ÄÝ¼¼¾î ;;;;;;;;;;X
+BRIG_MODEL_U01_14_8;S.E.202 ¾ÆÄþ·Ð / Br.1050 ¾Ë¸®Á¦ ;;;;;;;;;;X
+BRIG_MODEL_U01_14_9;´å¼Ò ¿¡ÅÁ´Ù¸£ IV / Br.1050 ¾Ë¸®Á¦ ;;;;;;;;;;X
+BRIG_MODEL_U01_15_0;Æ÷Å×Áî 631 ;;;;;;;;;;X
+BRIG_MODEL_U01_15_1;Æ÷Å×Áî 671 ;;;;;;;;;;X
+BRIG_MODEL_U01_15_2;¼öµå-¿¡½ºÆ® ¿¡ºñ¿¡ÀÌ¼Ç SE.100 ;;;;;;;;;;X
+BRIG_MODEL_U01_15_4;´å¼Ò ¿ì¶ó°£ ;;;;;;;;;;X
+BRIG_MODEL_U01_15_5;¼öµå ¿¡ºñ¿¡ÀÌ¼Ç ¹Ù¿À¶Ñ¸£ IIN ;;;;;;;;;;X
+BRIG_MODEL_U01_15_6;´å¼Ò ¹Ì¶óÁö IIIC ;;;;;;;;;;X
+# France Land Units;;;;;;;;;;;X
+MODEL_U01_4_0;¸£³ë AMC 35 ;;;;;;;;;;X
+MODEL_U01_4_1;È£Ä¡Å°½º H-35 ;;;;;;;;;;X
+MODEL_U01_4_2;¼Ò¹«¾Æ S-35 ;;;;;;;;;;X
+MODEL_U01_5_0;»þ¸£ B1 ;;;;;;;;;;X
+MODEL_U01_5_1;»þ¸£ B1 bis ;;;;;;;;;;X
+MODEL_U01_5_2;;;;;;;;;;;X
+MODEL_U01_5_3;;;;;;;;;;;X
+MODEL_U01_5_4;ARL-44 ;;;;;;;;;;X
+MODEL_U01_5_5;;;;;;;;;;;X
+MODEL_U01_5_6;AMX-13 ;;;;;;;;;;X
+MODEL_U01_5_7;AMX-30 ;;;;;;;;;;X
+# France air units;;;;;;;;;;;X
+MODEL_U01_12_0;SPAD S.VII ;;;;;;;;;;X
+MODEL_U01_12_1;Äíµå·Õ R.4 ;;;;;;;;;;X
+MODEL_U01_12_2;Äíµå·Õ R.11 ;;;;;;;;;;X
+MODEL_U01_12_3;¸ð·¹ÀÎ-¼Ö´Ï¿¡¸£ AN ;;;;;;;;;;X
+MODEL_U01_12_4;´ºÆ÷¸£-µé¶óÁÖ NiD.62 ;;;;;;;;;;X
+MODEL_U01_12_5;µå¿Í¶í´À D.520 ;;;;;;;;;;X
+MODEL_U01_12_6;µå¿Í¶í´À D.550 ;;;;;;;;;;X
+MODEL_U01_12_7;º¸¿ìÆ® F4U ÄÝ¼¼¾î ;;;;;;;;;;X
+MODEL_U01_12_8;´å¼Ò ¿ì¶ó°£ ;;;;;;;;;;X
+MODEL_U01_12_9;´å¼Ò ¹Ì½ºÅ×¸£ ;;;;;;;;;;X
+MODEL_U01_12_10;´å¼Ò ¹Ì½ºÅ×¸£ IV ;;;;;;;;;;X
+MODEL_U01_12_11;´å¼Ò ½¬Æä¸£ ¹Ì½ºÅ×¸£ ;;;;;;;;;;X
+MODEL_U01_12_12;´å¼Ò ¹Ì¶óÁö IIIE ;;;;;;;;;;X
+MODEL_U01_12_13;´å¼Ò ¹Ì¶óÁö 5 ;;;;;;;;;;X
+MODEL_U01_13_0;ºí·¹¸®¿À XI ;;;;;;;;;;X
+MODEL_U01_13_1;¸ð·¹ÀÎ-¼Ö´Ï¿¡¸£ L ;;;;;;;;;;X
+MODEL_U01_13_2;¸ð·¹ÀÎ-¼Ö´Ï¿¡¸£ N ;;;;;;;;;;X
+MODEL_U01_13_3;´ºÆ÷¸£ 17 ;;;;;;;;;;X
+MODEL_U01_13_4;SPAD S.XIII ;;;;;;;;;;X
+MODEL_U01_13_5;´ºÆ÷¸£ 28 ;;;;;;;;;;X
+MODEL_U01_13_6;´ºÆ÷¸£-µé¶óÁÖ NiD.29 ;;;;;;;;;;X
+MODEL_U01_13_7;µå¿Í¶í´À D.500 ;;;;;;;;;;X
+MODEL_U01_13_8;¸ð·¹ÀÎ-¼Ö´Ï¿¡¸£ MS.406 ;;;;;;;;;;X
+MODEL_U01_13_9;ºí·Î½´ MB.152 ;;;;;;;;;;X
+MODEL_U01_13_10;¾Æ½º³¯ VG.33 ;;;;;;;;;;X
+MODEL_U01_13_11;±Û·Î½ºÅÍ ¹ÌÆ¼¾î ;;;;;;;;;;X
+MODEL_U01_13_12;µå ÇÏºô·£µå ¹ìÆÄÀÌ¾î ;;;;;;;;;;X
+MODEL_U01_13_13;´å¼Ò ¹Ì½ºÅ×¸£ II ;;;;;;;;;;X
+MODEL_U01_13_14;´å¼Ò ¹Ì½ºÅ×¸£ IVa ;;;;;;;;;;X
+MODEL_U01_13_15;´å¼Ò ¹Ì¶óÁö III ;;;;;;;;;;X
+MODEL_U01_13_16;´å¼Ò ¹Ì¶óÁö IIIC ;;;;;;;;;;X
+MODEL_U01_32_0;¸£µÚÅ© 0.21 ;;;;;;;;;;X
+MODEL_U01_32_1;¸£µÚÅ© 0.22 ;;;;;;;;;;X
+MODEL_U01_14_2;¸®¿À·¹ ¿§ ¿Ã¸®ºñ¿¡ LeO.203 ;;;;;;;;;;X
+MODEL_U01_14_3;ÆÄ¾Æ¸Á F.222 ;;;;;;;;;;X
+MODEL_U01_14_4;ºí·Î½´ MB.162 ;;;;;;;;;;X
+MODEL_U01_14_5;ºê·¹°Ô 482 ;;;;;;;;;;X
+MODEL_U01_14_9;´å¼Ò ¹Ì¶óÁö IV ;;;;;;;;;;X
+MODEL_U01_15_0;ÆÄ¾Æ¸Á M.F.7 ·ÕÈ¥ ;;;;;;;;;;X
+MODEL_U01_15_1;Äíµå·Õ G.4 ;;;;;;;;;;X
+MODEL_U01_15_2;ÆÄ¾Æ¸Á F.50 ;;;;;;;;;;X
+MODEL_U01_15_3;ÆÄ¾Æ¸Á F.60 °ñ¸®¾Ñ ;;;;;;;;;;X
+MODEL_U01_15_4;¾Æ¹Ì¿À 143 ;;;;;;;;;;X
+MODEL_U01_15_5;ºí·Î½´ MB.210 ;;;;;;;;;;X
+MODEL_U01_15_6;¸®¿À·¹ ¿§ ¿Ã¸®ºñ¿¡ LeO.451 ;;;;;;;;;;X
+MODEL_U01_15_7;¸¶Æ¾ B-26 ¸Ó·Î´õ ;;;;;;;;;;X
+MODEL_U01_15_8;µå ÇÏºô·£µå ¸ð½ºÅ°Åä ;;;;;;;;;;X
+MODEL_U01_15_9;¼öµå ¿¡ºñ¿¡ÀÌ¼Ç ¾ÆÄþ·Ð ;;;;;;;;;;X
+MODEL_U01_15_10;¼öµå ¿¡ºñ¿¡ÀÌ¼Ç ¹Ù¿À¶Ñ¸£ ;;;;;;;;;;X
+MODEL_U01_15_11;¼öµå-¿¡½ºÆ® ¿¡ºñ¿¡ÀÌ¼Ç ¹Ù¸£´õ ;;;;;;;;;;X
+MODEL_U01_15_12;SEPECAT Àç±Ô¾î ;;;;;;;;;;X
+MODEL_U01_16_1;¶óÅ×ÄÚ¿¡¸£ 550 ;;;;;;;;;;X
+MODEL_U01_16_2;·ç¾Æ¸£ LN.401 ;;;;;;;;;;X
+MODEL_U01_16_3;Æ÷Å×Áî-CAMS 141 ;;;;;;;;;;X
+MODEL_U01_16_4;¾Æ¹Ì¿À 351 ;;;;;;;;;;X
+MODEL_U01_16_5;·ÏÈ÷µå P-2 ³ÜÆª ;;;;;;;;;;X
+MODEL_U01_16_6;ºê·¹°Ô ¾Ë¸®Á¦ ;;;;;;;;;;X
+MODEL_U01_17_0;¾Æ¹Ì¿À 120 ;;;;;;;;;;X
+MODEL_U01_17_1;ºê·¹°Ô Br.691 ;;;;;;;;;;X
+MODEL_U01_17_2;ºê·¹°Ô 693 ;;;;;;;;;;X
+MODEL_U01_17_3;¸®ÆÛºí¸¯ P-47 ½ã´õº¼Æ® ;;;;;;;;;;X
+MODEL_U01_17_4;ºê·¹°Ô ¹úÃÄ ;;;;;;;;;;X
+MODEL_U01_17_5;ºê·¹°Ô Å¸¿Â ;;;;;;;;;;X
+MODEL_U01_17_6;¼öµå-¿¡½ºÆ® ¿¡ºñ¿¡ÀÌ¼Ç ¹Ì½ºÆ®¶ö ;;;;;;;;;;X
+MODEL_U01_18_0;ÆÄ¾Æ¸Á F.63 °ñ¸®¾Ñ ;;;;;;;;;;X
+MODEL_U01_18_1;ºí·Î½´ MB.220 ;;;;;;;;;;X
+MODEL_U01_18_2;ºê·¹°Ô 470 ;;;;;;;;;;X
+MODEL_U01_18_3;Æ÷Å×Áî 662 ;;;;;;;;;;X
+MODEL_U01_18_4;¼öµå-¿¡½ºÆ® ¿¡ºñ¿¡ÀÌ¼Ç ¶û±×µ¶ ;;;;;;;;;;X
+MODEL_U01_18_5;³ë¸£ ¿¡ºñ¿¡ÀÌ¼Ç ³ë¶óÆ²¶ó ;;;;;;;;;;X
+# France naval units;;;;;;;;;;;X
+MODEL_U01_21_0;¾Ó¸® 4¼¼ ;;;;;;;;;;X
+MODEL_U01_21_1;»þ¸¦¸¶´º ±Þ ;;;;;;;;;;X
+MODEL_U01_21_2;Äí¸£º£ ±Þ ;;;;;;;;;;X
+MODEL_U01_21_3;ºê¸£Å¸´º ±Þ ;;;;;;;;;;X
+MODEL_U01_21_4;¸®¿Ë ±Þ ;;;;;;;;;;X
+MODEL_U01_21_5;³ë¸£¸Áµð ±Þ ;;;;;;;;;;X
+MODEL_U01_21_7;¸®½¶¸®¿Ü ±Þ ;;;;;;;;;;X
+MODEL_U01_21_8;¾ËÀÚ½º ±Þ ;;;;;;;;;;X
+MODEL_U01_22_0;¶óÆä·çÁî ±Þ ;;;;;;;;;;X
+MODEL_U01_22_1;ÁÙ¸®¾Ó µå ¶ó ±×¶óºñ¿¡¸£ ±Þ ;;;;;;;;;;X
+MODEL_U01_22_3;µà°¡ÀÌ-Åø·ç¾Ó ±Þ ;;;;;;;;;;X
+MODEL_U01_22_4;¶ó °¥¸®¼Ò´Ï¿¡¸£ ±Þ ;;;;;;;;;;X
+MODEL_U01_22_5;µå ±×¶ó½º ±Þ ;;;;;;;;;;X
+MODEL_U01_22_8;ÄÝº£¸£ ±Þ ;;;;;;;;;;X
+MODEL_U01_23_1;¾Æ¹Ì¶ö »þ¸£³×¸£ ±Þ ;;;;;;;;;;X
+MODEL_U01_23_2;¿¡µå°¡ Å°³× ±Þ ;;;;;;;;;;X
+MODEL_U01_23_3;µÚÄË ±Þ ;;;;;;;;;;X
+MODEL_U01_23_4;¾ËÁ¦¸® ±Þ ;;;;;;;;;;X
+MODEL_U01_23_5;»ý ·çÀÌ ±Þ ;;;;;;;;;;X
+MODEL_U01_24_3;‰èÄÉ¸£Å© ±Þ ;;;;;;;;;;X
+MODEL_U01_25_1;¾Æ¸£Å©ºßÁî ±Þ ;;;;;;;;;;X
+MODEL_U01_25_2;ºÎ²ø¸®¿¡ ±Þ ;;;;;;;;;;X
+MODEL_U01_25_3;¾Æ¶óºê ±Þ ;;;;;;;;;;X
+MODEL_U01_25_4;ºê¶ó½ºÅ© ±Þ ;;;;;;;;;;X
+MODEL_U01_25_5;¸ð°¡µµ¸£ ±Þ ;;;;;;;;;;X
+MODEL_U01_25_6;ÇÏ¸£µð ±Þ ;;;;;;;;;;X
+MODEL_U01_25_9;T 47 ±Þ ;;;;;;;;;;X
+MODEL_U01_26_1;Á¶ÇÁ¸£ ±Þ ;;;;;;;;;;X
+MODEL_U01_26_7;Å¬·¹¸Á¼Ò ±Þ ;;;;;;;;;;X
+MODEL_U01_27_0;Çªµå¸£ ±Þ ;;;;;;;;;;X
+MODEL_U01_27_1;º£¾Æ¸¥ ±Þ ;;;;;;;;;;X
+MODEL_U01_28_0;¼¼ÀÌ·» ±Þ ;;;;;;;;;;X
+MODEL_U01_28_1;ºê·ò¸Þ¸£ ±Þ ;;;;;;;;;;X
+MODEL_U01_28_2;µåÇªÀÌ µå ·Ò ±Þ ;;;;;;;;;;X
+MODEL_U01_28_3;½Ã¸£¼¼ ±Þ ;;;;;;;;;;X
+MODEL_U01_28_4;´ÙÀÌ¿¡³ª ±Þ ;;;;;;;;;;X
+MODEL_U01_28_5;¹Ì³×¸£ºê ±Þ ;;;;;;;;;;X
+MODEL_U01_28_6;¿À·Î¶ó ±Þ ;;;;;;;;;;X
+MODEL_U01_28_7;¶ó Å©·¹¿Ã ±Þ ;;;;;;;;;;X
+MODEL_U01_28_8;»çÇÇ¸£ ±Þ ;;;;;;;;;;X
+MODEL_U01_28_9;³ª¸£¹ß ±Þ ;;;;;;;;;;X
+MODEL_U01_29_0;½¬¸£ÄíÇÁ ±Þ ;Classe Surcouf;;;;;;;;;X
+#;;;;;;;;;;;X
+# Germany;;;;;;;;;;;X
+# Germany land brigades;;;;;;;;;;;X
+BRIG_MODEL_U08_1_0;7.7cm FK 96 ;;;;;;;;;;X
+BRIG_MODEL_U08_1_1;15cm sFh 13 ;;;;;;;;;;X
+BRIG_MODEL_U08_1_2;10.5 cm leFh 16 ;;;;;;;;;;X
+BRIG_MODEL_U08_1_3;15cm K 16 ;;;;;;;;;;X
+BRIG_MODEL_U08_1_4;17cm SK ;;;;;;;;;;X
+BRIG_MODEL_U08_1_5;21cm ±¸Æ÷ 16 ;;;;;;;;;;X
+BRIG_MODEL_U08_1_6;10.5cm leFh 16 ;;;;;;;;;;X
+BRIG_MODEL_U08_1_7;7.5cm IG 18 ;;;;;;;;;;X
+BRIG_MODEL_U08_1_8;10.5cm LeFh 18 ;;;;;;;;;;X
+BRIG_MODEL_U08_1_9;15cm sFh 18 ;;;;;;;;;;X
+BRIG_MODEL_U08_1_10;15cm K 39 ;;;;;;;;;;X
+BRIG_MODEL_U08_1_11;17cm K 18 ;;;;;;;;;;X
+BRIG_MODEL_U08_1_12;24cm K 3 ;;;;;;;;;;X
+BRIG_MODEL_U08_1_13;10.5cm M1 °î»çÆ÷ ;;;;;;;;;;X
+BRIG_MODEL_U08_2_0;StuG III ;;;;;;;;;;X
+BRIG_MODEL_U08_2_1;StuH ;;;;;;;;;;X
+BRIG_MODEL_U08_2_2;Sfl º£½ºÆä ;;;;;;;;;;X
+BRIG_MODEL_U08_2_3;Sfl ÈÉ¸á ;;;;;;;;;;X
+BRIG_MODEL_U08_2_4;°Ô½¬Ã÷¹Ù°Õ VI ±×¸±·¹ ;;;;;;;;;;X
+BRIG_MODEL_U08_2_5;;;;;;;;;;;X
+BRIG_MODEL_U08_2_6;;;;;;;;;;;X
+BRIG_MODEL_U08_6_0;PzJg.I ;;;;;;;;;;X
+BRIG_MODEL_U08_6_1;SdKfz. 139 ¸¶´õ III ;;;;;;;;;;X
+BRIG_MODEL_U08_6_2;¾ßÅ©Æ®ÆÇÅÍ ;;;;;;;;;;X
+BRIG_MODEL_U08_6_3;SdKfz. 186 ¾ßÅ©Æ®Æ¼°Å ;;;;;;;;;;X
+BRIG_MODEL_U08_6_4;¾ßÅ©Æ®ÆÇÀú E-75 ;;;;;;;;;;X
+BRIG_MODEL_U08_6_5;;;;;;;;;;;X
+BRIG_MODEL_U08_6_6;Ä«³ë³Ù¾ßÅ©Æ®ÆÇÃ³ ;;;;;;;;;;X
+BRIG_MODEL_U08_7_0;LK I ;;;;;;;;;;X
+BRIG_MODEL_U08_7_1;LK II ;;;;;;;;;;X
+BRIG_MODEL_U08_7_2;¿À¹ö½¶·¹Áö¿£ ;;;;;;;;;;X
+BRIG_MODEL_U08_7_3;°æ Æ®·¢ÅÍ VK-35 ;;;;;;;;;;X
+BRIG_MODEL_U08_7_4;PzKpfw. I Ausf. B ;;;;;;;;;;X
+BRIG_MODEL_U08_7_5;PzKpfw. II Ausf. a ;;;;;;;;;;X
+BRIG_MODEL_U08_7_6;PzKpfw. II Ausf. D ;;;;;;;;;;X
+BRIG_MODEL_U08_7_7;PzKpfw. 38t ;;;;;;;;;;X
+BRIG_MODEL_U08_7_8;PzKpfw. III Ausf. N ;;;;;;;;;;X
+BRIG_MODEL_U08_8_0;A7V ;;;;;;;;;;X
+BRIG_MODEL_U08_8_1;10.5cm K(gp.Sfl.) 'µðÄ¿ ¸·½º' ;;;;;;;;;;X
+BRIG_MODEL_U08_8_2;12.8cm K(gp.Sfl.) '½ºÅõ·¯ ¿¡¹Ð' ;;;;;;;;;;X
+BRIG_MODEL_U08_8_3;PzKpfw.VI Æ¼°Å I ;;;;;;;;;;X
+BRIG_MODEL_U08_8_4;PzKpfw.VI Æ¼°Å II ;;;;;;;;;;X
+BRIG_MODEL_U08_9_0;A7V-U ;;;;;;;;;;X
+BRIG_MODEL_U08_9_1;PzKpfw.VII ¸¶¿ì½º ;;;;;;;;;;X
+BRIG_MODEL_U08_10_0;;;;;;;;;;;X
+BRIG_MODEL_U08_10_1;¿¡¸£ÇÏ¸£Æ® E-V/4 ;;;;;;;;;;X
+BRIG_MODEL_U08_10_2;DZVB 21 ;;;;;;;;;;X
+BRIG_MODEL_U08_10_3;SdKfz. 13 ;;;;;;;;;;X
+BRIG_MODEL_U08_10_4;SdKfz. 222 ;;;;;;;;;;X
+BRIG_MODEL_U08_10_5;SdKfz. 231 ;;;;;;;;;;X
+BRIG_MODEL_U08_10_6;;;;;;;;;;;X
+BRIG_MODEL_U08_10_7;½ºÆÄ¾ÆÆÇÃ³ M41 ;;;;;;;;;;X
+# Germany air brigades;;;;;;;;;;;X
+BRIG_MODEL_U08_14_0;He.51 / Hs.123 ;;;;;;;;;;X
+BRIG_MODEL_U08_14_1;He.51 / Hs.123 ;;;;;;;;;;X
+BRIG_MODEL_U08_14_2;Ju 87B ½´ÅõÄ«/Fi 167/Ar 197 ;;;;;;;;;;X
+BRIG_MODEL_U08_14_3;Ju 87C ½´ÅõÄ«/Fi 167/Bf 109T ;;;;;;;;;;X
+BRIG_MODEL_U08_14_4;Ju 87D ½´ÅõÄ«/Fi 167/Bf 109T ;;;;;;;;;;X
+BRIG_MODEL_U08_14_5;Ju 87D ½´ÅõÄ«/Fi 167/Me 155 ;;;;;;;;;;X
+BRIG_MODEL_U08_14_6;Me.155 / Ju.87C ½´ÅõÄ« ;;;;;;;;;;X
+BRIG_MODEL_U08_14_7;Fw.190T / Ju.87C ½´ÅõÄ« ;;;;;;;;;;X
+BRIG_MODEL_U08_14_8;He.162 / Hs.132 ;;;;;;;;;;X
+BRIG_MODEL_U08_15_0;¸Þ¼­½´¹ÌÆ® Bf 110C ;;;;;;;;;;X
+BRIG_MODEL_U08_15_1;¸Þ¼­½´¹ÌÆ® Bf 110F ;;;;;;;;;;X
+BRIG_MODEL_U08_15_2;¸Þ¼­½´¹ÌÆ® Me 410 È£¸£´Ï¼¼ ;;;;;;;;;;X
+BRIG_MODEL_U08_15_3;¸Þ¼­½´¹ÌÆ® Me 609 ;;;;;;;;;;X
+BRIG_MODEL_U08_15_4;¸Þ¼­½´¹ÌÆ® Me-262 ;;;;;;;;;;X
+BRIG_MODEL_U08_15_5;°íÅ¸ Go-229 ;;;;;;;;;;X
+BRIG_MODEL_U08_15_6;È£Æ° Ho.XIIIB ;;;;;;;;;;X
+# Germany;;;;;;;;;;;X
+# Germany land units;;;;;;;;;;;X
+MODEL_U08_4_0;PzKpfw. II Ausf. a ;;;;;;;;;;X
+MODEL_U08_4_1;PzKpfw. II Ausf. C ;;;;;;;;;;X
+MODEL_U08_4_2;PzKpfw. 38t ;;;;;;;;;;X
+MODEL_U08_5_0;PzKpfw. III Ausf. E ;;;;;;;;;;X
+MODEL_U08_5_1;PzKpfw. IV Ausf. F ;;;;;;;;;;X
+MODEL_U08_5_2;PzKpfw. V ÆÇÅÍ Ausf. a ;;;;;;;;;;X
+MODEL_U08_5_3;PzKpfw. V ÆÇÅÍ Ausf. D ;;;;;;;;;;X
+MODEL_U08_5_4;PzKpfw. ÆÇÅÍ II ;;;;;;;;;;X
+MODEL_U08_5_5;E-75 Æ¼°Å III ;;;;;;;;;;X
+MODEL_U08_5_6;E-90 Æ¼°Å III ;;;;;;;;;;X
+MODEL_U08_5_7;PzKpfw. ·¹¿ÀÆÄµå I ;;;;;;;;;;X
+# Germany air units;;;;;;;;;;;X
+MODEL_U08_12_0;DFW C.V ;;;;;;;;;;X
+MODEL_U08_12_1;ÇÒ¹ö½´Å¸Æ® CL.II ;;;;;;;;;;X
+MODEL_U08_12_2;Æ÷Ä¿ Dr.I ;;;;;;;;;;X
+MODEL_U08_12_3;µµ¸£´Ï¿¡ Do 10 ;;;;;;;;;;X
+MODEL_U08_12_4;¾Æ¶óµµ Ar 68 ;;;;;;;;;;X
+MODEL_U08_12_5;¸Þ¼­½´¹ÌÆ® Bf 109E ¿¡¹Ð ;;;;;;;;;;X
+MODEL_U08_12_6;Æ÷ÄÉ-º¼ÇÁ Fw 190a ;;;;;;;;;;X
+MODEL_U08_12_7;Æ÷ÄÉ-º¼ÇÁ Fw 190D ;;;;;;;;;;X
+MODEL_U08_12_8;¸Þ¼­½´¹ÌÆ® Me 262 ½´¹ßº£ ;;;;;;;;;;X
+MODEL_U08_12_9;¸Þ¼­½´¹ÌÆ® P.1101 ;;;;;;;;;;X
+MODEL_U08_12_10;È£ÅÙ Ho 229 ;;;;;;;;;;X
+MODEL_U08_13_0;·³ÇÃ·¯ Å¸¿ìº£ ;;;;;;;;;;X
+MODEL_U08_13_1;¾Æºñ¾ÆÆ½ B.I ;;;;;;;;;;X
+MODEL_U08_13_2;Æ÷Ä¿ E.I ;;;;;;;;;;X
+MODEL_U08_13_3;¾Ë¹ÙÆ®·Î½º D.III ;;;;;;;;;;X
+MODEL_U08_13_4;¾Ë¹ÙÆ®·Î½º D.V ;;;;;;;;;;X
+MODEL_U08_13_5;Æ÷Ä¿ D.VII ;;;;;;;;;;X
+MODEL_U08_13_6;ÇÏÀÎÄÌ HD 37 ;;;;;;;;;;X
+MODEL_U08_13_7;ÇÏÀÎÄÌ He 51 ;;;;;;;;;;X
+MODEL_U08_13_8;¸Þ¼­½´¹ÌÆ® Bf 109D ;;;;;;;;;;X
+MODEL_U08_13_9;¸Þ¼­½´¹ÌÆ® Bf 109F ÇÁ¶õÃ÷ ;;;;;;;;;;X
+MODEL_U08_13_10;¸Þ¼­½´¹ÌÆ® Bf 109G ±¸½ºÅ¸ÇÁ ;;;;;;;;;;X
+MODEL_U08_13_11;ÇÏÀÎÄÌ He 162 »ø·¯¸Ç´õ ;;;;;;;;;;X
+MODEL_U08_13_12;Æ÷ÄÉ-º¼ÇÁ Ta 183 ;;;;;;;;;;X
+MODEL_U08_13_13;¸®ÇÇ½´ P.13a ;;;;;;;;;;X
+MODEL_U08_32_0;¸Þ¼­½´¹ÌÆ® Me 163 ÄÚ¸ÞÆ® ;;;;;;;;;;X
+MODEL_U08_32_1;¸Þ¼­½´¹ÌÆ® Me 263 ;;;;;;;;;;X
+MODEL_U08_14_0;Á¦ÇÃ¸°-½´Å¸ÄË V.G.O.I ;;;;;;;;;;X
+MODEL_U08_14_1;Á¦ÇÃ¸°-½´Å¸ÄË R.VI ;;;;;;;;;;X
+MODEL_U08_14_3;À¶Ä¿½º Ju 89 ;;;;;;;;;;X
+MODEL_U08_14_4;À¶Ä¿½º Ju 290 ;;;;;;;;;;X
+MODEL_U08_14_5;À¶Ä¿½º Ju 488 ;;;;;;;;;;X
+MODEL_U08_14_6;¸Þ¼­½´¹ÌÆ® Me 264 ¾Æ¸Þ¸®Ä« ;;;;;;;;;;X
+MODEL_U08_14_7;À¶Ä¿½º EF 132 ;;;;;;;;;;X
+MODEL_U08_14_8;¸Þ¼­½´¹ÌÆ® Me-264 ;;;;;;;;;;X
+MODEL_U08_15_1;AEG G.II ;;;;;;;;;;X
+MODEL_U08_15_2;°íÅ¸ G.IV ;;;;;;;;;;X
+MODEL_U08_15_3;°íÅ¸ G.VIII ;;;;;;;;;;X
+MODEL_U08_15_4;µµ¸£´Ï¿¡ Do 11 ;;;;;;;;;;X
+MODEL_U08_15_5;µµ¸£´Ï¿¡ Do 17 ÇÁ¸®°Õ´õ ºí¶óÀÌ½´Æ¼ÇÁÆ® ;;;;;;;;;;X
+MODEL_U08_15_6;ÇÏÀÎÄÌ He 111 ;;;;;;;;;;X
+MODEL_U08_15_7;À¶Ä¿½º Ju 88 ;;;;;;;;;;X
+MODEL_U08_15_8;À¶Ä¿½º Ju 188 ¸®Ã³ ;;;;;;;;;;X
+MODEL_U08_15_9;¾Æ¶óµµ Ar 234 ºí¸®Ã÷ ;;;;;;;;;;X
+MODEL_U08_15_10;ÇÏÀÎÄÌ He 343 ;;;;;;;;;;X
+MODEL_U08_16_1;µµ¸£´Ï¿¡ Do J ¿ù ;;;;;;;;;;X
+MODEL_U08_16_2;µµ¸£´Ï¿¡ Do 217 ;;;;;;;;;;X
+MODEL_U08_16_3;Æ÷ÄÉ-º¼ÇÁ Fw 200 ÄÜµ¹ ;;;;;;;;;;X
+MODEL_U08_16_4;À¶Ä¿½º Ju 390 ;;;;;;;;;;X
+MODEL_U08_16_5;À¶Ä¿½º Ju 287 ;;;;;;;;;;X
+MODEL_U08_16_6;ºê·¹°Ô ¾ÆÆ²¶õÆ½ ;;;;;;;;;;X
+MODEL_U08_17_0;Çî¼Ð Hs 123 ;;;;;;;;;;X
+MODEL_U08_17_1;À¶Ä¿½º Ju 87B ½´ÅõÄ« ;;;;;;;;;;X
+MODEL_U08_17_2;À¶Ä¿½º Ju 87G ½´ÅõÄ« ;;;;;;;;;;X
+MODEL_U08_17_3;Çî¼Ð Hs 129 ;;;;;;;;;;X
+MODEL_U08_17_4;Çî¼Ð Hs 132 ;;;;;;;;;;X
+MODEL_U08_17_5;µµ¸£´Ï¿¡ ¾ËÆÄ Á¦Æ® ;;;;;;;;;;X
+MODEL_U08_18_0;À¶Ä¿½º W 34 ;;;;;;;;;;X
+MODEL_U08_18_1;À¶Ä¿½º Ju 52/3m ÅºÅÍ À¯ ;;;;;;;;;;X
+MODEL_U08_18_2;¾Æ¶óµµ Ar 232 ;;;;;;;;;;X
+MODEL_U08_18_3;¸Þ¼­½´¹ÌÆ® Me 323 ±â°£Æ® ;;;;;;;;;;X
+MODEL_U08_18_4;À¶Ä¿½º Ju-352 ;;;;;;;;;;X
+MODEL_U08_18_5;Æ®·£½º¿Ã C-160 ;;;;;;;;;;X
+MODEL_U08_19_0;V1 ;;;;;;;;;;X
+MODEL_U08_20_0;V2 ;;;;;;;;;;X
+MODEL_U08_20_1;V2A9 ;;;;;;;;;;X
+MODEL_U08_20_2;V2A10 ;;;;;;;;;;X
+# Germany naval units;;;;;;;;;;;X
+MODEL_U08_21_0;ÇÁ¸®µå¸®È÷ ´ë¿Õ ±Þ ;;;;;;;;;;X
+MODEL_U08_21_1;Ä«ÀÌÀú ±Þ ;;;;;;;;;;X
+MODEL_U08_21_2;³ª¼Ò ±Þ ;;;;;;;;;;X
+MODEL_U08_21_4;¹ÙÀÌ¿¡¸¥ ±Þ ;;;;;;;;;;X
+MODEL_U08_21_5;L 20a ±Þ ;;;;;;;;;;X
+MODEL_U08_21_7;ºñ½º¸¶¸£Å© ±Þ ;;;;;;;;;;X
+MODEL_U08_21_8;H ±Þ ;;;;;;;;;;X
+MODEL_U08_22_0;°¡Á© ±Þ ;;;;;;;;;;X
+MODEL_U08_22_1;ºê·¹¸à ±Þ ;;;;;;;;;;X
+MODEL_U08_22_2;¸¶±×µ¥ºÎ¸£Å© ±Þ ;;;;;;;;;;X
+MODEL_U08_22_3;¿¥µ§ ±Þ ;;;;;;;;;;X
+MODEL_U08_22_4;´µ¸¥º£¸£Å© ±Þ ;;;;;;;;;;X
+MODEL_U08_22_5;M ±Þ ;;;;;;;;;;X
+MODEL_U08_23_1;¹ÙÈåÆ® ±Þ ;;;;;;;;;;X
+MODEL_U08_23_2;»þ¸¥È£¸£½ºÆ® ±Þ ;;;;;;;;;;X
+MODEL_U08_23_4;µµÀÌÄ¥¶õÆ® ±Þ ;;;;;;;;;;X
+MODEL_U08_23_5;È÷ÆÛ ±Þ ;;;;;;;;;;X
+MODEL_U08_23_6;P ±Þ ;;;;;;;;;;X
+MODEL_U08_24_0;¸ôÆ®ÄÉ ±Þ ;;;;;;;;;;X
+MODEL_U08_24_1;µ¥¸£ÇÃ¸µ°Ô¸£ ±Þ ;;;;;;;;;;X
+MODEL_U08_24_2;¸¶ÄËÁ¨ ±Þ ;;;;;;;;;;X
+MODEL_U08_24_3;»þ¸¥È£¸£½ºÆ® ±Þ ;;;;;;;;;;X
+MODEL_U08_24_4;O ±Þ ;;;;;;;;;;X
+MODEL_U08_25_0;T90 ±Þ ;;;;;;;;;;X
+MODEL_U08_25_1;S114 ±Þ ;;;;;;;;;;X
+MODEL_U08_25_2;S165 ±Þ ;;;;;;;;;;X
+MODEL_U08_25_5;1934Çü ±Þ ;;;;;;;;;;X
+MODEL_U08_25_6;1936AÇü ±Þ ;;;;;;;;;;X
+MODEL_U08_25_7;Z37 ±Þ ;;;;;;;;;;X
+MODEL_U08_25_9;ÇÔºÎ¸£Å© ±Þ ;;;;;;;;;;X
+MODEL_U08_26_2;±×¶óÇÁ Ã¼Æç¸° ±Þ ;;;;;;;;;;X
+MODEL_U08_28_1;U-27Çü ±Þ ;;;;;;;;;;X
+MODEL_U08_28_2;U-43Çü ±Þ ;;;;;;;;;;X
+MODEL_U08_28_4;IIÇü ±Þ ;;;;;;;;;;X
+MODEL_U08_28_5;VIIÇü ±Þ ;;;;;;;;;;X
+MODEL_U08_28_6;IXÇü ±Þ ;;;;;;;;;;X
+MODEL_U08_28_7;XXIÇü ±Þ ;;;;;;;;;;X
+MODEL_U08_28_8;201Çü ±Þ ;;;;;;;;;;X
+MODEL_U08_28_9;205Çü ±Þ ;;;;;;;;;;X
+#new with 1.3;;;;;;;;;;;X
+BRIG_MODEL_ENG_29_0;ºòÄ¿Áî ÁßÇüÀüÂ÷  Mk. I ;;;;;;;;;;X
+BRIG_MODEL_ENG_29_1;ºòÄ¿Áî ÁßÇüÀüÂ÷  Mk. II ;;;;;;;;;;X
+BRIG_MODEL_ENG_29_2;ºòÄ¿Áî ÁßÇüÀüÂ÷  Mk. III ;;;;;;;;;;X
+BRIG_MODEL_ENG_29_3;Mk. IV A13 ¼øÇ×ÀüÂ÷ ;;;;;;;;;;X
+BRIG_MODEL_ENG_29_4;Mk. VI A15 Å©·ç¼¼ÀÌ´õ ;;;;;;;;;;X
+BRIG_MODEL_ENG_29_5;Mk. VIII A23M Å©·ÒÀ£ ;;;;;;;;;;X
+BRIG_MODEL_ENG_29_6;A34 ÄÚ¸ä ;;;;;;;;;;X
+BRIG_MODEL_ENG_29_7;FV4007 ¼¾Ãò¸®¿Â Mk. III ;;;;;;;;;;X
+BRIG_MODEL_ENG_29_8;FV4011 ¼¾Ãò¸®¿Â Mk. V ;;;;;;;;;;X
+BRIG_MODEL_ENG_29_9;FV4015 ¼¾Ãò¸®¿Â Mk. X ;;;;;;;;;;X
+BRIG_MODEL_ENG_29_10;FV4201 Ä¡ÇÁÆ¾ ;;;;;;;;;;X
+BRIG_MODEL_ENG_30_0;¼îÆ® S41 ;;;;;;;;;;X
+BRIG_MODEL_ENG_30_1;¼îÆ® ¾Öµå¸Ó·²Æ¼ 8Çü ;;;;;;;;;;X
+BRIG_MODEL_ENG_30_2;Æç¸¯½ºÅä F2 ;;;;;;;;;;X
+BRIG_MODEL_ENG_30_3;Æä¾î¸® IIIF ;;;;;;;;;;X
+BRIG_MODEL_ENG_30_4;½´ÆÛ¸¶¸° ¾¾°É ;;;;;;;;;;X
+BRIG_MODEL_ENG_30_5;½´ÆÛ¸¶¸° ¿ù·¯½º ;;;;;;;;;;X
+BRIG_MODEL_ENG_30_6;Æä¾î¸® ¾¾Æø½º ;;;;;;;;;;X
+BRIG_MODEL_ENG_30_7;½´ÆÛ¸¶¸° ¾¾¿ÀÅÍ ;;;;;;;;;;X
+BRIG_MODEL_ENG_32_0;DD ÀüÂ÷ ;;;;;;;;;;X
+BRIG_MODEL_ENG_32_1;DD ¼Å¸Õ ;DD Sherman;;;;;;;;;X
+BRIG_MODEL_ENG_33_0;Mk VII Å×Æ®¶óÅ© ;;;;;;;;;;X
+BRIG_MODEL_ENG_33_1;M22 ·ÎÄ¿½ºÆ® ;M22 Locust;;;;;;;;;X
+BRIG_MODEL_ENG_34_0;;;;;;;;;;;X
+BRIG_MODEL_ENG_34_1;;;;;;;;;;;X
+BRIG_MODEL_ENG_34_2;;;;;;;;;;;X
+BRIG_MODEL_ENG_34_3;;;;;;;;;;;X
+BRIG_MODEL_ENG_34_4;;;;;;;;;;;X
+BRIG_MODEL_ENG_35_0;BL 9.2 inch howitzer;BL 9.2 inch howitzer;BL 9.2 inch howitzer;BL 9.2 inch howitzer;BL 9.2 inch howitzer;BL 9.2 inch howitzer;;BL 9.2 inch howitzer;;;X
+BRIG_MODEL_ENG_35_1;BL 12 inch howitzer;BL 12 inch howitzer;BL 12 inch howitzer;BL 12 inch howitzer;BL 12 inch howitzer;BL 12 inch howitzer;;BL 12 inch howitzer;;;X
+BRIG_MODEL_ENG_35_2;BL 14 inch railway gun;BL 14 inch railway gun;BL 14 inch railway gun;BL 14 inch railway gun;BL 14 inch railway gun;BL 14 inch railway gun;;BL 14 inch railway gun;;;X
+BRIG_MODEL_ENG_35_3;BL 18 inch railway howitzer;BL 18 inch railway howitzer;BL 18 inch railway howitzer;BL 18 inch railway howitzer;BL 18 inch railway howitzer;BL 18 inch railway howitzer;;BL 18 inch railway howitzer;;;X
+BRIG_MODEL_ENG_35_4;;;;;;;;;;;X
+BRIG_MODEL_ENG_35_5;;;;;;;;;;;X
+BRIG_MODEL_FRA_29_0;¸£³ë NC ;;;;;;;;;;X
+BRIG_MODEL_FRA_29_1;¸£³ë D1 ;;;;;;;;;;X
+BRIG_MODEL_FRA_29_2;¸£³ë D2 ;;;;;;;;;;X
+BRIG_MODEL_FRA_29_3;¸£³ë G1 ;;;;;;;;;;X
+BRIG_MODEL_FRA_29_4;;;;;;;;;;;X
+BRIG_MODEL_FRA_29_5;;;;;;;;;;;X
+BRIG_MODEL_FRA_29_6;;;;;;;;;;;X
+BRIG_MODEL_FRA_29_7;;;;;;;;;;;X
+BRIG_MODEL_FRA_29_8;;;;;;;;;;;X
+BRIG_MODEL_FRA_29_9;;;;;;;;;;;X
+BRIG_MODEL_FRA_29_10;;;;;;;;;;;X
+BRIG_MODEL_FRA_29_11;AMX 30 ;;;;;;;;;;X
+BRIG_MODEL_FRA_30_0;ºê¿ÍÀå Ä«³ª¸£ ;;;;;;;;;;X
+BRIG_MODEL_FRA_30_3;½º·º FBA.1 7 ;;;;;;;;;;X
+BRIG_MODEL_FRA_30_4;¸£¹Ù¼¼¸£ PL.14 ;;;;;;;;;;X
+BRIG_MODEL_FRA_30_5;·ç¾Æ¸£ LN.130 ;;;;;;;;;;X
+BRIG_MODEL_FRA_30_6;CAMS 37 ;;;;;;;;;;X
+BRIG_MODEL_FRA_30_7;Æ÷Å×Áî 452 ;;;;;;;;;;X
+BRIG_MODEL_FRA_32_0;;;;;;;;;;;X
+BRIG_MODEL_FRA_32_1;;;;;;;;;;;X
+BRIG_MODEL_FRA_33_0;AMR 35 TPA;AMR 35 TPA;AMR 35 TPA;AMR 35 TPA;AMR 35 TPA;AMR 35 TPA;;AMR 35 TPA;;;X
+BRIG_MODEL_FRA_33_1;;;;;;;;;;;X
+BRIG_MODEL_FRA_34_0;;;;;;;;;;;X
+BRIG_MODEL_FRA_34_1;;;;;;;;;;;X
+BRIG_MODEL_FRA_34_2;;;;;;;;;;;X
+BRIG_MODEL_FRA_34_3;;;;;;;;;;;X
+BRIG_MODEL_FRA_34_4;;;;;;;;;;;X
+BRIG_MODEL_FRA_35_0;Mortier de 280 Mle 1914 Schneider;Mortier de 280 Mle 1914 Schneider;Mortier de 280 Mle 1914 Schneider;Mortier de 280 Mle 1914 Schneider;Mortier de 280 Mle 1914 Schneider;Mortier de 280 Mle 1914 Schneider;;Mortier de 280 Mle 1914 Schneider;;;X
+BRIG_MODEL_FRA_35_1;;;;;;;;;;;X
+BRIG_MODEL_FRA_35_2;;;;;;;;;;;X
+BRIG_MODEL_FRA_35_3;;;;;;;;;;;X
+BRIG_MODEL_FRA_35_4;;;;;;;;;;;X
+BRIG_MODEL_FRA_35_5;;;;;;;;;;;X
+BRIG_MODEL_GER_29_0;;;;;;;;;;;X
+BRIG_MODEL_GER_29_1;´ëÇü Æ®·¢ÅÍ ;;;;;;;;;;X
+BRIG_MODEL_GER_29_2;³ëÀÌ¹Ù¿ìÆÄ¸£ÃÊÀÌÅ© ;;;;;;;;;;X
+BRIG_MODEL_GER_29_3;PzKpfw. III Ausf. E ;;;;;;;;;;X
+BRIG_MODEL_GER_29_4;PzKpfw. III Ausf. J ;;;;;;;;;;X
+BRIG_MODEL_GER_29_5;PzKpfw. IV Ausf. G ;;;;;;;;;;X
+BRIG_MODEL_GER_29_6;PzKpfw. V ÆÇÅÍ Ausf. G ;;;;;;;;;;X
+BRIG_MODEL_GER_29_7;PzKpfw. ÆÇÅÍ II ;;;;;;;;;;X
+BRIG_MODEL_GER_29_8;E-75 Æ¼°Å III ;;;;;;;;;;X
+BRIG_MODEL_GER_29_9;E-90 Æ¼°Å III ;;;;;;;;;;X
+BRIG_MODEL_GER_29_10;PzKpfw. ·¹¿ÀÆÄµå I ;;;;;;;;;;X
+BRIG_MODEL_GER_29_11;;;;;;;;;;;X
+BRIG_MODEL_GER_30_0;ÇÏÀÎÄÌ 60 ;;;;;;;;;;X
+BRIG_MODEL_GER_30_1;¾Æ¶óµµ Ar 196 ;;;;;;;;;;X
+BRIG_MODEL_GER_30_5;ÇÏÀÎÄÌ He 60 ;;;;;;;;;;X
+BRIG_MODEL_GER_30_6;¾Æ¶óµµ Ar 196 ;;;;;;;;;;X
+BRIG_MODEL_GER_30_7;ÇÏÀÎÄÌ He 115 ;;;;;;;;;;X
+BRIG_MODEL_GER_32_0;;;;;;;;;;;X
+BRIG_MODEL_GER_32_1;½¬ºöÆÇÃ³ II ;Schwimmpanzer II;;;;;;;;;X
+BRIG_MODEL_GER_33_0;;;;;;;;;;;X
+BRIG_MODEL_GER_33_1;;;;;;;;;;;X
+BRIG_MODEL_GER_34_0;7.5cm LG40 ;;;;;;;;;;X
+BRIG_MODEL_GER_34_1;10.5cm LG42 ;;;;;;;;;;X
+BRIG_MODEL_GER_34_2;;;;;;;;;;;X
+BRIG_MODEL_GER_34_3;;;;;;;;;;;X
+BRIG_MODEL_GER_34_4;;;;;;;;;;;X
+BRIG_MODEL_GER_35_0;42cm M-Gerat 14 'Dicke Bertha';;;;;;;;;;X
+BRIG_MODEL_GER_35_1;38cm SK L/45 'Max';;;;;;;;;;X
+BRIG_MODEL_GER_35_2;28cm SK L/40 'Kurfurst';;;;;;;;;;X
+BRIG_MODEL_GER_35_3;80cm K (E) '½´º£·¯ ±¸½ºÅ¸ÇÁ' ;80-cm K (E) 'Schwerer Gustav';;;;;;;;;X
+BRIG_MODEL_GER_35_4;54cm Ä«¸¦ ÀÚÁÖ±¸Æ÷ 041;54-cm Karl-Gerat 041;;;;;;;;;X
+BRIG_MODEL_GER_35_5;;;;;;;;;;;X
+BRIG_MODEL_ITA_29_2;M11/39 ;;;;;;;;;;X
+BRIG_MODEL_ITA_29_3;M13/40 ;;;;;;;;;;X
+BRIG_MODEL_ITA_29_4;M14/41 ;;;;;;;;;;X
+BRIG_MODEL_ITA_29_5;M15/42 ;;;;;;;;;;X
+BRIG_MODEL_ITA_29_6;P26/40 ;;;;;;;;;;X
+BRIG_MODEL_ITA_30_1;¸¶Å° L.1 ;;;;;;;;;;X
+BRIG_MODEL_ITA_30_2;SIAI S.13 ;;;;;;;;;;X
+BRIG_MODEL_ITA_30_3;SIAI S.58 ;;;;;;;;;;X
+BRIG_MODEL_ITA_30_4;¸¶Å° M.41 ;;;;;;;;;;X
+BRIG_MODEL_ITA_30_5;ÇÇ¾ÆÁö¿À P.6 ;;;;;;;;;;X
+BRIG_MODEL_ITA_30_6;IMAM Ro.43 ;;;;;;;;;;X
+BRIG_MODEL_ITA_32_0;;;;;;;;;;;X
+BRIG_MODEL_ITA_32_1;;;;;;;;;;;X
+BRIG_MODEL_ITA_33_0;;;;;;;;;;;X
+BRIG_MODEL_ITA_33_1;;;;;;;;;;;X
+BRIG_MODEL_ITA_34_0;;;;;;;;;;;X
+BRIG_MODEL_ITA_34_1;;;;;;;;;;;X
+BRIG_MODEL_ITA_34_2;;;;;;;;;;;X
+BRIG_MODEL_ITA_34_3;;;;;;;;;;;X
+BRIG_MODEL_ITA_34_4;;;;;;;;;;;X
+BRIG_MODEL_ITA_35_0;Mortaio da 210/8 D.S.;Mortaio da 210/8 D.S.;Mortaio da 210/8 D.S.;Mortaio da 210/8 D.S.;Mortaio da 210/8 D.S.;Mortaio da 210/8 D.S.;;Mortaio da 210/8 D.S.;;;X
+BRIG_MODEL_ITA_35_1;;;;;;;;;;;X
+BRIG_MODEL_ITA_35_2;;;;;;;;;;;X
+BRIG_MODEL_ITA_35_3;Obice da 210/22;Obice da 210/22;Obice da 210/22;Obice da 210/22;Obice da 210/22;Obice da 210/22;;Obice da 210/22;;;X
+BRIG_MODEL_ITA_35_4;;;;;;;;;;;X
+BRIG_MODEL_ITA_35_5;;;;;;;;;;;X
+BRIG_MODEL_JAP_29_0;;;;;;;;;;;X
+BRIG_MODEL_JAP_29_1;89½Ä A ÀÌ°í ;;;;;;;;;;X
+BRIG_MODEL_JAP_29_2;89½Ä B ÀÌ°í ¿ÀÃ÷ ;;;;;;;;;;X
+BRIG_MODEL_JAP_29_3;97½Ä Ä¡ÇÏ ;;;;;;;;;;X
+BRIG_MODEL_JAP_29_4;1½Ä Ä¡Çì ;;;;;;;;;;X
+BRIG_MODEL_JAP_29_5;4½Ä Ä¡Åä ;;;;;;;;;;X
+BRIG_MODEL_JAP_29_6;3½Ä Ä¡´© ;;;;;;;;;;X
+BRIG_MODEL_JAP_29_7;5½Ä Ä¡¸® ;;;;;;;;;;X
+BRIG_MODEL_JAP_29_8;;;;;;;;;;;X
+BRIG_MODEL_JAP_29_9;;;;;;;;;;;X
+BRIG_MODEL_JAP_29_10;61½Ä ;;;;;;;;;;X
+BRIG_MODEL_JAP_29_11;;;;;;;;;;;X
+BRIG_MODEL_JAP_30_0;Ä¿Æ¼½º EÇü ;;;;;;;;;;X
+BRIG_MODEL_JAP_30_1;ÇÑÀÚ-ºê¶õµ§ºÎ¸£Å© W.33 ;;;;;;;;;;X
+BRIG_MODEL_JAP_30_2;Æç¸¯½ºÅä F.5 ;;;;;;;;;;X
+BRIG_MODEL_JAP_30_3;¿äÄÚ½ºÄ« E1Y ;;;;;;;;;;X
+BRIG_MODEL_JAP_30_4;¾ÆÀÌÄ¡ E3a ;;;;;;;;;;X
+BRIG_MODEL_JAP_30_5;³ªÄ«Áö¸¶ E4N ;;;;;;;;;;X
+BRIG_MODEL_JAP_30_6;Ä«¿Í´Ï½Ã E7K ;;;;;;;;;;X
+BRIG_MODEL_JAP_30_7;Ä«¿Í´Ï½Ã E15K ½Ã¿î ;;;;;;;;;;X
+BRIG_MODEL_JAP_32_0;2½Ä Ä«¹Ì ;;;;;;;;;;X
+BRIG_MODEL_JAP_32_1;5½Ä ÅäÄí ;;;;;;;;;;X
+BRIG_MODEL_JAP_33_0;Ku-3 So-Ra;Ku-3 So-Ra;Ku-3 So-Ra;Ku-3 So-Ra;Ku-3 So-Ra;Ku-3 So-Ra;;Ku-3 So-Ra;;;X
+BRIG_MODEL_JAP_33_1;Ku-6 Sora-Sha;Ku-6 Sora-Sha;Ku-6 Sora-Sha;Ku-6 Sora-Sha;Ku-6 Sora-Sha;Ku-6 Sora-Sha;;Ku-6 Sora-Sha;;;X
+BRIG_MODEL_JAP_34_0;92½Ä 70mm º¸º´Æ÷ ;70 mm Type 92;;;;;;;;;X
+BRIG_MODEL_JAP_34_1;;;;;;;;;;;X
+BRIG_MODEL_JAP_34_2;;;;;;;;;;;X
+BRIG_MODEL_JAP_34_3;;;;;;;;;;;X
+BRIG_MODEL_JAP_34_4;;;;;;;;;;;X
+BRIG_MODEL_JAP_35_0;;;;;;;;;;;X
+BRIG_MODEL_JAP_35_1;;;;;;;;;;;X
+BRIG_MODEL_JAP_35_2;;;;;;;;;;;X
+BRIG_MODEL_JAP_35_3;;;;;;;;;;;X
+BRIG_MODEL_JAP_35_4;;;;;;;;;;;X
+BRIG_MODEL_JAP_35_5;;;;;;;;;;;X
+BRIG_MODEL_SOV_29_1;T-24 ;;;;;;;;;;X
+BRIG_MODEL_SOV_29_2;T-28 m34 ;;;;;;;;;;X
+BRIG_MODEL_SOV_29_3;T-28 m38 ;;;;;;;;;;X
+BRIG_MODEL_SOV_29_4;T-34/76 ;;;;;;;;;;X
+BRIG_MODEL_SOV_29_5;T-34/85 ;;;;;;;;;;X
+BRIG_MODEL_SOV_29_6;T-44 ;;;;;;;;;;X
+BRIG_MODEL_SOV_29_7;T-54 ;;;;;;;;;;X
+BRIG_MODEL_SOV_29_8;T-54a ;;;;;;;;;;X
+BRIG_MODEL_SOV_29_9;T-55 ;;;;;;;;;;X
+BRIG_MODEL_SOV_29_10;T-62 ;;;;;;;;;;X
+BRIG_MODEL_SOV_30_6;Be-2 '¸ðÆ®' ;;;;;;;;;;X
+BRIG_MODEL_SOV_30_7;Be-4 '¸Ó±×' ;;;;;;;;;;X
+BRIG_MODEL_SOV_32_0;T-40 ;;;;;;;;;;X
+BRIG_MODEL_SOV_32_1;PT-1;PT-1;PT-1;PT-1;PT-1;PT-1;;PT-1;;;X
+BRIG_MODEL_SOV_33_0;T-37;T-37;T-37;T-37;T-37;T-37;;T-37;;;X
+BRIG_MODEL_SOV_33_1;A-40;A-40;A-40;A-40;A-40;A-40;;A-40;;;X
+BRIG_MODEL_SOV_34_0;;;;;;;;;;;X
+BRIG_MODEL_SOV_34_1;;;;;;;;;;;X
+BRIG_MODEL_SOV_34_2;;;;;;;;;;;X
+BRIG_MODEL_SOV_34_3;;;;;;;;;;;X
+BRIG_MODEL_SOV_34_4;;;;;;;;;;;X
+BRIG_MODEL_SOV_35_0;305-mm gaubitsa o. 1915;305-mm gaubitsa o. 1915;305-mm gaubitsa o. 1915;305-mm gaubitsa o. 1915;305-mm gaubitsa o. 1915;305-mm gaubitsa o. 1915;;305ìì ãàóáèöà oáð. 1915 ã.;;;X
+BRIG_MODEL_SOV_35_1;;;;;;;;;;;X
+BRIG_MODEL_SOV_35_2;;;;;;;;;;;X
+BRIG_MODEL_SOV_35_3;305-mm gaubitsa o. 1939 Br-18;305-mm gaubitsa o. 1939 Br-18;305-mm gaubitsa o. 1939 Br-18;305-mm gaubitsa o. 1939 Br-18;305-mm gaubitsa o. 1939 Br-18;305-mm gaubitsa o. 1939 Br-18;;305ìì ãàóáèöà oáð. 1939 Br-18;;;X
+BRIG_MODEL_SOV_35_4;;;;;;;;;;;X
+BRIG_MODEL_SOV_35_5;406-mm 2A3 Kondensator 2P;406-mm 2A3 Kondensator 2P;406-mm 2A3 Kondensator 2P;406-mm 2A3 Kondensator 2P;406-mm 2A3 Kondensator 2P;406-mm 2A3 Kondensator 2P;;406ìì 2A3 Kondensator 2P;;;X
+BRIG_MODEL_RUS_29_1;T-24;T-24;T-24;T-24;T-24;T-24;;T-24;;;X
+BRIG_MODEL_RUS_29_2;T-28 m34;T-28 m34;T-28 m34;T-28 m34;T-28 m34;T-28 m34;;T-28 îáð. 1934 ã.;;;X
+BRIG_MODEL_RUS_29_3;T-28 m38;T-28 m38;T-28 m38;T-28 m38;T-28 m38;T-28 m38;;T-28 îáð. 1938 ã.;;;X
+BRIG_MODEL_RUS_29_4;T-34/76;T-34/76;T-34/76;T-34/76;T-34/76;T-34/76;;T-34/76;;;X
+BRIG_MODEL_RUS_29_5;T-34/85;T-34/85;T-34/85;T-34/85;T-34/85;T-34/85;;T-34/85;;;X
+BRIG_MODEL_RUS_29_6;T-44;T-44;T-44;T-44;T-44;T-44;;T-44;;;X
+BRIG_MODEL_RUS_29_7;T-54;T-54;T-54;T-54;T-54;T-54;;T-54;;;X
+BRIG_MODEL_RUS_29_8;T-54A;T-54A;T-54A;T-54A;T-54A;T-54A;;T-54A;;;X
+BRIG_MODEL_RUS_29_9;T-55;T-55;T-55;T-55;T-55;T-55;;T-55;;;X
+BRIG_MODEL_RUS_29_10;T-62;T-62;T-62;T-62;T-62;T-62;;T-62;;;X
+BRIG_MODEL_RUS_30_6;Be-2 'Mote';Be-2 'Mote';Be-2 'Mote';Be-2 'Mote';Be-2 'Mote';Be-2 'Mote';;Áå-2;;;X
+BRIG_MODEL_RUS_30_7;Be-4 'Mug';Be-4 'Mug';Be-4 'Mug';Be-4 'Mug';Be-4 'Mug';Be-4 'Mug';;Áå-4;;;X
+BRIG_MODEL_RUS_32_0;T-40;T-40;T-40;T-40;T-40;T-40;;T-40;;;X
+BRIG_MODEL_RUS_32_1;PT-1;PT-1;PT-1;PT-1;PT-1;PT-1;;PT-1;;;X
+BRIG_MODEL_RUS_33_0;T-37;T-37;T-37;T-37;T-37;T-37;;T-37;;;X
+BRIG_MODEL_RUS_33_1;A-40;A-40;A-40;A-40;A-40;A-40;;A-40;;;X
+BRIG_MODEL_RUS_34_0;;;;;;;;;;;X
+BRIG_MODEL_RUS_34_1;;;;;;;;;;;X
+BRIG_MODEL_RUS_34_2;;;;;;;;;;;X
+BRIG_MODEL_RUS_34_3;;;;;;;;;;;X
+BRIG_MODEL_RUS_34_4;;;;;;;;;;;X
+BRIG_MODEL_RUS_35_0;305-mm gaubitsa o. 1915;305-mm gaubitsa o. 1915;305-mm gaubitsa o. 1915;305-mm gaubitsa o. 1915;305-mm gaubitsa o. 1915;305-mm gaubitsa o. 1915;;305ìì ãàóáèöà oáð. 1915 ã.;;;X
+BRIG_MODEL_RUS_35_1;;;;;;;;;;;X
+BRIG_MODEL_RUS_35_2;;;;;;;;;;;X
+BRIG_MODEL_RUS_35_3;305-mm gaubitsa o. 1939 Br-18;305-mm gaubitsa o. 1939 Br-18;305-mm gaubitsa o. 1939 Br-18;305-mm gaubitsa o. 1939 Br-18;305-mm gaubitsa o. 1939 Br-18;305-mm gaubitsa o. 1939 Br-18;;305ìì ãàóáèöà oáð. 1939 Br-18;;;X
+BRIG_MODEL_RUS_35_4;;;;;;;;;;;X
+BRIG_MODEL_RUS_35_5;406-mm 2A3 Kondensator 2P;406-mm 2A3 Kondensator 2P;406-mm 2A3 Kondensator 2P;406-mm 2A3 Kondensator 2P;406-mm 2A3 Kondensator 2P;406-mm 2A3 Kondensator 2P;;406ìì 2A3 Kondensator 2P;;;X
+BRIG_MODEL_USA_29_0;;;;;;;;;;;X
+BRIG_MODEL_USA_29_1;;;;;;;;;;;X
+BRIG_MODEL_USA_29_2;T2 ÁßÇüÀüÂ÷ ;;;;;;;;;;X
+BRIG_MODEL_USA_29_3;T3E2 ÁßÇüÀüÂ÷ ;;;;;;;;;;X
+BRIG_MODEL_AST_29_4;¼¾Æ¼³Ú AC ;;;;;;;;;;X
+BRIG_MODEL_USA_29_4;M3 ¸® ;;;;;;;;;;X
+BRIG_MODEL_USA_29_5;M4 ¼Å¸Õ ;;;;;;;;;;X
+BRIG_MODEL_USA_29_6;M4A3E8(76)W ¼Å¸Õ ;;;;;;;;;;X
+BRIG_MODEL_USA_29_7;M46 ÆÐÆ° ;;;;;;;;;;X
+BRIG_MODEL_USA_29_8;M47 ÆÐÆ° ;;;;;;;;;;X
+BRIG_MODEL_USA_29_9;M48 ÆÐÆ° ;;;;;;;;;;X
+BRIG_MODEL_USA_29_10;M60 ÆÐÆ° ;;;;;;;;;;X
+BRIG_MODEL_USA_29_11;;;;;;;;;;;X
+BRIG_MODEL_USA_30_0;SOC ¾¾°É ;;;;;;;;;;X
+BRIG_MODEL_USA_30_1;OS2U Å·ÇÇ¼Å ;;;;;;;;;;X
+BRIG_MODEL_USA_30_2;SC ¾¾È£Å© ;;;;;;;;;;X
+BRIG_MODEL_USA_30_5;º¸¿ìÆ® UO ;;;;;;;;;;X
+BRIG_MODEL_USA_30_6;OS2U Å·ÇÇ¼Å ;;;;;;;;;;X
+BRIG_MODEL_USA_30_7;SC ¾¾È£Å© ;;;;;;;;;;X
+BRIG_MODEL_USA_32_0;DD ÀüÂ÷ ;;;;;;;;;;X
+BRIG_MODEL_USA_32_1;LVT(A)-4;LVT(A)-4;LVT(A)-4;LVT(A)-4;LVT(A)-4;LVT(A)-4;;LVT(A)-4;;;X
+BRIG_MODEL_USA_33_0;;;;;;;;;;;X
+BRIG_MODEL_USA_33_1;M22 ·ÎÄ¿½ºÆ® ;;;;;;;;;;X
+BRIG_MODEL_USA_34_0;M1 75mm ;75 mm M1;;;;;;;;;X
+BRIG_MODEL_USA_34_1;M3 105mm ;105 mm M3;;;;;;;;;X
+BRIG_MODEL_USA_34_2;;;;;;;;;;;X
+BRIG_MODEL_USA_34_3;;;;;;;;;;;X
+BRIG_MODEL_USA_34_4;M102 105mm ;105 mm M102;;;;;;;;;X
+BRIG_MODEL_USA_35_0;8 inch M1888 railway gun;8 inch M1888 railway gun;8 inch M1888 railway gun;8 inch M1888 railway gun;8 inch M1888 railway gun;8 inch M1888 railway gun;;8 inch M1888 railway gun;;;X
+BRIG_MODEL_USA_35_1;10 inch M1888 railway gun;10 inch M1888 railway gun;10 inch M1888 railway gun;10 inch M1888 railway gun;10 inch M1888 railway gun;10 inch M1888 railway gun;;10 inch M1888 railway gun;;;X
+BRIG_MODEL_USA_35_2;14''/50 caliber railway gun;14''/50 caliber railway gun;14''/50 caliber railway gun;14''/50 caliber railway gun;14''/50 caliber railway gun;14''/50 caliber railway gun;;14''/50 caliber railway gun;;;X
+BRIG_MODEL_USA_35_3;14 inch M1920 railway gun;14 inch M1920 railway gun;14 inch M1920 railway gun;14 inch M1920 railway gun;14 inch M1920 railway gun;14 inch M1920 railway gun;;14 inch M1920 railway gun;;;X
+BRIG_MODEL_USA_35_4;240 mm howitzer M1;240 mm howitzer M1;240 mm howitzer M1;240 mm howitzer M1;240 mm howitzer M1;240 mm howitzer M1;;240 mm howitzer M1;;;X
+BRIG_MODEL_USA_35_5;280 mm M65 Atomic Cannon;280 mm M65 Atomic Cannon;280 mm M65 Atomic Cannon;280 mm M65 Atomic Cannon;280 mm M65 Atomic Cannon;280 mm M65 Atomic Cannon;;280 mm M65 Atomic Cannon;;;X
+BRIG_MODEL_U01_29_0;¸£³ë NC ;;;;;;;;;;X
+BRIG_MODEL_U01_29_1;¸£³ë D1 ;;;;;;;;;;X
+BRIG_MODEL_U01_29_2;¸£³ë D2 ;;;;;;;;;;X
+BRIG_MODEL_U01_29_3;¸£³ë G1 ;;;;;;;;;;X
+BRIG_MODEL_U01_29_4;;;;;;;;;;;X
+BRIG_MODEL_U01_29_5;;;;;;;;;;;X
+BRIG_MODEL_U01_29_6;;;;;;;;;;;X
+BRIG_MODEL_U01_29_7;;;;;;;;;;;X
+BRIG_MODEL_U01_29_8;;;;;;;;;;;X
+BRIG_MODEL_U01_29_9;;;;;;;;;;;X
+BRIG_MODEL_U01_29_10;;;;;;;;;;;X
+BRIG_MODEL_U01_29_11;AMX 30 ;;;;;;;;;;X
+BRIG_MODEL_U01_30_0;ºê¿ÍÀå Ä«³ª¸£ ;;;;;;;;;;X
+BRIG_MODEL_U01_30_3;½º·º FBA.17 ;;;;;;;;;;X
+BRIG_MODEL_U01_30_4;¸£¹Ù¼¼¸£ PL.14 ;;;;;;;;;;X
+BRIG_MODEL_U01_30_5;·ç¾Æ¸£ LN.130 ;;;;;;;;;;X
+BRIG_MODEL_U01_30_6;CAMS 37 ;;;;;;;;;;X
+BRIG_MODEL_U01_30_7;Æ÷Å×Áî 452 ;;;;;;;;;;X
+BRIG_MODEL_U08_29_0;;;;;;;;;;;X
+BRIG_MODEL_U08_29_1;Áß Æ®·¢ÅÍ ;;;;;;;;;;X
+BRIG_MODEL_U08_29_2;³ëÀÌ¹Ù¿ìÆÄ¸£ÃÊÀÌÅ© ;;;;;;;;;;X
+BRIG_MODEL_U08_29_3;PzKpfw. III Ausf. E ;;;;;;;;;;X
+BRIG_MODEL_U08_29_4;PzKpfw. III Ausf. J ;;;;;;;;;;X
+BRIG_MODEL_U08_29_5;PzKpfw. IV Ausf. G ;;;;;;;;;;X
+BRIG_MODEL_U08_29_6;PzKpfw. V ÆÇÅÍ Ausf. G ;;;;;;;;;;X
+BRIG_MODEL_U08_29_7;PzKpfw. ÆÇÅÍ II ;;;;;;;;;;X
+BRIG_MODEL_U08_29_8;E-75 Æ¼°Å III ;;;;;;;;;;X
+BRIG_MODEL_U08_29_9;E-90 Æ¼°Å III ;;;;;;;;;;X
+BRIG_MODEL_U08_29_10;PzKpfw. ·¹¿ÀÆÄµå I ;;;;;;;;;;X
+BRIG_MODEL_U08_29_11;;;;;;;;;;;X
+BRIG_MODEL_U08_30_0;ÇÏÀÎÄÌ 60 ;;;;;;;;;;X
+BRIG_MODEL_U08_30_1;¾Æ¶óµµ Ar 196 ;;;;;;;;;;X
+BRIG_MODEL_U08_30_5;ÇÏÀÎÄÌ He 60 ;;;;;;;;;;X
+BRIG_MODEL_U08_30_6;¾Æ¶óµµ Ar 196 ;;;;;;;;;;X
+BRIG_MODEL_U08_30_7;ÇÏÀÎÄÌ He 115 ;;;;;;;;;;X
+BRIG_MODEL_U08_32_0;;;;;;;;;;;X
+BRIG_MODEL_U08_32_1;½¬ºöÆÇÃ³ II ;Schwimmpanzer II;;;;;;;;;X
+BRIG_MODEL_U08_33_0;;;;;;;;;;;X
+BRIG_MODEL_U08_33_1;;;;;;;;;;;X
+BRIG_MODEL_U08_34_0;7.5cm LG40 ;;;;;;;;;;X
+BRIG_MODEL_U08_34_1;10.5cm LG42 ;;;;;;;;;;X
+BRIG_MODEL_U08_34_2;;;;;;;;;;;X
+BRIG_MODEL_U08_34_3;;;;;;;;;;;X
+BRIG_MODEL_U08_34_4;;;;;;;;;;;X
+BRIG_MODEL_U08_35_0;42-cm M-Gerät 14 'Dicke Bertha';42-cm M-Gerät 14 'Dicke Bertha';42-cm M-Gerät 14 'Dicke Bertha';42-cm M-Gerät 14 'Dicke Bertha';42-cm M-Gerät 14 'Dicke Bertha';42-cm M-Gerät 14 'Dicke Bertha';;42-cm M-Gerät 14 'Dicke Bertha';;;X
+BRIG_MODEL_U08_35_1;38-cm SK L/45 'Max';38-cm SK L/45 'Max';38-cm SK L/45 'Max';38-cm SK L/45 'Max';38-cm SK L/45 'Max';38-cm SK L/45 'Max';;38-cm SK L/45 'Max';;;X
+BRIG_MODEL_U08_35_2;28-cm SK L/40 'Kurfürst';28-cm SK L/40 'Kurfürst';28-cm SK L/40 'Kurfürst';28-cm SK L/40 'Kurfürst';28-cm SK L/40 'Kurfürst';28-cm SK L/40 'Kurfürst';;28-cm SK L/40 'Kurfürst';;;X
+BRIG_MODEL_U08_35_3;80-cm K (E) 'Schwerer Gustav';80-cm K (E) 'Schwerer Gustav';80-cm K (E) 'Schwerer Gustav';80-cm K (E) 'Schwerer Gustav';80-cm K (E) 'Schwerer Gustav';80-cm K (E) 'Schwerer Gustav';;80-cm K (E) 'Schwerer Gustav';;;X
+BRIG_MODEL_U08_35_4;54-cm Karl-Gerät 041;54-cm Karl-Gerät 041;54-cm Karl-Gerät 041;54-cm Karl-Gerät 041;54-cm Karl-Gerät 041;54-cm Karl-Gerät 041;;54-cm Karl-Gerät 041;;;X
+BRIG_MODEL_U08_35_5;;;;;;;;;;;X
+BRIG_MODEL_U09_35_0;30.5 cm Mörser M. 11;30.5 cm Mörser M. 11;30.5 cm Mörser M. 11;30.5 cm Mörser M. 11;30.5 cm Mörser M. 11;30.5 cm Mörser M. 11;;30.5 cm Mörser M. 11;;;X
+BRIG_MODEL_U09_35_1;38 cm Belagerungshaubitze M. 16;38 cm Belagerungshaubitze M. 16;38 cm Belagerungshaubitze M. 16;38 cm Belagerungshaubitze M. 16;38 cm Belagerungshaubitze M. 16;38 cm Belagerungshaubitze M. 16;;38 cm Belagerungshaubitze M. 16;;;X
+#EOF;;;;;;;;;;;X
+#EOF;;;;;;;;;;;X

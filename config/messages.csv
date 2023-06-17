@@ -1,0 +1,3141 @@
+## STRING NAME (do not change!);English;French;Italian;Spanish;German;Polish;Portuguese;Russian;Extra1;Extra2;X
+## ========================;========================;========================;========================;========================;========================;========================;========================;========================;;========================;X
+##;;;;;;;;;;;X
+##;MAJOR NOTE ABOUT THIS FILE:;;;;;;;;;;X
+##;;;;;;;;;;;X
+##;This file contains message texts used directly by the game engine and no modifications should be made to it by mods.;;;;;;;;;;X
+##;To redefine a text string from this file, place it in mods.csv and do the change there. Note that redefined engine strings must match exactly the format used by original text or the game could behave abnormally.;;;;;;;;;;X
+##;This file is loaded just before mods.csv text file and will replace any strings defined by previously loaded text files, but will trigger error on each replacement if extra debug logs are enabled (settings.cfg).;;;;;;;;;;X
+##;;;;;;;;;;;X
+##;;;;;;;;;;;X
+##;MESSAGES STRUCTURE:;;;;;;;;;;X
+##;;;;;;;;;;;X
+##;*_SETUP = the string displayed in the in-game message display options listing;;;;;;;;;;X
+##;*_HEADER = small orange header in message box;;;;;;;;;;X
+##;*_1 = large white header in message box (limited space!);;;;;;;;;;X
+##;*_2 = small orange text in message box;;;;;;;;;;X
+##;*_3 = all caps white text in message box;;;;;;;;;;X
+##;*_4 = small orange text in message box;;;;;;;;;;X
+##;*_5 = all caps white text in message box;;;;;;;;;;X
+##;*_6 = small orange text in message box;;;;;;;;;;X
+##;*_LOG = the text that is displayed in the game log (in the bottom of the screen). Most often this is just a shorter recap of all the other text strings.;;;;;;;;;;X
+##;*_BTN1 = left button;;;;;;;;;;X
+##;*_BTN2 = right button;;;;;;;;;;X
+##;;;;;;;;;;;X
+##;NOTES:;;;;;;;;;;X
+##;;;;;;;;;;;X
+##;If any field is left blank it will not be displayed at all in the message box. If a button is left blank the button will not be displayed. Functionality of buttons cannot be changed.;;;;;;;;;;X
+##;All texts EXCEPT the '*_HEADER' can be of virtually any length (limited by screen height). The box and button size will change accordingly.;;;;;;;;;;X
+##;VERY VERY VERY IMPORTANT!!! YOU MUST NOT CHANGE THE ORDER OF ANY VARIABLES ('%s' and '%d') OR ADD OR REMOVE ANY VARIABLES!!!;;;;;;;;;;X
+##;;;;;;;;;;;X
+##;;;;;;;;;;;X
+##;EDITING TIPS:;;;;;;;;;;X
+##;;;;;;;;;;;X
+##;Open this document in Excel, version 5 or later.;;;;;;;;;;X
+##;To convert the semicolon-separated list to a normal Excel table, first click on the 'A' above to select the entire 'A' column.;;;;;;;;;;X
+##;Select 'Data' -> 'Text to Columns' -> 'Delimited' -> 'Next';;;;;;;;;;X
+##;Check 'Semicolon' (ONLY!) -> 'Finish';;;;;;;;;;X
+##;Select column 'A' through 'K' (click + drag on letters above columns);;;;;;;;;;X
+##;Right-click anywhere on the sheet (inside the selection) and select 'Column width' and set it so that only THREE columns are visible ('45' with 1024 x 768 screen resolution);;;;;;;;;;X
+##;Right-click anywhere on the sheet again (still inside the selection) and select 'Format Cells' -> 'Alignment' -> check 'Wrap Text' + select 'Vertical: Top' -> 'OK';;;;;;;;;;X
+##;Place the cursor in cell C2 and select 'Window' -> 'Freeze Panes' (allows you to scroll horizontally to see any language in the rightmost column while still having the string names/comments and the English original text in the left and middle column;;;;;;;;;;X
+##;CAREFULLY read the instructions in cells B45 - B87;;;;;;;;;;X
+##;;;;;;;;;;;X
+##;;;;;;;;;;;X
+##;NOTES TO TRANSLATORS:;;;;;;;;;;X
+##;;;;;;;;;;;X
+##;1) '%s' is for indicating where another string is inserted by the engine, and MAY NEVER BE REMOVED! If there are more than one '%s' in a string, they may NOT CHANGE PLACES.;;;;;;;;;;X
+##;2) '%d' is for indicating where integer value is inserted by the engine, and MAY NEVER BE REMOVED! If there are more than one '%d' in a string, they may not change places.;;;;;;;;;;X
+##;3) '%.0f' is for indicating where non-integer value is inserted by the engine, and MAY NEVER BE REMOVED! 0 can be replaced by another number and defines displayed digits after the decimal point. Add '+' in front of '.' (example: '%+.2f') to display the sign of the number.;;;;;;;;;;X
+##;4) '%c' is for indicating where a single character is inserted by the engine, and MAY NEVER BE REMOVED! ;;;;;;;;;;X
+##;5) '\%%' can be used to display a single '%' character in texts. Use that with caution and avoid if possible as it could cause issues if used improperly.;;;;;;;;;;X
+##;6) '%t' is for indicating where the player's 'title' is inserted, however only in game message boxes.;;;;;;;;;;X
+##;7) The characters '#' (hashmark), semicolon, '%' (percentage sign), '¶' (paragraph sign), quotation marks and '\' (backslash) MAY NOT BE USED (except when used as control codes as this will otherwise create serious problems!!! Quotation marks may not even be used in comments -- use a 'citation mark' (single) instead if necessary!);;;;;;;;;;X
+##;8) A dollar sign, '$' will always automatically be replaced by the 'ducats' icon.;;;;;;;;;;X
+##;9) Any row with a '#' in the first column (column 'A') will be ignored. However, you cannot use any paragraph characters in these rows!!!;;;;;;;;;;X
+##;10) To insert a carriage return, insert a '\n' (backslash + n);;;;;;;;;;X
+##;11) No formatting can be done in this file. To change the color of a text, insert the following codes in front of the word:;;;;;;;;;;X
+##;TEXT COLORS (Red,Green,Blue values):;;;;;;;;;;X
+##;§A;0,64,0;;;;;;;;;X
+##;§B;0,0,192;;;;;;;;;X
+##;§C;128,0,0;;;;;;;;;X
+##;§D;255,255,0;;;;;;;;;X
+##;§E;255,0,255;;;;;;;;;X
+##;§F;255,128,0;;;;;;;;;X
+##;§G;0,100,0;;;;;;;;;X
+##;§H;128,128,128;;;;;;;;;X
+##;§I;0,0,255;;;;;;;;;X
+##;§J;0,192,0;;;;;;;;;X
+##;§M;100,255,100;;;;;;;;;X
+##;§N;255,100,100;;;;;;;;;X
+##;§R;240,0,0;;;;;;;;;X
+##;§W;255,255,255;;;;;;;;;X
+##;§Y;208,232,248;;;;;;;;;X
+##;§Z;0,0,0;;;;;;;;;X
+##;§§;restores old color;;;;;;;;;X
+##;Note that the color change will be applied to all words after the code, until the end of the line that the word is printed on. If several words should have a color change, put the code in front of each of them to be on the safe side. If only one word should have a color change, make sure to reset the color after the word.;;;;;;;;;;X
+##;12) Unless otherwise specifically stated, length of words and texts does not really matter THAT much (message boxes, rollover help boxes and buttons WILL stretch to fit the text string). However you will notice once the translation is inserted that space IS limited in quite a few areas so be brief, and try not to use words that are considerably longer than the English original.;;;;;;;;;;X
+##;13) ALL CELLS in column 'L' in this document MUST contain a character!;;;;;;;;;;X
+##;14) The LAST CELL in the 'A' column MUST contain the string '#EOF';;;;;;;;;;X
+##;15) If you want to begin a string with a ' (citation mark), you will need to type it twice (Excel will read the first one as a commentary which is not exported into the actual text database file);;;;;;;;;;X
+##;16) Test any special punctuation symbols and characters for proper displaying by the game first, before using those in other texts.;;;;;;;;;;X
+##;;;;;;;;;;;X
+##;WHEN DONE:;;;;;;;;;;X
+##;Save as 'Semicolon Separated (.csv)' format, and make sure file name is not changed.;;;;;;;;;;X
+##;;;;;;;;;;;X
+##;NOTE:;;;;;;;;;;X
+##;If Excel complains about an 'Error in formula' when the cell content begins with a '+' or '-' sign, type a ' (citation mark) in front of the plus or minus.;;;;;;;;;;X
+##;;;;;;;;;;;X
+## ========================;========================;========================;========================;========================;========================;========================;========================;========================;;========================;X
+## LANGUAGE;English;French;Italian;Spanish;German;Polish;Portuguese;Russian;Extra1;Extra2;X
+## ========================;========================;========================;========================;========================;========================;========================;========================;========================;;========================;X
+###########################################;;;;;;;;;;;X
+########### MESSAGE HANDLER ############;;;;;;;;;;;X
+###########################################;;;;;;;;;;;X
+##;;;;;;;;;;;X
+#  PLAYER TITLES;;;;;;;;;;;X
+##;;;;;;;;;;;X
+MESS_MASTERCALL1;°¢ÇÏ ;Sir;;;;;;;;;X
+MESS_MASTERCALL2;°¢ÇÏ ;Sir;;;;;;;;;X
+MESS_MASTERCALL3;°¢ÇÏ ;Sir;;;;;;;;;X
+MESS_MASTERCALL4;°¢ÇÏ ;Sir;;;;;;;;;X
+MESS_MASTERCALL5;°¢ÇÏ ;Sir;;;;;;;;;X
+MESS_MASTERCALL6;°¢ÇÏ ;Sir;;;;;;;;;X
+##;;;;;;;;;;;X
+#  These following pejorative adjectives are randomly inserted in some messages. The definite article ('the') can either be in the actual message or in this string ? the syntax in the english version is 'the %s (in %s have declared war on us)'.;;;;;;;;;;;X
+##;;;;;;;;;;;X
+MESS_BADWORDS1;ºñ¿­ÇÑ °³ÀÚ½Äµé ;the bastards;;;;;;;;;X
+MESS_BADWORDS2;½â¾îºüÁø ³ğµé ;the rotten swines;;;;;;;;;X
+MESS_BADWORDS3;ÀúÁÖ¹ŞÀ» ºÒ½ÅÀÚµé ;the infidels;;;;;;;;;X
+MESS_BADWORDS4;°³°°Àº ¹è½ÅÀÚµé ;the traitors;;;;;;;;;X
+##;;;;;;;;;;;X
+HISTORY;¿ª»ç ;History;;;;;;;;;X
+##;;;;;;;;;;;X
+MESS_NOSUNK;(°İÄ§µÈ ¼±¹ÚÀº ¾ø½À´Ï´Ù) ;(No ships were sunk.);;;;;;;;;X
+MESS_SUNKLIST;ÀÌÇÏÀÇ ¼±¹ÚÀÌ °İÄ§µÇ¾ú½À´Ï´Ù: \n ;The following ships were sunk.\n;;;;;;;;;X
+##;;;;;;;;;;;X
+DIVDEPLOY_SETUP;¿ì¸®ÀÇ »ç´Ü/¹è/Ç×°ø±â¸¦ »õ·Î¿î ºÎ´ë¿¡ ¹èÄ¡ÇÒ ¶§ ;Whenever one of your divisions/ships/airflottillas have been deployed to a new unit.;;;;;;;;;X
+DIVDEPLOY_HEADER;ÃÑÂü¸ğºÎ º¸°í¼­ %s ;GENERAL STAFF BRIEFING%s;;;;;;;;;X
+DIVDEPLOY_1;ºÎ´ë ÀçÆí ;Unit Reorganised;;;;;;;;;X
+DIVDEPLOY_2;%t, ;%t, we have given orders that;;;;;;;;;X
+DIVDEPLOY_3;%s ;%s;;;;;;;;;X
+DIVDEPLOY_4;¿¡°Ô ;should now be a part of;;;;;;;;;X
+DIVDEPLOY_5;%s ;%s;;;;;;;;;X
+DIVDEPLOY_6;¿¡ ÇÕ·ùÇÏ¶ó´Â ¸í·ÉÀ» ³»·È½À´Ï´Ù. ;;;;;;;;;;X
+DIVDEPLOY_LOG;%s ¿¡ %s ÇÕ·ù¸í·É. ;%s was assigned to %s.;;;;;;;;;X
+DIVDEPLOY_BTN1;È®ÀÎ ;Ok;;;;;;;;;X
+DIVDEPLOY_BTN2;¼±ÅÃ ;Select;;;;;;;;;X
+DIVFROM; from %s ; from %s;;;;;;;;;X
+##;;;;;;;;;;;X
+AMISFIN_SETUP;°ø±ººÎ´ë°¡ ÀÓ¹«¸¦ ¸¶ÃÆÀ» ¶§ ;When one of your airunits has finished the mission assigned to them,  due to time-limit given.;;;;;;;;;X
+AMISFIN_HEADER;°ø±º º¸°í¼­ %s ;AIR FORCE BRIEFING%s;;;;;;;;;X
+AMISFIN_1;ÀÓ¹« ¿Ï·á ;Mission Finished;;;;;;;;;X
+AMISFIN_2;%t, ;%t, the air-forces of;;;;;;;;;X
+AMISFIN_3;%s ;%s;;;;;;;;;X
+AMISFIN_4;¿¡¼­ ÀÓ¹«¸¦ ¿Ï·áÇß´Ù°í º¸°íÇØ¿Ô½À´Ï´Ù. ;have finished their assigned mission.;;;;;;;;;X
+AMISFIN_5; ;;;;;;;;;;X
+AMISFIN_6; ;;;;;;;;;;X
+AMISFIN_LOG;%s: %s ÀÓ¹«¿Ï·á. ;%s have finished with their '%s' mission.;;;;;;;;;X
+AMISFIN_BTN1;È®ÀÎ ;Ok;;;;;;;;;X
+AMISFIN_BTN2;¼±ÅÃ ;Select;;;;;;;;;X
+##;;;;;;;;;;;X
+NMISFIN_SETUP;ÇØ±ººÎ´ë°¡ ÀÓ¹«¸¦ ¸¶ÃÆÀ» ¶§ ;When one of your navalunits has finished the mission assigned to them, due to time-limit given.;;;;;;;;;X
+NMISFIN_HEADER;ÇØ±º º¸°í¼­ %s ;NAVAL BRIEFING%s;;;;;;;;;X
+NMISFIN_1;ÀÓ¹« ¿Ï·á ;Mission Finished;;;;;;;;;X
+NMISFIN_2;%t, ;%t, the naval forces of;;;;;;;;;X
+NMISFIN_3;%s ;%s;;;;;;;;;X
+NMISFIN_4;¿¡¼­ ÀÓ¹«¸¦ ¿Ï·áÇß´Ù°í º¸°íÇØ¿Ô½À´Ï´Ù. ;have finished their assigned mission.;;;;;;;;;X
+NMISFIN_5; ;;;;;;;;;;X
+NMISFIN_6; ;;;;;;;;;;X
+NMISFIN_LOG;%s: %s ÀÓ¹«¿Ï·á. ;%s have finished with their '%s' mission.;;;;;;;;;X
+NMISFIN_BTN1;È®ÀÎ ;Ok;;;;;;;;;X
+NMISFIN_BTN2;¼±ÅÃ ;Select;;;;;;;;;X
+##;;;;;;;;;;;X
+HOST_DROP_MSG_CLIENT_HEADER; ;;;;;;;;;;X
+HOST_DROP_MSG_CLIENT_1;¿¬°á ²÷¾îÁü ;Connection Lost;;;;;;;;;X
+HOST_DROP_MSG_CLIENT_2;¹æÀåÀÌ °ÔÀÓÀ» ±×¸¸µ×°Å³ª ±×ÀÇ ³×Æ®¿öÅ©°¡ ²÷¾îÁ³±â ¶§¹®¿¡, ´ç½ÅÀº ¹æÀå°úÀÇ Á¢¼ÓÀÌ ²÷¾îÁ³½À´Ï´Ù. ¸¸¾à ¹æÀåÀÌ °ÔÀÓÀ» ÀúÀåÇßÀ¸¸é, ´ç½ÅÀº ÀúÀåµÇ¾ú´ø °ÔÀÓÀ» ´Ù½Ã ÇÒ ¼ö ÀÖÀ» °ÍÀÔ´Ï´Ù. ±×·¯³ª ÀÌ °ÔÀÓÀº Á¾·áµÉ °ÍÀÔ´Ï´Ù. (¸¸¾à ´ç½ÅÀÌ °è¼ÓÀ» ´©¸£¸é ·¼¸§À» Á¶»çÇÒ ¼ö ÀÖ½À´Ï´Ù.) ;You have lost connection with the Game Host either because he quit the game or because he lost his network connection. If the Host saved the game you will be able to reconnect and continue that saved game. This game will however quit now (if you click RESUME you can inspect the realm).;;;;;;;;;X
+HOST_DROP_MSG_CLIENT_3; ;;;;;;;;;;X
+HOST_DROP_MSG_CLIENT_4; ;;;;;;;;;;X
+HOST_DROP_MSG_CLIENT_5; ;;;;;;;;;;X
+HOST_DROP_MSG_CLIENT_6; ;;;;;;;;;;X
+HOST_DROP_MSG_CLIENT_LOG; ;;;;;;;;;;X
+HOST_DROP_MSG_CLIENT_BTN1;³ª°¡±â ;Quit;;;;;;;;;X
+HOST_DROP_MSG_CLIENT_BTN2;°è¼Ó ;Resume;;;;;;;;;X
+##;;;;;;;;;;;X
+WEADT_SETUP;Å¸±¹¿¡ ¿µÅä¸¦ ¹İÈ¯ÇÒ ¶§ ;;;;;;;;;;X
+WEADT_HEADER;¿Ü¹«ºÎ º¸°í¼­ %s ;;;;;;;;;;X
+WEADT_1;¿µÅä¹İÈ¯ ;;;;;;;;;;X
+WEADT_2;%t, ;;;;;;;;;;X
+WEADT_3;%sÀÇ ;;;;;;;;;;X
+WEADT_4;¿ä±¸¸¦ ¹Ş¾Æµé¿© ;;;;;;;;;;X
+WEADT_5;%s Áö¿ªÀ» ;;;;;;;;;;X
+WEADT_6;¹İÈ¯Çß½À´Ï´Ù. ;;;;;;;;;;X
+WEADT_LOG;%sÀÇ ¿ä±¸¿¡ ±¼º¹. %sÁö¿ª ¹İÈ¯ ;;;;;;;;;;X
+WEADT_BTN1;È®ÀÎ ;;;;;;;;;;X
+WEADT_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+THEYADT_SETUP;Å¸±¹ÀÌ Á¦3±¹¿¡ ¿µÅä¸¦ ¹İÈ¯ÇÒ ¶§ ;When another nation gives in to the territorial demands of a third nation.;;;;;;;;;X
+THEYADT_HEADER;Ã¸º¸ºÎ º¸°í¼­ %s ;INTELLIGENCE BRIEFING%s;;;;;;;;;X
+THEYADT_1;¿µÅä¹İÈ¯ ;;;;;;;;;;X
+THEYADT_2;%t, %s¿¡¼­´Â ;;;;;;;;;;X
+THEYADT_3;%s ;;;;;;;;;;X
+THEYADT_4;ÀÇ ¿ä±¸¸¦ ¹Ş¾Æµé¿© ;;;;;;;;;;X
+THEYADT_5;%s Áö¿ªÀ» ;;;;;;;;;;X
+THEYADT_6;Áö¿ªÀ» ¹İÈ¯Çß½À´Ï´Ù. ;;;;;;;;;;X
+THEYADT_LOG;%s¿¡¼­ %sÀÇ ¿ä±¸ ¼ö¿ë. %s ¹İÈ¯. ;;;;;;;;;;X
+THEYADT_BTN1;È®ÀÎ ;;;;;;;;;;X
+THEYADT_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+ADTUS_SETUP;Å¸±¹ÀÌ ÀÚ±¹¿¡ ¿µÅä¸¦ ¹İÈ¯ÇÒ ¶§ ;When another nation gives in to our territorial demands.;;;;;;;;;X
+ADTUS_HEADER;Ã¸º¸ºÎ º¸°í¼­ %s ;INTELLIGENCE BRIEFING%s;;;;;;;;;X
+ADTUS_1;¿µÅä¹İÈ¯ ;;;;;;;;;;X
+ADTUS_2;%t, ;;;;;;;;;;X
+ADTUS_3;%s ;;;;;;;;;;X
+ADTUS_4;¿ì¸®ÀÇ Á¤´çÇÑ ¿ä±¸¸¦ ¹Ş¾Æµé¿© ;;;;;;;;;;X
+ADTUS_5;%s ;;;;;;;;;;X
+ADTUS_6;Áö¿ªÀ» ¹İÈ¯Çß½À´Ï´Ù. ;;;;;;;;;;X
+ADTUS_LOG;%s¿¡¼­ ¿ì¸®ÀÇ ¿ä±¸ ¼ö¿ë. %s ¹İÈ¯. ;;;;;;;;;;X
+ADTUS_BTN1;È®ÀÎ ;;;;;;;;;;X
+ADTUS_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+WEDDT_SETUP;Å¸±¹ÀÇ ¿µÅä¹İÈ¯ ¿ä±¸¸¦ °ÅÀıÇÒ ¶§ ;;;;;;;;;;X
+WEDDT_HEADER;¿Ü¹«ºÎ º¸°í¼­ %s ;;;;;;;;;;X
+WEDDT_1;¿ä±¸°ÅºÎ! ;;;;;;;;;;X
+WEDDT_2;%t, ;;;;;;;;;;X
+WEDDT_3;%sÀÇ ;;;;;;;;;;X
+WEDDT_4;¿µÅä¹İÈ¯ ¿ä±¸¸¦ ;;;;;;;;;;X
+WEDDT_5;°ÅÀıÇß½À´Ï´Ù. ;;;;;;;;;;X
+WEDDT_6; ;;;;;;;;;;X
+WEDDT_LOG;%sÃø¿¡¼­ ¿ì¸®¿¡°Ô ¿ä±¸ÇÑ ¿µÅä¹İÈ¯ °ÅÀı. ;;;;;;;;;;X
+WEDDT_BTN1;È®ÀÎ ;;;;;;;;;;X
+WEDDT_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+THEYDDT_SETUP;Å¸±¹ÀÌ Á¦3±¹ÀÇ ¿µÅä¹İÈ¯ ¿ä±¸¸¦ °ÅÀıÇÒ ¶§ ;;;;;;;;;;X
+THEYDDT_HEADER;Ã¸º¸ºÎ º¸°í¼­ %s ;;;;;;;;;;X
+THEYDDT_1;¿ä±¸°ÅºÎ! ;;;;;;;;;;X
+THEYDDT_2; ;;;;;;;;;;X
+THEYDDT_3;%s ;;;;;;;;;;X
+THEYDDT_4;Á¤ºÎ´Â ;;;;;;;;;;X
+THEYDDT_5;%sÀÇ ;;;;;;;;;;X
+THEYDDT_6;¿µÅä¹İÈ¯ ¿ä±¸¸¦ °ÅÀıÇß½À´Ï´Ù. ;;;;;;;;;;X
+THEYDDT_LOG;%s¿¡¼­ %sÀÇ ¿µÅä¹İÈ¯ ¿ä±¸¸¦ °ÅÀı. ;;;;;;;;;;X
+THEYDDT_BTN1;È®ÀÎ ;;;;;;;;;;X
+THEYDDT_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+DDTUS_SETUP;Å¸±¹ÀÌ ÀÚ±¹ÀÇ ¿µÅä¹İÈ¯ ¿ä±¸¸¦ °ÅÀıÇÒ ¶§ ;;;;;;;;;;X
+DDTUS_HEADER;¿Ü¹«ºÎ º¸°í¼­ %s ;;;;;;;;;;X
+DDTUS_1;¿ä±¸°ÅºÎ! ;;;;;;;;;;X
+DDTUS_2; ;;;;;;;;;;X
+DDTUS_3;%s ;;;;;;;;;;X
+DDTUS_4;¿¡¼­ ¿ì¸®ÀÇ Á¤´çÇÑ ¿µÅä¹İÈ¯ ¿ä±¸¸¦ ;;;;;;;;;;X
+DDTUS_5;°ÅÀıÇß½À´Ï´Ù. ;;;;;;;;;;X
+DDTUS_6; ;;;;;;;;;;X
+DDTUS_LOG;%s¿¡¼­ ¿ì¸®ÀÇ ¿µÅä¹İÈ¯ ¿ä±¸¸¦ °ÅÀı. ;;;;;;;;;;X
+DDTUS_BTN1;È®ÀÎ ;;;;;;;;;;X
+DDTUS_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+THEYCOUPUSF_SETUP;Å¸±¹ÀÌ ÀÚ±¹¿¡ Á¤º¯À» ½ÇÆĞÇÒ ¶§ ;;;;;;;;;;X
+THEYCOUPUSF_HEADER;º¸¾È º¸°í¼­ %s ;;;;;;;;;;X
+THEYCOUPUSF_1;Á¤º¯ ½Ãµµ ;;;;;;;;;;X
+THEYCOUPUSF_2;%t, ÀÌ¹ø Á¤º¯ ±âµµ´Â ;;;;;;;;;;X
+THEYCOUPUSF_3;%s ;;;;;;;;;;X
+THEYCOUPUSF_4;¿¡¼­ »çÁÖÇÑ °ÍÀ¸·Î º¸ÀÔ´Ï´Ù. ;;;;;;;;;;X
+THEYCOUPUSF_5; ;;;;;;;;;;X
+THEYCOUPUSF_6; ;;;;;;;;;;X
+THEYCOUPUSF_LOG;¿ì¸®¿¡ ´ëÇÑ %sÀÇ Á¤º¯ »çÁÖ ½ÇÆĞ. ;;;;;;;;;;X
+THEYCOUPUSF_BTN1;È®ÀÎ ;;;;;;;;;;X
+##;;;;;;;;;;;X
+EVENTOTHER_SETUP;Å¸±¹¿¡ ¿ª»çÀÌº¥Æ®°¡ ÀÏ¾î³¯ ¶§ ;;;;;;;;;;X
+EVENTOTHER_HEADER;Ã¸º¸ºÎ º¸°í¼­ %s ;;;;;;;;;;X
+EVENTOTHER_1;%s µ¿Çâº¸°í ;;;;;;;;;;X
+EVENTOTHER_2; ;;;;;;;;;;X
+EVENTOTHER_3;%s ;;;;;;;;;;X
+EVENTOTHER_4;´ë¿Ü¹ßÇ¥°¡ ÀÖ¾ú½À´Ï´Ù. ;;;;;;;;;;X
+EVENTOTHER_5; ;;;;;;;;;;X
+EVENTOTHER_6; ;;;;;;;;;;X
+EVENTOTHER_LOG;%s¿¡¼­ %s ¹ß»ı. ;;;;;;;;;;X
+EVENTOTHER_BTN1;È®ÀÎ ;;;;;;;;;;X
+EVENTOTHER_BTN2; ;;;;;;;;;;X
+##;;;;;;;;;;;X
+EVENTOTHERS_SETUP;Å¸±¹¿¡ ¼±ÅÃÀÌº¥Æ®°¡ ÀÏ¾î³¯ ¶§ ;;;;;;;;;;X
+EVENTOTHERS_HEADER;Ã¸º¸ºÎ º¸°í¼­ %s ;;;;;;;;;;X
+EVENTOTHERS_1;%s µ¿Çâº¸°í ;;;;;;;;;;X
+EVENTOTHERS_2;±×µéÀº ;;;;;;;;;;X
+EVENTOTHERS_3;'%s' ;;;;;;;;;;X
+EVENTOTHERS_4; ¼±ÅÃÇÏ¿© ;;;;;;;;;;X
+EVENTOTHERS_5;%s ;;;;;;;;;;X
+EVENTOTHERS_6;¿¡ ´ëÇÑ ¹æÄ§À» È®Á¤Çß½À´Ï´Ù. ;;;;;;;;;;X
+EVENTOTHERS_LOG;%s¿¡¼­ '%s' ¼±ÅÃ, %s¿¡ ´ëÇÑ ¹æÄ§ È®Á¤. ;;;;;;;;;;X",
+EVENTOTHERS_BTN1;È®ÀÎ ;;;;;;;;;;X
+EVENTOTHERS_BTN2; ;;;;;;;;;;X
+##;;;;;;;;;;;X
+WGEXP_SETUP;ÀÚ±¹ÀÌ ¿øÁ¤±ºÀ» ÆÄº´ÇÒ ¶§ ;;;;;;;;;;X
+WGEXP_HEADER;ÃÑÂü¸ğºÎ º¸°í¼­ %s ;;;;;;;;;;X
+WGEXP_1;¿øÁ¤±º ;;;;;;;;;;X
+WGEXP_2;%t, ¿ì¸®ÀÇ º´·ÂÀ» ;;;;;;;;;;X
+WGEXP_3;%s¿¡ ÆÄ°ßÇß½À´Ï´Ù. ;;;;;;;;;;X
+WGEXP_4;´ÙÀ½ ºÎ´ëµéÀÌ ¿øÁ¤±º¿¡ Æ÷ÇÔµË´Ï´Ù: ;;;;;;;;;;X
+WGEXP_5;%s ;;;;;;;;;;X
+WGEXP_6; ;;;;;;;;;;X
+WGEXP_LOG;%s¿¡ ¿ì¸® ¿øÁ¤±º %s ÆÄ°ß. ;;;;;;;;;;X
+WGEXP_BTN1;È®ÀÎ ;;;;;;;;;;X
+WGEXP_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+TGEXP_SETUP;Å¸±¹ÀÌ Á¦3±¹¿¡ ¿øÁ¤±ºÀ» ÆÄº´ÇÒ ¶§ ;;;;;;;;;;X
+TGEXP_HEADER;Ã¸º¸ºÎ º¸°í¼­ %s ;;;;;;;;;;X
+TGEXP_1;¿øÁ¤±º ;;;;;;;;;;X
+TGEXP_2;%t, ;;;;;;;;;;X
+TGEXP_3;%s¿¡¼­ ;;;;;;;;;;X
+TGEXP_4;%s º´·ÂÀ» ;;;;;;;;;;X
+TGEXP_5;%s¿¡ ¿øÁ¤±ºÀ¸·Î ;;;;;;;;;;X
+TGEXP_6;ÆÄ°ßÇß½À´Ï´Ù. ;;;;;;;;;;X
+TGEXP_LOG;%s¿¡¼­ %s º´·ÂÀ» %s¿¡ ÆÄ°ß. ;;;;;;;;;;X
+TGEXP_BTN1;È®ÀÎ ;;;;;;;;;;X
+TGEXP_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+TGEXPUS_SETUP;ÀÚ±¹¿¡ Å¸±¹ÀÌ ¿øÁ¤±ºÀ» º¸³»¿Ã ¶§ ;;;;;;;;;;X
+TGEXPUS_HEADER;ÃÑÂü¸ğºÎ º¸°í¼­ %s ;;;;;;;;;;X
+TGEXPUS_1;¿øÁ¤±º ;;;;;;;;;;X
+TGEXPUS_2;%t,  ;;;;;;;;;;X
+TGEXPUS_3;%s¿¡¼­´Â ´ÙÀ½°ú °°Àº º´·ÂÀ» ;;;;;;;;;;X
+TGEXPUS_4;¿øÁ¤±ºÀ¸·Î º¸³»¿Ô½À´Ï´Ù: ;;;;;;;;;;X
+TGEXPUS_5;%s ;;;;;;;;;;X
+TGEXPUS_6; ;;;;;;;;;;X
+TGEXPUS_LOG;%s¿¡¼­ ¿ì¸®¿¡°Ô ¿øÁ¤±º %s ÆÄº´. ;;;;;;;;;;X
+TGEXPUS_BTN1;È®ÀÎ ;;;;;;;;;;X
+TGEXPUS_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+WRETEXP_SETUP;ÀÚ±¹ÀÇ ¿øÁ¤±ºÀ» µ¹·Á¹ŞÀ» ¶§ ;;;;;;;;;;X
+WRETEXP_HEADER;ÃÑÂü¸ğºÎ º¸°í¼­ %s ;;;;;;;;;;X
+WRETEXP_1;¿øÁ¤±º ±ÍÈ¯ ;;;;;;;;;;X
+WRETEXP_2;%t, ¿ì¸®ÀÇ ¿øÁ¤±ºÀÌ ±ÍÈ¯Çß½À´Ï´Ù. ;;;;;;;;;;X
+WRETEXP_3;%s¿¡¼­´Â ¿ì¸®°¡ ;;;;;;;;;;X
+WRETEXP_4;ÆÄº´Çß´ø ;;;;;;;;;;X
+WRETEXP_5;%sÀÇ ÁöÈÖ±ÇÀ» ;;;;;;;;;;X
+WRETEXP_6;¹İÈ¯Çß½À´Ï´Ù. ;;;;;;;;;;X
+WRETEXP_LOG;%s¿¡¼­ ¿ì¸® ¿øÁ¤±º %sÀÇ ÁöÈÖ±ÇÀ» ¹İÈ¯. ;;;;;;;;;;X
+WRETEXP_BTN1;È®ÀÎ ;;;;;;;;;;X
+WRETEXP_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+TRETEXP_SETUP;Å¸±¹ÀÌ Á¦3±¹¿¡ ÆÄº´ÇÑ ¿øÁ¤±ºÀ» µ¹·Á¹ŞÀ» ¶§ ;;;;;;;;;;X
+TRETEXP_HEADER;Ã¸º¸ºÎ º¸°í¼­ %s ;;;;;;;;;;X
+TRETEXP_1;¿øÁ¤±º ±ÍÈ¯ ;;;;;;;;;;X
+TRETEXP_2;%t, ;;;;;;;;;;X
+TRETEXP_3;%s¿¡¼­ ¿øÁ¤±º ;;;;;;;;;;X
+TRETEXP_4;%sÀÇ ÁöÈÖ±ÇÀ» ;;;;;;;;;;X
+TRETEXP_5;%s¿¡ ;;;;;;;;;;X
+TRETEXP_6;¹İÈ¯Çß½À´Ï´Ù. ;;;;;;;;;;X
+TRETEXP_LOG;%s¿¡¼­ %sÀÇ ÁöÈÖ±ÇÀ» %s¿¡ ¹İÈ¯. ;;;;;;;;;;X
+TRETEXP_BTN1;È®ÀÎ ;;;;;;;;;;X
+TRETEXP_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+TRETEXPUS_SETUP;ÀÚ±¹ÀÌ Å¸±¹ÀÌ º¸³»¿Â ¿øÁ¤±ºÀ» µ¹·Áº¸³¾ ¶§ ;;;;;;;;;;X
+TRETEXPUS_HEADER;ÃÑÂü¸ğºÎ º¸°í¼­ %s ;;;;;;;;;;X
+TRETEXPUS_1;¿øÁ¤±º ±ÍÈ¯ ;;;;;;;;;;X
+TRETEXPUS_2;%t, ;;;;;;;;;;X
+TRETEXPUS_3;¿øÁ¤±º %sÀÇ ÁöÈÖ±ÇÀ» ;;;;;;;;;;X
+TRETEXPUS_4; ;;;;;;;;;;X
+TRETEXPUS_5;%s¿¡ ;;;;;;;;;;X
+TRETEXPUS_6;¹İÈ¯Çß½À´Ï´Ù. ;;;;;;;;;;X
+TRETEXPUS_LOG;¿øÁ¤±º %sÀÇ ÁöÈÖ±ÇÀ» %s¿¡ ¹İÈ¯. ;;;;;;;;;;X
+TRETEXPUS_BTN1;È®ÀÎ ;;;;;;;;;;X
+TRETEXPUS_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+TECHFINISHED_SETUP;½Å±â¼úÀ» °³¹ßÇßÀ» ¶§ ;;;;;;;;;;X
+TECHFINISHED_HEADER;±¹¹æ º¸°í¼­ %s ;;;;;;;;;;X
+TECHFINISHED_1;½Å±â¼ú °³¹ß ;;;;;;;;;;X
+TECHFINISHED_2;%t, %sÀÇ ¿¬±¸ÁøÀÌ ;;;;;;;;;;X
+TECHFINISHED_3;%s¿¡ ´ëÇÑ ¿¬±¸¸¦ ¿Ï·áÇß´Ù. ;;;;;;;;;;X
+TECHFINISHED_4;º¸°íÇØ¿Ô½À´Ï´Ù. ;;;;;;;;;;X
+TECHFINISHED_5; ;;;;;;;;;;X
+TECHFINISHED_6; ;;;;;;;;;;X
+TECHFINISHED_LOG;%sÀÇ ¿¬±¸ÁøÀÌ %s ¿¬±¸¿Ï·á. ;;;;;;;;;;X
+TECHFINISHED_BTN1;È®ÀÎ ;;;;;;;;;;X
+TECHFINISHED_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+GAINTECH_SETUP;Å¸±¹ÀÌ ¿ì¸®¿¡°Ô ±â¼úÀ» Á¦°øÇÒ ¶§ ;;;;;;;;;;X
+GAINTECH_HEADER;±¹¹æ º¸°í¼­ %s ;;;;;;;;;;X
+GAINTECH_1;±â¼úÁ¦°ø ;;;;;;;;;;X
+GAINTECH_2;%t,  ;;;;;;;;;;X
+GAINTECH_3;%s¿¡¼­ ;;;;;;;;;;X
+GAINTECH_4;%s¿¡ ´ëÇÑ Àü¹İÀûÀÎ ;;;;;;;;;;X
+GAINTECH_5;Áö½ÄÀ» ¿ì¸®¿¡°Ô ;;;;;;;;;;X
+GAINTECH_6;Á¦°øÇØ¿Ô½À´Ï´Ù. ;;;;;;;;;;X
+GAINTECH_LOG;%s¿¡¼­ %s¿¡ ´ëÇÑ Áö½Ä Á¦°ø. ;;;;;;;;;;X
+GAINTECH_BTN1;È®ÀÎ ;;;;;;;;;;X
+GAINTECH_BTN2; ;;;;;;;;;;X
+##;;;;;;;;;;;X
+BOMB_OIL;¼®À¯ %.2f ;%.2f Oil;;;;;;;;;X
+BOMB_RARE_MATERIALS;Èñ¼Ò¹°ÀÚ %.2f ;%.2f Rare Materials;;;;;;;;;X
+BOMB_ENERGY;¿¡³ÊÁö %.2f ;%.2f Energy;;;;;;;;;X
+BOMB_METAL;±İ¼Ó %.2f ;%.2f Metal;;;;;;;;;X
+BOMB_IC;IC %.2f ;%.2f IC;;;;;;;;;X
+BOMB_INFRA;»ê¾÷±â¹İ %.2f ÆÛ¼¾Æ® ;%.2f percent of infrastructure;;;;;;;;;X
+BOMB_NONE;¾øÀ½ ;Nothing;;;;;;;;;X
+BOMB_COAST;ÇØ¾È¿ä»õÈ­ %.2f ;%.2f levels of coastal fortification;;;;;;;;;X
+BOMB_LAND;¿ä»õÈ­ %.2f ;%.2f levels of land fortification;;;;;;;;;X
+BOMB_AA;´ë°øÆ÷¼³Ä¡ %.2f ;%.2f anti-aircraft installation;;;;;;;;;X
+BOMB_AIRB;°ø±º±âÁö %.2f ;%.2f levels in the airbase;;;;;;;;;X
+BOMB_NAVB;ÇØ±º±âÁö %.2f ;%.2f levels in the navalbase;;;;;;;;;X
+BOMB_RAD;·¹ÀÌ´õ±âÁö %.2f ;%.2f levels of the radarstation;;;;;;;;;X
+BOMB_NUC;ÇÙ½ÇÇè±âÁö %.2f ;%.2f levels of the nuclear test site;;;;;;;;;X
+BOMB_ROC;·ÎÄÏ±âÁö %.2f ;%.2f levels of the rocket site;;;;;;;;;X
+NODAMAGE;¾øÀ½ ;nothing;;;;;;;;;X
+##;;;;;;;;;;;X
+WSTRBOMB_SETUP;ÀÚ±¹ÀÌ Å¸±¹¿¡ Àü·«Æø°İ ÇÒ ¶§ ;;;;;;;;;;X
+WSTRBOMB_HEADER;°ø±º º¸°í¼­ %s ;;;;;;;;;;X
+WSTRBOMB_1;Æø°İ ÀÓ¹« ;;;;;;;;;;X
+WSTRBOMB_2;%t, ¿ì¸® °ø±º¿¡¼­ ;;;;;;;;;;X
+WSTRBOMB_3;%s Áö¿ªÀ» Æø°İÇß½À´Ï´Ù. ;;;;;;;;;;X
+WSTRBOMB_4;ÀûÀº ´ÙÀ½°ú °°Àº ¼ÕÇØ¸¦ ÀÔ¾ú½À´Ï´Ù: ;;;;;;;;;;X
+WSTRBOMB_5;%s ;;;;;;;;;;X
+WSTRBOMB_6; ;;;;;;;;;;X
+WSTRBOMB_LOG;¿ì¸® °ø±ºÀÌ %s Áö¿ªÀ» Æø°İ. ¼ÕÇØ: %s ;;;;;;;;;;X
+WSTRBOMB_BTN1;È®ÀÎ ;;;;;;;;;;X
+WSTRBOMB_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+TSTRBOMB_SETUP;Å¸±¹ÀÌ Á¦3±¹À» Àü·«Æø°İ ÇÒ ¶§ ;;;;;;;;;;X
+TSTRBOMB_HEADER;Ã¸º¸ºÎ º¸°í¼­ %s ;;;;;;;;;;X
+TSTRBOMB_1;Æø°İ ;;;;;;;;;;X
+TSTRBOMB_2;%t, ;;;;;;;;;;X
+TSTRBOMB_3;%s ;;;;;;;;;;X
+TSTRBOMB_4;Æø°İ±âµéÀÌ ;;;;;;;;;;X
+TSTRBOMB_5;%s ;;;;;;;;;;X
+TSTRBOMB_6;Áö¿ªÀ» °ø°İ Çß½À´Ï´Ù. \n ´ÙÀ½°ú °°Àº ¼ÕÇØ°¡ ¹ß»ıÇß½À´Ï´Ù: \n%s ;;;;;;;;;;X
+TSTRBOMB_LOG;%s¿¡¼­ %s Áö¿ªÀ» Æø°İ. ¼ÕÇØ: %s ;;;;;;;;;;X
+TSTRBOMB_BTN1;È®ÀÎ ;;;;;;;;;;X
+TSTRBOMB_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+TSTRBOMBUS_SETUP;ÀÚ±¹ÀÌ Àü·«Æø°İÀ» ´çÇßÀ» ¶§ ;;;;;;;;;;X
+TSTRBOMBUS_HEADER;¹æÀ§ º¸°í¼­ %s ;;;;;;;;;;X
+TSTRBOMBUS_1;¿ì¸®ÀÇ µµ½ÃµéÀÌ Æø°İÀ» ´çÇß½À´Ï´Ù! ;;;;;;;;;;X
+TSTRBOMBUS_2;%t, ;;;;;;;;;;X
+TSTRBOMBUS_3;%s ;;;;;;;;;;X
+TSTRBOMBUS_4;Æø°İ±âµéÀÌ ;;;;;;;;;;X
+TSTRBOMBUS_5;%s ;;;;;;;;;;X
+TSTRBOMBUS_6;Áö¿ªÀ» °ø°İ Çß½À´Ï´Ù. \n ´ÙÀ½°ú °°Àº ¼ÕÇØ¸¦ ÀÔ¾ú½À´Ï´Ù: \n%s ;;;;;;;;;;X
+TSTRBOMBUS_LOG;%s¿¡¼­ ¿ì¸®ÀÇ %s Áö¿ªÀ» Æø°İ. ¼ÕÇØ: %s ;;;;;;;;;;X
+TSTRBOMBUS_BTN1;È®ÀÎ ;;;;;;;;;;X
+TSTRBOMBUS_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+WAMC_SETUP;ÀÚ±¹ÀÌ Å¸±¹¿¡ ÀÛÀüÁöÈÖ±ÇÀ» ³Ñ±æ ¶§ ;;;;;;;;;;X
+WAMC_HEADER;ÃÑÂü¸ğºÎ º¸°í¼­ %s ;;;;;;;;;;X
+WAMC_1;ÀÛÀüÁöÈÖ±Ç ;;;;;;;;;;X
+WAMC_2;%t, ;;;;;;;;;;X
+WAMC_3;%s¿¡ ÀÛÀüÁöÈÖ±ÇÀ» ;;;;;;;;;;X
+WAMC_4;¾çµµÇß½À´Ï´Ù. ;;;;;;;;;;X
+WAMC_5; ;;;;;;;;;;X
+WAMC_6; ;;;;;;;;;;X
+WAMC_LOG;%s¿¡ ¾Æ±º ÀÛÀüÁöÈÖ±ÇÀ» ¾çµµ. ;;;;;;;;;;X
+WAMC_BTN1;È®ÀÎ ;;;;;;;;;;X
+WAMC_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+TAMC_SETUP;Å¸±¹ÀÌ Á¦3±¹¿¡°Ô ÀÛÀüÁöÈÖ±ÇÀ» ³Ñ±æ ¶§ ;;;;;;;;;;X
+TAMC_HEADER;Ã¸º¸ºÎ º¸°í¼­ %s ;;;;;;;;;;X
+TAMC_1;ÀÛÀüÁöÈÖ±Ç ;;;;;;;;;;X
+TAMC_2;%t, %sÁ¤ºÎ´Â ;;;;;;;;;;X
+TAMC_3;%s¿¡ ÀÛÀüÁöÈÖ±ÇÀ» ;;;;;;;;;;X
+TAMC_4;¾çµµÇß½À´Ï´Ù. ;;;;;;;;;;X
+TAMC_5; ;;;;;;;;;;X
+TAMC_6; ;;;;;;;;;;X
+TAMC_LOG;%s¿¡¼­ %s¿¡ ÀÛÀüÁöÈÖ±ÇÀ» ¾çµµ. ;;;;;;;;;;X
+TAMC_BTN1;È®ÀÎ ;;;;;;;;;;X
+TAMC_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+TAMCU_SETUP;Å¸±¹ÀÌ ÀÚ±¹¿¡ ÀÛÀüÁöÈÖ±ÇÀ» ³Ñ±æ ¶§ ;;;;;;;;;;X
+TAMCU_HEADER;¿Ü¹«ºÎ º¸°í¼­ %s;;;;;;; ;;;X
+TAMCU_1;ÀÛÀüÁöÈÖ±Ç ;;;;;;;;;;X
+TAMCU_2;%t, ;;;;;;;;;;X
+TAMCU_3;%sÁ¤ºÎ´Â ¿ì¸®¿¡°Ô ;;;;;;;;;;X
+TAMCU_4;ÀÛÀüÁöÈÖ±ÇÀ» ¾çµµÇß½À´Ï´Ù. ;;;;;;;;;;X
+TAMCU_5; ;;;;;;;;;;X
+TAMCU_6; ;;;;;;;;;;X
+TAMCU_LOG;%s¿¡¼­ ¿ì¸®¿¡°Ô ÀÛÀüÁöÈÖ±ÇÀ» ¾çµµ. ;;;;;;;;;;X
+TAMCU_BTN1;È®ÀÎ ;;;;;;;;;;X
+TAMCU_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+WDMC_SETUP;ÀÚ±¹ÀÌ Å¸±¹ÀÇ ÀÛÀüÁöÈÖ±Ç ¿ä±¸¸¦ °ÅÀıÇÒ ¶§ ;;;;;;;;;;X
+WDMC_HEADER;ÃÑÂü¸ğºÎ º¸°í¼­ %s ;;;;;;;;;;X
+WDMC_1;ÀÛÀüÁöÈÖ±Ç ;;;;;;;;;;X
+WDMC_2;%t, ;;;;;;;;;;X
+WDMC_3;%s¿¡ ÀÛÀüÁöÈÖ±ÇÀ» ;;;;;;;;;;X
+WDMC_4;¾çµµÇÏ´Â °ÍÀ» °ÅÀıÇß½À´Ï´Ù. ;;;;;;;;;;X
+WDMC_5; ;;;;;;;;;;X
+WDMC_6; ;;;;;;;;;;X
+WDMC_LOG;%sÁ¤ºÎ°¡ ¿ä±¸ÇØ¿Â ÀÛÀüÁöÈÖ±Ç ¾çµµ °ÅÀı. ;;;;;;;;;;X
+WDMC_BTN1;È®ÀÎ ;;;;;;;;;;X
+WDMC_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+TDMC_SETUP;Å¸±¹ÀÌ Á¦3±¹ÀÇ ÀÛÀüÁöÈÖ±Ç ¿ä±¸¸¦ °ÅÀıÇÒ ¶§ ;;;;;;;;;;X
+TDMC_HEADER;Ã¸º¸ºÎ º¸°í¼­ %s ;;;;;;;;;;X
+TDMC_1;ÀÛÀüÁöÈÖ±Ç ;;;;;;;;;;X
+TDMC_2;%t, %sÁ¤ºÎ´Â ;;;;;;;;;;X
+TDMC_3;%s¿¡ ÀÛÀüÁöÈÖ±ÇÀ» ;;;;;;;;;;X
+TDMC_4;¾çµµÇÏ´Â °ÍÀ» °ÅÀıÇß½À´Ï´Ù. ;;;;;;;;;;X
+TDMC_5; ;;;;;;;;;;X
+TDMC_6; ;;;;;;;;;;X
+TDMC_LOG;%s¿¡¼­ %sÁ¤ºÎ°¡ ¿ä±¸ÇÑ ÀÛÀüÁöÈÖ±Ç ¾çµµ °ÅÀı. ;;;;;;;;;;X
+TDMC_BTN1;È®ÀÎ ;;;;;;;;;;X
+TDMC_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+TDMCU_SETUP;Å¸±¹ÀÌ ÀÚ±¹ÀÇ ÀÛÀüÁöÈÖ±Ç ¿ä±¸¸¦ °ÅÀıÇÒ ¶§. ;;;;;;;;;;X
+TDMCU_HEADER;¿Ü¹«ºÎ º¸°í¼­  ;;;;;;; ;;;X
+TDMCU_1;ÀÛÀüÁöÈÖ±Ç ;;;;;;;;;;X
+TDMCU_2;%t, ;;;;;;;;;;X
+TDMCU_3;%sÁ¤ºÎ´Â ¿ì¸®¿¡°Ô ;;;;;;;;;;X
+TDMCU_4;ÀÛÀüÁöÈÖ±ÇÀ» ¾çµµÇÏ´Â °ÍÀ» ;;;;;;;;;;X
+TDMCU_5;°ÅºÎÇß½À´Ï´Ù. ;;;;;;;;;;X
+TDMCU_6; ;;;;;;;;;;X
+TDMCU_LOG;%s¿¡¼­ ¿ì¸®°¡ ¿ä±¸ÇÑ ÀÛÀüÁöÈÖ±Ç ¾çµµ °ÅÀı. ;;;;;;;;;;X
+TDMCU_BTN1;È®ÀÎ ;;;;;;;;;;X
+TDMCU_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+WCMC_SETUP;ÀÚ±¹ÀÌ Å¸±¹¿¡ ¾çµµÇÑ ÀÛÀüÁöÈÖ±ÇÀ» Ãë¼ÒÇÒ ¶§ ;;;;;;;;;;X
+WCMC_HEADER;ÃÑÂü¸ğºÎ º¸°í¼­ %s ;;;;;;;;;;X
+WCMC_1;ÀÛÀüÁöÈÖ±Ç Ãë¼Ò ;;;;;;;;;;X
+WCMC_2;%t, ;;;;;;;;;;X
+WCMC_3;%sÁ¤ºÎ°¡ ¿ì¸® º´·Â¿¡ ´ëÇØ  ;;;;;;;;;;X
+WCMC_4;°®°í ÀÖ´Â ÀÛÀüÁöÈÖ±ÇÀ» ;;;;;;;;;;X
+WCMC_5;Ãë¼ÒÇß½À´Ï´Ù. ;;;;;;;;;;X
+WCMC_6; ;;;;;;;;;;X
+WCMC_LOG;%s¿¡ ¾çµµÇÑ ¿ì¸® ÀÛÀüÁöÈÖ±ÇÀ» Ãë¼Ò ;;;;;;;;;;X
+WCMC_BTN1;È®ÀÎ ;;;;;;;;;;X
+WCMC_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+TCMC_SETUP;Å¸±¹ÀÌ Á¦3±¹¿¡ ¾çµµÇÑ ÀÛÀüÁöÈÖ±ÇÀ» Ãë¼ÒÇÒ ¶§ ;;;;;;;;;;X
+TCMC_HEADER;Ã¸º¸ºÎ º¸°í¼­ %s ;;;;;;;;;;X
+TCMC_1;ÀÛÀüÁöÈÖ±Ç Ãë¼Ò ;;;;;;;;;;X
+TCMC_2;%t, %s¿¡¼­´Â ;;;;;;;;;;X
+TCMC_3;%s¿¡ ¾çµµÇÑ ;;;;;;;;;;X
+TCMC_4;ÀÛÀüÁöÈÖ±ÇÀ» Ãë¼ÒÇß½À´Ï´Ù. ;;;;;;;;;;X
+TCMC_5; ;;;;;;;;;;X
+TCMC_6; ;;;;;;;;;;X
+TCMC_LOG;%s¿¡¼­ %s¿¡ ¾çµµÇÑ ÀÛÀüÁöÈÖ±ÇÀ» Ãë¼Ò. ;;;;;;;;;;X
+TCMC_BTN1;È®ÀÎ ;;;;;;;;;;X
+TCMC_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+TCMCU_SETUP;Å¸±¹ÀÌ ÀÚ±¹ÀÌ ¾çµµ¹ŞÀº ÀÛÀüÁöÈÖ±ÇÀ» Ãë¼ÒÇÒ ¶§ ;;;;;;;;;;X
+TCMCU_HEADER;¿Ü¹«ºÎ º¸°í¼­  ;;;;;;; ;;;X
+TCMCU_1;ÀÛÀüÁöÈÖ±Ç Ãë¼Ò ;;;;;;;;;;X
+TCMCU_2;%t, ;;;;;;;;;;X
+TCMCU_3;%s¿¡¼­´Â ¿ì¸®¿¡°Ô ¾çµµÇÑ ;;;;;;;;;;X
+TCMCU_4;ÀÛÀüÁöÈÖ±ÇÀ» Ãë¼ÒÇÏ°Ú´Ù°í ¾Ë·Á¿Ô½À´Ï´Ù. ;;;;;;;;;;X
+TCMCU_5; ;;;;;;;;;;X
+TCMCU_6; ;;;;;;;;;;X
+TCMCU_LOG;%s¿¡¼­ ¿ì¸®¿¡°Ô ¾çµµÇÑ ÀÛÀüÁöÈÖ±ÇÀ» Ãë¼Ò. ;;;;;;;;;;X
+TCMCU_BTN1;È®ÀÎ ;;;;;;;;;;X
+TCMCU_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+WECOUP_SETUP;ÀÚ±¹ÀÌ Å¸±¹¿¡¼­ Á¤º¯À» ¼º°ø½ÃÅ³ ¶§ ;;;;;;;;;;X
+WECOUP_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;;;;;;;;;;X
+WECOUP_1;Á¤º¯ ;;;;;;;;;;X
+WECOUP_2;%t, ¿ì¸®ÀÇ ¿ä¿øµéÀÌ »çÁÖÇÑ Á¤º¯ÀÌ ¼º°øÇß½À´Ï´Ù! ;;;;;;;;;;X
+WECOUP_3;%sÀÇ Á¤ºÎ´Â ¹«³ÊÁ³½À´Ï´Ù. ;;;;;;;;;;X
+WECOUP_4;¿ì¸®¿¡°Ô ÈÎ¾À ¿ìÈ£ÀûÀÎ ;;;;;;;;;;X
+WECOUP_5;»õ Á¤ºÎ°¡ µé¾î¼¹½À´Ï´Ù. ;;;;;;;;;;X
+WECOUP_6; ;;;;;;;;;;X
+WECOUP_LOG;¿ì¸®°¡ »çÁÖÇÑ Á¤º¯ÀÌ ¼º°øÇß´Ù. ´ë»ó ±¹°¡ : %s ;;;;;;;;;;X
+WECOUP_BTN1;È®ÀÎ ;;;;;;;;;;X
+##;;;;;;;;;;;X
+THEYCOUP_SETUP;Å¸±¹ÀÌ Á¦3±¹¿¡¼­ Á¤º¯À» ¼º°ø½ÃÅ³ ¶§ ;;;;;;;;;;X
+THEYCOUP_HEADER;Ã¸º¸ºÎ º¸°í¼­ %s ;;;;;;;;;;X
+THEYCOUP_1;Äíµ¥Å¸ ;;;;;;;;;;X
+THEYCOUP_2;%t, %s¿¡¼­ »çÁÖÇÑ Á¤º¯À» ¼º°øÇß½À´Ï´Ù! ;;;;;;;;;;X
+THEYCOUP_3;%sÀÇ Á¤ºÎ°¡ Àüº¹µÇ°í ;;;;;;;;;;X
+THEYCOUP_4;Çã¼ö¾Æºñ Á¤±ÇÀÌ µé¾î¼¹½À´Ï´Ù. ;;;;;;;;;;X
+THEYCOUP_5; ;;;;;;;;;;X
+THEYCOUP_6; ;;;;;;;;;;X
+THEYCOUP_LOG;%sÀÇ Ã¸º¸ºÎ°¡ »çÁÖÇÑ Á¤º¯ÀÌ ¼º°øÇß´Ù. ´ë»ó ±¹°¡ : %s ;;;;;;;;;;X
+THEYCOUP_BTN1;È®ÀÎ ;;;;;;;;;;X
+##;;;;;;;;;;;X
+THEYCOUPUS_SETUP;Å¸±¹ÀÌ ÀÚ±¹¿¡¼­ Á¤º¯À» ¼º°ø½ÃÅ³ ¶§ ;;;;;;;;;;X
+THEYCOUPUS_HEADER;½Å¹®±â»ç ;;;;;;;;;;X
+THEYCOUPUS_1;Äíµ¥Å¸ ;;;;;;;;;;X
+THEYCOUPUS_2;%t, ¿¾ Á¤ºÎ´Â ³¡³µ½À´Ï´Ù. \n ÀÌÁ¦´Â ;;;;;;;;;;X
+THEYCOUPUS_3;%s¿¡ ÈÎ¾À ¿ìÈ£ÀûÀÎ ;;;;;;;;;;X
+THEYCOUPUS_4;»õÁ¤ºÎ°¡ µé¾î¼³ °ÍÀÔ´Ï´Ù. ;;;;;;;;;;X
+THEYCOUPUS_5; ;;;;;;;;;;X
+THEYCOUPUS_6; ;;;;;;;;;;X
+THEYCOUPUS_LOG;%sÁ¤ºÎ°¡ »çÁÖÇÑ Á¤º¯ÀÌ ¼º°ø. ¿ì¸®ÀÇ Á¤ºÎ°¡ Àüº¹. ;;;;;;;;;;X
+THEYCOUPUS_BTN1;È®ÀÎ ;;;;;;;;;;X
+##;;;;;;;;;;;X
+WECOUPF_SETUP;ÀÚ±¹ÀÌ Å¸±¹¿¡¼­ Á¤º¯À» ½ÇÆĞÇÒ ¶§ ;;;;;;;;;;X
+WECOUPF_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;;;;;;;;;;X
+WECOUPF_1;Á¤º¯ ½Ãµµ ;;;;;;;;;;X
+WECOUPF_2;%t, ¿ì¸® ¿ä¿øµéÀÌ Á¤º¯ »çÁÖ¿¡ ½ÇÆĞ Çß½À´Ï´Ù. \n ´ë»ó ±¹°¡ : ;;;;;;;;;;X
+WECOUPF_3;%s ;;;;;;;;;;X
+WECOUPF_4; ;;;;;;;;;;X
+WECOUPF_5; ;;;;;;;;;;X
+WECOUPF_6; ;;;;;;;;;;X
+WECOUPF_LOG;¿ì¸®´Â Á¤º¯ »çÁÖ¿¡ ½ÇÆĞ Çß´Ù. ´ë»ó ±¹°¡ : %s ;;;;;;;;;;X
+WECOUPF_BTN1;È®ÀÎ ;;;;;;;;;;X
+##;;;;;;;;;;;X
+THEYCOUPF_SETUP;Å¸±¹ÀÌ Á¦3±¹¿¡¼­ Á¤º¯À» ½ÇÆĞÇÒ ¶§ ;;;;;;;;;;X
+THEYCOUPF_HEADER;Ã¸º¸ºÎ º¸°í¼­ %s ;;;;;;;;;;X
+THEYCOUPF_1;Á¤º¯ ½Ãµµ ;;;;;;;;;;X
+THEYCOUPF_2;%t, ;;;;;;;;;;X
+THEYCOUPF_3;%s ;;;;;;;;;;X
+THEYCOUPF_4;ÀÇ Ã¸º¸ºÎ°¡ Á¤º¯ »çÁÖ ½ÇÆĞ Çß½À´Ï´Ù. ;;;;;;;;;;X
+THEYCOUPF_5;´ë»ó ±¹°¡ : ;;;;;;;;;;X
+THEYCOUPF_6;%s ;;;;;;;;;;X
+THEYCOUPF_LOG;%sÀÇ Ã¸º¸ºÎ°¡ Á¤º¯ »çÁÖ ½ÇÆĞ Çß´Ù. ´ë»ó ±¹°¡ : %s ;;;;;;;;;;X
+THEYCOUPF_BTN1;È®ÀÎ ;;;;;;;;;;X 
+##;;;;;;;;;;;X
+DECLWAR_SETUP;Å¸±¹ÀÌ ÀÚ±¹¿¡ ¼±ÀüÆ÷°í¸¦ ÇØ¿Ã ¶§ ;;;;;;;;;;X
+DECLWAR_HEADER;ºñ»ó»çÅÂ È¸ÀÇ ;EMERGENCY CABINET MEETING;;;;;;;;;X
+DECLWAR_1;ÀüÀï! ;WAR!;;;;;;;;;X
+DECLWAR_2;%t, %sÀÎ ;%t, %s in;;;;;;;;;X
+DECLWAR_3;%sÀÇ ¼±ÀüÆ÷°íÀÔ´Ï´Ù. ;%s declared war;;;;;;;;;X
+DECLWAR_4;ÀûÀÇ ±º´ë°¡ Æ²¸²¾øÀÌ ¿ì¸®³ª¶óÀÇ ±¹°æÀ» ³Ñ¾î Ä§°øÇÒ °ÍÀÔ´Ï´Ù!! ;upon us! Enemy troops are preparing to invade our country.We have to plan our defence immediately;;;;;;;;;X
+DECLWAR_5;¿ì¸®´Â Áï½Ã ¹æ¾î°èÈ¹À» ¼­µÑ·¯¾ß ÇÕ´Ï´Ù! ;;;;;;;;;;X
+DECLWAR_6; ;;;;;;;;;;X
+DECLWAR_LOG;%sÁ¤ºÎ°¡ ¿ì¸®¿¡°Ô ¼±ÀüÆ÷°í! ;;;;;;;;;;X
+DECLWAR_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+DECLWAR_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+PEACEPROP_SETUP;Å¸±¹ÀÌ ÀÚ±¹¿¡ ÆòÈ­¸¦ Á¦¾ÈÇÒ ¶§ ;;;;;;;;;;X
+PEACEPROP_HEADER;¿Ü¹«ºÎ º¸°í¼­ ;;;;;;;;;;X
+PEACEPROP_1;%s µ¿Çâº¸°í ;;;;;;;;;;X
+PEACEPROP_2;%t, %s¿¡¼­ ;;;;;;;;;;X
+PEACEPROP_3;ÆòÈ­¸¦ Á¦¾ÈÇÕ´Ï´Ù. ;;;;;;;;;;X
+PEACEPROP_4;´ÙÀ½°ú °°Àº Á¶°ÇÀ» Á¦½ÃÇØ¿Ô½À´Ï´Ù: ;;;;;;;;;;X
+PEACEPROP_5;%s ;;;;;;;;;;X
+PEACEPROP_6;¾î¶² °áÁ¤À» ³»¸®½Ã°Ú½À´Ï±î? ;;;;;;;;;;X
+PEACEPROP_LOG; ;;;;;;;;;;X
+PEACEPROP_BTN1;¼ö¿ë ;;;;;;;;;;X
+PEACEPROP_BTN2;ÆòÈ­´Â ¾ø´Ù! ;;;;;;;;;;X
+##;;;;;;;;;;;X
+PEACEACCEPT_SETUP;ÀÚ±¹ÀÌ Á¦¾ÈÇÑ ÆòÈ­¸¦ Å¸±¹ÀÌ ¼ö¿ëÇÒ ¶§ ;;;;;;;;;;X
+PEACEACCEPT_HEADER;¿Ü¹«ºÎ º¸°í¼­ ;;;;;;;;;;X
+PEACEACCEPT_1;%s µ¿Çâº¸°í ;;;;;;;;;;X
+PEACEACCEPT_2;%t, ;;;;;;;;;;X
+PEACEACCEPT_3;%sÁ¤ºÎ°¡ ¿ì¸®ÀÇ ;;;;;;;;;;X
+PEACEACCEPT_4;°ü´ëÇÑ ÆòÈ­Á¦¾ÈÀ» ;;;;;;;;;;X
+PEACEACCEPT_5;¹Ş¾Æµé¿´½À´Ï´Ù. ;;;;;;;;;;X
+PEACEACCEPT_6; ;;;;;;;;;;X
+PEACEACCEPT_LOG;%s¿¡¼­ ¿ì¸®ÀÇ ÆòÈ­Á¦¾ÈÀ» ¹Ş¾ÆµéÀÓ. ;;;;;;;;;;X
+PEACEACCEPT_BTN1;ÁÁ¾Æ! ;;;;;;;;;;X
+PEACEACCEPT_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+PEACEACCEPTOTHER_SETUP;Å¸±¹ÀÌ Á¦3±¹ÀÌ Á¦¾ÈÇÑ ÆòÈ­¸¦ ¼ö¿ëÇÒ ¶§ ;;;;;;;;;;X
+PEACEACCEPTOTHER_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;;;;;;;;;;X
+PEACEACCEPTOTHER_1;%s µ¿Çâº¸°í ;;;;;;;;;;X
+PEACEACCEPTOTHER_2;%t, %sÁ¤ºÎ´Â ;;;;;;;;;;X
+PEACEACCEPTOTHER_3;´ÙÀ½°ú °°Àº Á¶°Ç ¾Æ·¡ %sÀÇ ÆòÈ­Á¦¾ÈÀ» ;;;;;;;;;;X
+PEACEACCEPTOTHER_4;¹Ş¾Æµé¿´½À´Ï´Ù. ;;;;;;;;;;X
+PEACEACCEPTOTHER_5; ;;;;;;;;;;X
+PEACEACCEPTOTHER_6;Á¶°Ç: %s ;;;;;;;;;;X
+PEACEACCEPTOTHER_LOG;%sÁ¤ºÎ°¡ %sÀÇ ÆòÈ­Á¦¾È ¼ö¿ë. Á¶°Ç: %s ;;;;;;;;;;X
+PEACEACCEPTOTHER_BTN1;È®ÀÎ ;;;;;;;;;;X
+PEACEACCEPTOTHER_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+PEACETERM_PROV;%s Áö¿ªÀ» %s¿¡ ¾çµµ ;;;;;;;;;;X
+PEACETERM_PUPPET;%sÀÇ ±«·ÚÈ­ ;;;;;;;;;;X
+PEACETERM_ACCESS;%sÁ¤ºÎ°¡ ±º»çÅëÇà±ÇÀ» Á¦°ø ;;;;;;;;;;X
+PEACETERM_QUO;Çö»ó À¯Áö ;;;;;;;;;;X
+PEACETERM_DISARM;%sÀÇ ±º´ë ÇØ»ê ;%s will have to demobilize its military.;;;;;;;;;X
+##;;;;;;;;;;;X
+PEACEREJECT_SETUP;Å¸±¹ÀÌ ÀÚ±¹ÀÌ Á¦¾ÈÇÑ ÆòÈ­¸¦ °ÅºÎÇÒ ¶§ ;;;;;;;;;;X
+PEACEREJECT_HEADER;¿Ü¹«ºÎ º¸°í¼­ ;;;;;;;;;;X
+PEACEREJECT_1;%s µ¿Çâº¸°í ;;;;;;;;;;X
+PEACEREJECT_2;%t, %s¿¡¼­´Â ;;;;;;;;;;X
+PEACEREJECT_3;¿ì¸®°¡ Á¦¾ÈÇÑ ÆòÈ­¸¦ ;;;;;;;;;;X
+PEACEREJECT_4;°ÅºÎÇß½À´Ï´Ù. ;;;;;;;;;;X
+PEACEREJECT_5; ;;;;;;;;;;X
+PEACEREJECT_6; ;;;;;;;;;;X
+PEACEREJECT_LOG;%s¿¡¼­ ¿ì¸®ÀÇ ÆòÈ­Á¦¾ÈÀ» °ÅºÎ. ;;;;;;;;;;X
+PEACEREJECT_BTN1;È®ÀÎ ;;;;;;;;;;X
+PEACEREJECT_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+WHITEPEACEUS_SETUP;µ¿¸Í±¹ÀÇ ¹«Á¶°Ç Á¾Àü ;;;;;;;;;;X
+WHITEPEACEUS_HEADER;¿Ü¹«ºÎ º¸°í¼­ %s ;;;;;;;;;;X
+WHITEPEACEUS_1;¹«Á¶°Ç Á¾Àü ;;;;;;;;;;X
+WHITEPEACEUS_2;%t, ¿ì¸®ÀÇ µ¿¸ÍÀÎ %sÁ¤ºÎ¿Í ;;;;;;;;;;X
+WHITEPEACEUS_3;Àû±¹ÀÎ %s »çÀÌ¿¡¼­ ;;;;;;;;;;X
+WHITEPEACEUS_4;36°³¿ù µ¿¾È ±³ÀüÀÌ ÀÌ·ç¾îÁöÁö ¾ÊÀº °á°ú ;;;;;;;;;;X
+WHITEPEACEUS_5;¹«Á¶°Ç Á¾ÀüÀÌ ÀÌ·ç¾îÁ³½À´Ï´Ù. ;;;;;;;;;;X
+WHITEPEACEUS_6;¿ì¸®µµ Á¾ÀüÀ» ¼±¾ğÇÕ´Ï´Ù. ;;;;;;;;;;X
+WHITEPEACEUS_LOG;µ¿¸Í±¹ %sÁ¤ºÎ¿Í Àû±¹ %s »çÀÌ¿¡¼­ ¹«Á¶°Ç Á¾Àü. ;;;;;;;;;;X
+WHITEPEACEUS_BTN1;È®ÀÎ ;;;;;;;;;;X
+WHITEPEACEUS_BTN2; ;;;;;;;;;;X
+##;;;;;;;;;;;X
+WHITEPEACEOTHER_SETUP;Å¸±¹°ú Á¦3±¹ÀÌ ¹«Á¶°Ç Á¾Àü ;;;;;;;;;;X
+WHITEPEACEOTHER_HEADER;Ã¸º¸ºÎ º¸°í¼­ %s ;;;;;;;;;;X
+WHITEPEACEOTHER_1;¹«Á¶°Ç Á¾Àü ;;;;;;;;;;X
+WHITEPEACEOTHER_2;%t, %sÁ¤ºÎ¿Í ;;;;;;;;;;X
+WHITEPEACEOTHER_3;%s »çÀÌ¿¡¼­  ;;;;;;;;;;X
+WHITEPEACEOTHER_4;36°³¿ù µ¿¾È ±³ÀüÀÌ ÀÌ·ç¾îÁöÁö ¾ÊÀº °á°ú ;;;;;;;;;;X
+WHITEPEACEOTHER_5;¾ç±¹ »çÀÌ¿¡ ¹«Á¶°Ç Á¾ÀüÀÌ ¼±¾ğµÇ¾ú½À´Ï´Ù. ;;;;;;;;;;X
+WHITEPEACEOTHER_6;¾çÂÊ ¸ğµÎ ÆòÈ­¿¡ µé¾î°¬½À´Ï´Ù. ;;;;;;;;;;X
+WHITEPEACEOTHER_LOG;%sÁ¤ºÎ¿Í %s »çÀÌ¿¡¼­ ¹«Á¶°Ç Á¾Àü. ;;;;;;;;;;X
+WHITEPEACEOTHER_BTN1;È®ÀÎ ;;;;;;;;;;X
+WHITEPEACEOTHER_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+PEACEEXPIRY_SETUP;ÆòÈ­Á¶¾à Á¾·á ;;;;;;;;;;X
+PEACEEXPIRY_HEADER;¿Ü¹«ºÎ º¸°í¼­ ;;;;;;;;;;X
+PEACEEXPIRY_1;ÆòÈ­Á¶¾à Á¾·á ;;;;;;;;;;X
+PEACEEXPIRY_2;%t, ;;;;;;;;;;X
+PEACEEXPIRY_3;%sÁ¤ºÎ¿ÍÀÇ ÆòÈ­Á¶¾àÀÌ ;;;;;;;;;;X
+PEACEEXPIRY_4;Á¾·áµÇ¾ú½À´Ï´Ù. ;;;;;;;;;;X
+PEACEEXPIRY_5; ;;;;;;;;;;X
+PEACEEXPIRY_6; ;;;;;;;;;;X
+PEACEEXPIRY_LOG;%sÁ¤ºÎ¿ÍÀÇ ÆòÈ­Á¶¾à Á¾·á. ;;;;;;;;;;X
+PEACEEXPIRY_BTN1;È®ÀÎ ;;;;;;;;;;X
+PEACEEXPIRY_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+TRADEEXPIRY_SETUP;¹«¿ªÇùÁ¤ Á¾·á ;;;;;;;;;;X
+TRADEEXPIRY_HEADER;¿Ü¹«ºÎ º¸°í¼­ ;;;;;;;;;;X
+TRADEEXPIRY_1;¹«¿ªÇùÁ¤ Á¾·á ;;;;;;;;;;X
+TRADEEXPIRY_2;%t, ;;;;;;;;;;X
+TRADEEXPIRY_3;%s;;;;;;;;;;X
+TRADEEXPIRY_4;Á¤ºÎ¿ÍÀÇ ¹«¿ªÇùÁ¤ÀÌ ;;;;;;;;;;X
+TRADEEXPIRY_5;Á¾·áµÇ¾ú½À´Ï´Ù. ;;;;;;;;;;X
+TRADEEXPIRY_6; ;;;;;;;;;;X
+TRADEEXPIRY_LOG;%sÁ¤ºÎ¿ÍÀÇ ¹«¿ªÇùÁ¤ Á¾·á. ;;;;;;;;;;X
+TRADEEXPIRY_BTN1;È®ÀÎ ;;;;;;;;;;X
+TRADEEXPIRY_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+NAPEXPIRY_SETUP;ºÒ°¡Ä§Á¶¾à Á¾·á ;;;;;;;;;;X
+NAPEXPIRY_HEADER;¿Ü¹«ºÎ º¸°í¼­ ;;;;;;;;;;X
+NAPEXPIRY_1;ºÒ°¡Ä§Á¶¾à Á¾·á ;;;;;;;;;;X
+NAPEXPIRY_2;%t, ;;;;;;;;;;X
+NAPEXPIRY_3;%s ;;;;;;;;;;X
+NAPEXPIRY_4;Á¤ºÎ¿Í ¸Î°í ÀÖ´ø ;;;;;;;;;;X
+NAPEXPIRY_5;ºÒ°¡Ä§Á¶¾àÀÌ Á¾·áµÇ¾ú½À´Ï´Ù. ;;;;;;;;;;X
+NAPEXPIRY_6; ;;;;;;;;;;X
+NAPEXPIRY_LOG;%sÁ¤ºÎ¿ÍÀÇ ºÒ°¡Ä§Á¶¾à Á¾·á. ;;;;;;;;;;X
+NAPEXPIRY_BTN1;È®ÀÎ ;;;;;;;;;;X
+NAPEXPIRY_BTN2; ;;;;;;;;;;X
+##;;;;;;;;;;;X
+SUCC_HARDLY;¹Ì¹ÌÇÑ ¼º°ú¸¸À» ;;;;;;;;;;X
+SUCC_BARELY;¾à°£ÀÇ ¼º°ú¸¦ ;;;;;;;;;;X
+SUCC_OK;ÀÏÁ¤ÇÑ ¼º°ú¸¦ ;;;;;;;;;;X
+SUCC_GOOD;ÁÁÀº ¼º°ú¸¦ ;;;;;;;;;;X
+SUCC_VGOOD;ÈÇ¸¢ÇÑ ¼º°ú¸¦ ;;;;;;;;;;X
+SUCC_EXTREMELY;´ë¼º°øÀ» ;;;;;;;;;;X
+##;;;;;;;;;;;X
+PUPPET_SETUP;Å¸±¹ÀÌ Á¦3±¹ÀÇ ±«·ÚÈ­ µÉ ¶§ ;;;;;;;;;;X
+PUPPET_HEADER;Ã¸º¸ºÎ º¸°í¼­ %s ;;;;;;;;;;X
+PUPPET_1;%s µ¿Çâº¸°í ;;;;;;;;;;X
+PUPPET_2;%t, ±×µéÀº ;;;;;;;;;;X
+PUPPET_3;%s±¹°¡¸¦ ±«·Ú±¹À¸·Î ¸¸µé¾ú½À´Ï´Ù. ;;;;;;;;;;X
+PUPPET_4; ;;;;;;;;;;X
+PUPPET_5; ;;;;;;;;;;X
+PUPPET_6; ;;;;;;;;;;X
+PUPPET_LOG;%s¿¡¼­ %s±¹°¡¸¦ ±«·ÚÈ­. ;;;;;;;;;;X
+PUPPET_BTN1;È®ÀÎ ;;;;;;;;;;X
+PUPPET_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+PUPPETUS_SETUP;Å¸±¹ÀÌ ¿ì¸®¿¡°Ô ±«·Ú±¹ÀÌ µÉ °ÍÀ» °­¿äÇÒ ¶§ ;;;;;;;;;;X
+PUPPETUS_HEADER;¿Ü¹«ºÎ º¸°í¼­ %s ;;;;;;;;;;X
+PUPPETUS_1;%s µ¿Çâº¸°í ;;;;;;;;;;X
+PUPPETUS_2;%t, ¿ì¸®´Â ±×µéÀÇ ;;;;;;;;;;X
+PUPPETUS_3;±«·Ú±¹ÀÌ µÇ¾î¹ö·È½À´Ï´Ù.;;;;;;;;;;X
+PUPPETUS_4; ;;;;;;;;;;X
+PUPPETUS_5; ;;;;;;;;;;X
+PUPPETUS_6; ;;;;;;;;;;X
+PUPPETUS_LOG;%sÁ¤ºÎÀÇ ±«·Ú±¹À¸·Î Àü¶ô. ;;;;;;;;;;X
+PUPPETUS_BTN1;È®ÀÎ ;;;;;;;;;;X
+PUPPETUS_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+RPUPPET_SETUP;Å¸±¹ÀÌ Á¦3±¹¿¡ ´ëÇÑ ±«·Ú±¹ Áö¹è¸¦ ³¡³¾¶§ ;;;;;;;;;;X
+RPUPPET_HEADER;Ã¸º¸ºÎ º¸°í¼­ %s ;;;;;;;;;;X
+RPUPPET_1;%s µ¿Çâº¸°í ;;;;;;;;;;X
+RPUPPET_2;%t, ±×µéÀº ;;;;;;;;;;X
+RPUPPET_3;%sÀÇ ´ëÇÑ ;;;;;;;;;;X
+RPUPPET_4;±«·Ú±¹ Áö¹è¸¦ ³¡³Â½À´Ï´Ù. ;;;;;;;;;;X
+RPUPPET_5; ;;;;;;;;;;X
+RPUPPET_6; ;;;;;;;;;;X
+RPUPPET_LOG;%s¿¡¼­ %sÀÇ ±«·Ú±¹ Áö¹è Á¾½Ä. ;;;;;;;;;;X
+RPUPPET_BTN1;È®ÀÎ ;;;;;;;;;;X
+RPUPPET_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+RPUPPETUS_SETUP;Å¸±¹ÀÌ ÀÚ±¹¿¡ ´ëÇÑ ±«·Ú±¹ Áö¹è¸¦ ³¡³¾¶§ ;;;;;;;;;;X
+RPUPPETUS_HEADER;¿Ü¹«ºÎ º¸°í¼­ %s ;;;;;;;;;;X
+RPUPPETUS_1;%s µ¿Çâº¸°í ;;;;;;;;;;X
+RPUPPETUS_2;%t, ;;;;;;;;;;X
+RPUPPETUS_3;¿ì¸®´Â ÇØ¹æµÇ¾ú½À´Ï´Ù! ;;;;;;;;;;X
+RPUPPETUS_4; ;;;;;;;;;;X
+RPUPPETUS_5; ;;;;;;;;;;X
+RPUPPETUS_6; ;;;;;;;;;;X
+RPUPPETUS_LOG;%sÁ¤ºÎÀÇ ¿ì¸®¿¡ ´ëÇÑ ±«·Ú±¹ Áö¹è Á¾½Ä. ;;;;;;;;;;X
+RPUPPETUS_BTN1;È®ÀÎ ;;;;;;; ;;;X
+RPUPPETUS_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+WEINFL_SETUP;ÀÚ±¹ÀÌ Å¸±¹°ú Á¤Ä¡È¸´ãÀ» °¡Áú ¶§ ;;;;;;;;;;X
+WEINFL_HEADER;¿Ü¹«ºÎ º¸°í¼­  ;;;;;;;;;;X
+WEINFL_1;%s µ¿Çâº¸°í  ;;;;;;;;;;X
+WEINFL_2;%t, ¿ì¸®ÀÇ ¿Ü±³Àû ³ë·ÂÀÌ ;;;;;;;;;;X
+WEINFL_3;%s °ÅµÎ¾ú½À´Ï´Ù. ;;;;;;;;;;X
+WEINFL_4;¿ì¸®´Â ;;;;;;;;;;X
+WEINFL_5;%s ;;;;;;;;;;X
+WEINFL_6;Á¤ºÎ¿Í Á¤Ä¡Àû È¸´ãÀ» °¡Á³½À´Ï´Ù. ;;;;;;;;;;X
+WEINFL_LOG;¿ì¸®ÀÇ ¿Ü±³³ë·ÂÀÌ %s °ÅµÒ. %sÁ¤ºÎ¿Í Á¤Ä¡È¸´ã. ;;;;;;; ;;;X
+WEINFL_BTN1;È®ÀÎ ;;;;;;;;;;X
+WEINFL_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+THEYINFL_SETUP;Å¸±¹ÀÌ Á¦3±¹°ú Á¤Ä¡È¸´ãÀ» °¡Áú ¶§ ;;;;;;;;;;X
+THEYINFL_HEADER;Ã¸º¸ºÎ º¸°í¼­ %s ;;;;;;;;;;X
+THEYINFL_1;%s µ¿Çâº¸°í ;;;;;;;;;;X
+THEYINFL_2;%t, ±×µéÀÇ ¿Ü±³Àû ³ë·ÂÀÌ ;;;;;;;;;;X
+THEYINFL_3;%s °ÅµÎ¾ú½À´Ï´Ù. ;;;;;;;;;;X
+THEYINFL_4;%sÁ¤ºÎ¿Í ±×µéÀº Á¤Ä¡Àû È¸´ãÀ» ;;;;;;;;;;X
+THEYINFL_5;°¡Á³½À´Ï´Ù. ;;;;;;;;;;X
+THEYINFL_6; ;;;;;;;;;;X
+THEYINFL_LOG;%sÀÇ ¿Ü±³³ë·ÂÀÌ %s °ÅµÒ. %sÁ¤ºÎ¿Í Á¤Ä¡È¸´ã. ;;;;;;;;;;X
+THEYINFL_BTN1;È®ÀÎ ;;;;;;; ;;;X
+THEYINFL_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+INFLUS_SETUP;Å¸±¹ÀÌ ÀÚ±¹°ú Á¤Ä¡È¸´ãÀ» °¡Áú ¶§ ;;;;;;;;;;X
+INFLUS_HEADER;¿Ü¹«ºÎ º¸°í¼­  ;;;;;;;;;;X
+INFLUS_1;%s µ¿Çâº¸°í  ;;;;;;;;;;X
+INFLUS_2;%t, ±×µéÀÌ ÀÌ º¸³»¿Â »çÀıÀÇ ;;;;;;;;;;X
+INFLUS_3;¿Ü±³Àû ³ë·ÂÀÌ %s °ÅµÎ¾ú½À´Ï´Ù.  ;;;;;;;;;;X
+INFLUS_4;%sÁ¤ºÎ¿Í Á¤Ä¡È¸´ãÀ» °¡Á³½À´Ï´Ù.  ;;;;;;;;;;X
+INFLUS_5;%s ;;;;;;;;;;X
+INFLUS_6; ;;;;;;;;;;X
+INFLUS_LOG;¿Ü±³³ë·ÂÀÌ %s °ÅµÒ. %sÁ¤ºÎ¿Í Á¤Ä¡È¸´ã. ;;;;;;;;;;X
+INFLUS_BTN1;È®ÀÎ ;;;;;;;;;;X
+INFLUS_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+MILALLACCEPT_SETUP;ÀÚ±¹ÀÌ Á¦¾ÈÇÑ ±º»çµ¿¸Í¿¡ Å¸±¹ÀÌ µ¿ÀÇÇßÀ» ¶§ ;;;;;;;;;;X
+MILALLACCEPT_HEADER;¿Ü¹«ºÎ º¸°í¼­ ;;;;;;;;;;X
+MILALLACCEPT_1;%s µ¿Çâº¸°í ;;;;;;;;;;X
+MILALLACCEPT_2;%t, ;;;;;;;;;;X
+MILALLACCEPT_3;%sÁ¤ºÎ¿ÍÀÇ µ¿¸ÍÇù»óÀÌ ;;;;;;;;;;X
+MILALLACCEPT_4;¼º°ú¸¦ °ÅµÎ¾ú½À´Ï´Ù. ;;;;;;;;;;X
+MILALLACCEPT_5;±×µéÀº ¿ì¸®¿Í ±º»çµ¿¸ÍÀ» ;;;;;;;;;;X
+MILALLACCEPT_6;°á¼ºÇß½À´Ï´Ù. ;;;;;;;;;;X
+MILALLACCEPT_LOG;%sÁ¤ºÎ¿Í ÇÔ²² ±º»çµ¿¸Í °á¼º. ;;;;;;;;;;X
+MILALLACCEPT_BTN1;¿Ïº®ÇØ! ;;;;;;;;;;X
+MILALLACCEPT_BTN2; ±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+MILALLREJECT_SETUP;ÀÚ±¹ÀÌ Á¦¾ÈÇÑ ±º»çµ¿¸ÍÀ» Å¸±¹ÀÌ °ÅÀıÇßÀ» ¶§ ;;;;;;;;;;X
+MILALLREJECT_HEADER;¿Ü¹«ºÎ º¸°í¼­ ;;;;;;;;;;X
+MILALLREJECT_1;%s µ¿Çâº¸°í ;;;;;;;;;;X
+MILALLREJECT_2;%t, ;;;;;;;;;;X
+MILALLREJECT_3;%sÁ¤ºÎ¿ÍÀÇ µ¿¸ÍÇù»óÀÌ ;;;;;;;;;;X
+MILALLREJECT_4;½ÇÆĞÇß½À´Ï´Ù. ;;;;;;;;;;X
+MILALLREJECT_5;±×µéÀº ¿ì¸®¿Í ±º»çµ¿¸ÍÀ» ;;;;;;;;;;X
+MILALLREJECT_6;°á¼ºÇÏ´Â °ÍÀ» °ÅÀıÇß½À´Ï´Ù. ;;;;;;;;;;X
+MILALLREJECT_LOG;%sÃø¿¡¼­ ±º»çµ¿¸Í °á¼º °ÅÀı. ;;;;;;;;;;X
+MILALLREJECT_BTN1;È®ÀÎ ;;;;;;;;;;X
+MILALLREJECT_BTN2; ±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+MILALLINVACCEPT_SETUP;ÀÚ±¹ÀÇ µ¿¸Í°¡ÀÔ ±ÇÀ¯¸¦ Å¸±¹ÀÌ ¼ö¿ëÇÒ ¶§ ;;;;;;;;;;X
+MILALLINVACCEPT_HEADER;¿Ü¹«ºÎ º¸°í¼­ ;;;;;;;;;;X
+MILALLINVACCEPT_1;%s µ¿Çâº¸°í ;;;;;;;;;;X
+MILALLINVACCEPT_2;%t, %s¿¡¼­´Â ;;;;;;;;;;X
+MILALLINVACCEPT_3;¿ì¸®°¡ %sÁ¤ºÎ¿Í ÇÔ²² ¸Î°í ÀÖ´Â ;;;;;;;;;;X
+MILALLINVACCEPT_4;±º»çµ¿¸Í¿¡ °¡ÀÔÇÏ°Ú´Ù°í ;;;;;;;;;;X
+MILALLINVACCEPT_5;¾Ë·Á¿Ô½À´Ï´Ù. ;;;;;;;;;;X
+MILALLINVACCEPT_6; ;;;;;;;;;;X
+MILALLINVACCEPT_LOG;%s¿¡¼­ %sÁ¤ºÎ¿Í ÇÔ²² ¸ÎÀº ±º»çµ¿¸Í¿¡ °¡ÀÔ. ;;;;;;;;;;X
+MILALLINVACCEPT_BTN1;ÃÖ°í! ;;;;;;;;;;X
+MILALLINVACCEPT_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+ANNEXACCEPTOTHER_SETUP;Å¸±¹ÀÌ Á¦3±¹À» ÇÕº´ÇÒ ¶§ ;;;;;;;;;;X
+ANNEXACCEPTOTHER_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;;;;;;;;;;X
+ANNEXACCEPTOTHER_1;%s µ¿Çâº¸°í ;;;;;;;;;;X
+ANNEXACCEPTOTHER_2;%t, ;;;;;;;;;;X
+ANNEXACCEPTOTHER_3;%s¿¡¼­ %sÀÇ ÇÕº´À» ¼±¾ğÇß½À´Ï´Ù. ;;;;;;;;;;X
+ANNEXACCEPTOTHER_4;±¹Á¦¿©·ĞÀº ÀÌ°ÍÀ» ³Ê±×·´°Ô º¸Áö ¾ÊÀ» °ÍÀÔ´Ï´Ù. ;;;;;;;;;;X
+ANNEXACCEPTOTHER_5; ;;;;;;;;;;X
+ANNEXACCEPTOTHER_6; ;;;;;;;;;;X
+ANNEXACCEPTOTHER_LOG;%s¿¡¼­ %sÀÇ ÇÕº´À» ¼±¾ğ. ;;;;;;;;;;X
+ANNEXACCEPTOTHER_BTN1;È®ÀÎ ;;;;;;;;;;X
+ANNEXACCEPTOTHER_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+ANNEXACCEPT_SETUP;ÀÚ±¹ÀÌ Å¸±¹À» ÇÕº´ÇÒ ¶§ ;;;;;;;;;;X
+ANNEXACCEPT_HEADER;¿Ü¹«ºÎ º¸°í¼­ ;;;;;;;;;;X
+ANNEXACCEPT_1;%s µ¿Çâº¸°í ;;;;;;;;;;X
+ANNEXACCEPT_2;%t, ¿ì¸®´Â ;;;;;;;;;;X
+ANNEXACCEPT_3;%sÀÇ ÇÕº´À» ¼±¾ğÇß½À´Ï´Ù. ;;;;;;;;;;X
+ANNEXACCEPT_4; ;;;;;;;;;;X
+ANNEXACCEPT_5;ÀÌÁ¦ ±×µéÀº ¿ì¸® ³ª¶óÀÇ ÀÏºÎ°¡ µÇ¾ú½À´Ï´Ù. ;;;;;;;;;;X
+ANNEXACCEPT_6; ;;;;;;;;;;X
+ANNEXACCEPT_LOG;%sÀÇ ÇÕº´À» ¼±¾ğ. ;;;;;;;;;;X
+ANNEXACCEPT_BTN1;¿Ïº®ÇØ! ;;;;;;;;;;X
+ANNEXACCEPT_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+ANNEXREJECT_SETUP;Å¸±¹ÀÌ ÀÚ±¹ÀÇ ÇÕº´Á¦¾ÈÀ» °ÅºÎÇÒ ¶§ ;;;;;;;;;;X
+ANNEXREJECT_HEADER;¿Ü¹«ºÎ º¸°í¼­ ;;;;;;;;;;X
+ANNEXREJECT_1;%s µ¿Çâº¸°í ;;;;;;;;;;X
+ANNEXREJECT_2;%t, ;;;;;;;;;;X
+ANNEXREJECT_3;%sÁ¤ºÎ´Â ;;;;;;;;;;X
+ANNEXREJECT_4;¿ì¸®ÀÇ ÇÕº´Á¦¾ÈÀ» ;;;;;;;;;;X
+ANNEXREJECT_5;°ÅºÎÇß½À´Ï´Ù. ;;;;;;;;;;X
+ANNEXREJECT_6; ;;;;;;;;;;X
+ANNEXREJECT_LOG;%s¿¡¼­ ¿ì¸®ÀÇ ÇÕº´Á¦¾È °ÅºÎ. ;;;;;;;;;;X
+ANNEXREJECT_BTN1;È®ÀÎ ;;;;;;;;;;X
+ANNEXREJECT_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+MILLALLINVACCEPTOTHER_SETUP;Å¸±¹ÀÌ Á¦3±¹ÀÌ °á¼ºÇÑ ±º»çµ¿¸Í¿¡ °¡ÀÔÇÒ ¶§ ;;;;;;;;;;X
+MILLALLINVACCEPTOTHER_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;;;;;;;;;;X
+MILLALLINVACCEPTOTHER_1;%s µ¿Çâº¸°í ;;;;;;;;;;X
+MILLALLINVACCEPTOTHER_2;%t, ;;;;;;;;;;X
+MILLALLINVACCEPTOTHER_3;%sÁ¤ºÎ´Â ;;;;;;;;;;X
+MILLALLINVACCEPTOTHER_4;%sÀÇ ±º»çµ¿¸Í¿¡ ;;;;;;;;;;X
+MILLALLINVACCEPTOTHER_5;°¡ÀÔÇß½À´Ï´Ù. ;;;;;;;;;;X
+MILLALLINVACCEPTOTHER_6; ;;;;;;;;;;X
+MILLALLINVACCEPTOTHER_LOG;%sÁ¤ºÎ°¡ %sÀÇ ±º»çµ¿¸Í¿¡ °¡ÀÔ. ;;;;;;;;;;X
+MILLALLINVACCEPTOTHER_BTN1;È®ÀÎ ;;;;;;;;;;X
+MILLALLINVACCEPTOTHER_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+MILALLBANOTHER_SETUP;Å¸±¹ÀÌ Á¦3±¹ÀÌ ÁÖµµÇÏ´Â ±º»çµ¿¸ÍÀ¸·ÎºÎÅÍ Ãß¹æ´çÇÒ ¶§ ;;;;;;;;;;X
+MILALLBANOTHER_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;;;;;;;;;;X
+MILALLBANOTHER_1;%s µ¿Çâº¸°í ;;;;;;;;;;X
+MILALLBANOTHER_2;%t, %sÁ¤ºÎ´Â ;;;;;;;;;;X
+MILALLBANOTHER_3;%s ÁÖµµÀÇ ±º»çµ¿¸ÍÀ¸·ÎºÎÅÍ ;;;;;;;;;;X
+MILALLBANOTHER_4;Ãß¹æ´çÇß½À´Ï´Ù. ;;;;;;;;;;X
+MILALLBANOTHER_5; ;;;;;;;;;;X
+MILALLBANOTHER_6; ;;;;;;;;;;X
+MILALLBANOTHER_LOG;%sÁ¤ºÎ°¡ %s¿¡ ÀÇÇØ ±º»çµ¿¸ÍÀ¸·ÎºÎÅÍ Ãß¹æ. ;;;;;;;;;;X
+MILALLBANOTHER_BTN1;È®ÀÎ ;;;;;;;;;;X
+MILALLBANOTHER_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+DECLWAROTHER_SETUP;Å¸±¹ÀÌ Á¦3±¹¿¡ ¼±ÀüÆ÷°íÇÒ ¶§ ;;;;;;;;;;X
+DECLWAROTHER_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;;;;;;;;;;X
+DECLWAROTHER_1;%s µ¿Çâº¸°í ;;;;;;;;;;X
+DECLWAROTHER_2;%t, ;;;;;;;;;;X
+DECLWAROTHER_3;%s;;;;;;;;;;X
+DECLWAROTHER_4;¿¡¼­ ;;;;;;;;;;X
+DECLWAROTHER_5;%s¿¡ ;;;;;;;;;;X
+DECLWAROTHER_6;ÀüÀïÀ» ¼±Æ÷Çß½À´Ï´Ù. ;;;;;;;;;;X
+DECLWAROTHER_LOG;%s¿¡¼­ %s¿¡ ¼±ÀüÆ÷°í. ;;;;;;;;;;X
+DECLWAROTHER_BTN1;È®ÀÎ ;;;;;;;;;;X
+DECLWAROTHER_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+JOINWAROTHER_SETUP;Å¸±¹ÀÌ Á¦3±¹ÀÇ ÀüÀï¿¡ ÇÕ·ùÇÒ ¶§ ;;;;;;;;;;X
+JOINWAROTHER_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;;;;;;;;;;X
+JOINWAROTHER_1;%s µ¿Çâº¸°í ;;;;;;;;;;X
+JOINWAROTHER_2;%t, %s¿¡¼­´Â ;;;;;;;;;;X
+JOINWAROTHER_3;%sÀÇ ;;;;;;;;;;X
+JOINWAROTHER_4;ÆíÀ» µé¾î ;;;;;;;;;;X
+JOINWAROTHER_5;%s ;;;;;;;;;;X
+JOINWAROTHER_6;Á¤ºÎ¿¡ ¼±ÀüÆ÷°í Çß½À´Ï´Ù. ;;;;;;;;;;X
+JOINWAROTHER_LOG;%s¿¡¼­ %sÀÇ ÆíÀ» µé¾î %s¿¡ ¼±ÀüÆ÷°í. ;;;;;;;;;;X
+JOINWAROTHER_BTN1;È®ÀÎ ;;;;;;;;;;X
+JOINWAROTHER_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+MILALLBREAK_SETUP;Å¸±¹ÀÌ Á¦3±¹°úÀÇ ±º»çµ¿¸ÍÀ» ±ı ¶§ ;;;;;;;;;;X
+MILALLBREAK_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;;;;;;;;;;X
+MILALLBREAK_1;%s µ¿Çâº¸°í ;;;;;;;;;;X
+MILALLBREAK_2;%t, %s¿¡¼­´Â ;;;;;;;;;;X
+MILALLBREAK_3;%sÁ¤ºÎ¿Í ;;;;;;;;;;X
+MILALLBREAK_4;¸Î°í ÀÖ´ø ;;;;;;;;;;X
+MILALLBREAK_5;±º»çµ¿¸ÍÀ» ÇØÃ¼Çß½À´Ï´Ù. ;;;;;;;;;;X
+MILALLBREAK_6; ;;;;;;;;;;X
+MILALLBREAK_LOG;%s¿¡¼­ %sÁ¤ºÎ¿Í ¸ÎÀº ±º»çµ¿¸ÍÀ» ÇØÃ¼. ;;;;;;;;;;X
+MILALLBREAK_BTN1;È®ÀÎ ;;;;;;;;;;X
+MILALLBREAK_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+ANNEXTOUS_SETUP;Å¸±¹ÀÌ ÀÚ±¹¿¡ ÇÕº´À» ¿ä±¸ÇÒ ¶§ ;;;;;;;;;;X
+ANNEXTOUS_HEADER; ;;;;;;;;;;X
+ANNEXTOUS_1; ;;;;;;;;;;X
+ANNEXTOUS_2; ;;;;;;;;;;X
+ANNEXTOUS_3; ;;;;;;;;;;X
+ANNEXTOUS_4; ;;;;;;;;;;X
+ANNEXTOUS_5; ;;;;;;;;;;X
+ANNEXTOUS_6; ;;;;;;;;;;X
+ANNEXTOUS_LOG; ;;;;;;;;;;X
+ANNEXTOUS_BTN1; ;;;;;;;;;;X
+ANNEXTOUS_BTN2; ;;;;;;;;;;X
+##;;;;;;;;;;;X
+##;;;;;;;;;;;X
+ACCTOUS_SETUP;Å¸±¹ÀÌ ¿ì¸®¿¡°Ô ±º»çÅëÇà±ÇÀ» ¿ä±¸ÇÒ ¶§ ;;;;;;;;;;X
+ACCTOUS_HEADER; ;;;;;;;;;;X
+ACCTOUS_1; ;;;;;;;;;;X
+ACCTOUS_2; ;;;;;;;;;;X
+ACCTOUS_3; ;;;;;;;;;;X
+ACCTOUS_4; ;;;;;;;;;;X
+ACCTOUS_5; ;;;;;;;;;;X
+ACCTOUS_6; ;;;;;;;;;;X
+ACCTOUS_LOG; ;;;;;;;;;;X
+ACCTOUS_BTN1; ;;;;;;;;;;X
+ACCTOUS_BTN2; ;;;;;;;;;;X
+##;;;;;;;;;;;X
+##;;;;;;;;;;;X
+GUARATOUS_SETUP;Å¸±¹ÀÌ ÀÚ±¹ÀÇ µ¶¸³À» º¸ÀåÇÒ ¶§ ;;;;;;;;;;X
+GUARATOUS_HEADER;¿Ü¹«ºÎ º¸°í¼­ ;;;;;;;;;;X
+GUARATOUS_1;%s µ¿Çâº¸°í ;;;;;;;;;;X
+GUARATOUS_2;%t, ;;;;;;;;;;X
+GUARATOUS_3;%s¿¡¼­ ;;;;;;;;;;X
+GUARATOUS_4;¿ì¸®ÀÇ µ¶¸³À» º¸ÀåÇÏ°Ú´Ù°í ;;;;;;;;;;X
+GUARATOUS_5;¾Ë·Á¿Ô½À´Ï´Ù. ;;;;;;;;;;X
+GUARATOUS_6; ;;;;;;;;;;X
+GUARATOUS_LOG;%s¿¡¼­ ¿ì¸®ÀÇ µ¶¸³º¸Àå. ;;;;;;;;;;X
+GUARATOUS_BTN1;È®ÀÎ ;;;;;;;;;;X
+GUARATOUS_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+DECMILUS_SETUP;Å¸±¹ÀÌ ÀÚ±¹ÀÇ ±º»çÅëÇà±Ç ¿ä±¸¸¦ °ÅÀıÇßÀ» ¶§ ;;;;;;;;;;X
+DECMILUS_HEADER;¿Ü¹«ºÎ º¸°í¼­ ;;;;;;;;;;X
+DECMILUS_1;%s µ¿Çâº¸°í ;;;;;;;;;;X
+DECMILUS_2;%t, ;;;;;;;;;;X
+DECMILUS_3;%s¿¡¼­´Â ;;;;;;;;;;X
+DECMILUS_4;¿ì¸®¿¡°Ô ±º»çÅëÇà±ÇÀ» ;;;;;;;;;;X
+DECMILUS_5;³»ÁÖ´Â °ÍÀ» °ÅºÎÇß½À´Ï´Ù. ;;;;;;;;;;X
+DECMILUS_6; ;;;;;;;;;;X
+DECMILUS_LOG;%s¿¡¼­ ¿ì¸®ÀÇ ±º»çÅëÇà±Ç °ÅºÎ. ;;;;;;;;;;X
+DECMILUS_BTN1;È®ÀÎ ;;;;;;;;;;X
+DECMILUS_BTN2; ;;;;;;;;;;X
+##;;;;;;;;;;;X
+ACCMILUS_SETUP;Å¸±¹ÀÌ ÀÚ±¹¿¡°Ô ±º»çÅëÇà±ÇÀ» ³»ÁÙ ¶§ ;;;;;;;;;;X
+ACCMILUS_HEADER;¿Ü¹«ºÎ º¸°í¼­ ;;;;;;;;;;X
+ACCMILUS_1;%s µ¿Çâº¸°í ;;;;;;;;;;X
+ACCMILUS_2;%t, ¿ì¸®´Â ;;;;;;;;;;X
+ACCMILUS_3;%s¿¡¼­ÀÇ ±º»çÅëÇà±ÇÀ» ;;;;;;;;;;X
+ACCMILUS_4;¾ò¾ú½À´Ï´Ù. ;;;;;;;;;;X
+ACCMILUS_5;ÀÌÁ¦ ¿ì¸® º´·ÂÀº ;;;;;;;;;;X
+ACCMILUS_6;±×µéÀÇ ¿µÅä¸¦ Åë°úÇÒ ¼ö ÀÖ½À´Ï´Ù. ;;;;;;;;;;X
+ACCMILUS_LOG;%s¿¡¼­ ¿ì¸®¿¡°Ô ±º»çÅëÇà±ÇÀ» ÁÜ. ;;;;;;;;;;X
+ACCMILUS_BTN1;È®ÀÎ ;;;;;;;;;;X
+ACCMILUS_BTN2; ;;;;;;;;;;X
+##;;;;;;;;;;;X
+ACCMILOTHER_SETUP;Å¸±¹ÀÌ Á¦3±¹¿¡°Ô ±º»çÅëÇà±ÇÀ» ³»ÁÙ ¶§ ;;;;;;;;;;X
+ACCMILOTHER_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;;;;;;;;;;X
+ACCMILOTHER_1;%s µ¿Çâº¸°í ;;;;;;;;;;X
+ACCMILOTHER_2;%t, ;;;;;;;;;;X
+ACCMILOTHER_3;%sÁ¤ºÎ´Â ;;;;;;;;;;X
+ACCMILOTHER_4; ;;;;;;;;;;X
+ACCMILOTHER_5;%s¿¡°Ô ±º»çÅëÇà±ÇÀ» ;;;;;;;;;;X
+ACCMILOTHER_6;Áá½À´Ï´Ù. ;;;;;;;;;;X
+ACCMILOTHER_LOG;%sÁ¤ºÎ°¡ %s¿¡°Ô ±º»çÅëÇà±ÇÀ» ÁÜ. ;;;;;;;;;;X
+ACCMILOTHER_BTN1;È®ÀÎ ;;;;;;;;;;X
+ACCMILOTHER_BTN2; ;;;;;;;;;;X
+##;;;;;;;;;;;X
+CANCMILUS_SETUP;Å¸±¹ÀÌ ÀÚ±¹ÀÌ ³»ÁØ ±º»çÅëÇà±ÇÀ» ¹İÈ¯ÇÒ ¶§ ;;;;;;;;;;X
+CANCMILUS_HEADER;¿Ü¹«ºÎ º¸°í¼­ ;;;;;;;;;;X
+CANCMILUS_1;%s µ¿Çâº¸°í ;;;;;;;;;;X
+CANCMILUS_2;%t, ;;;;;;;;;;X
+CANCMILUS_3;%s¿¡¼­´Â ;;;;;;;;;;X
+CANCMILUS_4;¿ì¸®°¡ ³»ÁØ ±º»çÅëÇà±ÇÀ» ;;;;;;;;;;X
+CANCMILUS_5;¹İÈ¯Çß½À´Ï´Ù. ;;;;;;;;;;X
+CANCMILUS_6; ;;;;;;;;;;X
+CANCMILUS_LOG;%s¿¡¼­ ±º»çÅëÇà±Ç ¹İÈ¯. ;;;;;;;;;;X
+CANCMILUS_BTN1;È®ÀÎ ;;;;;;;;;;X
+CANCMILUS_BTN2; ;;;;;;;;;;X
+##;;;;;;;;;;;X
+CANMILOTHE_SETUP;Å¸±¹ÀÌ Á¦3±¹¿¡ ³»ÁØ ±º»çÅëÇà±ÇÀ» ¹İÈ¯ÇÒ ¶§ ;;;;;;;;;;X
+CANMILOTHE_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;;;;;;;;;;X
+CANMILOTHE_1;%s µ¿Çâº¸°í ;;;;;;;;;;X
+CANMILOTHE_2;%t, ;;;;;;;;;;X
+CANMILOTHE_3;%sÁ¤ºÎ´Â ;;;;;;;;;;X
+CANMILOTHE_4; ;;;;;;;;;;X
+CANMILOTHE_5;%s¿¡¼­ ³»ÁØ ±º»çÅëÇà±ÇÀ»  ;;;;;;;;;;X
+CANMILOTHE_6;¹İÈ¯Çß½À´Ï´Ù. ;;;;;;;;;;X
+CANMILOTHE_LOG;%sÁ¤ºÎ°¡ %s¿¡¼­ ³»ÁØ ±º»çÅëÇà±ÇÀ» ¹İÈ¯. ;;;;;;;;;;X
+CANMILOTHE_BTN1;È®ÀÎ ;;;;;;;;;;X
+CANMILOTHE_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+REVMILUS_SETUP;Å¸±¹ÀÌ ÀÚ±¹¿¡ ³»ÁØ ±º»çÅëÇà±ÇÀ» Ã¶È¸ÇßÀ» ¶§ ;;;;;;;;;;X
+REVMILUS_HEADER;¿Ü¹«ºÎ º¸°í¼­ %s ;;;;;;;;;;X
+REVMILUS_1;%s µ¿Çâº¸°í ;;;;;;;;;;X
+REVMILUS_2;%t, %s¿¡¼­´Â ;;;;;;;;;;X
+REVMILUS_3;¿ì¸®¿¡°Ô ³»Áá´ø ;;;;;;;;;;X
+REVMILUS_4;±º»çÅëÇà±ÇÀ» Ã¶È¸Çß½À´Ï´Ù. ;;;;;;;;;;X
+REVMILUS_5; ;;;;;;;;;;X
+REVMILUS_6; ;;;;;;;;;;X
+REVMILUS_LOG;%s¿¡¼­ ¿ì¸®¿¡°Ô ³»Áá´ø ±º»çÅëÇà±ÇÀ» Ã¶È¸. ;;;;;;;;;;X
+REVMILUS_BTN1;È®ÀÎ ;;;;;;;;;;X
+REVMILUS_BTN2; ±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+REVMILOTHER_SETUP;Å¸±¹ÀÌ Á¦3±¹¿¡°Ô ³»ÁØ ±º»çÅëÇà±ÇÀ» Ã¶È¸ÇßÀ» ¶§ ;;;;;;;;;;X
+REVMILOTHER_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;;;;;;;;;;X
+REVMILOTHER_1;%s µ¿Çâº¸°í ;;;;;;;;;;X
+REVMILOTHER_2;%t, %sÁ¤ºÎ´Â ;;;;;;;;;;X
+REVMILOTHER_3;%s¿¡ ;;;;;;;;;;X
+REVMILOTHER_4;³»Áá´ø ;;;;;;;;;;X
+REVMILOTHER_5;±º»çÅëÇà±ÇÀ» ;;;;;;;;;;X
+REVMILOTHER_6;Ã¶È¸Çß½À´Ï´Ù. ;;;;;;;;;;X
+REVMILOTHER_LOG;%s¿¡¼­ %s¿¡ ³»Áá´ø ±º»çÅëÇà±ÇÀ» Ã¶È¸. ;;;;;;;;;;X
+REVMILOTHER_BTN1;È®ÀÎ ;;;;;;;;;;X
+REVMILOTHER_BTN2; ;;;;;;;;;;X
+##;;;;;;;;;;;X
+LEADERDIES_SETUP;ÀÚ±¹ÀÇ ÁöÈÖ°üÀÌ Á×¾úÀ»¶§ ;;;;;;;;;;X
+LEADERDIES_HEADER;ÃÑÂü¸ğºÎ º¸°í¼­ %s ;;;;;;;;;;X
+LEADERDIES_1;ÁöÈÖ°ü »ç¸Á! ;;;;;;;;;;X
+LEADERDIES_2;%t, ;;;;;;;;;;X
+LEADERDIES_3;%sÀÇ ºÎ°íÀÔ´Ï´Ù. ;;;;;;;;;;X
+LEADERDIES_4;±×´Â Àå·Ê½ÄÀ¸·Î Ä¡¸£°Ô µÉ °ÍÀÔ´Ï´Ù. ;;;;;;;;;;X
+LEADERDIES_5; ;;;;;;;;;;X
+LEADERDIES_6; ;;;;;;;;;;X
+LEADERDIES_LOG;%s »ç¸Á. ;;;;;;;;;;X
+LEADERDIES_BTN1;È®ÀÎ ;;;;;;;;;;X
+LEADERDIES_BTN2;¼±ÅÃ ;;;;;;;;;;X
+##;;;;;;;;;;;X
+OTHER_LEADERDIES_SETUP;Å¸±¹ÀÇ ÁöÈÖ°üÀÌ Á×¾úÀ»¶§ ;;;;;;;;;;X
+OTHER_LEADERDIES_HEADER;ÃÑÂü¸ğºÎ º¸°í¼­ %s ;;;;;;;;;;X
+OTHER_LEADERDIES_1;ÁöÈÖ°ü »ç¸Á! ;;;;;;;;;;X
+OTHER_LEADERDIES_2;%t, ;;;;;;;;;;X
+OTHER_LEADERDIES_3;%sÀÇ ºÎ°í°¡ ¹ßÇ¥µÇ¾ú½À´Ï´Ù. ;;;;;;;;;;X
+OTHER_LEADERDIES_4;±×ÀÇ Àå·Ê½ÄÀÌ °ğ °ÅÇàµÈ´Ù°í ÇÕ´Ï´Ù. ;;;;;;;;;;X
+OTHER_LEADERDIES_5; ;;;;;;;;;;X
+OTHER_LEADERDIES_6; ;;;;;;;;;;X
+OTHER_LEADERDIES_LOG;%s »ç¸Á. ;;;;;;;;;;X
+OTHER_LEADERDIES_BTN1;È®ÀÎ ;;;;;;;;;;X
+OTHER_LEADERDIES_BTN2; ;;;;;;;;;;X
+##;;;;;;;;;;;X
+LEADERNEW_SETUP;ÀÚ±¹¿¡ »õ·Î¿î ÁöÈÖ°üÀÌ ºÎÀÓÇÒ ¶§ ;;;;;;;;;;X
+LEADERNEW_HEADER;ÃÑÂü¸ğºÎ º¸°í¼­ %s ;;;;;;;;;;X
+LEADERNEW_1;ÁöÈÖ°ü ÀÓ°ü ;;;;;;;;;;X
+LEADERNEW_2;%t, ;;;;;;;;;;X
+LEADERNEW_3;%sÀÇ ÀÓ°ü¼Ò½ÄÀÔ´Ï´Ù. ;;;;;;;;;;X
+LEADERNEW_4;%s¿¡¼­ ÇöÀç ´ë±â ÁßÀÔ´Ï´Ù. ;;;;;;;;;;X
+LEADERNEW_5; ;;;;;;;;;;X
+LEADERNEW_6; ;;;;;;;;;;X
+LEADERNEW_LOG;%s ÀÓ°ü. %s¿¡¼­ ´ë±â Áß; ;;;;;;;;;;X
+LEADERNEW_BTN1;È®ÀÎ ;;;;;;;;;;X
+LEADERNEW_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+PROVOWNOCC_SETUP;Àû±¹ÀÌ ÀÚ±¹ÀÇ Áö¿ªÀ» Á¡·ÉÇßÀ» ¶§ ;;;;;;;;;;X
+PROVOWNOCC_HEADER;ÃÑÂü¸ğºÎ º¸°í¼­ %s ;;;;;;;;;;X
+PROVOWNOCC_1;ÀûÀÇ °ø°İ! ;;;;;;;;;;X
+PROVOWNOCC_2;%t, ;;;;;;;;;;X
+PROVOWNOCC_3;%s ;;;;;;;;;;X
+PROVOWNOCC_4;Áö¿ªÀ» ;;;;;;;;;;X
+PROVOWNOCC_5;%s ;;;;;;;;;;X
+PROVOWNOCC_6;º´·ÂÀÌ Á¡·ÉÇß½À´Ï´Ù. ;;;;;;;;;;X
+PROVOWNOCC_LOG;%s Áö¿ªÀ» %s º´·ÂÀÌ Á¡·É. ;;;;;;;;;;X
+PROVOWNOCC_BTN1;È®ÀÎ ;;;;;;;;;;X
+PROVOWNOCC_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+NBLOSS_SETUP;ÀÚ±¹ÀÌ ÇØÀü¿¡¼­ ÆĞÇßÀ» ¶§ ;;;;;;;;;;X
+NBLOSS_HEADER;ÇØ±º º¸°í¼­ %s ;;;;;;;;;;X
+NBLOSS_1;ÆĞ¹è! ;;;;;;;;;;X
+NBLOSS_2;%t, ¿ì¸® ÇÔ´ë°¡ ;;;;;;;;;;X
+NBLOSS_3;%s ÇÔ´ë¿Í ;;;;;;;;;;X
+NBLOSS_4;%s¿¡¼­ ±³ÀüÇÏ¿© ÆĞ¹èÇß½À´Ï´Ù. ;;;;;;;;;;X
+NBLOSS_5; ;;;;;;;;;;X
+NBLOSS_6;%s ;%s;;;;;;;;;X
+NBLOSS_LOG;¿ì¸® ÇÔ´ë°¡ %s ÇÔ´ë¿Í %s¿¡¼­ ±³ÀüÇÏ¿© ÆĞ¹è. ;;;;;;;;;;X
+NBLOSS_BTN1;È®ÀÎ ;;;;;;;;;;X
+NBLOSS_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+CONVOYSPOT_SETUP;ÀÚ±¹ÀÇ ÇÔ´ë°¡ Àû±¹ÀÇ ¼ö¼Û¼±´ÜÀÌ ³Ê¹« ¾öÁßÈ÷ ¹æºñµÇ¾î °ø·«ÇÒ ¼ö ¾øÀ»¶§ ;;;;;;;;;;X
+CONVOYSPOT_HEADER;ÇØ±º º¸°í¼­ %s ;;;;;;;;;;X
+CONVOYSPOT_1;ÀÛÀü½ÇÆĞ! ;;;;;;;;;;X
+CONVOYSPOT_2;%t, ;;;;;;;;;;X
+CONVOYSPOT_3;%sÀÇ »ç·É°üÀÌ ;;;;;;;;;;X
+CONVOYSPOT_4;%s¿¡¼­ ¾öÁßÈ÷ È£À§¹Ş´Â ;;;;;;;;;;X
+CONVOYSPOT_5;¼ö¼Û¼±´ÜÀ» ¹ß°ßÇß´Ù°í º¸°íÇØ¿Ô½À´Ï´Ù. ;;;;;;;;;;X
+CONVOYSPOT_6; ;;;;;;;;;;X
+CONVOYSPOT_LOG;%s »ç·É°üÀÌ %s¿¡¼­ ¾öÁßÈ÷ È£À§¹Ş´Â ¼ö¼Û¼±´ÜÀ» ¹ß°ß. ;;;;;;;;;;X
+CONVOYSPOT_BTN1;È®ÀÎ ;;;;;;;;;;X
+CONVOYSPOT_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+CONVOYLOSSES;È­¹°¼ö¼Û¼± %d Ã´ / È£À§ÇÔ %d Ã´ ;%d transports and %d escorts;;;;;;;;;X
+##;;;;;;;;;;;X
+LBLOSS_SETUP;ÀÚ±¹ÀÇ À°±ºÀÌ ÆĞÇßÀ» ¶§ ;;;;;;;;;;X
+LBLOSS_HEADER;À°±º º¸°í¼­ %s ;;;;;;;;;;X
+LBLOSS_1;ÆĞ¹è! ;;;;;;;;;;X
+LBLOSS_2;%t, ¿ì¸® ±º´ë´Â ;;;;;;;;;;X
+LBLOSS_3;%s º´·Â°ú ;;;;;;;;;;X
+LBLOSS_4;%s¿¡¼­ ±³ÀüÇÏ¿© ;;;;;;;;;;X
+LBLOSS_5;ÆĞ¹èÇß½À´Ï´Ù. ;;;;;;;;;;X
+LBLOSS_6;»ıÁ¸ÀÚµéÀº ÀçÁ¤ºñ¸¦ À§ÇØ ÈÄÅğÇØ¾ß¸¸ Çß½À´Ï´Ù. ;The survivors had to retreat to reorganize.;;;;;;;;;X
+LBLOSS_LOG;¿ì¸® ±º´ë°¡ %s º´·Â°ú %s¿¡¼­ ±³ÀüÇÏ¿© ÆĞ¹è. ;;;;;;;;;;X
+LBLOSS_BTN1;È®ÀÎ ;;;;;;;;;;X
+LBLOSS_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+AIRDESTROY_SETUP;ÀÚ±¹ÀÇ °ø±ººÎ´ë°¡ Àü¸êÇßÀ» ¶§ ;;;;;;;;;;X
+AIRDESTROY_HEADER;°ø±º º¸°í¼­ %s ;;;;;;;;;;X
+AIRDESTROY_1;´ëÂü»ç! ;;;;;;;;;;X
+AIRDESTROY_2;%t, ¿ì¸®ÀÇ ºñÇà´ÜÀÌ ;;;;;;;;;;X
+AIRDESTROY_3;%s »ó°ø¿¡¼­ ;;;;;;;;;;X
+AIRDESTROY_4;Àü¸êÇß½À´Ï´Ù! ;;;;;;;;;;X
+AIRDESTROY_5; ;;;;;;;;;;X
+AIRDESTROY_6; ;;;;;;;;;;X
+AIRDESTROY_LOG;%s¿¡¼­ ºñÇà´Ü Àü¸ê! ;;;;;;;;;;X
+AIRDESTROY_BTN1;È®ÀÎ ;;;;;;;;;;X
+AIRDESTROY_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+NAVYDESTROY_SETUP;ÀÚ±¹ÀÇ ÇÔ´ë°¡ Àü¸êÇßÀ» ¶§ ;;;;;;;;;;X
+NAVYDESTROY_HEADER;ÇØ±º º¸°í¼­ %s ;;;;;;;;;;X
+NAVYDESTROY_1;´ëÂü»ç! ;;;;;;;;;;X
+NAVYDESTROY_2;%t, ¿ì¸®ÀÇ ÇÔ´ë°¡ ;;;;;;;;;;X
+NAVYDESTROY_3;%sÀÇ ÇØÀü¿¡¼­ ;;;;;;;;;;X
+NAVYDESTROY_4;Àü¸êÇß½À´Ï´Ù! ;;;;;;;;;;X
+NAVYDESTROY_5; ;;;;;;;;;;X
+NAVYDESTROY_6; ;;;;;;;;;;X
+NAVYDESTROY_LOG;%s¿¡¼­ ÇÔ´ë Àü¸ê! ;;;;;;;;;;X
+NAVYDESTROY_BTN1;È®ÀÎ ;;;;;;;;;;X
+NAVYDESTROY_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+NAVYWASTE_SETUP;ÀÚ±¹ÀÇ ÇÔ´ë°¡ º¸±ŞºÎÁ·À¸·Î Àü¸êÇßÀ» ¶§ ;;;;;;;;;;X
+NAVYWASTE_HEADER;ÇØ±º º¸°í¼­ %s ;;;;;;;;;;X
+NAVYWASTE_1;´ëÂü»ç! ;;;;;;;;;;X
+NAVYWASTE_2;%t, ¿ì¸®ÀÇ ÇÔ´ë°¡ ;;;;;;;;;;X
+NAVYWASTE_3;%s¿¡¼­ ;;;;;;;;;;X
+NAVYWASTE_4;º¸±ŞºÎÁ·À¸·Î Àü¸êÇß½À´Ï´Ù! ;;;;;;;;;;X
+NAVYWASTE_5; ;;;;;;;;;;X
+NAVYWASTE_6; ;;;;;;;;;;X
+NAVYWASTE_LOG;%s¿¡¼­ º¸±ŞºÎÁ·À¸·Î ÇÔ´ë Àü¸ê! ;;;;;;;;;;X
+NAVYWASTE_BTN1;È®ÀÎ ;;;;;;;;;;X
+NAVYWASTE_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+ARMYDESTROY_SETUP;ÀÚ±¹ÀÇ À°±ºÀÌ ÀüÅõ¿¡¼­ Àü¸êÇßÀ» ¶§ ;;;;;;;;;;X
+ARMYDESTROY_HEADER;À°±º º¸°í¼­ %s ;;;;;;;;;;X
+ARMYDESTROY_1;´ëÂü»ç! ;;;;;;;;;;X
+ARMYDESTROY_2;%t, ¿ì¸®ÀÇ ±º´ë°¡ ;;;;;;;;;;X
+ARMYDESTROY_3;%sÀÇ ÀüÅõ¿¡¼­ ;;;;;;;;;;X
+ARMYDESTROY_4;Àü¸êÇß½À´Ï´Ù! Àü¼±ÀÌ ¹«³ÊÁö°í ÀÖ½À´Ï´Ù! ;;;;;;;;;;X
+ARMYDESTROY_5; ;;;;;;;;;;X
+ARMYDESTROY_6; ;;;;;;;;;;X
+ARMYDESTROY_LOG;%s¿¡¼­ ±º´ë Àü¸ê! ;;;;;;;;;;X
+ARMYDESTROY_BTN1;È®ÀÎ ;;;;;;;;;;X
+ARMYDESTROY_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+ARMYWASTE_SETUP;ÀÚ±¹ÀÇ À°±ºÀÌ º¸±ŞºÎÁ·À¸·Î Àü¸êÇßÀ» ¶§ ;;;;;;;;;;X
+ARMYWASTE_HEADER;À°±º º¸°í¼­ %s ;;;;;;;;;;X
+ARMYWASTE_1;´ëÂü»ç! ;;;;;;;;;;X
+ARMYWASTE_2;%t, ¿ì¸®ÀÇ ±º´ë°¡ ;;;;;;;;;;X
+ARMYWASTE_3;%s¿¡¼­ ;;;;;;;;;;X
+ARMYWASTE_4;º¸±ŞºÎÁ·À¸·Î Àü¸êÇß½À´Ï´Ù! ;;;;;;;;;;X
+ARMYWASTE_5; ;;;;;;;;;;X
+ARMYWASTE_6; ;;;;;;;;;;X
+ARMYWASTE_LOG;%s¿¡¼­ º¸±ŞºÎÁ·À¸·Î ±º´ë Àü¸ê! ;;;;;;;;;;X
+ARMYWASTE_BTN1;È®ÀÎ ;;;;;;;;;;X
+ARMYWASTE_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+NBWIN_SETUP;ÀÚ±¹ÀÌ ÇØÀü¿¡¼­ ½Â¸®ÇßÀ»¶§ ;;;;;;;;;;X
+NBWIN_HEADER;ÇØ±º º¸°í¼­ %s ;;;;;;;;;;X
+NBWIN_1;½Â¸®! ;;;;;;;;;;X
+NBWIN_2;%t, ¿ì¸® ÇÔ´ë°¡ ;;;;;;;;;;X
+NBWIN_3;%s ÇÔ´ë¿Í ;;;;;;;;;;X
+NBWIN_4; ;;;;;;;;;;X
+NBWIN_5;%s¿¡¼­ ±³ÀüÇÏ¿© ½Â¸®Çß½À´Ï´Ù. ;;;;;;;;;;X
+NBWIN_6;%s ;;;;;;;;;;X
+NBWIN_LOG;¿ì¸® ÇÔ´ë°¡ %s ÇÔ´ë¿Í %s¿¡¼­ ±³ÀüÇÏ¿© ½Â¸®. ;;;;;;;;;;X
+NBWIN_BTN1;È®ÀÎ ;;;;;;;;;;X
+NBWIN_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+LBWIN_SETUP;ÀÚ±¹ÀÌ À°Àü¿¡¼­ ½Â¸®ÇßÀ»¶§ ;;;;;;;;;;X
+LBWIN_HEADER;À°±º º¸°í¼­ %s ;;;;;;;;;;X
+LBWIN_1;½Â¸®! ;;;;;;;;;;X
+LBWIN_2;%t, ¿ì¸® ±º´ë´Â ;;;;;;;;;;X
+LBWIN_3;%s º´·Â°ú ;;;;;;;;;;X
+LBWIN_4; ;;;;;;;;;;X
+LBWIN_5;%s¿¡¼­ ;;;;;;;;;;X
+LBWIN_6;±³ÀüÇÏ¿© ½Â¸®Çß½À´Ï´Ù. ;;;;;;;;;;X
+LBWIN_LOG;%s º´·Â°ú %s¿¡¼­ ±³ÀüÇÏ¿© ½Â¸®. ;;;;;;;;;;X
+LBWIN_BTN1;È®ÀÎ ;;;;;;;;;;X
+LBWIN_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+ABLOSS_SETUP;ÀÚ±¹ÀÌ °øÁßÀü¿¡¼­ ÆĞÇßÀ» ¶§ ;;;;;;;;;;X
+ABLOSS_HEADER;°ø±º º¸°í¼­ %s ;;;;;;;;;;X
+ABLOSS_1;ÆĞ¹è! ;;;;;;;;;;X
+ABLOSS_2;%t, ¿ì¸® ºñÇà´ÜÀº ;;;;;;;;;;X
+ABLOSS_3;%s ºñÇà´Ü°ú ;;;;;;;;;;X
+ABLOSS_4;%s »ó°ø¿¡¼­ ±³ÀüÇÏ¿© ;;;;;;;;;;X
+ABLOSS_5;ÆĞ¹èÇß½À´Ï´Ù. ;;;;;;;;;;X
+ABLOSS_6;»ıÁ¸ÀÚµéÀº Åğ°¢Çß½À´Ï´Ù. ;;;;;;;;;;X
+ABLOSS_LOG;%s ºñÇà´Ü°ú %s »ó°ø¿¡¼­ ±³ÀüÇÏ¿© ÆĞ¹è. ;;;;;;;;;;X
+ABLOSS_BTN1;È®ÀÎ ;;;;;;;;;;X
+ABLOSS_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+ABWIN_SETUP;ÀÚ±¹ÀÌ °øÁßÀü¿¡¼­ ½Â¸®ÇßÀ»¶§ ;;;;;;;;;;X
+ABWIN_HEADER;°ø±º º¸°í¼­ %s ;;;;;;;;;;X
+ABWIN_1;½Â¸®! ;;;;;;;;;;X
+ABWIN_2;%t, ¿ì¸® ºñÇà´ÜÀº ;;;;;;;;;;X
+ABWIN_3;%s ºñÇà´Ü°ú ;;;;;;;;;;X
+ABWIN_4;%s »ó°ø¿¡¼­ ±³ÀüÇÏ¿© ;;;;;;;;;;X
+ABWIN_5;½Â¸®Çß½À´Ï´Ù. ;;;;;;;;;;X
+ABWIN_6; ;;;;;;;;;;X
+ABWIN_LOG;%s ºñÇà´Ü°ú %s »ó°ø¿¡¼­ ±³ÀüÇÏ¿© ½Â¸®. ;;;;;;;;;;X
+ABWIN_BTN1;È®ÀÎ ;;;;;;;;;;X
+ABWIN_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+AIRARRIVE_SETUP;ÀÚ±¹ÀÇ °ø±ººÎ´ë°¡ ¸ñÀûÁö¿¡ µµÂøÇÒ ¶§ ;;;;;;;;;;X
+AIRARRIVE_HEADER;°ø±º º¸°í¼­ %s ;;;;;;;;;;X
+AIRARRIVE_1;%t, %s¿¡¼­ ;;;;;;;;;;X
+AIRARRIVE_2; ;;;;;;;;;;X
+AIRARRIVE_3;%s¿¡ ;;;;;;;;;;X
+AIRARRIVE_4;µµÂøÇß´Ù°í ¾Ë·Á¿Ô½À´Ï´Ù. ;;;;;;;;;;X
+AIRARRIVE_5; ;;;;;;;;;;X
+AIRARRIVE_6; ;;;;;;;;;;X
+AIRARRIVE_LOG;%s %s¿¡ µµÂø. ;;;;;;;;;;X
+AIRARRIVE_BTN1;È®ÀÎ ;;;;;;;;;;X
+AIRARRIVE_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+ARMYARRIVE_SETUP;ÀÚ±¹ÀÇ ±º´ë°¡ ¸ñÀûÁö¿¡ µµÂøÇÒ ¶§ ;;;;;;;;;;X
+ARMYARRIVE_HEADER;À°±º º¸°í¼­ %s ;;;;;;;;;;X
+ARMYARRIVE_1;%t, %s¿¡¼­ ;;;;;;;;;;X
+ARMYARRIVE_2; ;;;;;;;;;;X
+ARMYARRIVE_3;%s¿¡ ;;;;;;;;;;X
+ARMYARRIVE_4;µµÂøÇß´Ù°í ¾Ë·Á¿Ô½À´Ï´Ù. ;;;;;;;;;;X
+ARMYARRIVE_5; ;;;;;;;;;;X
+ARMYARRIVE_6; ;;;;;;;;;;X
+ARMYARRIVE_LOG;%s %s¿¡ µµÂø. ;;;;;;;;;;X
+ARMYARRIVE_BTN1;È®ÀÎ ;;;;;;;;;;X
+ARMYARRIVE_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+ARMYLOAD_SETUP;ÀÚ±¹ÀÇ ±º´ë°¡ ¹è¿¡ Å¾½Â ¿Ï·áÇßÀ»¶§ ;;;;;;;;;;X
+ARMYLOAD_HEADER;ÃÑÂü¸ğºÎ º¸°í¼­ %s ;;;;;;;;;;X
+ARMYLOAD_1;%t, %s¿¡¼­ ;;;;;;;;;;X
+ARMYLOAD_2;%s¿¡ Á¤¹Ú ÁßÀÎ ;;;;;;;;;;X
+ARMYLOAD_3;¼ö¼ÛÇÔ¿¡ Å¾½ÂÀ» ¿Ï·áÇßÀ½À» ¾Ë·Á¿Ô½À´Ï´Ù. ;;;;;;;;;;X
+ARMYLOAD_4;ÇØ´ç ºÎ´ëÀÇ ÇØ¾ç¼ö¼ÛÀÌ °¡´ÉÇÕ´Ï´Ù. ;;;;;;;;;;X
+ARMYLOAD_5; ;;;;;;;;;;X
+ARMYLOAD_6; ;;;;;;;;;;X
+ARMYLOAD_LOG;%s %s¿¡¼­ ¼ö¼ÛÁØºñ ¿Ï·á. ;;;;;;;;;;X
+ARMYLOAD_BTN1;È®ÀÎ ;;;;;;;;;;X
+ARMYLOAD_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+ARMYUNLOAD_SETUP;ÀÚ±¹ÀÇ ±º´ë°¡ ¹è¿¡¼­ ³»¸®´Â °É ³¡¸¶Ä¥ ¶§ ;;;;;;;;;;X
+ARMYUNLOAD_HEADER;ÃÑÂü¸ğºÎ º¸°í¼­ %s ;;;;;;;;;;X
+ARMYUNLOAD_1;%t, %s¿¡¼­ ;;;;;;;;;;X
+ARMYUNLOAD_2; ;;;;;;;;;;X
+ARMYUNLOAD_3;%s·ÎÀÇ ÀÌµ¿À» ¿Ï·áÇßÀ½À» ¾Ë·Á¿Ô½À´Ï´Ù. ;;;;;;;;;;X
+ARMYUNLOAD_4;ÇØ´ç ºÎ´ëÀÇ ±âµ¿ÀÌ °¡´ÉÇÕ´Ï´Ù. ;;;;;;;;;;X
+ARMYUNLOAD_5; ;;;;;;;;;;X
+ARMYUNLOAD_6; ;;;;;;;;;;X
+ARMYUNLOAD_LOG;%s %s·ÎÀÇ ¼ö¼Û¿Ï·á. ;;;;;;;;;;X
+ARMYUNLOAD_BTN1;È®ÀÎ ;;;;;;;;;;X
+ARMYUNLOAD_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+FLEETARRIVE_SETUP;ÀÚ±¹ÀÇ ÇÔ´ë°¡ ¸ñÀûÁö¿¡ µµÂøÇÒ ¶§ ;;;;;;;;;;X
+FLEETARRIVE_HEADER;ÇØ±º º¸°í¼­ %s ;;;;;;;;;;X
+FLEETARRIVE_1;%t, %s¼Ò¼Ó ;;;;;;;;;;X
+FLEETARRIVE_2;ÇÔ¼±µéÀÌ ;;;;;;;;;;X
+FLEETARRIVE_3;%s¿¡ ;;;;;;;;;;X
+FLEETARRIVE_4;µµÂøÇß½À´Ï´Ù. ;;;;;;;;;;X
+FLEETARRIVE_5; ;;;;;;;;;;X
+FLEETARRIVE_6; ;;;;;;;;;;X
+FLEETARRIVE_LOG;%s %s¿¡ µµÂø. ;;;;;;;;;;X
+FLEETARRIVE_BTN1;È®ÀÎ ;;;;;;;;;;X
+FLEETARRIVE_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+WESNCOM_SETUP;ÀÚ±¹ÀÇ ÇÔ´ë°¡ Àû±¹ ÇÔ´ë¸¦ °ø°İÇÒ ¶§ ;;;;;;;;;;X
+WESNCOM_HEADER;ÇØ±º º¸°í¼­ %s ;;;;;;;;;;X
+WESNCOM_1;%t, ;;;;;;;;;;X
+WESNCOM_2;¿ì¸®ÇÔ´ë´Â ;;;;;;;;;;X
+WESNCOM_3;%s¿¡¼­ ;;;;;;;;;;X
+WESNCOM_4;±³Àü¿¡ µé¾î°¬½À´Ï´Ù! ;;;;;;;;;;X
+WESNCOM_5; ;;;;;;;;;;X
+WESNCOM_6; ;;;;;;;;;;X
+WESNCOM_LOG;¿ì¸® ÇÔ´ë°¡ %s¿¡¼­ ±³Àü. ;;;;;;;;;;X
+WESNCOM_BTN1;È®ÀÎ ;;;;;;;;;;X
+WESNCOM_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+THEYSNCOM_SETUP;ÀÚ±¹ÀÇ ÇÔ´ë°¡ °ø°İ¹ŞÀ» ¶§ ;;;;;;;;;;X
+THEYSNCOM_HEADER;ÇØ±º º¸°í¼­ %s ;;;;;;;;;;X
+THEYSNCOM_1;%t, ;;;;;;;;;;X
+THEYSNCOM_2;¿ì¸® ÇÔ´ë°¡ ;;;;;;;;;;X
+THEYSNCOM_3;%s¿¡¼­ ;;;;;;;;;;X
+THEYSNCOM_4; ;;;;;;;;;;X
+THEYSNCOM_5;%s ÇÔ´ëÀÇ ;;;;;;;;;;X
+THEYSNCOM_6;°ø°İÀ» ¹Ş¾Ò½À´Ï´Ù! ;;;;;;;;;;X
+THEYSNCOM_LOG;%s ÇÔ´ëÀÇ °ø°İÀ» %s¿¡¼­ ¹ŞÀ½. ;;;;;;;;;;X
+THEYSNCOM_BTN1;È®ÀÎ ;;;;;;;;;;X
+THEYSNCOM_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+WESLCOM_SETUP;ÀÚ±¹ÀÇ À°±ºÀÌ Àû±¹ÀÇ º´·ÂÀ» °ø°İÇÒ ¶§ ;;;;;;;;;;X
+WESLCOM_HEADER;À°±º º¸°í¼­ %s ;;;;;;;;;;X
+WESLCOM_1;%t, ;;;;;;;;;;X
+WESLCOM_2;¿ì¸® ±º´ë´Â ;;;;;;;;;;X
+WESLCOM_3;%s Àü¼±¿¡ ;;;;;;;;;;X
+WESLCOM_4;µµÂøÇÏ¿© ±³Àü¿¡ µé¾î°¬½À´Ï´Ù! ;;;;;;;;;;X
+WESLCOM_5; ;;;;;;;;;;X
+WESLCOM_6; ;;;;;;;;;;X
+WESLCOM_LOG;¿ì¸® ±º´ë°¡ %s¿¡¼­ ±³Àü. ;;;;;;;;;;X
+WESLCOM_BTN1;È®ÀÎ ;;;;;;;;;;X
+WESLCOM_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+THEYSLCOM_SETUP;ÀÚ±¹ ±º´ë°¡ °ø°İ´çÇÒ ¶§ ;;;;;;;;;;X
+THEYSLCOM_HEADER;À°±º º¸°í¼­ %s ;;;;;;;;;;X
+THEYSLCOM_1;%t, ;;;;;;;;;;X
+THEYSLCOM_2;¿ì¸® ±º´ë´Â ;;;;;;;;;;X
+THEYSLCOM_3;%s ;;;;;;;;;;X
+THEYSLCOM_4;¿¡¼­ ;;;;;;;;;;X
+THEYSLCOM_5;%s ;;;;;;;;;;X
+THEYSLCOM_6;º´·ÂÀÇ °ø°İÀ» ¹Ş¾Ò½À´Ï´Ù! \n °¡´ÉÇÑ ¿À·§µ¿¾È ±×µéÀ» ºÙÀâ°í ÀÖÀ¸·Á°í ÇÕ´Ï´Ù. ;;;;;;;;;;X
+THEYSLCOM_LOG;¿ì¸® ±º´ë°¡ %sÀÇ º´·ÂÀ¸·ÎºÎÅÍ %s¿¡¼­ °ø°İ´çÇÔ. ;;;;;;;;;;X
+THEYSLCOM_BTN1;È®ÀÎ ;;;;;;;;;;X
+THEYSLCOM_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+WESACOM_SETUP;ÀÚ±¹ °ø±ººÎ´ë°¡ Àû±¹ °ø±ººÎ´ë¸¦ °ø°İÇÒ ¶§ ;;;;;;;;;;X
+WESACOM_HEADER;°ø±º º¸°í¼­ %s ;;;;;;;;;;X
+WESACOM_1;%t, ;;;;;;;;;;X
+WESACOM_2;¿ì¸® ºñÇà´ÜÀÌ ;;;;;;;;;;X
+WESACOM_3;%sÀÇ ;;;;;;;;;;X
+WESACOM_4;»ó°ø¿¡¼­ Àû ºñÇà´ÜÀÇ ;;;;;;;;;;X
+WESACOM_5;¿ä°İ¿¡ µé¾î°¬½À´Ï´Ù. ;;;;;;;;;;X
+WESACOM_6; ;;;;;;;;;;X
+WESACOM_LOG;¿ì¸® ºñÇà´ÜÀÌ %s »ó°ø¿¡¼­ ±³Àü. ;;;;;;;;;;X
+WESACOM_BTN1;È®ÀÎ ;;;;;;;;;;X
+WESACOM_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+THEYSACOM_SETUP;ÀÚ±¹ °ø±ººÎ´ë°¡ °ø°İ´çÇÒ ¶§ ;;;;;;;;;;X
+THEYSACOM_HEADER;°ø±º º¸°í¼­ %s ;;;;;;;;;;X
+THEYSACOM_1;%t, ;;;;;;;;;;X
+THEYSACOM_2;¿ì¸® ºñÇà´ÜÀÌ ;;;;;;;;;;X
+THEYSACOM_3;%sÀÇ ;;;;;;;;;;X
+THEYSACOM_4;»ó°ø¿¡¼­ ;;;;;;;;;;X
+THEYSACOM_5;%s ºñÇà´ÜÀÇ °ø°İÀ» ¹Ş¾Ò½À´Ï´Ù! ;;;;;;;;;;X
+THEYSACOM_6; ;;;;;;;;;;X
+THEYSACOM_LOG;¿ì¸® ºñÇà´ÜÀÌ %sÀÇ ºñÇà´ÜÀ¸·ÎºÎÅÍ %s »ó°ø¿¡¼­ °ø°İ¹ŞÀ½. ;;;;;;;;;;X
+THEYSACOM_BTN1;È®ÀÎ ;;;;;;;;;;X
+THEYSACOM_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+REVOLT_SETUP;ÀÚ±¹ÀÇ Áö¿ªÁß ÇÏ³ª¿¡ ¹İ¶õÀÌ ÀÏ¾î³¯ ¶§ ;;;;;;;;;;X
+REVOLT_HEADER;º¸¾È º¸°í¼­ %s ;;;;;;;;;;X
+REVOLT_1;¹İ¶õ! ;;;;;;;;;;X
+REVOLT_2;%t, ;;;;;;;;;;X
+REVOLT_3;%s Áö¿ª¿¡¼­ ¹İ¶õÀÌ ÀÏ¾î³µ½À´Ï´Ù! ;;;;;;;;;;X
+REVOLT_4;»óÈ²ÀÌ ´õ ½É°¢ÇØÁö±â Àü¿¡ ;;;;;;;;;;X
+REVOLT_5;Á¶¼ÓÈ÷ ¹İ±ºÀ» Áø¾ĞÇØ¾ß ÇÕ´Ï´Ù. ;;;;;;;;;;X
+REVOLT_6; ;;;;;;;;;;X
+REVOLT_LOG;%s¿¡¼­ ¹İ¶õ! ;;;;;;;;;;X
+REVOLT_BTN1;È®ÀÎ ;;;;;;;;;;X
+REVOLT_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+LBWINOTHER_SETUP;Å¸±¹ÀÇ À°±ºÀÌ ÀüÅõ¿¡¼­ ½Â¸®ÇßÀ»¶§ ;;;;;;;;;;X
+LBWINOTHER_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;;;;;;;;;;X
+LBWINOTHER_1;%s ;;;;;;;;;;X
+LBWINOTHER_2;%t, %s ±º´ë°¡ ;;;;;;;;;;X
+LBWINOTHER_3;%sÀÇ º´·Â°ú ;;;;;;;;;;X
+LBWINOTHER_4;%s¿¡¼­ ±³ÀüÇÏ¿© ;;;;;;;;;;X
+LBWINOTHER_5;½Â¸®Çß½À´Ï´Ù. ;;;;;;;;;;X
+LBWINOTHER_6; ;;;;;;;;;;X
+LBWINOTHER_LOG;%s ±º´ë°¡ %s º´·Â°ú %s¿¡¼­ ±³ÀüÇÏ¿© ½Â¸®. ;;;;;;;;;;X
+LBWINOTHER_BTN1;È®ÀÎ ;;;;;;;;;;X
+LBWINOTHER_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+NBWINOTHER_SETUP;Å¸±¹ÀÇ ÇÔ´ë°¡ ÇØÀü¿¡¼­ ½Â¸®ÇßÀ»¶§ ;;;;;;;;;;X
+NBWINOTHER_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;;;;;;;;;;X
+NBWINOTHER_1;%s ;;;;;;;;;;X
+NBWINOTHER_2;%t, %s ÇÔ´ë°¡ ;;;;;;;;;;X
+NBWINOTHER_3;%s ÇÔ´ë¿Í ;;;;;;;;;;X
+NBWINOTHER_4;%s¿¡¼­ ±³ÀüÇÏ¿© ;;;;;;;;;;X
+NBWINOTHER_5;½Â¸®Çß½À´Ï´Ù. ;;;;;;;;;;X
+NBWINOTHER_6; ;;;;;;;;;;X
+NBWINOTHER_LOG;%s ÇÔ´ë°¡ %s ÇÔ´ë¿Í %s¿¡¼­ ±³ÀüÇÏ¿© ½Â¸®. ;;;;;;;;;;X
+NBWINOTHER_BTN1;È®ÀÎ ;;;;;;;;;;X
+NBWINOTHER_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+NEWNATION_SETUP;½Å»ı±¹°¡°¡ µîÀåÇÒ ¶§ ;;;;;;;;;;X
+NEWNATION_HEADER;¿Ü¹«ºÎ º¸°í¼­ %s ;;;;;;;;;;X
+NEWNATION_1;½Å»ı±¹°¡ ;;;;;;;;;;X
+NEWNATION_2;%t, ;;;;;;;;;;X
+NEWNATION_3;%s ;;;;;;;;;;X
+NEWNATION_4;ÁöµµÀÚµéÀº ;;;;;;;;;;X
+NEWNATION_5;%s¿¡¼­ µ¶¸³ÇßÀ½À» ¼±¾ğÇß½À´Ï´Ù. ;;;;;;;;;;X
+NEWNATION_6;¿ì¸®´Â ±×µé°úÀÇ ¿Ü±³°ü°è¸¦ ¼ö¸³Çß½À´Ï´Ù. ;;;;;;;;;;X
+NEWNATION_LOG;%s ÁöµµÀÚµéÀÌ %s¿¡¼­ µ¶¸³ÇßÀ½À» ¼±¾ğ. ;;;;;;;;;;X
+NEWNATION_BTN1;È®ÀÎ ;;;;;;;;;;X
+NEWNATION_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+BROKENUS_SETUP;¿ì¸® ±¹°¡°¡ Àüº¹µÉ¶§ ;When our nation falls apart;;;;;;;;;X
+BROKENUS_HEADER;¿ì¸® Àå°ü º¸°í¼­ %s ;Our Governor reports%s;;;;;;;;;X
+BROKENUS_1;Á¤ºÎ Àüº¹ ! ;Government falls!;;;;;;;;;X
+BROKENUS_2;%t, ;%t, the rebels in;;;;;;;;;X
+BROKENUS_3;%s ;%s;;;;;;;;;X
+BROKENUS_4;ÀÇ ¹İÁ¤ºÎ ¼¼·ÂµéÀº ¿ì¸® Á¤ºÎ¸¦ ºÎ½¥½À´Ï´Ù. ;have broken our government.;;;;;;;;;X
+BROKENUS_5; ;;;;;;;;;;X
+BROKENUS_6; ;;;;;;;;;;X
+BROKENUS_LOG;%sÀÇ ¿ì¸® ÇöÀçÁ¤ºÎ´Â Àüº¹µÇ¾ú´Ù. ;Our current goverment of %s have fallen.;;;;;;;;;X
+BROKENUS_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+BROKENUS_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+BROKENOTHER_SETUP;ÀÚ±¹ÀÇ ¹İ¶õÀÌ ¼º°øÇßÀ» ¶§ ;;;;;;;;;;X
+BROKENOTHER_HEADER;º¸¾È º¸°í¼­ %s ;;;;;;;;;;X
+BROKENOTHER_1;Á¤ºÎÀÇ ¸ô¶ô! ;;;;;;;;;;X
+BROKENOTHER_2;%t, ;;;;;;;;;;X
+BROKENOTHER_3;%s ¹İ±ºÀÌ ;;;;;;;;;;X
+BROKENOTHER_4;¿ì¸® Á¤ºÎ¸¦ ;;;;;;;;;;X
+BROKENOTHER_5;¹«³Ê¶ß·È½À´Ï´Ù! ;;;;;;;;;;X
+BROKENOTHER_6; ;;;;;;;;;;X
+BROKENOTHER_LOG;%s Á¤ºÎ ¸ô¶ô! ;;;;;;;;;;X
+BROKENOTHER_BTN1;È®ÀÎ ;;;;;;;;;;X
+BROKENOTHER_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+RELCH_DEC_5;»ó´çÈ÷ ³ª»Ú°Ô ÇÏ°Ô µÇ¾î ;enormously impaired;;;;;;;;;X
+RELCH_DEC_4;°ú°¨ÇÏ°Ô ³ª»Ú°Ô ÇÏ°Ô µÇ¾î ;drastically impaired;;;;;;;;;X
+RELCH_DEC_3;²Ï ³ª»Ú°Ô ÇÏ°Ô µÇ¾î ;considerably impaired;;;;;;;;;X
+RELCH_DEC_2;¾Ë¸Â°Ô ³ª»Ú°Ô ÇÏ°Ô µÇ¾î ;moderately impaired;;;;;;;;;X
+RELCH_DEC_1;¾à°£ ³ª»Ú°Ô ÇÏ°Ô µÇ¾î ;slightly impaired;;;;;;;;;X
+RELCH_INC_1;¾à°£ °³¼±µÇ¾î ;slightly improved;;;;;;;;;X
+RELCH_INC_2;¾Ë¸Â°Ô °³¼±µÇ¾î ;moderately improved;;;;;;;;;X
+RELCH_INC_3;²Ï °³¼±µÇ¾î ;considerably improved;;;;;;;;;X
+RELCH_INC_4;°ú°¨ÇÏ°Ô °³¼±µÇ¾î ;drastically improved;;;;;;;;;X
+RELCH_INC_5;»ó´çÈ÷ °³¼±µÇ¾î ;enormously improved;;;;;;;;;X
+##;;;;;;;;;;;X
+RELCH_R_0;¿ì¸®ÀÇ °¡Àå °¡±î¿î Ä£±¸µé! ;the closest of our friends!;;;;;;;;;X
+RELCH_R_1;¸Å¿ì Ä£¾ÖÇÏ´Â Ä£±¸µé! ;very dear friends!;;;;;;;;;X
+RELCH_R_2;¿ì¸®ÀÇ Ä£±¸ ;our friends;;;;;;;;;X
+RELCH_R_3;¿ÏÀüÇÏ°Ô Áß¸³ ;completely neutral;;;;;;;;;X
+RELCH_R_4;¿ì¸®ÀÇ Àû ;our enemies;;;;;;;;;X
+RELCH_R_5;¿ì¸®°¡ ½È¾îÇÏ´Â Àûµé! ;our hated enemies!;;;;;;;;;X
+RELCH_R_6;¿ì¸®ÀÇ ÃÖ¾ÇÀÇ Àûµé! ;the worst of our enemies!;;;;;;;;;X
+##;;;;;;;;;;;X
+QUIT_HEADER; ;;;;;;;;;;X
+QUIT_1;Ç×º¹ÇÏ½Ã°Ú½À´Ï±î? ;;;;;;;;;;X
+QUIT_2;ÀúÀå¾øÀÌ ÇöÀçÀÇ ½Ã³ª¸®¿À¸¦ Á¾·áÇÕ´Ï´Ù. ¼¼ÀÌºê ÇÏ·Á¸é, F10 Å°¸¦ ´­·¯¼­ 'ÀúÀå'À» ¼±ÅÃÇÏ¼¼¿ä. ;This will exit the current scenario without saving. To save, press F10 then select 'Save'.;;;;;;;;;X
+QUIT_3; ;;;;;;;;;;X
+QUIT_4; ;;;;;;;;;;X
+QUIT_5; ;;;;;;;;;;X
+QUIT_6; ;;;;;;;;;;X
+QUIT_BTN1;³ª°¡±â ;QUIT;;;;;;;;;X
+QUIT_BTN2;Ãë¼Ò ;Cancel;;;;;;;;;X
+##;;;;;;;;;;;X
+QUITHOST_HEADER; ;;;;;;;;;;X
+QUITHOST_1;Ç×º¹ÇÏ½Ã°Ú½À´Ï±î? ;Surrender?;;;;;;;;;X
+QUITHOST_2;ÀúÀå¾øÀÌ ÇöÀçÀÇ ½Ã³ª¸®¿À¸¦ Á¾·áÇÕ´Ï´Ù. È®ÀÎÇÏ¼¼¿ä, ´Ù¸¥ ¸ğµç ÇÃ·¹ÀÌ¾îµéµµ °ÔÀÓÀ» Á¾·áÇÒ °ÍÀÔ´Ï´Ù! ;This will exit the current scenario without saving. PLEASE NOTE this will also end the game for all other players as well!;;;;;;;;;X
+QUITHOST_3;ÀúÀåÇÏ±â ;Saving;;;;;;;;;X
+QUITHOST_4;¼¼ÀÌºê ÇÏ·Á¸é, F10 Å°¸¦ ´­·¯¼­ 'ÀúÀå'À» ¼±ÅÃÇÏ¼¼¿ä. ´ç½ÅÀº ³ªÁß¿¡ °°°Å³ª ´Ù¸¥ ÇÃ·¹ÀÌ¾îµé°ú °ÔÀÓÀ» Àç°³ÇÒ¼ö ÀÖ½À´Ï´Ù. ;To save press F10 then select 'Save'. You can resume the game later with the same or other players.;;;;;;;;;X
+QUITHOST_5; ;;;;;;;;;;X
+QUITHOST_6; ;;;;;;;;;;X
+QUITHOST_BTN1;³ª°¡±â ;QUIT;;;;;;;;;X
+QUITHOST_BTN2;Ãë¼Ò ;Cancel;;;;;;;;;X
+##;;;;;;;;;;;X
+QUITCLIENT_HEADER; ;;;;;;;;;;X
+QUITCLIENT_1;Ç×º¹ÇÏ½Ã°Ú½À´Ï±î? ;Surrender?;;;;;;;;;X
+QUITCLIENT_2;ÀúÀå¾øÀÌ ÇöÀçÀÇ ½Ã³ª¸®¿À¸¦ Á¾·áÇÕ´Ï´Ù. ¿ÀÁ÷ °ÔÀÓÀÇ ÁÖÀÎ(Host)¸¸ ÀúÀåÇÒ ¼ö ÀÖ½À´Ï´Ù. ´Ù¸¥ ÇÃ·¹ÀÌ¾îµéÀº °è¼Ó ÇÃ·¹ÀÌÇÒ ¼ö ÀÖ½À´Ï´Ù. ;This will exit the current scenario without saving. Only the Host of the game can save. The other players will be able to continue playing.;;;;;;;;;X
+QUITCLIENT_3; ;;;;;;;;;;X
+QUITCLIENT_4; ;;;;;;;;;;X
+QUITCLIENT_5; ;;;;;;;;;;X
+QUITCLIENT_6; ;;;;;;;;;;X
+QUITCLIENT_BTN1;³ª°¡±â ;QUIT;;;;;;;;;X
+QUITCLIENT_BTN2;Ãë¼Ò ;Cancel;;;;;;;;;X
+##;;;;;;;;;;;X
+##;;;;;;;;;;;X
+MILALLPROP_SETUP;Å¸±¹ÀÌ ÀÚ±¹¿¡ ±º»çµ¿¸Í °á¼ºÀ» Á¦¾ÈÇÒ ¶§ ;;;;;;;;;;X
+MILALLPROP_HEADER;¿Ü¹«ºÎ º¸°í¼­ ;;;;;;;;;;X
+MILALLPROP_1;%s µ¿Çâº¸°í ;;;;;;;;;;X
+MILALLPROP_2;%t, ;;;;;;;;;;X
+MILALLPROP_3;%s¿¡¼­ ;;;;;;;;;;X
+MILALLPROP_4;%s¿¡ ´ëÇ×ÇÏ´Â ±º»çµ¿¸ÍÀÇ °á¼ºÀ» ;;;;;;;;;;X
+MILALLPROP_5;Á¦¾ÈÇØ¿Ô½À´Ï´Ù. ;;;;;;;;;;X
+MILALLPROP_6;¾î¶² °áÁ¤À» ³»¸®½Ã°Ú½À´Ï±î? ;;;;;;;;;;X
+MILALLPROP_LOG;%s¿¡¼­ %s¿¡ ´ëÇ×ÇÏ´Â ±º»çµ¿¸Í Á¦¾È. ;;;;;;;;;;X
+MILALLPROP_BTN1;½ÂÀÎ ;;;;;;;;;;X
+MILALLPROP_BTN2;°ÅÀı ;;;;;;;;;;X
+##;;;;;;;;;;;X
+MILALLJOINPROP_SETUP;Å¸±¹ÀÌ ÀÚ±¹ÀÇ ±º»çµ¿¸Í¿¡ °¡ÀÔÀ» ¿äÃ»ÇÒ ¶§ ;;;;;;;;;;X
+MILALLJOINPROP_HEADER;¿Ü¹«ºÎ º¸°í¼­ ;;;;;;;;;;X
+MILALLJOINPROP_1;%s µ¿Çâº¸°í ;;;;;;;;;;X
+MILALLJOINPROP_2;%t, %s¿¡¼­ ;;;;;;;;;;X
+MILALLJOINPROP_3;%s¿¡ ´ëÇ×ÇÏ´Â ±º»çµ¿¸Í¿¡ °¡ÀÔÇÏ°í ½Í´Ù´Â ;;;;;;;;;;X
+MILALLJOINPROP_4;ÀÇ»ç¸¦ ¹àÇô¿Ô½À´Ï´Ù. ;;;;;;;;;;X
+MILALLJOINPROP_5; ;;;;;;;;;;X
+MILALLJOINPROP_6;¾î¶² °áÁ¤À» ³»¸®½Ã°Ú½À´Ï±î? ;;;;;;;;;;X
+MILALLJOINPROP_LOG;%s¿¡¼­ %s¿¡ ´ëÇ×ÇÏ´Â ±º»çµ¿¸Í¿¡ °¡ÀÔ¿äÃ»;;;;;;;;;X
+MILALLJOINPROP_BTN1;È¯¿µÇÑ´Ù! ;;;;;;;;;;X
+MILALLJOINPROP_BTN2;°ÅÀı! ;;;;;;;;;;X
+##;;;;;;;;;;;X
+BFIN_SETUP;ºÎ´ëÀÇ »ı»êÀÌ ¿Ï·áµÇ¾î ¹èÄ¡°¡ °¡´ÉÇÒ ¶§ ;;;;;;;;;;X
+BFIN_HEADER;ÃÑÂü¸ğºÎ º¸°í¼­ %s ;;;;;;;;;;X
+BFIN_1;%sÀÇ Æí¼ºÀÌ ¿Ï·áµÆ½À´Ï´Ù. ;;;;;;;;;;X
+BFIN_2;½ÇÀü¹èÄ¡°¡ °¡´ÉÇÕ´Ï´Ù. ;;;;;;;;;;X
+BFIN_3; ;;;;;;;;;;X
+BFIN_4; ;;;;;;;;;;X
+BFIN_5; ;;;;;;;;;;X
+BFIN_6; ;;;;;;;;;;X
+BFIN_LOG;%s »ı»ê¿Ï·á. ¹èÄ¡ °¡´É. ;;;;;;;;;;X
+BFIN_BTN1;È®ÀÎ ;;;;;;;;;;X
+BFIN_BTN2;¹èÄ¡ ;;;;;;;;;;X
+##;;;;;;;;;;;X
+BPFIN_SETUP;½Ã¼³ÀÇ »ı»êÀÌ ¿Ï·áµÇ¾î ¹èÄ¡°¡ °¡´ÉÇÒ ¶§ ;;;;;;;;;;X
+BPFIN_HEADER;ÃÑÂü¸ğºÎ º¸°í¼­ %s ;;;;;;;;;;X
+BPFIN_1;%sÀÇ ¹èÄ¡°¡ °¡´ÉÇÕ´Ï´Ù. ;;;;;;;;;;X
+BPFIN_2; ;;;;;;;;;;X
+BPFIN_3; ;;;;;;;;;;X
+BPFIN_4; ;;;;;;;;;;X
+BPFIN_5; ;;;;;;;;;;X
+BPFIN_6; ;;;;;;;;;;X
+BPFIN_LOG;%s ¹èÄ¡ °¡´É. ;;;;;;;;;;X
+BPFIN_BTN1;È®ÀÎ ;;;;;;;;;;X
+BPFIN_BTN2;¹èÄ¡ ;;;;;;;;;;X
+##;;;;;;;;;;;X
+CFIN_SETUP;È£¼Û¼±´ÜÀÇ È­¹°¼ö¼Û¼±ÀÌ³ª È£À§ÇÔ »ı»êÀÌ ¿Ï·áµÆÀ» ¶§ ;;;;;;;;;;X
+CFIN_HEADER;ÃÑÂü¸ğºÎ º¸°í¼­ %s  ;;;;;;;;;;X
+CFIN_1;%sÀÇ »ı»êÀ» ;;;;;;;;;;X
+CFIN_2;¿Ï·áÇß½À´Ï´Ù. ;;;;;;;;;;X
+CFIN_3; ;;;;;;;;;;X
+CFIN_4; ;;;;;;;;;;X
+CFIN_5; ;;;;;;;;;;X
+CFIN_6; ;;;;;;;;;;X
+CFIN_LOG;%s »ı»ê¿Ï·á. ;;;;;;;;;;X
+CFIN_BTN1;È®ÀÎ ;;;;;;;;;;X
+##;;;;;;;;;;;X
+PFIN_SETUP;Áö¿ª ³»¿¡¼­ °Ç¼³À» ³¡³ÂÀ»¶§ ;;;;;;;;;;X
+PFIN_HEADER;ÃÑÂü¸ğºÎ º¸°í¼­ %s ;;;;;;;;;;X
+PFIN_1;%sÀÇ ;;;;;;;;;;X
+PFIN_2;°Ç¼³ÀÌ ;;;;;;;;;;X
+PFIN_3;%s¿¡¼­ ¿Ï·áµÇ¾ú½À´Ï´Ù. ;;;;;;;;;;X
+PFIN_4; ;;;;;;;;;;X
+PFIN_5; ;;;;;;;;;;X
+PFIN_6; ;;;;;;;;;;X
+PFIN_LOG;%s °Ç¼³ÀÌ %s¿¡¼­ ¿Ï·á. ;;;;;;;;;;X
+PFIN_BTN1;È®ÀÎ ;;;;;;;;;;X
+PFIN_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+UFIN_BRIG_STRING;ºÎ¼Ó ¾÷±×·¹ÀÌµå: ;;;;;;;;;;X
+UFIN_SETUP;ºÎ´ë°¡ ¾÷±×·¹ÀÌµå µÇ¾úÀ» ¶§ ;;;;;;;;;;X
+UFIN_HEADER;ÃÑÂü¸ğºÎ º¸°í¼­ %s ;;;;;;;;;;X
+UFIN_1;ºÎ´ë°¡ \n¾÷±×·¹ÀÌµå ¿Ï·áµÇ¾ú½À´Ï´Ù : ;;;;;;;;;;X
+UFIN_2;±¸Çü :  ;;;;;;;;;;X
+UFIN_3;%s ;;;;;;;;;;X
+UFIN_4;½ÅÇü : ;;;;;;;;;;X
+UFIN_5;%s ;;;;;;;;;;X
+UFIN_6; ;;;;;;;;;;X
+UFIN_LOG;±¸Çü : %s -> ½ÅÇü : %s , ¾÷±×·¹ÀÌµå ¿Ï·á ;;;;;;;;;;X
+UFIN_BTN1;È®ÀÎ ;;;;;;;;;;X
+UFIN_BTN2;¼±ÅÃ ;;;;;;;;;;X
+##;;;;;;;;;;;X
+ABWINOTHER_SETUP;Å¸±¹ÀÌ Á¦3±¹°úÀÇ °øÁßÀü¿¡¼­ ½Â¸®ÇßÀ» ¶§ ;;;;;;;;;;X
+ABWINOTHER_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;;;;;;;;;;X
+ABWINOTHER_1;%s ;;;;;;;;;;X
+ABWINOTHER_2;%t, %sÀÇ ºñÇà´ÜÀÌ ;;;;;;;;;;X
+ABWINOTHER_3;%sÀÇ ;;;;;;;;;;X
+ABWINOTHER_4;ºñÇà´Ü°ú ;;;;;;;;;;X
+ABWINOTHER_5;%s »ó°ø¿¡¼­ ±³ÀüÇÏ¿© ½Â¸®Çß½À´Ï´Ù. ;;;;;;;;;;X
+ABWINOTHER_6; ;;;;;;;;;;X
+ABWINOTHER_LOG;%sÀÇ ºñÇà´ÜÀÌ %sÀÇ ºñÇà´Ü°ú %s »ó°ø¿¡¼­ ±³ÀüÇÏ¿© ½Â¸®. ;;;;;;;;;;X
+ABWINOTHER_BTN1;È®ÀÎ ;;;;;;;;;;X
+ABWINOTHER_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+WTACBOMB_SETUP;ÀÚ±¹ °ø±ºÀÌ Àû±¹ Áö»ó±ºÀ» Æø°İÇÒ ¶§ ;;;;;;;;;;X
+WTACBOMB_HEADER;°ø±º º¸°í¼­ %s ;;;;;;;;;;X
+WTACBOMB_1; ;;;;;;;;;;X
+WTACBOMB_2;¿ì¸®ÀÇ ºñÇà´ÜÀÌ ;;;;;;;;;;X
+WTACBOMB_3;%s Áö¿ªÀÇ Áö»ó±º¿¡ ´ëÇÑ ;;;;;;;;;;X
+WTACBOMB_4;°ø°İÀ» °³½ÃÇß½À´Ï´Ù! ;;;;;;;;;;X
+WTACBOMB_5; ;;;;;;;;;;X
+WTACBOMB_6; ;;;;;;;;;;X
+WTACBOMB_LOG;¿ì¸® ºñÇà´ÜÀÌ %s¿¡¼­ Àû±º °ø°İ. ;;;;;;;;;;X
+WTACBOMB_BTN1;È®ÀÎ ;;;;;;;;;;X
+WTACBOMB_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+WTACBOMBUS_SETUP;ÀÚ±¹ Áö»ó±ºÀÌ Æø°İ´çÇÏ°í ÀÖÀ» ¶§ ;;;;;;;;;;X
+WTACBOMBUS_HEADER;°ø±º º¸°í¼­ %s ;;;;;;;;;;X
+WTACBOMBUS_1; ;;;;;;;;;;X
+WTACBOMBUS_2;¿ì¸® ±º´ë°¡ ;;;;;;;;;;X
+WTACBOMBUS_3;%s ;;;;;;;;;;X
+WTACBOMBUS_4;¿¡¼­ ;;;;;;;;;;X
+WTACBOMBUS_5;%s ;;;;;;;;;;X
+WTACBOMBUS_6;ºñÇà´ÜÀ¸·ÎºÎÅÍ \n °ø°İ ´çÇÏ°í ÀÖ½À´Ï´Ù! ;;;;;;;;;;X
+WTACBOMBUS_LOG;¾Æ±ºÀÌ %s¿¡¼­ %s ºñÇà´ÜÀÇ Æø°İÀ» ´çÇÔ. ;;;;;;;;;;X
+WTACBOMBUS_BTN1;È®ÀÎ ;;;;;;;;;;X
+WTACBOMBUS_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+WNAVBOMB_SETUP;ÀÚ±¹ °ø±ºÀÌ Àû±¹ ÇÔ´ë¸¦ °ø°İÇÒ ¶§ ;;;;;;;;;;X
+WNAVBOMB_HEADER;°ø±º º¸°í¼­ %s ;;;;;;;;;;X
+WNAVBOMB_1; ;;;;;;;;;;X
+WNAVBOMB_2;¿ì¸® ºñÇà´ÜÀÌ ;;;;;;;;;;X
+WNAVBOMB_3;%sÀÇ ;;;;;;;;;;X
+WNAVBOMB_4;Àû ÇÔ´ë¸¦ Æø°İÇÏ±â ½ÃÀÛÇß½À´Ï´Ù! ;;;;;;;;;;X
+WNAVBOMB_5; ;;;;;;;;;;X
+WNAVBOMB_6; ;;;;;;;;;;X
+WNAVBOMB_LOG;¿ì¸® ºñÇà´ÜÀÌ %s¿¡ ÀÖ´Â Àû ÇÔ´ë Æø°İ. ;;;;;;;;;;X
+WNAVBOMB_BTN1;È®ÀÎ ;;;;;;;;;;X
+WNAVBOMB_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+WNAVBOMBUS_SETUP;ÀÚ±¹ ÇØ±ºÀÌ Æø°İ´çÇÏ°í ÀÖÀ»¶§ ;;;;;;;;;;X
+WNAVBOMBUS_HEADER;ÇØ±º º¸°í¼­ %s ;;;;;;;;;;X
+WNAVBOMBUS_1; ;;;;;;;;;;X
+WNAVBOMBUS_2;¿ì¸® ÇÔ´ë°¡;;;;;;;;;;X
+WNAVBOMBUS_3;%s ;;;;;;;;;;X
+WNAVBOMBUS_4;¿¡¼­ ;;;;;;;;;;X
+WNAVBOMBUS_5;%sÀÇ ºñÇà´ÜÀ¸·ÎºÎÅÍ ;;;;;;;;;;X
+WNAVBOMBUS_6;Æø°İ´çÇÏ°í ÀÖ½À´Ï´Ù! ;;;;;;;;;;X
+WNAVBOMBUS_LOG;%sÀÇ ÇÔ´ë°¡ %s ºñÇà´ÜÀÇ Æø°İÀ» ´çÇÔ. ;;;;;;;;;;X
+WNAVBOMBUS_BTN1;È®ÀÎ ;;;;;;;;;;X
+WNAVBOMBUS_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+WADD_SETUP;Å¸±¹ÀÌ Á¦¾ÈÇÑ ¿Ü±³Çù»óÀ» Ã¼°áÇÒ ¶§ ;;;;;;;;;;X
+WADD_HEADER;¿Ü¹«ºÎ º¸°í¼­ %s ;;;;;;;;;;X
+WADD_1;¿Ü±³Çù»ó ;;;;;;;;;;X
+WADD_2;%t, ;;;;;;;;;;X
+WADD_3;%sÁ¤ºÎ¿ÍÀÇ ¿Ü±³Çù»óÀÌ ;;;;;;;;;;X
+WADD_4;¼º»çµÇ¾ú½À´Ï´Ù. ;;;;;;;;;;X
+WADD_5; ;;;;;;;;;;X
+WADD_6; ;;;;;;;;;;X
+WADD_LOG;%sÁ¤ºÎ¿Í ¿Ü±³Çù»ó. ;;;;;;;;;;X
+WADD_BTN1;È®ÀÎ ;;;;;;;;;;X
+WADD_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+TADD_SETUP;Å¸±¹ÀÌ Á¦3±¹°ú ¿Ü±³Çù»óÀ» Ã¼°áÇÒ ¶§ ;;;;;;;;;;X
+TADD_HEADER;Ã¸º¸ºÎ º¸°í¼­ %s ;;;;;;;;;;X
+TADD_1;¿Ü±³Çù»ó ;;;;;;;;;;X
+TADD_2;%t, %sÁ¤ºÎ¿Í ;;;;;;;;;;X
+TADD_3;%sÀÇ ;;;;;;;;;;X
+TADD_4;¿Ü±³Çù»óÀÌ ¼º»çµÇ¾ú½À´Ï´Ù. ;;;;;;;;;;X
+TADD_5; ;;;;;;;;;;X
+TADD_6; ;;;;;;;;;;X
+TADD_LOG;%sÁ¤ºÎ¿Í %sÀÇ ¿Ü±³Çù»ó. ;;;;;;;;;;X
+TADD_BTN1;È®ÀÎ ;;;;;;;;;;X
+TADD_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+TADDU_SETUP;ÀÚ±¹ÀÌ Á¦¾ÈÇÑ ¿Ü±³Çù»óÀ» Å¸±¹ÀÌ Ã¼°áÇÒ ¶§ ;;;;;;;;;;X
+TADDU_HEADER;¿Ü¹«ºÎ º¸°í¼­  ;;;;;;;;;;X
+TADDU_1;¿Ü±³Çù»ó ;;;;;;;;;;X
+TADDU_2;%t, ;;;;;;;;;;X
+TADDU_3;%sÁ¤ºÎ´Â ;;;;;;;;;;X
+TADDU_4;¿ì¸®¿Í ¿Ü±³Çù»óÀ» Ã¼°áÇß½À´Ï´Ù. ;;;;;;;;;;X
+TADDU_5; ;;;;;;;;;;X
+TADDU_6; ;;;;;;;;;;X
+TADDU_LOG;%sÁ¤ºÎ¿Í ¿Ü±³Çù»ó. ;;;;;;;;;;X
+TADDU_BTN1;È®ÀÎ ;;;;;;;;;;X
+TADDU_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+WDDD_SETUP;ÀÚ±¹ÀÌ Å¸±¹ÀÌ Á¦¾ÈÇÑ ¿Ü±³Çù»óÀ» °ÅÀıÇÒ ¶§ ;;;;;;;;;;X
+WDDD_HEADER;¿Ü¹«ºÎ º¸°í¼­ %s ;;;;;;;;;;X
+WDDD_1;¿Ü±³Çù»ó ;;;;;;;;;;X
+WDDD_2;%t, ;;;;;;;;;;X
+WDDD_3;%sÁ¤ºÎ°¡ Á¦¾ÈÇÑ ¿Ü±³Çù»óÀÌ ;;;;;;;;;;X
+WDDD_4;°á·ÄµÇ¾ú½À´Ï´Ù. ;;;;;;;;;;X
+WDDD_5; ;;;;;;;;;;X
+WDDD_6; ;;;;;;;;;;X
+WDDD_LOG;%sÁ¤ºÎ°¡ Á¦¾ÈÇÑ ¿Ü±³Çù»ó °á·Ä. ;;;;;;;;;;X
+WDDD_BTN1;È®ÀÎ ;;;;;;;;;;X
+WDDD_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+TDDD_SETUP;Å¸±¹ÀÌ Á¦3±¹ÀÌ Á¦¾ÈÇÑ ¿Ü±³Çù»óÀ» °ÅÀıÇÒ ¶§ ;;;;;;;;;;X
+TDDD_HEADER;Ã¸º¸ºÎ º¸°í¼­ %s ;;;;;;;;;;X
+TDDD_1;¿Ü±³Çù»ó ;;;;;;;;;;X
+TDDD_2;%t, %s¿¡¼­´Â ;;;;;;;;;;X
+TDDD_3;%sÁ¤ºÎ¿ÍÀÇ ¿Ü±³Çù»óÀÌ ;;;;;;;;;;X
+TDDD_4;°á·ÄµÇ¾ú½À´Ï´Ù. ;;;;;;;;;;X
+TDDD_5; ;;;;;;;;;;X
+TDDD_6; ;;;;;;;;;;X
+TDDD_LOG;%s¿¡¼­ %sÁ¤ºÎ¿ÍÀÇ ¿Ü±³Çù»ó °á·Ä. ;;;;;;;;;;X
+TDDD_BTN1;È®ÀÎ ;;;;;;;;;;X
+TDDD_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+TDDDU_SETUP;Å¸±¹ÀÌ ÀÚ±¹ÀÌ Á¦¾ÈÇÑ ¿Ü±³Çù»óÀ» °ÅÀıÇÒ ¶§ ;;;;;;;;;;X
+TDDDU_HEADER;¿Ü¹«ºÎ º¸°í¼­ %s ;;;;;;;;;;X
+TDDDU_1;¿Ü±³Çù»ó ;;;;;;;;;;X
+TDDDU_2;%t, ;;;;;;;;;;X
+TDDDU_3;%sÁ¤ºÎ¿ÍÀÇ ¿Ü±³Çù»óÀÌ °á·ÄµÇ¾ú½À´Ï´Ù. ;;;;;;;;;;X
+TDDDU_4; ;;;;;;;;;;X
+TDDDU_5; ;;;;;;;;;;X
+TDDDU_6; ;;;;;;;;;;X
+TDDDU_LOG;%sÁ¤ºÎ¿ÍÀÇ ¿Ü±³Çù»ó °á·Ä. ;;;;;;;;;;X
+TDDDU_BTN1;È®ÀÎ ;;;;;;;;;;X
+TDDDU_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+DEALWE_SETUP;Å¸±¹ÀÌ °Å·¡¸¦ Á¦¾ÈÇÒ ¶§ ;;;;;;;;;;X
+##;;;;;;;;;;;X
+AOW_TA;%t, %s¿¡¼­ ¹«¿ªÇùÁ¤À» Á¦¾ÈÇÕ´Ï´Ù. ;;;;;;;;;;X
+AOW_DEAL;%t, %s¿¡¼­ ±³È¯Çù»óÀ» Á¦¾ÈÇÕ´Ï´Ù. ;;;;;;;;;;X
+AOW_DEAL2;À§ÀÇ »çÇ×À» Á¦°ø, ¾Æ·¡¸¦ ¿ä±¸: ;;;;;;;;;;X
+AOW_DEAL3;%s ¿ä±¸ ;;;;;;;;;;X
+##;;;;;;;;;;;X
+TCPTUS_SETUP;Å¸±¹ÀÌ ÀÚ±¹°úÀÇ ÆòÈ­Á¶¾àÀ» ²£À»¶§ ;;;;;;;;;;X
+TCPTUS_HEADER;¿Ü¹«ºÎ º¸°í¼­ %s ;;;;;;;;;;X
+TCPTUS_1;ÆòÈ­Á¶¾à ÆÄ±â ;;;;;;;;;;X
+TCPTUS_2;%t, ;;;;;;;;;;X
+TCPTUS_3;%s¿¡¼­ ;;;;;;;;;;X
+TCPTUS_4;¿ì¸®¿ÍÀÇ ÆòÈ­Á¶¾àÀ» ÆÄ±âÇß½À´Ï´Ù! ;;;;;;;;;;X
+TCPTUS_5; ;;;;;;;;;;X
+TCPTUS_6; ;;;;;;;;;;X
+TCPTUS_LOG;%sÁ¤ºÎ°¡ ¿ì¸®¿ÍÀÇ ÆòÈ­Á¶¾àÀ» ÆÄ±â. ;;;;;;;;;;X
+TCPTUS_BTN1;È®ÀÎ ;;;;;;;;;;X
+TCPTUS_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+TCTAUS_SETUP;Å¸±¹ÀÌ ÀÚ±¹°úÀÇ ¹«¿ªÇùÁ¤À» Ãë¼ÒÇÒ ¶§ ;;;;;;;;;;X
+TCTAUS_HEADER;¿Ü¹«ºÎ º¸°í¼­ %s ;;;;;;;;;;X
+TCTAUS_1;¹«¿ªÇùÁ¤ ÆÄ±â ;;;;;;;;;;X
+TCTAUS_2;%t, ;;;;;;;;;;X
+TCTAUS_3;%sÁ¤ºÎ°¡ ;;;;;;;;;;X
+TCTAUS_4;¿ì¸®¿Í ¸ÎÀº ¹«¿ªÇùÁ¤À» ÆÄ±âÇß½À´Ï´Ù. ;;;;;;;;;;X
+TCTAUS_5;(%s) ;;;;;;;;;;X
+TCTAUS_6; ;;;;;;;;;;X
+TCTAUS_LOG;%s¿¡¼­ ¿ì¸®¿ÍÀÇ ¹«¿ªÇùÁ¤ ÆÄ±â. ;;;;;;;;;;X
+TCTAUS_BTN1;È®ÀÎ ;;;;;;;;;;X
+TCTAUS_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+TCNAUS_SETUP;Å¸±¹ÀÌ ÀÚ±¹°úÀÇ ºÒ°¡Ä§Á¶¾àÀ» ±ı ¶§ ;;;;;;;;;;X
+TCNAUS_HEADER;¿Ü¹«ºÎ º¸°í¼­ %s ;;;;;;;;;;X
+TCNAUS_1;ºÒ°¡Ä§Á¶¾à ÆÄ±â! ;;;;;;;;;;X
+TCNAUS_2;%t, ;;;;;;;;;;X
+TCNAUS_3;%sÁ¤ºÎ°¡ ;;;;;;;;;;X
+TCNAUS_4;¿ì¸®¿Í ¸ÎÀº ºÒ°¡Ä§Á¶¾àÀ» ÆÄ±âÇß½À´Ï´Ù! ;;;;;;;;;;X
+TCNAUS_5; ;;;;;;;;;;X
+TCNAUS_6; ;;;;;;;;;;X
+TCNAUS_LOG;%sÁ¤ºÎ°¡ ¿ì¸®¿ÍÀÇ ºÒ°¡Ä§Á¶¾à ÆÄ±â. ;;;;;;;;;;X
+TCNAUS_BTN1;È®ÀÎ ;;;;;;;;;;X
+TCNAUS_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+WANAP_SETUP;ÀÚ±¹ÀÌ Å¸±¹ÀÌ Á¦¾ÈÇÑ ºÒ°¡Ä§Á¶¾àÀ» ¼ö¶ôÇÒ ¶§ ;;;;;;;;;;X
+WANAP_HEADER;ÃÑÂü¸ğºÎ º¸°í¼­ %s ;;;;;;;;;;X
+WANAP_1;ºÒ°¡Ä§Á¶¾à ;;;;;;;;;;X
+WANAP_2;%t, ¿ì¸®´Â ;;;;;;;;;;X
+WANAP_3;%s¿¡¼­ Á¦ÀÇÇÑ ;;;;;;;;;;X
+WANAP_4;ºÒ°¡Ä§Á¶¾àÀ» ¼ö¿ëÇß½À´Ï´Ù. ;;;;;;;;;;X
+WANAP_5; ;;;;;;;;;;X
+WANAP_6; ;;;;;;;;;;X
+WANAP_LOG;%sÁ¤ºÎ°¡ Á¦¾ÈÇÑ ºÒ°¡Ä§Á¶¾àÀ» ¼ö¿ë. ;;;;;;;;;;X
+WANAP_BTN1;È®ÀÎ ;;;;;;;;;;X
+WANAP_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+TANAP_SETUP;Å¸±¹ÀÌ Á¦3±¹°ú ºÒ°¡Ä§Á¶¾àÀ» ¸ÎÀ» ¶§ ;;;;;;;;;;X
+TANAP_HEADER;Ã¸º¸ºÎ º¸°í¼­ %s ;;;;;;;;;;X
+TANAP_1;ºÒ°¡Ä§Á¶¾à ;;;;;;;;;;X
+TANAP_2;%t, %s¿¡¼­´Â ;;;;;;;;;;X
+TANAP_3;%sÁ¤ºÎ¿Í ;;;;;;;;;;X
+TANAP_4;ºÒ°¡Ä§Á¶¾àÀ» ¸Î¾ú½À´Ï´Ù. ;;;;;;;;;;X
+TANAP_5; ;;;;;;;;;;X
+TANAP_6; ;;;;;;;;;;X
+TANAP_LOG;%s¿¡¼­ %sÁ¤ºÎ¿Í ºÒ°¡Ä§Á¶¾à Á¶ÀÎ. ;;;;;;;;;;X
+TANAP_BTN1;È®ÀÎ ;;;;;;;;;;X
+TANAP_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+TANAPU_SETUP;Å¸±¹ÀÌ ÀÚ±¹ÀÌ Á¦¾ÈÇÑ ºÒ°¡Ä§Á¶¾àÀ» ¼ö¶ôÇÒ ¶§ ;;;;;;;;;;X
+TANAPU_HEADER;¿Ü¹«ºÎ º¸°í¼­  %s ;;;;;;;;;;X
+TANAPU_1;ºÒ°¡Ä§Á¶¾à ;;;;;;;;;;X
+TANAPU_2;%t, ;;;;;;;;;;X
+TANAPU_3;%sÁ¤ºÎ´Â ;;;;;;;;;;X
+TANAPU_4;¿ì¸®°¡ Á¦¾ÈÇÑ ºÒ°¡Ä§Á¶¾àÀ» ;;;;;;;;;;X
+TANAPU_5;¼ö¿ëÇß½À´Ï´Ù. ;;;;;;;;;;X
+TANAPU_6; ;;;;;;;;;;X
+TANAPU_LOG;%s¿¡¼­ ¿ì¸®°¡ Á¦¾ÈÇÑ ºÒ°¡Ä§Á¶¾à ¼ö¿ë. ;;;;;;;;;;X
+TANAPU_BTN1;È®ÀÎ ;;;;;;;;;;X
+TANAPU_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+WDNAP_SETUP;ÀÚ±¹ÀÌ Å¸±¹ÀÌ Á¦¾ÈÇÑ ºÒ°¡Ä§Á¶¾àÀ» °ÅÀıÇÒ ¶§ ;;;;;;;;;;X
+WDNAP_HEADER;¿Ü¹«ºÎ º¸°í¼­ %s ;;;;;;;;;;X
+WDNAP_1;ºÒ°¡Ä§Á¶¾à ;;;;;;;;;;X
+WDNAP_2;%t, ¿ì¸®´Â ;;;;;;;;;;X
+WDNAP_3;%s¿¡¼­ Á¦¾ÈÇÑ ;;;;;;;;;;X
+WDNAP_4;º¼°¡Ä§Á¶¾àÀ» °ÅºÎÇß½À´Ï´Ù. ;;;;;;;;;;X
+WDNAP_5; ;;;;;;;;;;X
+WDNAP_6; ;;;;;;;;;;X
+WDNAP_LOG;%sÁ¤ºÎ°¡ Á¦¾ÈÇÑ ºÒ°¡Ä§Á¶¾àÀ» °ÅºÎ. ;;;;;;;;;;X
+WDNAP_BTN1;È®ÀÎ ;;;;;;;;;;X
+WDNAP_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+TDNAP_SETUP;Å¸±¹ÀÌ Á¦3±¹ÀÌ Á¦¾ÈÇÑ ºÒ°¡Ä§Á¶¾àÀ» °ÅÀıÇÒ ¶§ ;;;;;;;;;;X
+TDNAP_HEADER;Ã¸º¸ºÎ º¸°í¼­ %s ;;;;;;;;;;X
+TDNAP_1;ºÒ°¡Ä§Á¶¾à ;;;;;;;;;;X
+TDNAP_2;%t, %s¿¡¼­´Â ;;;;;;;;;;X
+TDNAP_3;%sÁ¤ºÎ°¡ Á¦¾ÈÇÑ ;;;;;;;;;;X
+TDNAP_4;ºÒ°¡Ä§Á¶¾àÀ» °ÅºÎÇß½À´Ï´Ù. ;;;;;;;;;;X
+TDNAP_5; ;;;;;;;;;;X
+TDNAP_6; ;;;;;;;;;;X
+TDNAP_LOG;%s¿¡¼­ %sÁ¤ºÎ°¡ Á¦¾ÈÇÑ ºÒ°¡Ä§Á¶¾à °ÅºÎ. ;;;;;;;;;;X
+TDNAP_BTN1;È®ÀÎ ;;;;;;;;;;X
+TDNAP_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+TDNAPU_SETUP;Å¸±¹ÀÌ ÀÚ±¹ÀÌ Á¦¾ÈÇÑ ºÒ°¡Ä§Á¶¾àÀ» °ÅÀıÇÒ ¶§ ;;;;;;;;;;X
+TDNAPU_HEADER;¿Ü¹«ºÎ º¸°í¼­ %s ;;;;;;;;;;X
+TDNAPU_1;ºÒ°¡Ä§Á¶¾à ;;;;;;;;;;X
+TDNAPU_2;%t, ;;;;;;;;;;X
+TDNAPU_3;%sÁ¤ºÎ´Â ¿ì¸®°¡ Á¦¾ÈÇÑ ;;;;;;;;;;X
+TDNAPU_4;ºÒ°¡Ä§Á¶¾àÀ» °ÅºÎÇß½À´Ï´Ù. ;;;;;;;;;;X
+TDNAPU_5; ;;;;;;;;;;X
+TDNAPU_6; ;;;;;;;;;;X
+TDNAPU_LOG;%sÁ¤ºÎ°¡ ºÒ°¡Ä§Á¶¾àÀ» °ÅºÎ. ;;;;;;;;;;X
+TDNAPU_BTN1;È®ÀÎ ;;;;;;;;;;X
+TDNAPU_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+NAGGWE_SETUP;¾î¶²±¹°¡°¡ ¿ì¸®¿¡°Ô ºÒ°¡Ä§Á¶¾à Á¦ÀÇ¸¦ ÇÒ¶§ ;When a nation sends you a non-aggression pact proposal;;;;;;;;;X
+##;;;;;;;;;;;X
+WEGUARA_HEADER;¿Ü±³Á¤Ã¥ º¸°í¼­ ;FOREIGN POLICY BRIEFING\nConcerning;;;;;;;;;X
+WEGUARA_1;%s¿¡ ´ëÇÑ º¸°í ;%s;;;;;;;;;X
+WEGUARA_2;%t, ¿ì¸®´Â ÇöÀç ;%t, we have now;;;;;;;;;X
+WEGUARA_3;%s ;GUARANTEED;;;;;;;;;X
+WEGUARA_4;À»(¸¦) ;the independence of;;;;;;;;;X
+WEGUARA_5;µ¶¸³º¸Àå ;%s;;;;;;;;;X
+WEGUARA_6;ÇÏ°í ÀÖ½À´Ï´Ù. ;;;;;;;;;;X
+WEGUARA_LOG;¿ì¸®´Â ÇöÀç %s±¹°¡¸¦ µ¶¸³º¸ÀåÇÏ°í ÀÖ½À´Ï´Ù. ;We now guarantee the independence of %s.;;;;;;;;;X
+WEGUARA_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+WEGUARA_BTN2; ;;;;;;;;;;X
+##;;;;;;;;;;;X
+REMOVETECH_SETUP;ÀÚ±¹ÀÌ ±³¸®¸¦ Æ÷±âÇÒ¶§ ;;;;;;;;;;X
+REMOVETECH_HEADER;±¹¹æ º¸°í¼­ %s;;;;;;;;;;X
+REMOVETECH_1;±³¸® Æ÷±â ;;;;;;;;;;X
+REMOVETECH_2;%t, ´ÙÀ½°ú °°Àº ±³¸®¸¦ Æ÷±âÇß½À´Ï´Ù: ;;;;;;;;;;X
+REMOVETECH_3;%s ;;;;;;;;;;X
+REMOVETECH_4;;;;;;;;;;;X
+REMOVETECH_5;;;;;;;;;;;X
+REMOVETECH_6;;;;;;;;;;;X
+REMOVETECH_LOG;%s Æ÷±â. ;;;;;;;;;;X
+REMOVETECH_BTN1;È®ÀÎ ;;;;;;;;;;X
+REMOVETECH_BTN2;;;;;;;;;;;X
+##;;;;;;;;;;;X
+SPY3DNUCS_SETUP;¾î¶²±¹°¡°¡ ÇÙ¹«±â ÆÄ±«¸¦ ¼º°øÇÒ¶§ ;When somebody has destroyed a nuke;;;;;;;;;X
+SPY3DNUCS_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPY3DNUCS_1;%s ;A spy from %s has succeeded in destroying a nuclear weapon ;;;;;;;;;X
+SPY3DNUCS_2;ÀÇ Ã¸º¸ºÎ´Â ÇÙ¹«±â¸¦ ÆÄ±«ÇÏ´Âµ¥ ¼º°øÇß´Ù. \n ´ë»ó ±¹°¡ : ;in;;;;;;;;;X
+SPY3DNUCS_3;%s ;%s;;;;;;;;;X
+SPY3DNUCS_4;%s ;%s;;;;;;;;;X
+SPY3DNUCS_5; ;;;;;;;;;;X
+SPY3DNUCS_6; ;;;;;;;;;;X
+SPY3DNUCS_LOG;%sÀÇ Ã¸º¸ºÎ´Â ÇÙ¹«±â¸¦ ÆÄ±«ÇÏ´Âµ¥ ¼º°øÇß´Ù. ´ë»ó ±¹°¡ : %s, %s ;%s has destroyed a nuclear weapon in %s. %s;;;;;;;;;X
+SPY3DNUCS_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPY3DNUCF_SETUP;Å¸±¹ÀÌ ÇÙ¹«±âÀÇ ÆÄ±«¿¡ ¼º°øÇßÀ» ¶§ ;;;;;;;;;;X
+SPY3DNUCF_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPY3DNUCF_1;%s ;A spy from %s has failed to destroy a nuclear warhead;;;;;;;;;X
+SPY3DNUCF_2;ÀÇ Ã¸º¸ºÎ´Â ÇÙ¹«±â¸¦ ÆÄ±«ÇÏ´Âµ¥ ½ÇÆĞÇß½À´Ï´Ù. \n ´ë»ó ±¹°¡ : ;in;;;;;;;;;X
+SPY3DNUCF_3;%s ;%s;;;;;;;;;X
+SPY3DNUCF_4;%s ;%s;;;;;;;;;X
+SPY3DNUCF_5; ;;;;;;;;;;X
+SPY3DNUCF_6; ;;;;;;;;;;X
+SPY3DNUCF_LOG;%sÀÇ Ã¸º¸ºÎ´Â ÇÙ¹«±â¸¦ ÆÄ±«ÇÏ´Âµ¥ ½ÇÆĞÇß´Ù. ´ë»ó ±¹°¡ : %s, %s ;%s failed to destroy a nuclear warhead in %s. %s;;;;;;;;;X
+SPY3DNUCF_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPY3SMF_SETUP;ºñ¹æ ¿îµ¿ÀÌ ½ÇÆĞÇÏ¿´À» ¶§ ;When others fails with a smear campaign;;;;;;;;;X
+SPY3SMF_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPY3SMF_1;%s ;%s has failed with a smear campaign;;;;;;;;;X
+SPY3SMF_2;ÀÇ Ã¸º¸ºÎ°¡ ;in;;;;;;;;;X
+SPY3SMF_3;ºñ¹æ ¿îµ¿¿¡ ½ÇÆĞ Çß½À´Ï´Ù. ;%s;;;;;;;;;X
+SPY3SMF_4;´ë»ó ±¹°¡ : ;%s;;;;;;;;;X
+SPY3SMF_5;%s ;;;;;;;;;;X
+SPY3SMF_6;%s ;;;;;;;;;;X
+SPY3SMF_LOG;%sÀÇ Ã¸º¸ºÎ°¡ ºñ¹æ ¿îµ¿¿¡ ½ÇÆĞÇß´Ù. ´ë»ó ±¹°¡: %s %s;%s has failed with a smear campaign in %s. %s;;;;;;;;;X
+SPY3SMF_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPY3SMS_SETUP;´Ù¸¥±¹°¡°¡ ºñ¹æ ¿îµ¿¿¡ ¼º°øÇßÀ»¶§ ;When others succeed with a smear campaign;;;;;;;;;X
+SPY3SMS_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPY3SMS_1;%s ;%s has succeeded with a smear campaign;;;;;;;;;X
+SPY3SMS_2;ÀÇ Ã¸º¸ºÎ°¡ ;in;;;;;;;;;X
+SPY3SMS_3;ºñ¹æ ¿îµ¿¿¡ ¼º°ø Çß½À´Ï´Ù. ;%s;;;;;;;;;X
+SPY3SMS_4;´ë»ó ±¹°¡ : ;%s;;;;;;;;;X
+SPY3SMS_5;%s ;;;;;;;;;;X
+SPY3SMS_6;%s ;;;;;;;;;;X
+SPY3SMS_LOG;%sÀÇ Ã¸º¸ºÎ°¡ ºñ¹æ ¿îµ¿¿¡ ¼º°øÇß´Ù. ´ë»ó ±¹°¡: %s ;%s has succeeded with a smear campaign in %s. %s;;;;;;;;;X
+SPY3SMS_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPY3MASSF_SETUP;´Ù¸¥±¹°¡°¡ ±¹Á¦¿©·Ğ Á¶ÀÛ¿¡ ½ÇÆĞÇßÀ»¶§ ;When others failed to influence the global opinion;;;;;;;;;X
+SPY3MASSF_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPY3MASSF_1;%s ;%s has failed to manipulate the global opinion;;;;;;;;;X
+SPY3MASSF_2;ÀÇ Ã¸º¸ºÎ°¡ ;about;;;;;;;;;X
+SPY3MASSF_3;±¹Á¦¿©·Ğ Á¶ÀÛ¿¡ ½ÇÆĞ Çß½À´Ï´Ù. ;%s;;;;;;;;;X
+SPY3MASSF_4;´ë»ó ±¹°¡ : ;%s;;;;;;;;;X
+SPY3MASSF_5;%s ;;;;;;;;;;X
+SPY3MASSF_6;%s ;;;;;;;;;;X
+SPY3MASSF_LOG;%sÀÇ Ã¸º¸ºÎ°¡ ±¹Á¦¿©·Ğ Á¶ÀÛ¿¡ ½ÇÆĞÇß´Ù. ´ë»ó ±¹°¡: %s ;%s has failed to manipulate the global opinion about %s. %s;;;;;;;;;X
+SPY3MASSF_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPY3MASSS_SETUP;´Ù¸¥±¹°¡°¡ ±¹Á¦¿©·Ğ Á¶ÀÛ¿¡ ¼º°øÇßÀ»¶§ ;When others successfully influence global opinion;;;;;;;;;X
+SPY3MASSS_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPY3MASSS_1;%s ;%s has succeeded in influencing the global opinion;;;;;;;;;X
+SPY3MASSS_2;ÀÇ Ã¸º¸ºÎ°¡ ;about;;;;;;;;;X
+SPY3MASSS_3;±¹Á¦¿©·Ğ Á¶ÀÛ¿¡ ½ÇÆĞ Çß½À´Ï´Ù. ;%s;;;;;;;;;X
+SPY3MASSS_4;´ë»ó ±¹°¡ : ;%s;;;;;;;;;X
+SPY3MASSS_5;%s ;;;;;;;;;;X
+SPY3MASSS_6; ;;;;;;;;;;X
+SPY3MASSS_LOG;%sÀÇ Ã¸º¸ºÎ°¡ ±¹Á¦¿©·Ğ Á¶ÀÛ¿¡ ¼º°øÇß´Ù. ´ë»ó ±¹°¡: %s ;%s has succeeded in influencing the global opinion about %s. %s;;;;;;;;;X
+SPY3MASSS_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPY3BLUEF_SETUP;´Ù¸¥±¹°¡°¡ ¼³°èµµ ÈÉÄ¡±â ½ÇÆĞÇßÀ»¶§ ;When others failed to steal a blueprint;;;;;;;;;X
+SPY3BLUEF_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPY3BLUEF_1;%s ;%s has failed to steal blueprints;;;;;;;;;X
+SPY3BLUEF_2;ÀÇ Ã¸º¸ºÎ°¡ ;from;;;;;;;;;X
+SPY3BLUEF_3;¼³°èµµ¸¦ ÈÉÄ¡´Âµ¥ ½ÇÆĞÇß½À´Ï´Ù. ;%s;;;;;;;;;X
+SPY3BLUEF_4;´ë»ó ±¹°¡ : ;%s;;;;;;;;;X
+SPY3BLUEF_5;%s ;;;;;;;;;;X
+SPY3BLUEF_6; ;;;;;;;;;;X
+SPY3BLUEF_LOG;%sÀÇ Ã¸º¸ºÎ°¡ ¼³°èµµ¸¦ ÈÉÄ¡´Âµ¥ ½ÇÆĞÇß´Ù. ´ë»ó ±¹°¡ : %s ;%s has failed to steal blueprints from %s. %s;;;;;;;;;X
+SPY3BLUEF_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPY3BLUES_SETUP;´Ù¸¥±¹°¡°¡ ¼³°èµµ¸¦ ÈÉÃÆÀ»¶§ ;When others managed to steal a blueprint;;;;;;;;;X
+SPY3BLUES_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPY3BLUES_1;%s ;%s has succeeded in stealing the blueprint;;;;;;;;;X
+SPY3BLUES_2;ÀÇ Ã¸º¸ºÎ°¡ ;for;;;;;;;;;X
+SPY3BLUES_3;¼³°èµµ¸¦ ÈÉÄ¡´Âµ¥ ¼º°øÇß½À´Ï´Ù. ;%s;;;;;;;;;X
+SPY3BLUES_4;¼³°èµµ : ;from;;;;;;;;;X
+SPY3BLUES_5;%s ;%s;;;;;;;;;X
+SPY3BLUES_6;´ë»ó ±¹°¡ : \n %s ;%s;;;;;;;;;X
+SPY3BLUES_LOG;%sÀÇ Ã¸º¸ºÎ°¡ ¼³°èµµ¸¦ ÈÉÄ¡´Âµ¥ ¼º°øÇß´Ù. ¼³°èµµ : %s ´ë»ó ±¹°¡ : %s ;%s has succeeded in stealing the blueprint for %s from %s.  %s;;;;;;;;;X
+SPY3BLUES_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPY3DTEF_SETUP;´Ù¸¥±¹°¡°¡ ±â¼ú°³¹ß ¹æÇØ¿¡ ½ÇÆĞÇßÀ»¶§ ;When others failed to delay a tech team;;;;;;;;;X
+SPY3DTEF_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPY3DTEF_1;%s ;%s has failed to delay a tech team ;;;;;;;;;X
+SPY3DTEF_2;ÀÇ Ã¸º¸ºÎ°¡ ;in;;;;;;;;;X
+SPY3DTEF_3;±â¼ú°³¹ß ¹æÇØ¿¡ ½ÇÆĞÇß½À´Ï´Ù. ;%s;;;;;;;;;X
+SPY3DTEF_4;´ë»ó ±¹°¡: ;%s;;;;;;;;;X
+SPY3DTEF_5;%s ;;;;;;;;;;X
+SPY3DTEF_6; ;;;;;;;;;;X
+SPY3DTEF_LOG;%sÀÇ Ã¸º¸ºÎ°¡ ±â¼ú°³¹ß ¹æÇØ¿¡ ½ÇÆĞÇß´Ù. ´ë»ó ±¹°¡ : %s ;%s has failed to delay a tech team in %s. %s;;;;;;;;;X
+SPY3DTEF_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPY3DTES_SETUP;´Ù¸¥±¹°¡°¡ ±â¼ú°³¹ß ¹æÇØ¿¡ ¼º°øÇßÀ»¶§ ;When others succeed in delaying a tech team;;;;;;;;;X
+SPY3DTES_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPY3DTES_1;%s ;%s has succeeded in delaying ;;;;;;;;;X
+SPY3DTES_2;ÀÇ Ã¸º¸ºÎ°¡ ;the tech team;;;;;;;;;X
+SPY3DTES_3;±â¼ú °³¹ß ¹æÇØ¿¡ ¼º°øÇß½À´Ï´Ù. ;%s;;;;;;;;;X
+SPY3DTES_4;´ë»ó ¿¬±¸Áø : ;in;;;;;;;;;X
+SPY3DTES_5;%s ;%s;;;;;;;;;X
+SPY3DTES_6;±¹Àû : \n %s ;%s;;;;;;;;;X
+SPY3DTES_LOG;%sÀÇ Ã¸º¸ºÎ°¡ ±â¼ú °³¹ß ¹æÇØ¿¡ ¼º°øÇß½À´Ï´Ù. ´ë»ó ¿¬±¸Áø : %s ±¹Àû : %s ;%s has succeeded in delaying the tech team %s in %s. %s;;;;;;;;;X
+SPY3DTES_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPY3PRODF_SETUP;´Ù¸¥±¹°¡°¡ »ı»ê ¹æÇØ¿¡ ½ÇÆĞÇßÀ»¶§ ;When others fail to delay production;;;;;;;;;X
+SPY3PRODF_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPY3PRODF_1;%s ;%s has failed in delaying production;;;;;;;;;X
+SPY3PRODF_2;ÀÇ Ã¸º¸ºÎ°¡;in;;;;;;;;;X
+SPY3PRODF_3;»ı»ê ¹æÇØ¿¡ ½ÇÆĞÇß½À´Ï´Ù. ;%s;;;;;;;;;X
+SPY3PRODF_4;´ë»ó ±¹°¡ : ;%s;;;;;;;;;X
+SPY3PRODF_5;%s ;;;;;;;;;;X
+SPY3PRODF_6; ;;;;;;;;;;X
+SPY3PRODF_LOG;%sÀÇ Ã¸º¸ºÎ°¡ »ı»ê ¹æÇØ¿¡ ½ÇÆĞÇß´Ù. ´ë»ó ¸ñÇ¥ : %s. %s;%s has failed in delaying production in %s. %s;;;;;;;;;X
+SPY3PRODF_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPY3FPF_SETUP;´Ù¸¥±¹°¡°¡ ¹İÁ¤ºÎ ¼¼·Â Áö¿ø¿¡ ½ÇÆĞÇßÀ»¶§ ;When others fail to fund partisans;;;;;;;;;X
+SPY3FPF_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPY3FPF_1;%s ;%s has failed to fund partisans ;;;;;;;;;X
+SPY3FPF_2;ÀÇ Ã¸º¸ºÎ°¡ ;in;;;;;;;;;X
+SPY3FPF_3;¹İÁ¤ºÎ ¼¼·Â Áö¿ø¿¡ ½ÇÆĞÇß½À´Ï´Ù. ;%s;;;;;;;;;X
+SPY3FPF_4;´ë»ó ¼¼·Â : ;%s;;;;;;;;;X
+SPY3FPF_5;%s ;;;;;;;;;;X
+SPY3FPF_6; ;;;;;;;;;;X
+SPY3FPF_LOG;%sÀÇ Ã¸º¸ºÎ°¡ ¹İÁ¤ºÎ ¼¼·Â Áö¿ø¿¡ ½ÇÆĞÇß´Ù. ´ë»ó ¼¼·Â : %s %s;%s has failed to fund partisans in %s. %s;;;;;;;;;X
+SPY3FPF_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPY3PRODS_SETUP;´Ù¸¥±¹°¡°¡ »ı»ê ¹æÇØ¿¡ ¼º°øÇßÀ»¶§ ;When others managed to delay production;;;;;;;;;X
+SPY3PRODS_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPY3PRODS_1;%s ;%s has disrupted the production;;;;;;;;;X
+SPY3PRODS_2;ÀÇ Ã¸º¸ºÎ°¡ ;of;;;;;;;;;X
+SPY3PRODS_3;»ı»ê ¹æÇØ¿¡ ¼º°øÇß½À´Ï´Ù. ;%s;;;;;;;;;X
+SPY3PRODS_4;´ë»ó ¸ñÇ¥ : ;in;;;;;;;;;X
+SPY3PRODS_5;%s ;%s;;;;;;;;;X
+SPY3PRODS_6;´ë»ó ±¹°¡ : \n %s ;%s;;;;;;;;;X
+SPY3PRODS_LOG;%sÀÇ Ã¸º¸ºÎ°¡ »ı»ê ¹æÇØ¿¡ ¼º°øÇß´Ù. ´ë»ó ¸ñÇ¥ : %s ´ë»ó ±¹°¡ : %s. %s;%s has disrupted production of %s In %s. %s;;;;;;;;;X
+SPY3PRODS_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPY3AF_SETUP;´Ù¸¥±¹°¡°¡ Ã¸º¸¿øÀ» º¸³»´Âµ¥ ½ÇÆĞÇßÀ»¶§ ;When others failed to send a spy;;;;;;;;;X
+SPY3AF_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPY3AF_1;%s;%s tried but failed to send a spy;;;;;;;;;X
+SPY3AF_2;ÀÇ Ã¸º¸ºÎ°¡ ;to;;;;;;;;;X
+SPY3AF_3;Ã¸º¸¿øÀ» º¸³»´Âµ¥ ½ÇÆĞÇß½À´Ï´Ù. ;%s;;;;;;;;;X
+SPY3AF_4;´ë»ó ±¹°¡ : ;%s;;;;;;;;;X
+SPY3AF_5;%s ;;;;;;;;;;X
+SPY3AF_6; ;;;;;;;;;;X
+SPY3AF_LOG;%sÀÇ Ã¸º¸ºÎ°¡ Ã¸º¸¿øÀ» º¸³»´Âµ¥ ½ÇÆĞÇß´Ù. ´ë»ó ±¹°¡ : %s ;%s tried but failed to send a spy to %s. %s;;;;;;;;;X
+SPY3AF_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPY3AS_SETUP;´Ù¸¥±¹°¡°¡ Ã¸º¸¿øÀ» º¸³ÂÀ»¶§ ;When others send a spy;;;;;;;;;X
+SPY3AS_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPY3AS_1;%s ;%s has sent a spy;;;;;;;;;X
+SPY3AS_2;ÀÇ Ã¸º¸ºÎ°¡ ;to;;;;;;;;;X
+SPY3AS_3;Ã¸º¸¿øÀ» º¸³»´Âµ¥ ¼º°øÇß½À´Ï´Ù. ;%s;;;;;;;;;X
+SPY3AS_4;´ë»ó ±¹°¡ : ;%s;;;;;;;;;X
+SPY3AS_5;%s ;;;;;;;;;;X
+SPY3AS_6; ;;;;;;;;;;X
+SPY3AS_LOG;%sÀÇ Ã¸º¸ºÎ°¡ Ã¸º¸¿øÀ» º¸³»´Âµ¥ ¼º°øÇß´Ù. ´ë»ó ±¹°¡ : %s ;%s has sent a spy to %s. %s;;;;;;;;;X
+SPY3AS_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPY3ASF_SETUP;´Ù¸¥±¹°¡°¡ Àå°ü ¾Ï»ì¿¡ ½ÇÆĞÇÒ¶§ ;When others failed to assassinate a minister;;;;;;;;;X
+SPY3ASF_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPY3ASF_1;%s;%s tried but failed to assassinate;;;;;;;;;X
+SPY3ASF_2;ÀÇ Ã¸º¸ºÎ°¡ ;the minister;;;;;;;;;X
+SPY3ASF_3;Àå°ü ¾Ï»ì¿¡ »ìÆĞÇß½À´Ï´Ù. ;%s;;;;;;;;;X
+SPY3ASF_4;´ë»ó ¸ñÇ¥ : ;in;;;;;;;;;X
+SPY3ASF_5;%s ;%s;;;;;;;;;X
+SPY3ASF_6;´ë»ó ±¹°¡ : \n %s ;%s;;;;;;;;;X
+SPY3ASF_LOG;%sÀÇ Ã¸º¸ºÎ°¡ Àå°ü ¾Ï»ì¿¡ »ìÆĞÇß´Ù. ´ë»ó ¸ñÇ¥ : %s ´ë»ó ±¹°¡ : %s ;%s tried but failed to assassinate %s in %s. %s;;;;;;;;;X
+SPY3ASF_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPY3ASS_SETUP;´Ù¸¥±¹°¡°¡ Àå°ü ¾Ï»ì¿¡ ¼º°øÇÒ¶§ ;When others assassinate a minister;;;;;;;;;X
+SPY3ASS_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPY3ASS_1;%s ;%s has assassinated;;;;;;;;;X
+SPY3ASS_2;ÀÇ Ã¸º¸ºÎ°¡ ;the minister;;;;;;;;;X
+SPY3ASS_3;Àå°ü ¾Ï»ì¿¡ ¼º°øÇß½À´Ï´Ù. ;%s;;;;;;;;;X
+SPY3ASS_4;´ë»ó ¸ñÇ¥ : ;in;;;;;;;;;X
+SPY3ASS_5;%s ;%s;;;;;;;;;X
+SPY3ASS_6;´ë»ó ±¹°¡ : \n %s ;%s;;;;;;;;;X
+SPY3ASS_LOG;%sÀÇ Ã¸º¸ºÎ°¡ Àå°ü ¾Ï»ì¿¡ ¼º°øÇß´Ù. ´ë»ó ¸ñÇ¥ : %s ´ë»ó ±¹°¡ : %s ;%s has assassinated %s in %s. %s;;;;;;;;;X
+SPY3ASS_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPY2DNUCS_SETUP;´Ù¸¥±¹°¡°¡ ¿ì¸®ÀÇ ÇÙ¹«±â¸¦ ÆÄ±«ÇÏ¿´À» ¶§ ;When somebody has destroyed our nuke;;;;;;;;;X
+SPY2DNUCS_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPY2DNUCS_1;%s ;A spy from %s has succeeded in destroying one of our nuclear warheads;;;;;;;;;X
+SPY2DNUCS_2;ÀÇ Ã¸º¸ºÎ°¡ ;%s;;;;;;;;;X
+SPY2DNUCS_3;¿ì¸®ÀÇ ÇÙ¹«±â¸¦ ÆÄ±«ÇÏ´Âµ¥ ¼º°øÇß½À´Ï´Ù. ;;;;;;;;;;X
+SPY2DNUCS_4;%s ;;;;;;;;;;X
+SPY2DNUCS_5; ;;;;;;;;;;X
+SPY2DNUCS_6; ;;;;;;;;;;X
+SPY2DNUCS_LOG;%sÀÇ Ã¸º¸ºÎ°¡ ¿ì¸®ÀÇ ÇÙ¹«±â¸¦ ÆÄ±«ÇÏ´Âµ¥ ¼º°øÇß´Ù. %s ;%s has destroyed one of our nuclear warheads. %s;;;;;;;;;X
+SPY2DNUCS_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPY2DNUCF_SETUP;´Ù¸¥±¹°¡°¡ ¿ì¸®ÀÇ ÇÙ¹«±â¸¦ ÆÄ±«ÇÏ´Âµ¥ ½ÇÆĞÇÑ °æ¿ì ;When somebody failed to destroy our nuke;;;;;;;;;X
+SPY2DNUCF_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPY2DNUCF_1;%s ;A spy from %s has failed to destroy one of our nuclear warheads;;;;;;;;;X
+SPY2DNUCF_2;ÀÇ Ã¸º¸ºÎ°¡ ;%s;;;;;;;;;X
+SPY2DNUCF_3;ÇÙ¹«±â¸¦ ÆÄ±«ÇÏ´Âµ¥ ½ÇÆĞÇß½À´Ï´Ù. ;;;;;;;;;;X
+SPY2DNUCF_4;%s ;;;;;;;;;;X
+SPY2DNUCF_5; ;;;;;;;;;;X
+SPY2DNUCF_6; ;;;;;;;;;;X
+SPY2DNUCF_LOG;%sÀÇ Ã¸º¸ºÎ°¡ ¿ì¸®ÀÇ ÇÙ¹«±â¸¦ ÆÄ±«ÇÏ´Âµ¥ ½ÇÆĞÇß´Ù. %s ;%s failed to destroy one of our nuclear warheads. %s;;;;;;;;;X
+SPY2DNUCF_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPY2SMF_SETUP;´Ù¸¥±¹°¡°¡ ¿ì¸®¿¡ ´ëÇÑ ºñ¹æ ¿îµ¿¿¡ ½ÇÆĞÇßÀ» °æ¿ì ;When someone fails with a smear campaign against us;;;;;;;;;X
+SPY2SMF_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPY2SMF_1;%s ;%s has failed with a smear campaign against our government;;;;;;;;;X
+SPY2SMF_2;ÀÇ Ã¸º¸ºÎ°¡ ;%s;;;;;;;;;X
+SPY2SMF_3;¿ì¸®¿¡ ´ëÇÑ ºñ¹æ ¿îµ¿¿¡ ½ÇÆĞÇß½À´Ï´Ù. ;;;;;;;;;;X
+SPY2SMF_4;%s ;;;;;;;;;;X
+SPY2SMF_5; ;;;;;;;;;;X
+SPY2SMF_6; ;;;;;;;;;;X
+SPY2SMF_LOG;%sÀÇ Ã¸º¸ºÎ°¡ ¿ì¸®¿¡ ´ëÇÑ ºñ¹æ ¿îµ¿¿¡ ½ÇÆĞÇß´Ù. %s ;%s has failed with a smear campaign against us. %s;;;;;;;;;X
+SPY2SMF_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPY2SMS_SETUP;´Ù¸¥±¹°¡°¡ ºñ¹æ ¿îµ¿¿¡ ¼º°øÇÑ °æ¿ì ;When someone succeed with a smear campaign against us;;;;;;;;;X
+SPY2SMS_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPY2SMS_1;%s ;%s has succeeded with a smear campaign against our government;;;;;;;;;X
+SPY2SMS_2;ÀÇ Ã¸º¸ºÎ°¡ ;%s;;;;;;;;;X
+SPY2SMS_3;¿ì¸®¿¡ ´ëÇÑ ºñ¹æ ¿îµ¿¿¡ ¼º°øÇß½À´Ï´Ù. ;;;;;;;;;;X
+SPY2SMS_4;%s ;;;;;;;;;;X
+SPY2SMS_5; ;;;;;;;;;;X
+SPY2SMS_6; ;;;;;;;;;;X
+SPY2SMS_LOG;%sÀÇ Ã¸º¸ºÎ°¡ ¿ì¸®¿¡ ´ëÇÑ ºñ¹æ ¿îµ¿¿¡ ¼º°øÇß´Ù. %s ;%s has succeeded with a smear campaign against us. %s;;;;;;;;;X
+SPY2SMS_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPY2MASSF_SETUP;´Ù¸¥ ±¹°¡°¡ ¿ì¸®¿¡ ´ëÇÑ ±¹Á¦¿©·Ğ Á¶ÀÛ¿¡ ½ÇÆĞÇßÀ»¶§ ;When someone failed to influence the global opinion against us;;;;;;;;;X
+SPY2MASSF_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPY2MASSF_1;%s ;%s has failed to manipulate the global opinion against our country;;;;;;;;;X
+SPY2MASSF_2;ÀÇ Ã¸º¸ºÎ°¡ ;%s;;;;;;;;;X
+SPY2MASSF_3;¿ì¸®¿¡ ´ëÇÑ ±¹Á¦¿©·Ğ Á¶ÀÛ¿¡ ½ÇÆĞÇß½À´Ï´Ù. ;;;;;;;;;;X
+SPY2MASSF_4;%s ;;;;;;;;;;X
+SPY2MASSF_5; ;;;;;;;;;;X
+SPY2MASSF_6; ;;;;;;;;;;X
+SPY2MASSF_LOG;%sÀÇ Ã¸º¸ºÎ°¡ ¿ì¸®¿¡ ´ëÇÑ ±¹Á¦¿©·Ğ Á¶ÀÛ¿¡ ½ÇÆĞÇß´Ù. %s ;%s has failed to manipulate the global opinion against us. %s;;;;;;;;;X
+SPY2MASSF_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPY2MASSS_SETUP;´Ù¸¥ ±¹°¡°¡ ¿ì¸®¿¡ ´ëÇÑ ±¹Á¦¿©·Ğ Á¶ÀÛ¿¡ ¼º°øÇßÀ»¶§ ;When someone successfully influence global opinion against us;;;;;;;;;X
+SPY2MASSS_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPY2MASSS_1;%s ;%s has succeeded in influencing the global opinion against our country;;;;;;;;;X
+SPY2MASSS_2;ÀÇ Ã¸º¸ºÎ°¡ ;%s;;;;;;;;;X
+SPY2MASSS_3;¿ì¸®¿¡ ´ëÇÑ ±¹Á¦¿©·Ğ Á¶ÀÛ¿¡ ¼º°øÇß½À´Ï´Ù. ;;;;;;;;;;X
+SPY2MASSS_4; ;;;;;;;;;;X
+SPY2MASSS_5; ;;;;;;;;;;X
+SPY2MASSS_6; ;;;;;;;;;;X
+SPY2MASSS_LOG;%sÀÇ Ã¸º¸ºÎ°¡ ¿ì¸®¿¡ ´ëÇÑ ±¹Á¦¿©·Ğ Á¶ÀÛ¿¡ ¼º°øÇß´Ù. %s ;%s has succeeded in influencing the global opinion against us. %s;;;;;;;;;X
+SPY2MASSS_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPY2BLUEF_SETUP;´Ù¸¥ ±¹°¡°¡ ¿ì¸®³ª¶óÀÇ Ã»»çÁøÀ» ÈÉÄ¡´Âµ¥ ½ÇÆĞÇßÀ»¶§ ;When someone failed to steal our blueprint;;;;;;;;;X
+SPY2BLUEF_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPY2BLUEF_1;%s ;%s has failed to steal one of our blueprints;;;;;;;;;X
+SPY2BLUEF_2;ÀÇ Ã¸º¸ºÎ°¡ ;%s;;;;;;;;;X
+SPY2BLUEF_3;¿ì¸®ÀÇ Ã»»çÁøÀ» ÈÉÄ¡´Âµ¥ ½ÇÆĞÇß´Ù. ;;;;;;;;;;X
+SPY2BLUEF_4;%s ;;;;;;;;;;X
+SPY2BLUEF_5; ;;;;;;;;;;X
+SPY2BLUEF_6; ;;;;;;;;;;X
+SPY2BLUEF_LOG;%sÀÇ Ã¸º¸ºÎ°¡ ¿ì¸®ÀÇ Ã»»çÁøÀ» ÈÉÄ¡´Âµ¥ ½ÇÆĞÇß´Ù. %s ;%s has failed to steal blueprints from us. %s;;;;;;;;;X
+SPY2BLUEF_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPY2BLUES_SETUP;´Ù¸¥ ±¹°¡°¡ ¿ì¸®ÀÇ Ã»»çÁøÀ» ÈÉÄ¡µµ·Ï Á¶Á¾ÇßÀ»¶§ ;When someone managed to steal our blueprints;;;;;;;;;X
+SPY2BLUES_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPY2BLUES_1;%s ;%s has succeeded in stealing the blueprints;;;;;;;;;X
+SPY2BLUES_2;ÀÇ Ã¸º¸ºÎ°¡ ;for;;;;;;;;;X
+SPY2BLUES_3;¿ì¸®ÀÇ Ã»»çÁøÀ» ÈÉÄ¡´Âµ¥ ¼º°øÇß´Ù. ;%s;;;;;;;;;X
+SPY2BLUES_4;´ë»ó ¸ñÇ¥ :;from us;;;;;;;;;X
+SPY2BLUES_5;%s ;%s;;;;;;;;;X
+SPY2BLUES_6;%s ;;;;;;;;;;X
+SPY2BLUES_LOG;%sÀÇ Ã¸º¸ºÎ°¡ ¿ì¸®ÀÇ Ã»»çÁøÀ» ÈÉÄ¡´Âµ¥ ¼º°øÇß´Ù. ´ë»ó ¸ñÇ¥ : %s , %s ;%s has succeeded in stealing the blueprint for %s from us. %s;;;;;;;;;X
+SPY2BLUES_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPY2DTEF_SETUP;´Ù¸¥ ±¹°¡°¡ ¿ì¸®ÀÇ ¿¬±¸Áö¿¬¿¡ ½ÇÆĞÇßÀ»¶§ ;When someone failed to delay our tech team;;;;;;;;;X
+SPY2DTEF_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPY2DTEF_1;%s ;%s has failed to delay one of our tech teams;;;;;;;;;X
+SPY2DTEF_2;ÀÇ Ã¸º¸ºÎ°¡ ;%s;;;;;;;;;X
+SPY2DTEF_3;¿ì¸®ÀÇ ¿¬±¸¸¦ Áö¿¬½ÃÅ°´Âµ¥ ½ÇÆĞÇß´Ù. ;;;;;;;;;;X
+SPY2DTEF_4;%s ;;;;;;;;;;X
+SPY2DTEF_5; ;;;;;;;;;;X
+SPY2DTEF_6; ;;;;;;;;;;X
+SPY2DTEF_LOG;%sÀÇ Ã¸º¸ºÎ°¡ ¿ì¸®ÀÇ ¿¬±¸¸¦ Áö¿¬½ÃÅ°´Âµ¥ ½ÇÆĞÇß´Ù. %s ;%s has failed to delay our tech team. %s;;;;;;;;;X
+SPY2DTEF_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPY2DTES_SETUP;´Ù¸¥±¹°¡°¡ ¿ì¸®ÀÇ ±â¼ú°³¹ßÀ» ¹æÇØ ÇßÀ»¶§ ;When someone succeeded to delay our tech team;;;;;;;;;X
+SPY2DTES_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPY2DTES_1;%s ;%s has succeeded in delaying;;;;;;;;;X
+SPY2DTES_2;ÀÇ Ã¸º¸ºÎ°¡ ;the tech team;;;;;;;;;X
+SPY2DTES_3;¿ì¸®ÀÇ ±â¼ú°³¹ßÀ» ¹æÇØÇÏ´Âµ¥ ¼º°øÇß½À´Ï´Ù. ;%s;;;;;;;;;X
+SPY2DTES_4;´ë»ó ¸ñÇ¥ : ;%s;;;;;;;;;X
+SPY2DTES_5;%s ;;;;;;;;;;X
+SPY2DTES_6;%s ;;;;;;;;;;X
+SPY2DTES_LOG;%sÀÇ Ã¸º¸ºÎ°¡ ¿ì¸®ÀÇ ±â¼ú°³¹ßÀ» ¹æÇØÇß´Ù. ´ë»ó ¸ñÇ¥ : %s. %s ;%s has succeeded in delaying our tech team %s. %s;;;;;;;;;X
+SPY2DTES_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPY2PRODS_SETUP;´Ù¸¥±¹°¡°¡ ¿ì¸®ÀÇ »ı»ê½Ã¼³À» ¹æÇØ ÇßÀ»¶§ ;When someone managed to delay our production;;;;;;;;;X
+SPY2PRODS_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPY2PRODS_1;%s ;%s has disrupted the production;;;;;;;;;X
+SPY2PRODS_2;ÀÇ Ã¸º¸ºÎ°¡ ;of;;;;;;;;;X
+SPY2PRODS_3;¿ì¸®ÀÇ »ı»ê½Ã¼³À» ¹æÇØÇÏ´Âµ¥ ¼º°øÇß½À´Ï´Ù. ;%s;;;;;;;;;X
+SPY2PRODS_4;´ë»ó ¸ñÇ¥ : ;%s;;;;;;;;;X
+SPY2PRODS_5;%s ;;;;;;;;;;X
+SPY2PRODS_6;%s ;;;;;;;;;;X
+SPY2PRODS_LOG;%sÀÇ Ã¸º¸ºÎ°¡ ¿ì¸®ÀÇ »ı»ê½Ã¼³À» ¹æÇØÇß´Ù. ´ë»ó ¸ñÇ¥ : %s. %s ;%s has disrupted the production of %s. %s;;;;;;;;;X
+SPY2PRODS_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPY2PRODF_SETUP;´Ù¸¥ ±¹°¡°¡ ¿ì¸®ÀÇ »ı»êÀ» Áö¿¬½ÃÅ°´Âµ¥ ½ÇÆĞ ÇßÀ»¶§ ;When someone fail to delay our production;;;;;;;;;X
+SPY2PRODF_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPY2PRODF_1;%s ;%s has failed to delay our production;;;;;;;;;X
+SPY2PRODF_2;ÀÇ Ã¸º¸ºÎ°¡ ;%s;;;;;;;;;X
+SPY2PRODF_3;¿ì¸®ÀÇ »ı»êÀ» Áö¿¬½ÃÅ°´Âµ¥ ½ÇÆĞÇß´Ù. ;;;;;;;;;;X
+SPY2PRODF_4;%s ;;;;;;;;;;X
+SPY2PRODF_5; ;;;;;;;;;;X
+SPY2PRODF_6; ;;;;;;;;;;X
+SPY2PRODF_LOG;%sÀÇ Ã¸º¸ºÎ°¡ ¿ì¸®ÀÇ »ı»êÀ» Áö¿¬½ÃÅ°´Âµ¥ ½ÇÆĞÇß´Ù. %s ;%s has failed to delay our production. %s;;;;;;;;;X
+SPY2PRODF_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPY2FPF_SETUP;´Ù¸¥ ±¹°¡°¡ ¿ì¸®³ª¶óÀÇ ¹İÁ¤ºÎ ¼¼·ÂÁö¿ø¿¡ ½ÇÆĞÇßÀ»¶§ ;When someone fail to fund partisans in our country;;;;;;;;;X
+SPY2FPF_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPY2FPF_1;%s ;%s has failed to fund partisans;;;;;;;;;X
+SPY2FPF_2;ÀÇ Ã¸º¸ºÎ°¡ ;in;;;;;;;;;X
+SPY2FPF_3;¹İÁ¤ºÎ ¼¼·ÂÁö¿ø¿¡ ½ÇÆĞÇß´Ù. ;%s;;;;;;;;;X
+SPY2FPF_4;´ë»ó ¸ñÇ¥ : ;%s;;;;;;;;;X
+SPY2FPF_5;%s ;;;;;;;;;;X
+SPY2FPF_6;%s ;;;;;;;;;;X
+SPY2FPF_LOG;%sÀÇ Ã¸º¸ºÎ°¡ ¹İÁ¤ºÎ ¼¼·ÂÁö¿ø¿¡ ½ÇÆĞÇß´Ù. ´ë»ó ¸ñÇ¥ : %s. %s ;%s has failed to fund partisans in %s, %s;;;;;;;;;X
+SPY2FPF_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPY2ASF_SETUP;´Ù¸¥ ±¹°¡°¡ ¿ì¸®ÀÇ Àå°üÀ» ¾Ï»ìÇÏ´Âµ¥ ½ÇÆĞÇßÀ»¶§ ;When someone failed to assassinate our minister;;;;;;;;;X
+SPY2ASF_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPY2ASF_1;%s ;%s tried but failed to assassinate;;;;;;;;;X
+SPY2ASF_2;ÀÇ Ã¸º¸ºÎ°¡ ;the minister;;;;;;;;;X
+SPY2ASF_3;¿ì¸®ÀÇ Àå°üÀ» ¾Ï»ìÇÏ´Âµ¥ ½ÇÆĞÇß´Ù. ;%s;;;;;;;;;X
+SPY2ASF_4;´ë»ó ¸ñÇ¥ : ;%s;;;;;;;;;X
+SPY2ASF_5;%s ;;;;;;;;;;X
+SPY2ASF_6;%s ;;;;;;;;;;X
+SPY2ASF_LOG;%sÀÇ Ã¸º¸ºÎ°¡ ¿ì¸®ÀÇ Àå°üÀ» ¾Ï»ìÇÏ´Âµ¥ ½ÇÆĞÇß´Ù. ´ë»ó ¸ñÇ¥ : %s. %s ;%s tried but failed to assassinate %s. %s;;;;;;;;;X
+SPY2ASF_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPY2ASS_SETUP;´Ù¸¥ ±¹°¡°¡ ¿ì¸®ÀÇ Àå°üÀ» ¾Ï»ìÇßÀ»¶§ ;When someone assassinate our minister;;;;;;;;;X
+SPY2ASS_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPY2ASS_1;%s ;%s has assassinated;;;;;;;;;X
+SPY2ASS_2;ÀÇ Ã¸º¸ºÎ°¡ ;the minister;;;;;;;;;X
+SPY2ASS_3;¿ì¸®ÀÇ Àå°üÀ» ¾Ï»ìÇÏ´Âµ¥ ¼º°øÇß´Ù. ;%s;;;;;;;;;X
+SPY2ASS_4;´ë»ó ¸ñÇ¥ : ;%s;;;;;;;;;X
+SPY2ASS_5;%s ;;;;;;;;;;X
+SPY2ASS_6;%s ;;;;;;;;;;X
+SPY2ASS_LOG;%sÀÇ Ã¸º¸ºÎ°¡ ¿ì¸®ÀÇ Àå°üÀ» ¾Ï»ìÇÏ´Âµ¥ ¼º°øÇß´Ù. ´ë»ó ¸ñÇ¥ : %s. %s ;%s has assassinated %s. %s;;;;;;;;;X
+SPY2ASS_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPYASF_SETUP;¿ì¸®°¡ Àå°ü ¾Ï»ì¿¡ ½ÇÆĞÇÒ¶§ ;When we failed to assassinate a minister;;;;;;;;;X
+SPYASF_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPYASF_1;¿ì¸®´Â Àå°ü ¾Ï»ì¿¡ ½ÇÆĞÇß½À´Ï´Ù. ;We tried but failed to assassinate;;;;;;;;;X
+SPYASF_2;´ë»ó ¸ñÇ¥ : ;the minister;;;;;;;;;X
+SPYASF_3;%s ;%s;;;;;;;;;X
+SPYASF_4;´ë»ó ±¹°¡ : ;in;;;;;;;;;X
+SPYASF_5;%s ;%s;;;;;;;;;X
+SPYASF_6;%s ;%s;;;;;;;;;X
+SPYASF_LOG;¿ì¸®´Â Àå°ü ¾Ï»ì¿¡ ½ÇÆĞÇß´Ù. ´ë»ó ¸ñÇ¥ : %s ´ë»ó ±¹°¡ : %s, %s ;We tried but failed to assassinate %s in %s. %s;;;;;;;;;X
+SPYASF_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPYASS_SETUP;¿ì¸®°¡ Àå°ü ¾Ï»ì¿¡ ¼º°øÇÒ¶§ ;When we assassinate a minister;;;;;;;;;X
+SPYASS_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPYASS_1;¿ì¸®´Â Àå°ü ¾Ï»ì¿¡ ¼º°øÇß½À´Ï´Ù. ;We have assassinated;;;;;;;;;X
+SPYASS_2;´ë»ó ¸ñÇ¥ : ;the minister;;;;;;;;;X
+SPYASS_3;%s ;%s;;;;;;;;;X
+SPYASS_4;´ë»ó ±¹°¡ : ;in;;;;;;;;;X
+SPYASS_5;%s ;%s;;;;;;;;;X
+SPYASS_6;%s ;%s;;;;;;;;;X
+SPYASS_LOG;¿ì¸®´Â Àå°ü ¾Ï»ì¿¡ ¼º°øÇß´Ù. ´ë»ó ¸ñÇ¥ : %s ´ë»ó ±¹°¡ : %s, %s ;We have assassinated %s in %s. %s;;;;;;;;;X
+SPYASS_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPYSMS_SETUP;¿ì¸®°¡ ºñ¹æ ¿îµ¿¿¡ ¼º°øÇßÀ»¶§ ;When we launch a smear campaign;;;;;;;;;X
+SPYSMS_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPYSMS_1;¿ì¸®´Â ºñ¹æ ¿îµ¿¿¡ ¼º°øÇß½À´Ï´Ù. ;We have launched a smear campaign;;;;;;;;;X
+SPYSMS_2;´ë»ó ±¹°¡ : ;against;;;;;;;;;X
+SPYSMS_3;%s ;%s;;;;;;;;;X
+SPYSMS_4;%s ;%s;;;;;;;;;X
+SPYSMS_5; ;;;;;;;;;;X
+SPYSMS_6; ;;;;;;;;;;X
+SPYSMS_LOG;¿ì¸®´Â ºñ¹æ ¿îµ¿¿¡ ¼º°øÇß´Ù. ´ë»ó ±¹°¡ : %s. %s ;We have smear campaigned %s. %s.;;;;;;;;;X
+SPYSMS_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPYSMF_SETUP;¿ì¸®°¡ ºñ¹æ ¿îµ¿¿¡ ½ÇÆĞÇßÀ»¶§ ;When we failed with smear campaign;;;;;;;;;X
+SPYSMF_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPYSMF_1;¿ì¸®´Â ºñ¹æ ¿îµ¿¿¡ ½ÇÆĞÇß½À´Ï´Ù. ;We failed with a smear campaign;;;;;;;;;X
+SPYSMF_2;´ë»ó ±¹°¡ : ;against;;;;;;;;;X
+SPYSMF_3;%s ;%s;;;;;;;;;X
+SPYSMF_4;%s ;%s;;;;;;;;;X
+SPYSMF_5; ;;;;;;;;;;X
+SPYSMF_6; ;;;;;;;;;;X
+SPYSMF_LOG;¿ì¸®´Â ºñ¹æ ¿îµ¿¿¡ ½ÇÆĞÇß´Ù. ´ë»ó ±¹°¡ : %s. %s ;We have failed to smear campaign against %s. %s.;;;;;;;;;X
+SPYSMF_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPYMASSF_SETUP;¿ì¸®°¡ ±¹Á¦¿©·Ğ Á¶ÀÛ¿¡ ½ÇÆĞÇßÀ»¶§ ;When we fail to influence global opinion;;;;;;;;;X
+SPYMASSF_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPYMASSF_1;¿ì¸®´Â ±¹Á¦¿©·Ğ Á¶ÀÛ¿¡ ½ÇÆĞÇß½À´Ï´Ù. ;We have failed to influence global opinion;;;;;;;;;X
+SPYMASSF_2;´ë»ó ±¹°¡ : ;about;;;;;;;;;X
+SPYMASSF_3;%s ;%s;;;;;;;;;X
+SPYMASSF_4;%s ;%s;;;;;;;;;X
+SPYMASSF_5; ;;;;;;;;;;X
+SPYMASSF_6; ;;;;;;;;;;X
+SPYMASSF_LOG;¿ì¸®´Â ±¹Á¦¿©·Ğ Á¶ÀÛ¿¡ ½ÇÆĞÇß´Ù. ´ë»ó ±¹°¡ : %s. %s ;We have failed to influence global opinion about %s. %s;;;;;;;;;X
+SPYMASSF_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPYMASSS_SETUP;¿ì¸®°¡ ±¹Á¦ ¿©·Ğ Á¶ÀÛ¿¡ ¼º°øÇßÀ» ¶§ ;When we succeeded to influence global opinion;;;;;;;;;X
+SPYMASSS_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPYMASSS_1;¿ì¸®´Â ±¹Á¦¿©·Ğ Á¶ÀÛ¿¡ ¼º°øÇß½À´Ï´Ù. ;We have succeeded in influencing global opinion;;;;;;;;;X
+SPYMASSS_2;´ë»ó ±¹°¡ : ;about;;;;;;;;;X
+SPYMASSS_3;%s ;%s;;;;;;;;;X
+SPYMASSS_4;%s ;%s;;;;;;;;;X
+SPYMASSS_5; ;;;;;;;;;;X
+SPYMASSS_6; ;;;;;;;;;;X
+SPYMASSS_LOG;¿ì¸®´Â ±¹Á¦¿©·Ğ Á¶ÀÛ¿¡ ¼º°øÇß´Ù. ´ë»ó ±¹°¡ : %s. %s ;We have succeeded in influencing global opinion about %s. %s;;;;;;;;;X
+SPYMASSS_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPYBLUEF_SETUP;¿ì¸®°¡ ¼³°èµµ ÈÉÄ¡±â¸¦ ½ÇÆĞÇßÀ» ¶§ ;When we failed to steal a blueprint;;;;;;;;;X
+SPYBLUEF_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPYBLUEF_1;¿ì¸®´Â ¼³°èµµ ÈÉÄ¡´Âµ¥ ½ÇÆĞÇß½À´Ï´Ù. ;We have failed to steal blueprints ;;;;;;;;;X
+SPYBLUEF_2;´ë»ó ±¹°¡ :  ;from;;;;;;;;;X
+SPYBLUEF_3;%s ;%s;;;;;;;;;X
+SPYBLUEF_4;%s ;%s;;;;;;;;;X
+SPYBLUEF_5; ;;;;;;;;;;X
+SPYBLUEF_6; ;;;;;;;;;;X
+SPYBLUEF_LOG;¿ì¸®´Â ¼³°èµµ ÈÉÄ¡´Âµ¥ ½ÇÆĞÇß´Ù. ´ë»ó ±¹°¡ : %s. %s ;We have failed to steal blueprints from %s. %s;;;;;;;;;X
+SPYBLUEF_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPYBLUES_SETUP;¿ì¸®°¡ ¼³°èµµ¸¦ ÈÉÃÆÀ»¶§ ;When we stole a blueprint;;;;;;;;;X
+SPYBLUES_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPYBLUES_1;¿ì¸®´Â ¼³°èµµ ÈÉÄ¡´Âµ¥ ¼º°øÇß½À´Ï´Ù. ;We succeeded in stealing the blueprint;;;;;;;;;X
+SPYBLUES_2;´ë»ó ¸ñÇ¥ : ;for;;;;;;;;;X
+SPYBLUES_3;%s ;%s;;;;;;;;;X
+SPYBLUES_4;´ë»ó ±¹°¡ : ;from;;;;;;;;;X
+SPYBLUES_5;%s ;%s;;;;;;;;;X
+SPYBLUES_6;%s ;%s;;;;;;;;;X
+SPYBLUES_LOG;¿ì¸®´Â ¼³°èµµ ÈÉÄ¡´Âµ¥ ¼º°øÇß´Ù. ´ë»ó ¸ñÇ¥ : %s ´ë»ó ±¹°¡ : %s. %s ;We succeeded in stealing the blueprint for %s from %s. %s.;;;;;;;;;X
+SPYBLUES_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPYDTEF_SETUP;¿ì¸®°¡ ±â¼ú°³¹ßÀ» ¹æÇØÇÏ´Âµ¥ ½ÇÆĞ ÇßÀ»¶§ ;When we failed to delay a tech team;;;;;;;;;X
+SPYDTEF_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPYDTEF_1;¿ì¸®´Â ±â¼ú°³¹ßÀ» ¹æÇØÇÏ´Âµ¥ ½ÇÆĞÇß½À´Ï´Ù. ;We failed to delay a tech team;;;;;;;;;X
+SPYDTEF_2;´ë»ó ±¹°¡ : ;in;;;;;;;;;X
+SPYDTEF_3;%s ;%s;;;;;;;;;X
+SPYDTEF_4;%s ;%s;;;;;;;;;X
+SPYDTEF_5; ;;;;;;;;;;X
+SPYDTEF_6; ;;;;;;;;;;X
+SPYDTEF_LOG;¿ì¸®´Â ±â¼ú°³¹ßÀ» ¹æÇØÇÏ´Âµ¥ ½ÇÆĞÇß´Ù. ´ë»ó ±¹°¡ : %s. %s ;We failed to delay a tech team in %s. %s;;;;;;;;;X
+SPYDTEF_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPYDTES_SETUP;¿ì¸®°¡ ±â¼ú°³¹ß ¹æÇØ¸¦ ¼º°øÇßÀ»¶§ ;When we delayed a tech team;;;;;;;;;X
+SPYDTES_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPYDTES_1;¿ì¸®´Â ±â¼ú°³¹ßÀ» ¹æÇØÇÏ´Âµ¥ ½ÇÆĞÇß½À´Ï´Ù. ;We succeeded in delaying;;;;;;;;;X
+SPYDTES_2;´ë»ó ¸ñÇ¥ :  ;the tech team;;;;;;;;;X
+SPYDTES_3;%s ;%s;;;;;;;;;X
+SPYDTES_4;´ë»ó ±¹°¡ :  ;in;;;;;;;;;X
+SPYDTES_5;%s ;%s;;;;;;;;;X
+SPYDTES_6;%s ;%s;;;;;;;;;X
+SPYDTES_LOG;¿ì¸®´Â ±â¼ú°³¹ßÀ» ¹æÇØÇÏ´Âµ¥ ¼º°øÇß´Ù. ´ë»ó ¸ñÇ¥ : %s ´ë»ó ±¹°¡ : %s. %s ;We succeeded in delaying tech team %s in %s. %s;;;;;;;;;X
+SPYDTES_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPYPRODF_SETUP;¿ì¸®°¡ »ı»ê ¹æÇØ¸¦ ½ÇÆĞ ÇßÀ» ¶§ ;When we failed to delay production;;;;;;;;;X
+SPYPRODF_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPYPRODF_1;¿ì¸®´Â ±â¼ú°³¹ßÀ» ¹æÇØÇÏ´Âµ¥ ½ÇÆĞÇß½À´Ï´Ù. ;We have failed to disrupt production;;;;;;;;;X
+SPYPRODF_2;´ë»ó ±¹°¡ : ;in;;;;;;;;;X
+SPYPRODF_3;%s ;%s;;;;;;;;;X
+SPYPRODF_4;%s ;%s;;;;;;;;;X
+SPYPRODF_5; ;;;;;;;;;;X
+SPYPRODF_6; ;;;;;;;;;;X
+SPYPRODF_LOG;¿ì¸®´Â ±â¼ú°³¹ßÀ» ¹æÇØÇÏ´Âµ¥ ½ÇÆĞÇß´Ù. ´ë»ó ±¹°¡ : %s. %s ;We have failed to delay the production in %s. %s;;;;;;;;;X
+SPYPRODF_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPYFPF_SETUP;¿ì¸®°¡ ¹İÁ¤ºÎ ¼¼·Â Áö¿ø¿¡ ½ÇÆĞÇßÀ»¶§ ;When we failed to fund partisans;;;;;;;;;X
+SPYFPF_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPYFPF_1;¿ì¸®´Â ¹İÁ¤ºÎ ¼¼·Â Áö¿ø¿¡ ½ÇÆĞÇß½À´Ï´Ù. ;We have failed to fund partisans ;;;;;;;;;X
+SPYFPF_2;´ë»ó ¼¼·Â : ;in;;;;;;;;;X
+SPYFPF_3;%s ;%s;;;;;;;;;X
+SPYFPF_4;%s ;%s;;;;;;;;;X
+SPYFPF_5; ;;;;;;;;;;X
+SPYFPF_6; ;;;;;;;;;;X
+SPYFPF_LOG;¿ì¸®´Â ¹İÁ¤ºÎ ¼¼·Â Áö¿ø¿¡ ½ÇÆĞÇß´Ù. ´ë»ó ±¹°¡ : %s. %s ;We have failed to fund partisans in %s. %s;;;;;;;;;X
+SPYFPF_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPYPRODS_SETUP;¿ì¸®°¡ »ı»ê ¹æÇØ¸¦ ¼º°øÇßÀ» ¶§ ;When we managed to delay production;;;;;;;;;X
+SPYPRODS_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPYPRODS_1;¿ì¸®´Â ±â¼ú°³¹ßÀ» ¹æÇØÇÏ´Âµ¥ ¼º°øÇß½À´Ï´Ù. ;We have disrupted the production;;;;;;;;;X
+SPYPRODS_2;´ë»ó ¸ñÇ¥ : ;of;;;;;;;;;X
+SPYPRODS_3;%s ;%s;;;;;;;;;X
+SPYPRODS_4;´ë»ó ±¹°¡ : ;in;;;;;;;;;X
+SPYPRODS_5;%s ;%s;;;;;;;;;X
+SPYPRODS_6;%s ;%s;;;;;;;;;X
+SPYPRODS_LOG;¿ì¸®´Â ±â¼ú°³¹ßÀ» ¹æÇØÇÏ´Âµ¥ ¼º°øÇß´Ù. ´ë»ó ¸ñÇ¥ : %s ´ë»ó ±¹°¡ : %s. %s ;We have disrupted the production of %s in %s. %s;;;;;;;;;X
+SPYPRODS_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPYDNUCS_SETUP;¿ì¸® Ã¸º¸¿øÀÌ ÇÙ¹«±â ÆÄ±«¿¡ ½ÇÆĞÇÒ ¶§ ;When our spy has destroyed a nuke;;;;;;;;;X
+SPYDNUCS_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPYDNUCS_1;¿ì¸®´Â ÇÙ¹«±â ÆÄ±«ÇÏ´Âµ¥ ½ÇÆĞÇß½À´Ï´Ù. ;We have destroyed a nuclear warhead;;;;;;;;;X
+SPYDNUCS_2;´ë»ó ±¹°¡ : ;in;;;;;;;;;X
+SPYDNUCS_3;%s ;%s;;;;;;;;;X
+SPYDNUCS_4;%s ;%s;;;;;;;;;X
+SPYDNUCS_5; ;;;;;;;;;;X
+SPYDNUCS_6; ;;;;;;;;;;X
+SPYDNUCS_LOG;¿ì¸®´Â ÇÙ¹«±â ÆÄ±«ÇÏ´Âµ¥ ½ÇÆĞÇß´Ù. ´ë»ó ±¹°¡ : %s. %s ;We have destroyed a nuke in %s. %s;;;;;;;;;X
+SPYDNUCS_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPYDNUCF_SETUP;¿ì¸® Ã¸º¸¿øÀÌ ÇÙ¹«±â ÆÄ±«¿¡ ¼º°øÇÒ ¶§ ;When our spy failed to destroy a nuke;;;;;;;;;X
+SPYDNUCF_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPYDNUCF_1;¿ì¸®´Â ÇÙ¹«±â ÆÄ±«ÇÏ´Âµ¥ ¼º°øÇß½À´Ï´Ù. ;We have failed to destroy a nuke;;;;;;;;;X
+SPYDNUCF_2;´ë»ó ±¹°¡ : ;in;;;;;;;;;X
+SPYDNUCF_3;%s ;%s;;;;;;;;;X
+SPYDNUCF_4;%s ;%s;;;;;;;;;X
+SPYDNUCF_5; ;;;;;;;;;;X
+SPYDNUCF_6; ;;;;;;;;;;X
+SPYDNUCF_LOG;¿ì¸®´Â ÇÙ¹«±â ÆÄ±«ÇÏ´Âµ¥ ¼º°øÇß´Ù. ´ë»ó ±¹°¡ : %s. %s ;We have failed to destroy a nuclear warhead in %s. %s;;;;;;;;;X
+SPYDNUCF_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPYAF_SETUP;¿ì¸®°¡ Ã¸º¸¿øÀ» ÆÄ°ßÇÏ´Âµ¥ ½ÇÆĞÇÒ¶§ ;When we failed to send a spy;;;;;;;;;X
+SPYAF_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPYAF_1;¿ì¸®´Â Ã¸º¸¿øÀ» ÆÄ°ßÇÏ´Âµ¥ ½ÇÆĞÇß½À´Ï´Ù. ;We have failed to send a spy;;;;;;;;;X
+SPYAF_2;´ë»ó ±¹°¡ : ;to;;;;;;;;;X
+SPYAF_3;%s ;%s;;;;;;;;;X
+SPYAF_4;%s ;%s;;;;;;;;;X
+SPYAF_5; ;;;;;;;;;;X
+SPYAF_6; ;;;;;;;;;;X
+SPYAF_LOG;¿ì¸®´Â Ã¸º¸¿øÀ» ÆÄ°ßÇÏ´Âµ¥ ½ÇÆĞÇß´Ù. ´ë»ó ±¹°¡ : %s. %s ;We have failed to send a spy to %s. %s;;;;;;;;;X
+SPYAF_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+SPYAS_SETUP;¿ì¸®ÀÇ Ã¸º¸ºÎ ÁöÃâÀ» Áõ°¡ ½ÃÄ×À» ¶§ ;When we increase intelligence funding;;;;;;;;;X
+SPYAS_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+SPYAS_1;¿ì¸®ÀÇ Ã¸º¸ºÎ ÁöÃâÀ» Áõ°¡ ½ÃÄ×½À´Ï´Ù. ;We have increased intelligence funding;;;;;;;;;X
+SPYAS_2;±×µéÀº Áõ°¡ÇÑ È¿À²·Î Ã¸º¸¸ÁÀ» ¿î¿ëÇÒ °ÍÀÔ´Ï´Ù. ;Our intelligence agencies are now operating with increased efficiency;;;;;;;;;X
+SPYAS_3; ;;;;;;;;;;X
+SPYAS_4; ;;;;;;;;;;X
+SPYAS_5; ;;;;;;;;;;X
+SPYAS_6; ;;;;;;;;;;X
+SPYAS_LOG;¿ì¸®ÀÇ Ã¸º¸ºÎ ÁöÃâÀ» Áõ°¡ ½ÃÄ×½À´Ï´Ù. ;We have increased intelligence funding;;;;;;;;;X
+SPYAS_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+LEADTR_SETUP;ÀÚ±¹ÀÇ ÁöÈÖ°üÀÌ Æ¯±â¸¦ ¾ò¾úÀ» ¶§ ;;;;;;;;;;X
+LEADTR_HEADER;ÀÎ»ç º¸°í¼­: %s ;;;;;;;;;;X
+LEADTR_1;»õ·Î¿î Æ¯±â ;;;;;;;;;;X
+LEADTR_2;%t, ÁöÈÖ°üÀÌ »õ·Î¿î Æ¯±â¸¦ ¾ò¾ú½À´Ï´Ù. ;;;;;;;;;;X
+LEADTR_3;%s: ;;;;;;;;;;X
+LEADTR_4;'%s' ;;;;;;;;;;X
+LEADTR_5; ;;;;;;;;;;X
+LEADTR_6; ;;;;;;;;;;X
+LEADTR_LOG;ÁöÈÖ°ü %s: '%s' Æ¯±â È¹µæ. ;;;;;;;;;;X
+LEADTR_BTN1;È®ÀÎ ;;;;;;;;;;X
+LEADTR_BTN2;¼±ÅÃ ;;;;;;;;;;X
+##;;;;;;;;;;;X
+DEMTERR_SETUP;´©±º°¡ ¿µÅäÇÒ¾çÀ» ¿ä±¸ÇÒ¶§ ;When someone demands your territory.;;;;;;;;;X
+##;;;;;;;;;;;X
+WEGUARA_SETUP;¿ì¸®°¡ ´Ù¸¥±¹°¡¸¦ µ¶¸³º¸ÀåÇÒ¶§ ;When we guarantee the independence of another nation;;;;;;;;;X
+##;;;;;;;;;;;X
+# Darkest Hour;;;;;;;;;;;X
+##;;;;;;;;;;;X
+PSMOVED_SETUP;¿ì¸®ÀÇ Á¤Ã¥½½¶óÀÌ´õ°¡ ÀÚµ¿À¸·Î ¿òÁ÷¿´À»¶§ ;When one of our policy sliders has been auto-moved.;;;;;;;;;X
+PSMOVED_HEADER;Á¤Ã¥ º¸°í ;POLICY BRIEFING;;;;;;;;;X
+PSMOVED_1;%t! ;%t!;;;;;;;;;X
+PSMOVED_2;¿ì¸®ÀÇ Á¤Ã¥ÀÌ ÇÑ´Ü°è ¿Å°ÜÁ³½À´Ï´Ù. ;Our policy has been moved one step toward;;;;;;;;;X
+PSMOVED_3;%s. ;%s.;;;;;;;;;X
+PSMOVED_4;ÇöÀç ¼öÄ¡ : ;Current value:;;;;;;;;;X
+PSMOVED_5;%s. ;%s.;;;;;;;;;X
+PSMOVED_6; ;;;;;;;;;;X
+PSMOVED_LOG;¿ì¸®ÀÇ Á¤Ã¥ÀÌ ÇÑ´Ü°è ¿Å°ÜÁ³½À´Ï´Ù. %s ÇöÀç ¼öÄ¡ : %s. ;Our policy has been moved one step toward %s. Current value: %s.;;;;;;;;;X
+PSMOVED_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+PSMOVED_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+PSINVALID_SETUP;¿ì¸®ÀÇ Á¤Ã¥½½¶óÀÌ´õ¸¦ ÀÚµ¿À¸·Î ¿òÁ÷ÀÏ¼ö ¾øÀ»¶§ ;When our policy sliders cannot be auto-moved.;;;;;;;;;X
+PSINVALID_HEADER;Á¤Ã¥ º¸°í ;POLICY BRIEFING;;;;;;;;;X
+PSINVALID_1;%t! ;%t!;;;;;;;;;X
+PSINVALID_2;¿ì¸®ÀÇ Á¤Ã¥À» ´õÀÌ»ó ¿Å±æ¼ö ¾ø½À´Ï´Ù. ;Our policy cannot be moved further toward;;;;;;;;;X
+PSINVALID_3;%s. ;%s.;;;;;;;;;X
+PSINVALID_4;ÇöÀç ¼öÄ¡ : ;Current value:;;;;;;;;;X
+PSINVALID_5;%s. ;%s.;;;;;;;;;X
+PSINVALID_6; ;;;;;;;;;;X
+PSINVALID_LOG;¿ì¸®ÀÇ Á¤Ã¥ ½½¶óÀÌ´õ¸¦ ´õÀÌ»ó ¿Å±æ¼ö ¾ø½À´Ï´Ù. %s ÇöÀç ¼öÄ¡ : %s. ;Our policy cannot be moved further toward %s. Current value: %s.;;;;;;;;;X
+PSINVALID_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+PSINVALID_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+PSALLOWED_SETUP;¿ì¸®ÀÇ Á¤Ã¥½½¶óÀÌ´õ¸¦ ¿òÁ÷ÀÏ¼ö ÀÖÀ»¶§. ;When our policy sliders can be moved.;;;;;;;;;X
+PSALLOWED_HEADER;Á¤Ã¥ º¸°í ;POLICY BRIEFING;;;;;;;;;X
+PSALLOWED_1;%t! ;%t!;;;;;;;;;X
+PSALLOWED_2;¿ì¸®ÀÇ Á¤Ã¥À» ¹Ù²Ü¼ö ÀÖ½À´Ï´Ù.%s ;Our policy can be changed.%s;;;;;;;;;X
+PSALLOWED_3; ;;;;;;;;;;X
+PSALLOWED_4; ;;;;;;;;;;X
+PSALLOWED_5; ;;;;;;;;;;X
+PSALLOWED_6; ;;;;;;;;;;X
+PSALLOWED_LOG;¿ì¸®ÀÇ Á¤Ã¥À» ¹Ù²Ü¼ö ÀÖ½À´Ï´Ù.%s ;Our policy can be changed.%s;;;;;;;;;X
+PSALLOWED_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+PSALLOWED_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+NEWDEC_SETUP;¿ì¸®°¡ »õ·Î¿î °áÁ¤À» ÇÒ¼ö ÀÖÀ»¶§ ;When new decisions are available.;;;;;;;;;X
+NEWDEC_HEADER;Á¤Ã¥ º¸°í ;POLICY BRIEFING;;;;;;;;;X
+NEWDEC_1;%t! ;%t!;;;;;;;;;X
+NEWDEC_2;´ÙÀ½ÀÇ °áÁ¤À» ¿ì¸®´Â ÇÒ¼ö ÀÖ½À´Ï´Ù. : ;The following decisions are now available:;;;;;;;;;X
+NEWDEC_3;%s ;%s;;;;;;;;;X
+NEWDEC_4; ;;;;;;;;;;X
+NEWDEC_5; ;;;;;;;;;;X
+NEWDEC_6; ;;;;;;;;;;X
+NEWDEC_LOG;´ÙÀ½ÀÇ °áÁ¤À» ¿ì¸®´Â ÇÒ ¼ö ÀÖ´Ù. : %s ;The following decisions are now available: %s;;;;;;;;;X
+NEWDEC_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+NEWDEC_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+TD_AUTO_ACCEPT_SETUP;¿ì¸®°¡ ÀÚµ¿À¸·Î ÀÏÈ¸¼º ±³È¯À» ½Â³«ÇßÀ»¶§ ;When we auto accept a single trade offer;;;;;;;;;X
+TD_AUTO_ACCEPT_HEADER;¿Ü±³Á¤Ã¥ º¸°í ;FOREIGN POLICY BRIEFING;;;;;;;;;X
+TD_AUTO_ACCEPT_1;%t! ¿ì¸®´Â ´ÙÀ½°ú °°Àº Çù»óÀ» ¹Ş¾Ò½À´Ï´Ù. ;%t!;;;;;;;;;X
+TD_AUTO_ACCEPT_2;Á¦¾È »çÇ× : ;We have negotiated a deal for;;;;;;;;;X
+TD_AUTO_ACCEPT_3;%s ;%s;;;;;;;;;X
+TD_AUTO_ACCEPT_4;Á¦¾È ±¹°¡ : ;with;;;;;;;;;X
+TD_AUTO_ACCEPT_5;%s ;%s.;;;;;;;;;X
+TD_AUTO_ACCEPT_6; ;;;;;;;;;;X
+TD_AUTO_ACCEPT_LOG;¿ì¸®´Â ´ÙÀ½°ú °°Àº Çù»óÀ» ¹Ş¾Ò½À´Ï´Ù. Á¦¾È»çÇ× : %s ,Á¦¾È±¹°¡ : %s . ;We have negotiated a deal for %s with %s.;;;;;;;;;X
+TD_AUTO_ACCEPT_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+TD_AUTO_REJECT_SETUP;¿ì¸®°¡ ÀÚµ¿À¸·Î ÀÏÈ¸¼º ±³È¯À» °ÅÀıÇßÀ»¶§ ;When we auto reject a single trade offer;;;;;;;;;X
+TD_AUTO_REJECT_HEADER;¿Ü±³Á¤Ã¥ º¸°í ;FOREIGN POLICY BRIEFING;;;;;;;;;X
+TD_AUTO_REJECT_1;%t! ¿ì¸®´Â ´ÙÀ½°ú °°Àº Çù»óÀ» °ÅÀıÇß½À´Ï´Ù. ;%t!;;;;;;;;;X
+TD_AUTO_REJECT_2;Á¦¾È »çÇ× : ;We have rejected a deal for;;;;;;;;;X
+TD_AUTO_REJECT_3;%s ;%s;;;;;;;;;X
+TD_AUTO_REJECT_4;Á¦¾È ±¹°¡ : ;from;;;;;;;;;X
+TD_AUTO_REJECT_5;%s ;%s.;;;;;;;;;X
+TD_AUTO_REJECT_6; ;;;;;;;;;;X
+TD_AUTO_REJECT_LOG;¿ì¸®´Â °Å·¡¸¦ °ÅÀıÇß´Ù. Á¦¾È»çÇ× : %s ,Á¦¾È±¹°¡ : %s ;We have rejected a deal of %s from %s.;;;;;;;;;X
+TD_AUTO_REJECT_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+TD_AUTO_NEG_FOR;, ¿ä±¸»çÇ× : ; for;;;;;;;;;X
+##;;;;;;;;;;;X
+EMBARGO_SET_SETUP;¿ì¸®°¡ ´Ù¸¥±¹°¡¿¡°Ô ±İÁöÁ¶Ä¡¸¦ °É¾úÀ»¶§. ;When we enforce an embargo towards other country.;;;;;;;;;X
+EMBARGO_SET_HEADER;¿Ü±³Á¤Ã¥ º¸°í %s ;FOREIGN POLICY BRIEFING%s;;;;;;;;;X
+EMBARGO_SET_1;¿ì¸®´Â ;We have enforced;;;;;;;;;X
+EMBARGO_SET_2; ;;;;;;;;;;X
+EMBARGO_SET_3;%s ;%s;;;;;;;;;X
+EMBARGO_SET_4;¸¦ °­Á¦ÇÏ¿´´Ù. ;to;;;;;;;;;X
+EMBARGO_SET_5;%s ¿¡°Ô ;%s.;;;;;;;;;X
+EMBARGO_SET_6; ;;;;;;;;;;X
+EMBARGO_SET_LOG;¿ì¸®´Â %s ¸¦ %s ¿¡°Ô °­Á¦ÇÏ¿´´Ù. ;We have enforced a %s to %s.;;;;;;;;;X
+EMBARGO_SET_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+EMBARGO_SET_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+EMBARGO2_SET_SETUP;´Ù¸¥ ±¹°¡°¡ ¿ì¸®¿¡°Ô ±İÁöÁ¶Ä¡¸¦ °É¾úÀ»¶§ ;When someone enforces an embargo towards our country.;;;;;;;;;X
+EMBARGO2_SET_HEADER;¿Ü±³Á¤Ã¥ º¸°í %s ;FOREIGN POLICY BRIEFING%s;;;;;;;;;X
+EMBARGO2_SET_1;%s ;%s;;;;;;;;;X
+EMBARGO2_SET_2;´Â ;has enforced;;;;;;;;;X
+EMBARGO2_SET_3;%s ;%s;;;;;;;;;X
+EMBARGO2_SET_4;¸¦ ;towards;;;;;;;;;X
+EMBARGO2_SET_5;¿ì¸®¿¡°Ô ;us.;;;;;;;;;X
+EMBARGO2_SET_6;°­Á¦ÇÏ¿´´Ù. ;;;;;;;;;;X
+EMBARGO2_SET_LOG;%s ´Â %s ¿ì¸®¿¡°Ô °­Á¦ÇÏ¿´´Ù! ;%s has enforced %s towards us!;;;;;;;;;X
+EMBARGO2_SET_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+EMBARGO2_SET_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+EMBARGO3_SET_SETUP;´Ù¸¥ ±¹°¡°¡ Á¦3±¹¿¡°Ô ±İÁöÁ¶Ä¡¸¦ °É¾úÀ»¶§. ;When someone enforces an embargo towards other country.;;;;;;;;;X
+EMBARGO3_SET_HEADER;¿Ü±³Á¤Ã¥ º¸°í %s ;FOREIGN POLICY BRIEFING%s;;;;;;;;;X
+EMBARGO3_SET_1;%s ;%s;;;;;;;;;X
+EMBARGO3_SET_2;´Â ;has enforced;;;;;;;;;X
+EMBARGO3_SET_3;%s ;%s;;;;;;;;;X
+EMBARGO3_SET_4;¸¦ °­Á¦ÇÏ¿´´Ù. ;towards;;;;;;;;;X
+EMBARGO3_SET_5;%s ¿¡°Ô ;%s.;;;;;;;;;X
+EMBARGO3_SET_6; ;;;;;;;;;;X
+EMBARGO3_SET_LOG;%s ´Â %s À» °­Á¦ÇÏ¿´´Ù. %s ¿¡°Ô ;%s has enforced %s towards %s.;;;;;;;;;X
+EMBARGO3_SET_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+EMBARGO3_SET_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+EMBARGO_CLR_SETUP;¿ì¸®°¡ ´Ù¸¥±¹°¡¿¡ ´ëÇÑ ±İÁöÁ¶Ä¡¸¦ ÇØÁöÇßÀ»¶§ ;When we remove an embargo towards other country.;;;;;;;;;X
+EMBARGO_CLR_HEADER;¿Ü±³Á¤Ã¥ º¸°í %s ;FOREIGN POLICY BRIEFING%s;;;;;;;;;X
+EMBARGO_CLR_1;¿ì¸®´Â ;We have removed;;;;;;;;;X
+EMBARGO_CLR_2;¿ì¸®ÀÇ ;our;;;;;;;;;X
+EMBARGO_CLR_3;%s ;%s;;;;;;;;;X
+EMBARGO_CLR_4;¸¦ ÇØÁöÇÏ¿´´Ù. ;to;;;;;;;;;X
+EMBARGO_CLR_5;%s ;%s.;;;;;;;;;X
+EMBARGO_CLR_6;¿¡ ´ëÇÏ¿© ;;;;;;;;;;X
+EMBARGO_CLR_LOG;¿ì¸®´Â ¿ì¶óÀÇ %s ¸¦ ÇØÁöÇÏ¿´´Ù. %s ¿¡ ´ëÇÏ¿© ;We have removed our %s to %s.;;;;;;;;;X
+EMBARGO_CLR_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+EMBARGO_CLR_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+EMBARGO2_CLR_SETUP;´Ù¸¥ ±¹°¡°¡ ¿ì¸®³ª¶ó¿¡ ´ëÇÑ ±İÁöÁ¶Ä¡¸¦ ÇØÁöÇßÀ»¶§. ;When someone removes an embargo towards our country.;;;;;;;;;X
+EMBARGO2_CLR_HEADER;¿Ü±³Á¤Ã¥ º¸°í %s ;FOREIGN POLICY BRIEFING%s;;;;;;;;;X
+EMBARGO2_CLR_1;%s ;%s;;;;;;;;;X
+EMBARGO2_CLR_2;´Â ¿ì¸®¿¡ ´ëÇÑ ;removed;;;;;;;;;X
+EMBARGO2_CLR_3;%s ;The %s;;;;;;;;;X
+EMBARGO2_CLR_4;¸¦ ÇØÁöÇÏ¿´´Ù. ;towards;;;;;;;;;X
+EMBARGO2_CLR_5;;us.;;;;;;;;;X
+EMBARGO2_CLR_6; ;;;;;;;;;;X
+EMBARGO2_CLR_LOG;%s ´Â ¿ì¸®¿¡ ´ëÇÑ %s ¸¦ ÇØÁöÇÏ¿´´Ù! ;%s removed the %s towards us!;;;;;;;;;X
+EMBARGO2_CLR_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+EMBARGO2_CLR_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+EMBARGO3_CLR_SETUP;´Ù¸¥ ±¹°¡°¡ Á¦3±¹¿¡ ´ëÇÑ ±İÁöÁ¶Ä¡¸¦ ÇØÁöÇßÀ»¶§. ;When someone removes an embargo towards other country.;;;;;;;;;X
+EMBARGO3_CLR_HEADER;¿Ü±³Á¤Ã¥ º¸°í %s ;FOREIGN POLICY BRIEFING%s;;;;;;;;;X
+EMBARGO3_CLR_1;%s ;%s;;;;;;;;;X
+EMBARGO3_CLR_2;´Â ;removed;;;;;;;;;X
+EMBARGO3_CLR_3;%s ;The %s;;;;;;;;;X
+EMBARGO3_CLR_4;¸¦ ÇØÁöÇÏ¿´´Ù. ;towards;;;;;;;;;X
+EMBARGO3_CLR_5;%s ¿¡ ´ëÇÏ¿© ;%s.;;;;;;;;;X
+EMBARGO3_CLR_6; ;;;;;;;;;;X
+EMBARGO3_CLR_LOG;%s ´Â %s ¸¦ ÇØÁöÇÏ¿´´Ù. %s ¿¡ ´ëÇÏ¿©. ;%s removed the %s towards %s.;;;;;;;;;X
+EMBARGO3_CLR_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+EMBARGO3_CLR_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+NUKED_SETUP;ÇÑ Áö¿ªÀÌ ÇÙ°ø°İÀ» ¹Ş¾ÒÀ»¶§ ;When a province has been targetted by nuclear bomb.;;;;;;;;;X
+NUKED_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;INTELLIGENCE BRIEFING;;;;;;;;;X
+NUKED_1;ÇÙ°ø°İ%s;Une Attaque Nucléaire%s;Un Attacco Nucleare%s;Un ataque nuclear%s;Ein Atomangriff wurde ausgeführt %s;Atak nuklearny%s;;Àòîìíàÿ àòàêà%s;;;X
+NUKED_2;%sÀÇ ±º´ë°¡ ÇÙ°ø°İÀ» °¨Çà ÇÏ¿´´Ù. \n ÇÇÇØ±¹ : ;a été tirée par %s contre;è stato lanciato da %s contro;ha sido lanzado por %s contra;Die %s;zosta³ przeprowadzony przez: %s przeciwko:;;áûëà ïğåäïğèíÿòà %s ïğîòèâ;;;X
+NUKED_3;%s;%s;%s;%s;startete ihren Schlag, gegen %s;%s;;%s;;;X
+NUKED_4;´ë»ó Áö¿ª : ;à;a;a;in;w:;;â;;;X
+NUKED_5;%s;%s.;%s.;%s.;%s.;%s.;;%s.;;;X
+NUKED_6;;;;;;;;;;;X
+NUKED_LOG;%s ±º´ë°¡ ÇÙ°ø°İÀ» °¨ÇàÇÏ¿´´Ù. ´ë»ó ±¹°¡ : %s ´ë»ó Áö¿ª : %s ;A Nuclear Attack has been launched by %s against %s at %s.;;;;;;;;;X
+NUKED_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+NUKED_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+SPYFPSE_SETUP;¿ì¸®°¡ Á¦3±¹¿¡ ¹İÁ¤ºÎ ¼¼·Â Áö¿øÀ» ÇÑ °æ¿ì ;When we managed to fund partisans;;;;;;;;;X
+SPYFPSE_HEADER;Ã¸º¸ºÎ º¸°í¼­%s ;INTELLIGENCE BRIEFING%s;;;;;;;;;X
+SPYFPSE_1;¿ì¸®´Â ¹İÁ¤ºÎ ¼¼·Â Áö¿ø¿¡ ¼º°øÇß½À´Ï´Ù. ;We have succeeded in funding partisans ;;;;;;;;;X
+SPYFPSE_2;´ë»ó ±¹°¡ : ;against;;;;;;;;;X
+SPYFPSE_3;%s ;%s;;;;;;;;;X
+SPYFPSE_4;´ë»ó ¼¼·Â : ;in;;;;;;;;;X
+SPYFPSE_5;%s ;%s;;;;;;;;;X
+SPYFPSE_6;%s ;%s;;;;;;;;;X
+SPYFPSE_LOG;¿ì¸®´Â ¹İÁ¤ºÎ ¼¼·Â Áö¿ø¿¡ ¼º°øÇß´Ù. ´ë»ó ¸ñÇ¥ : %s ´ë»ó ±¹°¡ : %s. %s ;We have succeeded in funding partisans against %s in %s. %s;;;;;;;;;X
+SPYFPSE_BTN1;È®ÀÎ ;Ok;;;;;;;;;X
+SPYFPSE_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+SPY2FPSE_SETUP;´Ù¸¥ ±¹°¡°¡ ¿ì¸®ÀÇ ¹İÁ¤ºÎ ¼¼·ÂÀ» Áö¿øÇßÀ»¶§ ;When someone fund partisans in our country;;;;;;;;;X
+SPY2FPSE_HEADER;Ã¸º¸ºÎ º¸°í¼­%s ;INTELLIGENCE BRIEFING%s;;;;;;;;;X
+SPY2FPSE_1;%sÀÇ Ã¸º¸ºÎ°¡ ¹İÁ¤ºÎ ¼¼·Â Áö¿ø¿¡ ¼º°øÇß½À´Ï´Ù. ;%s has successfully funded partisans;;;;;;;;;X
+SPY2FPSE_2;´ë»ó ¼¼·Â : ;in;;;;;;;;;X
+SPY2FPSE_3;%s ;%s;;;;;;;;;X
+SPY2FPSE_4;%s ;%s;;;;;;;;;X
+SPY2FPSE_5; ;;;;;;;;;;X
+SPY2FPSE_6; ;;;;;;;;;;X
+SPY2FPSE_LOG;%sÀÇ Ã¸º¸ºÎ°¡ ¹İÁ¤ºÎ ¼¼·Â Áö¿ø¿¡ ¼º°øÇß´Ù. ´ë»ó ±¹°¡ : %s. %s ;%s has successfully funded partisans in %s. %s;;;;;;;;;X
+SPY2FPSE_BTN1;È®ÀÎ ;Ok;;;;;;;;;X
+SPY2FPSE_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+SPY3FPSE_SETUP;´Ù¸¥±¹°¡°¡ Á¦3±¹ÀÇ ¹İÁ¤ºÎ ¼¼·Â ÀÚ±İÁö¿øÀ» ¼º°øÇßÀ»¶§ ;When others fund partisans;;;;;;;;;X
+SPY3FPSE_HEADER;Ã¸º¸ºÎ º¸°í¼­%s ;INTELLIGENCE BRIEFING%s;;;;;;;;;X
+SPY3FPSE_1;%sÀÇ Ã¸º¸ºÎ°¡ ¹İÁ¤ºÎ ¼¼·Â ÀÚ±İÁö¿ø¿¡ ¼º°øÇß´Ù. ;%s has successfully funded partisans ;;;;;;;;;X
+SPY3FPSE_2;´ë»ó ±¹°¡ : ;against;;;;;;;;;X
+SPY3FPSE_3;%s ;%s;;;;;;;;;X
+SPY3FPSE_4;´ë»ó ¼¼·Â : ;in;;;;;;;;;X
+SPY3FPSE_5;%s ;%s;;;;;;;;;X
+SPY3FPSE_6;%s ;%s;;;;;;;;;X
+SPY3FPSE_LOG;%sÀÇ Ã¸º¸ºÎ°¡ ¹İÁ¤ºÎ ¼¼·Â ÀÚ±İÁö¿ø¿¡ ¼º°øÇß´Ù. ´ë»ó ¸ñÇ¥ : %s ´ë»ó ±¹°¡ : %s. %s ;%s has successfully funded partisans against %s in %s. %s;;;;;;;;;X
+SPY3FPSE_BTN1;È®ÀÎ ;Ok;;;;;;;;;X
+SPY3FPSE_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+## Darkest Hour 1.03;;;;;;;;;;;X
+##;;;;;;;;;;;X
+LEADERRETIRES_SETUP;When one of your appointed leaders retires.;When one of your appointed leaders retires.;;;;;;;;;X
+LEADERRETIRES_HEADER;ÃÑÂü¸ğºÎ º¸°í¼­ %s ;BRIEFING ETAT-MAJOR GENERAL%s;;;;;;;;;X
+LEADERRETIRES_1;A leader has retired.;Un chef a pris sa retraite;;;;;;;;;X
+LEADERRETIRES_2;%t ;%t ;;;;;;;;;X
+LEADERRETIRES_3;%s;%s;;;;;;;;;X
+LEADERRETIRES_4;has retired from active military service. We need a replacement leader to his last appointment.;has retired from active military service. We need a replacement leader to his last appointment.;;;;;;;;;X
+LEADERRETIRES_5; ;;;;;;;;;;X
+LEADERRETIRES_6; ;;;;;;;;;;X
+LEADERRETIRES_LOG;%s has retired from active military service.;%s has retired from active military service.;;;;;;;;;X
+LEADERRETIRES_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+LEADERRETIRES_BTN2;¼±ÅÃ ;Select;;;;;;;;;X
+##;;;;;;;;;;;X
+LEADER2RETIRES_SETUP;When one of your leaders retires.;When one of your leaders retires.;;;;;;;;;X
+LEADER2RETIRES_HEADER;ÃÑÂü¸ğºÎ º¸°í¼­ %s ;BRIEFING DE L'ETAT-MAJOR GENERAL%s;;;;;;;;;X
+LEADER2RETIRES_1;A leader has retired.;A leader has retired.;;;;;;;;;X
+LEADER2RETIRES_2;%t ;%t ;;;;;;;;;X
+LEADER2RETIRES_3;%s;%s;;;;;;;;;X
+LEADER2RETIRES_4;has retired from active military service.;has retired from active military service.;;;;;;;;;X
+LEADER2RETIRES_5; ;;;;;;;;;;X
+LEADER2RETIRES_6; ;;;;;;;;;;X
+LEADER2RETIRES_LOG;%s has retired from active military service.;%s has retired from active military service.;;;;;;;;;X
+LEADER2RETIRES_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+MINISTERRETIRES_SETUP;When one of your assigned ministers retires.;When one of your assigned ministers retires.;;;;;;;;;X
+MINISTERRETIRES_HEADER;±¹³» º¸°í¼­ %s ;RAPPORT DOMESTIQUE%s;;;;;;;;;X
+MINISTERRETIRES_1;A minister has retired.;A minister has retired.;;;;;;;;;X
+MINISTERRETIRES_2;%t ;%t ;;;;;;;;;X
+MINISTERRETIRES_3;%s;%s;;;;;;;;;X
+MINISTERRETIRES_4;has retired from politics. We need a replacement for his last position in the government. ;has retired from politics. We need a replacement for his last position in the government. ;;;;;;;;;X
+MINISTERRETIRES_5; ;;;;;;;;;;X
+MINISTERRETIRES_6; ;;;;;;;;;;X
+MINISTERRETIRES_LOG;%s has retired from politics.;%s has retired from politics.;;;;;;;;;X
+MINISTERRETIRES_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+MINISTERRETIRES_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+MINISTER2RETIRES_SETUP;When one of your ministers retires.;When one of your ministers retires.;;;;;;;;;X
+MINISTER2RETIRES_HEADER;±¹³» º¸°í¼­ %s ;RAPPORT DOMESTIQUE%s;;;;;;;;;X
+MINISTER2RETIRES_1;A minister has retired.;A minister has retired.;;;;;;;;;X
+MINISTER2RETIRES_2;%t ;%t ;;;;;;;;;X
+MINISTER2RETIRES_3;%s;%s;;;;;;;;;X
+MINISTER2RETIRES_4;has retired from politics.;has retired from politics.;;;;;;;;;X
+MINISTER2RETIRES_5; ;;;;;;;;;;X
+MINISTER2RETIRES_6; ;;;;;;;;;;X
+MINISTER2RETIRES_LOG;%s has retired from politics.;%s has retired from politics.;;;;;;;;;X
+MINISTER2RETIRES_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+##;;;;;;;;;;;X
+ABLOSSREP_SETUP;ÀÚ±¹ÀÌ °øÁßÀü¿¡¼­ ÆĞÇßÀ» ¶§ ;;;;;;;;;;X
+ABLOSSREP_HEADER;°ø±º º¸°í¼­ %s ;;;;;;;;;;X
+ABLOSSREP_1;ÆĞ¹è! ;;;;;;;;;;X
+ABLOSSREP_2;%t, ¿ì¸® ºñÇà´ÜÀº ;;;;;;;;;;X
+ABLOSSREP_3;%s ;;;;;;;;;;X
+ABLOSSREP_4;ºñÇà´Ü°ú ;;;;;;;;;;X
+ABLOSSREP_5;%s »ó°ø¿¡¼­ ;;;;;;;;;;X
+ABLOSSREP_6;±³ÀüÇÏ¿© ÆĞ¹èÇß½À´Ï´Ù. \n »ıÁ¸ÀÚµéÀº Åğ°¢Çß½À´Ï´Ù. \n%s;;;;;;;;;;X
+ABLOSSREP_LOG;%s ºñÇà´Ü°ú %s »ó°ø¿¡¼­ ±³ÀüÇÏ¿© ÆĞ¹è. ;;;;;;;;;;X
+ABLOSSREP_BTN1;È®ÀÎ ;;;;;;;;;;X
+ABLOSSREP_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+ABWINREP_SETUP;ÀÚ±¹ÀÌ °øÁßÀü¿¡¼­ ½Â¸®ÇßÀ»¶§ ;;;;;;;;;;X
+ABWINREP_HEADER;°ø±º º¸°í¼­ %s ;;;;;;;;;;X
+ABWINREP_1;½Â¸®! ;;;;;;;;;;X
+ABWINREP_2;%t, ¿ì¸® ºñÇà´ÜÀº ;;;;;;;;;;X
+ABWINREP_3;%s ;;;;;;;;;;X
+ABWINREP_4;ºñÇà´Ü°ú ;;;;;;;;;;X
+ABWINREP_5;%s »ó°ø¿¡¼­ ;;;;;;;;;;X
+ABWINREP_6;±³ÀüÇÏ¿© ½Â¸®Çß½À´Ï´Ù. \n%s;;;;;;;;;;X
+ABWINREP_LOG;%s ºñÇà´Ü°ú %s »ó°ø¿¡¼­ ±³ÀüÇÏ¿© ½Â¸®. ;;;;;;;;;;X
+ABWINREP_BTN1;È®ÀÎ ;;;;;;;;;;X
+ABWINREP_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+LBLOSSREP_SETUP;ÀÚ±¹ÀÇ À°±ºÀÌ ÆĞÇßÀ» ¶§ ;;;;;;;;;;X
+LBLOSSREP_HEADER;À°±º º¸°í¼­ %s ;;;;;;;;;;X
+LBLOSSREP_1;ÆĞ¹è! ;;;;;;;;;;X
+LBLOSSREP_2;%t, ¿ì¸® ±º´ë´Â ;;;;;;;;;;X
+LBLOSSREP_3;%s ;;;;;;;;;;X
+LBLOSSREP_4;º´·Â°ú ;;;;;;;;;;X
+LBLOSSREP_5;%s¿¡¼­ ;;;;;;;;;;X
+LBLOSSREP_6;±³ÀüÇÏ¿© ÆĞ¹èÇß½À´Ï´Ù. \n »ıÁ¸ÀÚµéÀº Åğ°¢Çß½À´Ï´Ù. \n%s;;;;;;;;;;X
+LBLOSSREP_LOG;¿ì¸® ±º´ë°¡ %s º´·Â°ú %s¿¡¼­ ±³ÀüÇÏ¿© ÆĞ¹è. ;;;;;;;;;;X
+LBLOSSREP_BTN1;È®ÀÎ ;;;;;;;;;;X
+LBLOSSREP_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+LBWINREP_SETUP;ÀÚ±¹ÀÌ À°Àü¿¡¼­ ½Â¸®ÇßÀ»¶§ ;;;;;;;;;;X
+LBWINREP_HEADER;À°±º º¸°í¼­ %s ;;;;;;;;;;X
+LBWINREP_1;½Â¸®! ;;;;;;;;;;X
+LBWINREP_2;%t, ¿ì¸® ±º´ë´Â ;;;;;;;;;;X
+LBWINREP_3;%s ;;;;;;;;;;X
+LBWINREP_4;º´·Â°ú ;;;;;;;;;;X
+LBWINREP_5;%s¿¡¼­ ;;;;;;;;;;X
+LBWINREP_6;±³ÀüÇÏ¿© ½Â¸®Çß½À´Ï´Ù. \n%s;;;;;;;;;;X
+LBWINREP_LOG;%s º´·Â°ú %s¿¡¼­ ±³ÀüÇÏ¿© ½Â¸®. ;;;;;;;;;;X
+LBWINREP_BTN1;È®ÀÎ ;;;;;;;;;;X
+LBWINREP_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+LBWINOTHERREP_SETUP;Å¸±¹ÀÇ À°±ºÀÌ ÀüÅõ¿¡¼­ ½Â¸®ÇßÀ»¶§ ;;;;;;;;;;X
+LBWINOTHERREP_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;;;;;;;;;;X
+LBWINOTHERREP_1;%s ;;;;;;;;;;X
+LBWINOTHERREP_2;%t, ;;;;;;;;;;X
+LBWINOTHERREP_3;%s ±º´ë°¡ %sÀÇ º´·Â°ú ;;;;;;;;;;X
+LBWINOTHERREP_4;±³ÀüÇÏ¿© ;;;;;;;;;;X
+LBWINOTHERREP_5;%s¿¡¼­ ;;;;;;;;;;X
+LBWINOTHERREP_6;½Â¸®Çß½À´Ï´Ù. \n%s;;;;;;;;;;X
+LBWINOTHERREP_LOG;%s ±º´ë°¡ %s º´·Â°ú %s¿¡¼­ ±³ÀüÇÏ¿© ½Â¸®. ;;;;;;;;;;X
+LBWINOTHERREP_BTN1;È®ÀÎ ;;;;;;;;;;X
+LBWINOTHERREP_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+NBWINOTHERREP_SETUP;Å¸±¹ÀÇ ÇÔ´ë°¡ ÇØÀü¿¡¼­ ½Â¸®ÇßÀ»¶§ ;;;;;;;;;;X
+NBWINOTHERREP_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;;;;;;;;;;X
+NBWINOTHERREP_1;%s ;;;;;;;;;;X
+NBWINOTHERREP_2;%t, ;;;;;;;;;;X
+NBWINOTHERREP_3;%s ÇÔ´ë°¡ %s ÇÔ´ë¿Í ;;;;;;;;;;X
+NBWINOTHERREP_4;±³ÀüÇÏ¿© ;;;;;;;;;;X
+NBWINOTHERREP_5;%s¿¡¼­ ;;;;;;;;;;X
+NBWINOTHERREP_6;½Â¸®Çß½À´Ï´Ù. \n%s;;;;;;;;;;X
+NBWINOTHERREP_LOG;%s ÇÔ´ë°¡ %s ÇÔ´ë¿Í %s¿¡¼­ ±³ÀüÇÏ¿© ½Â¸®. ;;;;;;;;;;X
+NBWINOTHERREP_BTN1;È®ÀÎ ;;;;;;;;;;X
+NBWINOTHERREP_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+ABWINOTHERREP_SETUP;Å¸±¹ÀÌ Á¦3±¹°úÀÇ °øÁßÀü¿¡¼­ ½Â¸®ÇßÀ» ¶§ ;;;;;;;;;;X
+ABWINOTHERREP_HEADER;Ã¸º¸ºÎ º¸°í¼­ ;;;;;;;;;;X
+ABWINOTHERREP_1;%s ;;;;;;;;;;X
+ABWINOTHERREP_2;%t, ;;;;;;;;;;X
+ABWINOTHERREP_3;%sÀÇ ºñÇà´ÜÀÌ %sÀÇ ºñÇà´Ü°ú ;;;;;;;;;;X
+ABWINOTHERREP_4;±³ÀüÇÏ¿© ;;;;;;;;;;X
+ABWINOTHERREP_5;%s »ó°ø¿¡¼­ ;;;;;;;;;;X
+ABWINOTHERREP_6;½Â¸®Çß½À´Ï´Ù. \n%s;;;;;;;;;;X
+ABWINOTHERREP_LOG;%sÀÇ ºñÇà´ÜÀÌ %sÀÇ ºñÇà´Ü°ú %s »ó°ø¿¡¼­ ±³ÀüÇÏ¿© ½Â¸®. ;;;;;;;;;;X
+ABWINOTHERREP_BTN1;È®ÀÎ ;;;;;;;;;;X
+ABWINOTHERREP_BTN2;±×°÷À¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+BOMBLANDWE_SETUP;When you bomb enemy armies;When you bomb enemy armies;;;;;;;;;X
+BOMBLANDWE_HEADER;AIR FORCE BRIEFING%s;AIR FORCE BRIEFING%s;;;;;;;;;X
+BOMBLANDWE_1;Air Raid Report;Air Raid Report;;;;;;;;;X
+BOMBLANDWE_2;%t, our air units have bombed armies from;%t, our air units have bombed armies from;;;;;;;;;X
+BOMBLANDWE_3;%s;%s;;;;;;;;;X
+BOMBLANDWE_4;in the province of;in the province of;;;;;;;;;X
+BOMBLANDWE_5;%s;%s;;;;;;;;;X
+BOMBLANDWE_6;%s;%s;;;;;;;;;X
+BOMBLANDWE_LOG;We bombed armies from %s in the province of %s.;We bombed armies from %s in the province of %s.;;;;;;;;;X
+BOMBLANDWE_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+BOMBLANDWE_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+BOMBLANDTHEY_SETUP;When your armies are bombed by enemy air units;When your armies are bombed by enemy air units;;;;;;;;;X
+BOMBLANDTHEY_HEADER;ARMY BRIEFING%s;ARMY BRIEFING%s;;;;;;;;;X
+BOMBLANDTHEY_1;Air Raid Report;Air Raid Report;;;;;;;;;X
+BOMBLANDTHEY_2;%t, our armies have been bombed by;%t, our armies have been bombed by;;;;;;;;;X
+BOMBLANDTHEY_3;%s;%s;;;;;;;;;X
+BOMBLANDTHEY_4;in the province of;in the province of;;;;;;;;;X
+BOMBLANDTHEY_5;%s;%s;;;;;;;;;X
+BOMBLANDTHEY_6;%s;%s;;;;;;;;;X
+BOMBLANDTHEY_LOG;Our armies have been bombed by %s in the province of %s.;Our armies have been bombed by %s in the province of %s.;;;;;;;;;X
+BOMBLANDTHEY_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+BOMBLANDTHEY_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+BOMBLANDOTHER_SETUP;When another nation bombs other nation's armies;When another nation bombs other nation's armies;;;;;;;;;X
+BOMBLANDOTHER_HEADER;INTELLIGENCE BRIEFING;INTELLIGENCE BRIEFING;;;;;;;;;X
+BOMBLANDOTHER_1;%s;%s;;;;;;;;;X
+BOMBLANDOTHER_2;%t, the airforce of %s has;%t, the airforce of %s has;;;;;;;;;X
+BOMBLANDOTHER_3;bombed armies from %s in the province of %s;bombed armies from %s in the province of %s;;;;;;;;;X
+BOMBLANDOTHER_4;%s;%s;;;;;;;;;X
+BOMBLANDOTHER_5;;;;;;;;;;;X
+BOMBLANDOTHER_6;;;;;;;;;;;X
+BOMBLANDOTHER_LOG;%s bombed armies from %s in the province of %s.;%s bombed armies from %s in the province of %s.;;;;;;;;;X
+BOMBLANDOTHER_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+BOMBLANDOTHER_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+BOMBNAVYWE_SETUP;When you bomb enemy ships at sea;When you bomb enemy ships at sea;;;;;;;;;X
+BOMBNAVYWE_HEADER;AIR FORCE BRIEFING%s;AIR FORCE BRIEFING%s;;;;;;;;;X
+BOMBNAVYWE_1;Air Raid Report;Air Raid Report;;;;;;;;;X
+BOMBNAVYWE_2;%t, our air units have bombed ships from;%t, our air units have bombed ships from;;;;;;;;;X
+BOMBNAVYWE_3;%s;%s;;;;;;;;;X
+BOMBNAVYWE_4;in the waters of;in the waters of;;;;;;;;;X
+BOMBNAVYWE_5;%s;%s;;;;;;;;;X
+BOMBNAVYWE_6;%s;%s;;;;;;;;;X
+BOMBNAVYWE_LOG;We bombed ships from %s in the waters of %s.;We bombed ships from %s in the waters of %s.;;;;;;;;;X
+BOMBNAVYWE_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+BOMBNAVYWE_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+BOMBNAVYTHEY_SETUP;When your ships at sea are bombed by enemy air units;When your ships at sea are bombed by enemy air units;;;;;;;;;X
+BOMBNAVYTHEY_HEADER;NAVAL BRIEFING%s;NAVAL BRIEFING%s;;;;;;;;;X
+BOMBNAVYTHEY_1;Air Raid Report;Air Raid Report;;;;;;;;;X
+BOMBNAVYTHEY_2;%t, our ships have been bombed by;%t, our ships have been bombed by;;;;;;;;;X
+BOMBNAVYTHEY_3;%s;%s;;;;;;;;;X
+BOMBNAVYTHEY_4;in the waters of;in the waters of;;;;;;;;;X
+BOMBNAVYTHEY_5;%s;%s;;;;;;;;;X
+BOMBNAVYTHEY_6;%s;%s;;;;;;;;;X
+BOMBNAVYTHEY_LOG;Our ships have been bombed by %s in the waters of %s.;Our ships have been bombed by %s in the waters of %s.;;;;;;;;;X
+BOMBNAVYTHEY_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+BOMBNAVYTHEY_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+BOMBNAVYOTHER_SETUP;When another nation bombs other nation's ships at sea;When another nation bombs other nation's ships at sea;;;;;;;;;X
+BOMBNAVYOTHER_HEADER;INTELLIGENCE BRIEFING;INTELLIGENCE BRIEFING;;;;;;;;;X
+BOMBNAVYOTHER_1;%s;%s;;;;;;;;;X
+BOMBNAVYOTHER_2;%t, the airforce of %s has;%t, the airforce of %s has;;;;;;;;;X
+BOMBNAVYOTHER_3;bombed ships from %s in the waters of %s;bombed ships from %s in the waters of %s;;;;;;;;;X
+BOMBNAVYOTHER_4;%s;%s;;;;;;;;;X
+BOMBNAVYOTHER_5;;;;;;;;;;;X
+BOMBNAVYOTHER_6;;;;;;;;;;;X
+BOMBNAVYOTHER_LOG;%s bombed ships from %s in the waters of %s.;%s bombed ships from %s in the waters of %s.;;;;;;;;;X
+BOMBNAVYOTHER_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+BOMBNAVYOTHER_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+## Darkest Hour 1.04;;;;;;;;;;;X
+##;;;;;;;;;;;X
+ABDRAWREP_SETUP;When an air battle ends in a draw ;Quand un combat aérien se termine par un match nul;Quando una battaglia area finisce in parità ;Cuando un combate aéreo acaba en tablas;Wenn ein Luftkampf unentschieden endet ;Kiedy walka w powietrzu koñczy siê remisem;;Êîãäà âîçäóøíûé áîé çàêàí÷èâàåòñÿ â íè÷üş;;;X
+ABDRAWREP_HEADER;AIR FORCE BRIEFING%s;COMPTE RENDU AERIEN%s;RAPPORTO DELL'AERONAUTICA%s;BRIEFING FUERZAS AÉREAS%s;LUFTWAFFEN-EINSATZBESPRECHUNG%s;RAPORT SI£ POWIETRZNYCH%s;;ÑÎÎÁÙÅÍÈÅ ÂÂÑ%s;;;X
+ABDRAWREP_1;Air Combat Report;Rapport de combat aérien;Rapporto sul combattimento aereo;Informe de Combate Aéreo;Bericht über Luftkampf;Raport walki w powietrzu;;Îò÷åò âîçäóøíîãî áîÿ;;;X
+ABDRAWREP_2;%t, the air combat with;%t, le combat aérien contre;%t, il combattimento aereo con;%t, el combate aéreo con;%t, der Luftkampf mit;%t, walka w powietrzu z pañstwem:;;%t, âîçäóøíîãî áîÿ ñ;;;X
+ABDRAWREP_3;%s;%s;%s;%s;%s;%s;;%s;;;X
+ABDRAWREP_4;ended without a clear winner in the skies above;s'est achevé sans un net vainqueur au-dessus de;è terminato senza un chiaro vincitore nei cieli sopra;acabo sin un claro vencedor sobre los cielos;endete ohne klaren Sieger am Himmel über;zakoñczy³a siê bez jednoznacznego rozstrzygniêcia;;çàêîí÷èëîñü áåç ÿâíîãî ïîáåäèòåëÿ â íåáå íàä;;;X
+ABDRAWREP_5;%s;%s;%s;%s;%s;%s;;%s;;;X
+ABDRAWREP_6;%s;%s;%s;%s;%s;%s;;%s;;;X
+ABDRAWREP_LOG;Air battle against %s ended without a clear winner in the skies above %s.;Le combat aérien contre %s s'est terminé sans un net vainqueur au-dessus de %s.;La battaglia aerea contro %s è terminata senza un chiaro vincitore nei cieli sopra %s.;La batalla aérea contra %s acabo sin un claro vencedor sobre los cielos %s.;Ein Luftkampf gegen %s endete ohne klaren Sieger am Himmel über %s.;Walka w powietrzu przeciwko pañstwu: %s zakoñczy³a siê bez jednoznacznego rozstrzygniêcia nad: %s.;;Âîçäóøíûé áîé ïğîòèâ %s çàâåğøèëñÿ áåç ÿâíîãî ïîáåäèòåëÿ â íåáå íàä %s.;;;X
+ABDRAWREP_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+ABDRAWREP_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+ABDRAWOTHERREP_SETUP;When an air battle ends in a draw for other nations;Quand un combat aérien se termine par un match nul pour les autres pays;Quando una battaglia area finisce in parità per altre nazioni;Cuando una batalla aérea acaba en tablas para otros países;Wenn ein Luftkampf zwischen anderen Ländern unentschieden endet ;Kiedy walka w powietrzu koñczy siê remisem dla innych pañstw;;Êîãäà âîçäóøíûé áîé çàêàí÷èâàåòñÿ â íè÷üş, äëÿ äğóãèõ íàöèé;;;X
+ABDRAWOTHERREP_HEADER;INTELLIGENCE BRIEFING;RAPPORT DES SERVICES SECRETS;RAPPORTO DEI SERVIZI SEGRETI;BRIEFING DE INTELIGENCIA;AUFKLÄRUNGSBESPRECHUNG;RAPORT WYWIADU;;ÑÎÎÁÙÅÍÈÅ ĞÀÇÂÅÄÊÈ;;;X
+ABDRAWOTHERREP_1;%s;%s;%s;%s;%s;%s;;%s;;;X
+ABDRAWOTHERREP_2;%t, the air combat between;%t, le combat aérien entre;%t, il combattimento aereo tra;%t, el combate aéreo entre;%t, the air combat between;%t, walka w powietrzu z pañstwem:;;%t, âîçäóøíûé áîé ìåæäó;;;X
+ABDRAWOTHERREP_3;%s and %s;%s et %s;%s e %s;%s y %s;%s und %s;%s i pañstwem %s;;%s è %s;;;X
+ABDRAWOTHERREP_4;ended without a clear winner in the skies above;s'est achevé sans un net vainqueur au-dessus de;è terminato senza un chiaro vincitore nei cieli sopra;acabo sin un claro vencedor sobre los cielos;endete ohne klaren Sieger am Himmel über;zakoñczy³a siê bez jednoznacznego rozstrzygniêcia;;çàêîí÷èëîñü áåç ÿâíîãî ïîáåäèòåëÿ â íåáå íàä;;;X
+ABDRAWOTHERREP_5;%s;%s;%s;%s;%s;%s;;%s;;;X
+ABDRAWOTHERREP_6;%s;%s;%s;%s;%s;%s;;%s;;;X
+ABDRAWOTHERREP_LOG;;;;;;;;;;;X
+ABDRAWOTHERREP_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+ABDRAWOTHERREP_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+CONVOYLOSSREP_DETAILS;%s-%s convoy at %s;%s-%s à %s;%s-%s in %s;%s-%s en %s;von %s nach %s in %s;%s - %s w: %s;;êîíâîé %s-%s â ğàéîíå %s;;;X
+##;;;;;;;;;;;X
+CONVOYLOSSREP_SETUP;When you lose ships in a convoy;Lorsque vous perdez des navires d'un convoi;Se perdi le navi di un convoglio;Cuando pierdas barcos de un convoy;Wenn Sie Konvoischiffe verlieren;Kiedy utracisz okrêty konwoju;;Êîãäà ìû òåğÿåì êîğàáëè êîíâîÿ;;;X
+CONVOYLOSSREP_HEADER;NAVAL BRIEFING%s;RAPPORT NAVAL%s;RAPPORTO DELLA MARINA%s;INFORME DE LA ARMADA%s;MARINE-EINSATZBESPRECHUNG%s;Raport sztabu marynarki%s;;ÑÎÎÁÙÅÍÈÅ ÂÌÔ%s;;;X
+CONVOYLOSSREP_1;Failure!;Echec !;Disastro!;¡Fracaso!;Fehlschlag!;Pora¿ka!;;Ïğîâàë!;;;X
+CONVOYLOSSREP_2;%t, the;%t, le convoi;%t, il nostro convoglio;%t, el convoy;%t, unser Konvoi;%t, nasz konwój:;;%t, íàø;;;X
+CONVOYLOSSREP_3;%s;%s;%s;%s;%s;%s;;%s;;;X
+CONVOYLOSSREP_4;have lost the following:;a perdu;ha perso le seguenti navi:;ha perdido lo siguiente:;hat folgende Schiffe verloren:;utraci³ nastêpuj¹ce jednostki:;;ïîíåñ ïîòåğè:;;;X
+CONVOYLOSSREP_5;%s;%s;%s;%s;%s;%s;;%s.;;;X
+CONVOYLOSSREP_6;%s;%s;%s;%s;%s;%s;;%s;;;X
+CONVOYLOSSREP_LOG;The %s lost %s.;Le convoi %s a perdu %s.;Il convoglio %s ha perso %s.;El convoy %s ha perdido: %s.;Ein Konvoi %s verlor %s.;Konwój: %s utraci³: %s.;;Íàø %s ïîíåñ ïîòåğè: %s.;;;X
+CONVOYLOSSREP_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+CONVOYLOSSREP_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+CONVOYLOSSTREP_SETUP;When you sink ships in another nations convoy;Lorsque vous coulez les navires d'un convoi;Se affondi le navi di un convoglio straniero;Cuando hundas barcos de un convoy de otra nación;Wenn Sie Konvoischiffe einer anderen Nation versenken;Kiedy zatopisz okrêty we wrogim konwoju;;Êîãäà ìû òîïèì êîğàáëè âğàæåñêîãî êîíâîÿ;;;X
+CONVOYLOSSTREP_HEADER;NAVAL BRIEFING%s;RAPPORT NAVAL%s;RAPPORTO DELLA MARINA%s;INFORME DE LA ARMADA%s;MARINE-EINSATZBESPRECHUNG%s;Raport sztabu marynarki%s;;ÑÎÎÁÙÅÍÈÅ ÂÌÔ%s;;;X
+CONVOYLOSSTREP_1;Success!;Victoire !;Vittoria!;¡Éxito!;Erfolg!;Sukces!;;Ïîáåäà!;;;X
+CONVOYLOSSTREP_2;%t, our forces in;%t, nos forces de;%t, le nostre forze in;%t, nuestras fuerzas de;%t, unsere Streitkräfte in;%t, nasze si³y w:;;%t, íàø ôëîò â çîíå;;;X
+CONVOYLOSSTREP_3;%s;%s;%s;%s;%s;%s;;%s;;;X
+CONVOYLOSSTREP_4;have sank the following from a convoy:;ont infligé les pertes suivantes à un convoi :;hanno affondato le seguenti navi di un convoglio:;han hundido lo siguiente de un convoy:;haben folgende Schiffe versenkt:;zatopi³y nastêpuj¹ce okrêty konwoju:;;íàíåñ ïîòåğè âğàæåñêîìó êîíâîş:;;;X
+CONVOYLOSSTREP_5;%s;%s;%s;%s;%s;%s;;%s;;;X
+CONVOYLOSSTREP_6;%s;%s;%s;%s;%s;%s;;%s;;;X
+CONVOYLOSSTREP_LOG;Our forces in %s have sunk %s.;Nos forces de %s ont coulé %s.;Le nostre forze in %s hanno affondato %s.;Nuestras fuerzas en %s han hundido %s.;Unsere Streitkräfte in %s haben %s versenkt.;Nasze si³y w: %s zatopi³y: %s.;;Íàø ôëîò â çîíå %s ïîòîïèë %s.;;;X
+CONVOYLOSSTREP_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+CONVOYLOSSTREP_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+CONVOYLOSSMC_SETUP;When a country military controlled by you loses ships in a convoy;Lorsqu'une marine contrôlée par votre pays perd des navires dans un convoi;Quando nazioni sotto il tuo controllo militare perdono navi di un convoglio;Cuando los militares controlados por tu país pierden un barco en un convoy;Wenn eine Nation unter Oberbefehl Konvoiverluste erleidet;Kiedy kraj nad którym masz kontrolê wojskow¹ traci statki w konwoju;;Êîãäà âîşşùàÿ ñòğàíà, êîíòğîëèğóåìàÿ âàìè, òåğÿåò ñóäà â êîíâîå;;;X
+CONVOYLOSSMC_HEADER;NAVAL BRIEFING%s;COMPTE RENDU NAVAL%s;RAPPORTO DELLA MARINA%s;BRIEFING NAVAL%s;MARINE-EINSATZBESPRECHUNG%s;RAPORT MARYNARKI%s;;ÑÎÎÁÙÅÍÈÅ ÂÌÔ%s;;;X
+CONVOYLOSSMC_1;Failure!;Échec !;Fallimento!;Fracaso!;Verlustmeldung!;Pora¿ka!;;Ïğîâàë!;;;X
+CONVOYLOSSMC_2;%t, a convoy from %s in;%t, un convoi de %s en;%t, un convoglio da %s in;%t,un convoy de %s en;%t, ein Konvoi aus %s in;%t, konwój z: %s w:;;%t, êîíâîé èç %s â;;;X
+CONVOYLOSSMC_3;%s;%s;%s;%s;%s;%s;;%s;;;X
+CONVOYLOSSMC_4;has lost the following;a perdu;ha perso;ha perdido los siguientes;hat folgende Verluste erlitten:;straci³ nastêpuj¹ce statki:;;ïîòåğÿëà ñëåäóşùåå;;;X
+CONVOYLOSSMC_5;%s;%s;%s;%s;%s;%s;;%s;;;X
+CONVOYLOSSMC_6;%s;%s;%s;%s;%s;%s;;%s;;;X
+CONVOYLOSSMC_LOG;A convoy from %s in %s has lost %s.;Un convoi de %s en %s a perdu %s.;Un convoglio da %s in %s ha perso %s.;Un convoy de %s en %s ha perdido %s.;Ein Konvoi aus %s in %s hat folgende Verluste erlitten: %s.;Konwój z: %s w: %s straci³ nastêpuj¹ce statki: %s.;;Êîíâîé èç %s â %s ïîòåğÿë %s.;;;X
+CONVOYLOSSMC_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+CONVOYLOSSMC_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+CONVOYATTFAIL_SETUP;When an attack on convoy fails to inflict any damage;Quand une attaque sur un convoi échoue à infliger le moindre dégât;Quando un attacco a un convoglio non riesce a infliggere alcun danno;Cuando un ataque a un convoy fálla y no inflinge daño alguno;Wenn ein Angriff auf einen Konvoi keinen Schaden anrichtet;Kiedy atak na konwój nie wywo³uje ¿adnych zniszczeñ;;Êîãäà íàïàäåíèå íà êîíâîé íå íàíåñëî íèêàêîãî óùåğáà;;;X
+CONVOYATTFAIL_HEADER;NAVAL BRIEFING%s;RAPPORT NAVAL%s;RAPPORTO DELLA MARINA%s;INFORME DE LA ARMADA%s;MARINE-EINSATZBESPRECHUNG%s;RAPORT MARYNARKI%s;;ÑÎÎÁÙÅÍÈÅ ÂÌÔ%s;;;X
+CONVOYATTFAIL_1;Convoy attack failure!;Échec de l'attaque du convoi !;Fallimento dell'attacco al convoglio!;El Ataque al convoy fálla!;Angriff auf Konvoi fehlgeschlagen!;Niepowodzenie ataku na konwój!;;Ïğîâàë àòàêè íà êîíâîé;;;X
+CONVOYATTFAIL_2;%t, the commander of\n§W%s§§\nattacked a convoy from;%t, le commandant de\n§W%s§§\na attaqué un convoi de;%t, il comandante del\n§W%s§§\nha attaccato un convoglio di;%t, el comandante de\n§W%s§§\nataca un convoy desde;%t, der Kommandant von\n§W%s§§\nhat einen Konvoi von;%t, dowódca:\n§W%s§§\nzaatakowa³ konwój z:;;%t, êîìàíäèğ\n§W%s§§\n àòàêîâàë êîíâîé èç;;;X
+CONVOYATTFAIL_3;%s;%s;%s;%s;%s;%s;;%s;;;X
+CONVOYATTFAIL_4;in the waters of; en;nelle acque di;en aguas de;im Seegebiet;na wodach:;;â âîäàõ;;;X
+CONVOYATTFAIL_5;%s;%s;%s;%s;%s;%s;;%s;;;X
+CONVOYATTFAIL_6;but failed to inflict any damage to it!\n%s ;mais a échoué à lui infliger le moindre dégât !\n%s ;ma non è riuscito a infliggere alcun danno al convoglio!\n%s;pero no pudo infligir daño alguno en el!\n%s;erfolglos angegriffen!\n%s;ale nie spowodowa³ ¿adnych zniszczeñ!%s;;íî íå ñìîãëè ïğè÷èíèòü êàêîé-ëèáî âğåä!\n%s;;;X
+CONVOYATTFAIL_LOG;%s failed to damage a convoy from %s.;%s a échoué à endommager le convoi de %s.;%s non è riuscito a danneggiare un convoglio di %s.;%s no daña al convoy desde %s.;%s hat erfolglos einen Konvoi aus %s angegriffen.;%s nie dokona³ ¿adnych zniszczeñ w konwoju z prowincji: %s.;;%s íå ïîâğåäèëè êîíâîé èç %s.;;;X
+CONVOYATTFAIL_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+CONVOYATTFAIL_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+CONVOYDEFSUCC_SETUP;When enemy attack on convoy fails;Quand une attaque ennemie sur un convoi échoue;Quando un attacco nemico a un convoglio fallisce;Cuando el enemigo ataca un convoy y falla;Wenn ein feindlicher Angriff auf einen Konvoi keinen Schaden anrichtet;Kiedy atak wroga na konwój nie powodzi siê;;Êîãäà íàïàäåíèå âğàãà íà êîíâîé íå óäàëîñü;;;X
+CONVOYDEFSUCC_HEADER;NAVAL BRIEFING%s;RAPPORT NAVAL%s;RAPPORTO DELLA MARINA%s;INFORME DE LA ARMADA%s;MARINE-EINSATZBESPRECHUNG%s;RAPORT MARYNARKI%s;;ÑÎÎÁÙÅÍÈÅ ÂÌÔ%s;;;X
+CONVOYDEFSUCC_1;Success!;Victoire !;Successo!;Éxito!;Erfolg!;Sukces!;;Óñïåõ!;;;X
+CONVOYDEFSUCC_2;%t, a convoy in;%t, un convoi en;%t, un convoglio in;%t, un convoy en;%t, ein Konvoi in;%t, konwój w:;;%t, êîíâîé â;;;X
+CONVOYDEFSUCC_3;%s;%s;%s;%s;%s;%s;;%s;;;X
+CONVOYDEFSUCC_4;repelled an attack from;a repoussé une attaque de;ha respinto un attacco di;repele un ataque desde;hat sich erfolgreich verteidigt gegen einen Angriff von;odpar³ atak z:;;îòáèëè àòàêó èç;;;X
+CONVOYDEFSUCC_5;%s;%s;%s;%s;%s;%s;;%s;;;X
+CONVOYDEFSUCC_6;%s;%s;%s;%s;%s;%s;;%s;;;X
+CONVOYDEFSUCC_LOG;A convoy in %s repelled an attack from %s.;Un convoi en %s a repoussé une attaque de %s.;Un convoglio in %s ha respinto un attacco di %s.;Un convoy en %s repele un ataque de %s.;Ein Konvoiu in %s hat einen Angriff von %s abgewiesen.;Konwój w: %s odpar³ atak z: %s.;;Êîíâîé â %s îòáèë àòàêó îò %s.;;;X
+CONVOYDEFSUCC_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+CONVOYDEFSUCC_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+PROVAALOSSREP_SETUP;When one of our air units is damaged by enemy anti aircraft batteries;Quand un de nos escadrons est endommagé par la DCA ennemie;Quando una delle nostre unità aeree è danneggiata dalle batterie anti aeree nemiche;Cuando una de nuestras naves aéreas ha sido dañada por baterias anti-aéreas enemigas;Wenn eine unserer Luftwaffeneinheiten durch gegnerische Flak beschädigt wird;Kiedy jedna z naszych eskadr doœwiadcza uszkodzeñ z powodu ognia przeciwlotniczego;;Êîãäà îäíà èç íàøèõ àâèà÷àñòåé ïîâğåæäåíà âğàæåñêèìè áàòàğåÿìè ÏÂÎ;;;X
+PROVAALOSSREP_HEADER;AIR FORCE BRIEFING%s;RAPPORT AERIEN%s;RAPPORTO DELL'AERONAUTICA%s;INFORME DE LA FUERZA AÉREA%s;LUFTWAFFEN-EINSATZBESPRECHUNG%s;RAPORT SI£ POWIETRZNYCH%s;;ÑÎÎÁÙÅÍÈÅ ÂÂÑ%s;;;X
+PROVAALOSSREP_1;Air Losses Report;Rapport des pertes aériennes;Rapporto sulle perdite aeree;Reporte de pérdidas aéreas;Bericht über Luftwaffen-Verluste;Raport strat w si³ach potwietrznych;;Îò÷åò î ïîòåğÿõ â âîçäóõå;;;X
+PROVAALOSSREP_2;%t,\n§W%s§§\ntook losses by the anti aircraft batteries of;%t,\n§W%s§§\na subi des pertes de la part de la DCA de;%t,\n§W%s§§\nè stato danneggiato dalle batterie anti aeree di;%t,\n§W%s§§\ntuvo pérdidas por las baterías antiaéreas de;%t,\n§W%s§§\nhat Verluste erlitten durch die Flugabwehr von;%t,\n§W%s§§\ndoœwiadcza uszkodzeñ z powodu ognia przeciwlotniczego pañstwa:;;%t,\n§W%s§§\n ïîíåñ ïîòåğè îò ÏÂÎ â;;;X
+PROVAALOSSREP_3;%s;%s;%s;%s;%s;%s;;%s;;;X
+PROVAALOSSREP_4;in the skies above;dans le ciel de;nei cieli sopra;en los cielos de;am Himmel über;nad prowincj¹:;;â íåáå íàä;;;X
+PROVAALOSSREP_5;%s;%s;%s;%s;%s;%s;;%s;;;X
+PROVAALOSSREP_6;%s;%s;%s;%s;%s;%s;;%s;;;X
+PROVAALOSSREP_LOG;;;;;;;;;;;X
+PROVAALOSSREP_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+PROVAALOSSREP_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+PROVAAWEREP_SETUP;When our anti aircraft batteries inflict damage to enemy air units;Quand notre DCA endommage des escadrons ennemis;Quando una delle nostre batterie anti aeree danneggia unità aeree nemiche;Cuando nuestras Baterias Anti Aéreas inflingen daños a las fuerzas aéreas enemigas;Wenn unsere Flugabwehr der gegnerischen Luftwaffe Verluste zufügt;Kiedy nasze baterie przeciwlotnicze zadaj¹ uszkodzenia obcym si³om powietrznym;;Êîãäà íàøè áàòàğåè ÏÂÎ íàíåñëè óğîí âîçäóøíûì åäèíèöàì ïğîòèâíèêà ;;;X
+PROVAAWEREP_HEADER;ARMY BRIEFING%s;RAPPORT TERRESTRE%s;RAPPORTO TERRESTRE%s;INFORME DEL EJÉRCITO DE TIERRA%s;ARMEE-EINSATZBESPRECHUNG%s;RAPORT WOJSKOWY%s;;ÑÎÎÁÙÅÍÈÅ ÂÑ%s;;;X
+PROVAAWEREP_1;AA Defence Report;Rapport de la DCA;Rapporto della difesa anti aerea;Reporte de la defensa AA;Bericht der Flugabwehr;Raport obrony przeciwlotniczej;;Äîêëàä ÏÂÎ;;;X
+PROVAAWEREP_2;%t, the anti aircraft batteries in;%t, la DCA en;%t, le batterie anti aeree in;%t, Baterias Anti Aéreas en;%t, die Flugabwehr in;%t, baterie przeciwlotnicze w prowincji:;;%t, áàòàğåè ÏÂÎ â;;;X
+PROVAAWEREP_3;%s;%s;%s;%s;%s;%s;;%s;;;X
+PROVAAWEREP_4;shot down invading planes of;a abattu des avions de;hanno abbattuto aerei di;Aeronaves invasoras derribadas ;hat Abschüsse erzielt bei einfliegenden Feindflugzeugen von;zestrzeli³y atakuj¹ce samoloty pañstwa:;;ñáèòûå âòîğãøèåñÿ ñàìîëåòû;;;X
+PROVAAWEREP_5;%s;%s;%s;%s;%s;%s;;%s;;;X
+PROVAAWEREP_6;%s;%s;%s;%s;%s;%s;;%s;;;X
+PROVAAWEREP_LOG;;;;;;;;;;;X
+PROVAAWEREP_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+PROVAAWEREP_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+PROVAAOTHERREP_SETUP;When anti aircraft batteries of another country inflict damage to air units;Quand la DCA d'un autre pays endommage des escadrons ennemis;Quando le batterie anti aeree di un'altra nazione danneggiano unità aeree;Cuando Baterias Anti Aéreas de otro pais inflingen daños a nuestras Fuerzas Aéreas;Wenn die Flugabwehr eines anderen Landes einer Luftwaffe Verluste zufügt;Kiedy baterie przeciwlotnicze wroga zadaj¹ uszkodzenia naszym si³om powietrznym;;Êîãäà áàòàğåè ÏÂÎ äğóãîé ñòğàíû íàíåñëè óùåğá ÂÂÑ;;;X
+PROVAAOTHERREP_HEADER;INTELLIGENCE BRIEFING%s\nConcerning;RAPPORT DES RENSEIGNEMENTS%s\nConcernant;RAPPORTO DEI SERVIZI SEGRETI%s\nSu;INFORME DE INTELIGENCIA%s\nAcerca de;AUFKLÄRUNGSBESPRECHUNG%s\nbetreffend;RAPORT WYWIADU%s\nDotyczy:;;ÑÎÎÁÙÅÍÈÅ ĞÀÇÂÅÄÊÈ%s\nÎ;;;X
+PROVAAOTHERREP_1;%s;%s;%s;%s;%s;%s;;%s;;;X
+PROVAAOTHERREP_2;%t, their anti aircraft batteries in;%t, sa DCA en;%t, le loro batterie anti aeree in;%t, sus Baterias Anti Aéreas en;%t, die Flugabwehr in;%t, ich baterie przeciwlotnicze w prowincji:;;%t, èõ áàòàğåè ÏÂÎ â;;;X
+PROVAAOTHERREP_3;%s;%s;%s;%s;%s;%s;;%s;;;X
+PROVAAOTHERREP_4;shot down invading planes of;a abattu des avions de;hanno abbattuto aerei di;Aeronaves invasoras derribadas ;hat Abschüsse erzielt bei einfliegenden Feindflugzeugen von;zestrzeli³y atakuj¹ce samoloty pañstwa:;;ñáèòûå âòîğãøèåñÿ ñàìîëåòû;;;X
+PROVAAOTHERREP_5;%s;%s;%s;%s;%s;%s;;%s;;;X
+PROVAAOTHERREP_6;%s;%s;%s;%s;%s;%s;;%s;;;X
+PROVAAOTHERREP_LOG;;;;;;;;;;;X
+PROVAAOTHERREP_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+PROVAAOTHERREP_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+ATTRLOSSWEREP_SETUP;When one of our units is damaged by attrition;Quand une de nos unités est endommagée par l'usure;Quando una delle nostre unità è danneggiata a causa del logoramento;Cuando una de nuestras unidades está dañada por desgaste;Wenn eine unserer Einheiten durch Abnutzung Verluste erleidet;Kiedy jedna z naszych jednostek doznaje strat z powodu wyczerpania;;Êîãäà îäíî èç íàøèõ ïîäğàçäåëåíèé ïîíåñëî ïîòåğè èç-çà èñòîùåíèÿ;;;X
+ATTRLOSSWEREP_HEADER;GENERAL STAFF BRIEFING%s;RAPPORT D'ÉTAT-MAJOR%s;RAPPORTO DELLO STATO MAGGIORE%s;INFORME DE LA PLANA MAYOR%s;BERICHT DES GENERALSTABS%s;RAPORT SZTABU GENERALNEGO%s;;ÑÎÎÁÙÅÍÈÅ ÃÅÍÅĞÀËÜÍÎÃÎ ØÒÀÁÀ%s;;;X
+ATTRLOSSWEREP_1;Attrition Report;Rapport d'usure;Rapporto sul logoramento;Reporte de Desgaste;Verlustbericht;Raport dot. wyczerpania;;Îò÷åò îá èñòîùåíèè;;;X
+ATTRLOSSWEREP_2;%t,;%t,;%t,;%t,;%t,;%t,;;%t,;;;X
+ATTRLOSSWEREP_3;%s;%s;%s;%s;%s;%s;;%s;;;X
+ATTRLOSSWEREP_4;currently located at;située actuellement à;attualmente in;actualmente localizado en;befindet sich momentan in;aktualnie zlokalizowane w prowincji:;;â íàñòîÿùåå âğåìÿ íàõîäèòñÿ â;;;X
+ATTRLOSSWEREP_5;%s;%s;%s;%s;%s;%s;;%s;;;X
+ATTRLOSSWEREP_6;is taking attrition damage!\n%s;souffre d'usure !\n%s;sta subendo danni da logoramento!\n%s;está recibiendo daño de desgaste!\n%s;und nimmt Schaden durch Abnutzung!\n%s;doznaje strat z powodu wyczerpania!\n%s;;ïîëó÷àåò èçíîñ è ïîâğåæäåíèÿ!\n%s;;;X
+ATTRLOSSWEREP_LOG;;;;;;;;;;;X
+ATTRLOSSWEREP_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+ATTRLOSSWEREP_BTN2;¼±ÅÃ ;Select;;;;;;;;;X
+##;;;;;;;;;;;X
+ATTRLOSSBIGWEREP_SETUP;When one of our units is damaged by severe attrition;Quand une de nos unités souffre d'une usure importante;Quando una delle nostre unità è danneggiata da severo logoramento;Cuando una de nuestras unidades esta dañada por severo desgaste;Wenn eine unserer Einheiten sehr stark abgenutzt wird;Kiedy jedna z naszych jednostek doznaje strat z powodu skrajnego wyczerpania;;Êîãäà îäíî èç íàøèõ ïîäğàçäåëåíèé ïîíåñëî ïîòåğè èç-çà ñèëüíîãî èñòîùåíèÿ;;;X
+ATTRLOSSBIGWEREP_HEADER;GENERAL STAFF BRIEFING%s;RAPPORT D'ÉTAT-MAJOR%s;RIUNIONE DELLO STATO MAGGIORE%s;INFORME DE LA PLANA MAYOR%s;BERICHT DES GENERALSTABS%s;RAPORT SZTABU GENERALNEGO%s;;ÑÎÎÁÙÅÍÈÅ ÃÅÍÅĞÀËÜÍÎÃÎ ØÒÀÁÀ%s;;;X
+ATTRLOSSBIGWEREP_1;Attrition Report;Rapport d'usure;Rapporto sul logoramento;Reporte de Desgaste;Verlustbericht;Raport dot. wyczerpania;;Îò÷åò îá èñòîùåíèè;;;X
+ATTRLOSSBIGWEREP_2;%t,;%t,;%t,;%t,;%t,;%t,;;%t,;;;X
+ATTRLOSSBIGWEREP_3;%s;%s;%s;%s;%s;%s;;%s;;;X
+ATTRLOSSBIGWEREP_4;currently located at;située actuellement à;attualmente in;actualmente localizado en;befindet sich momentan in;aktualnie zlokalizowane w prowincji:;;â íàñòîÿùåå âğåìÿ íàõîäèòñÿ â;;;X
+ATTRLOSSBIGWEREP_5;%s;%s;%s;%s;%s;%s;;%s;;;X
+ATTRLOSSBIGWEREP_6;is taking severe attrition damage!\n%s;souffre d'une usure importante !\n%s;sta subendo severi danni da logoramento!\n%s;está recibiendo un severo daño de desgaste!\n%s;und nimmt sehr schweren Schaden durch Abnutzung!\n%s;doznaje strat z powodu skrajnego wyczerpania!\n%s;;ïîëó÷àåò âûñîêóş ñòåïåíü ïîâğåæäåíèé!\n%s;;;X
+ATTRLOSSBIGWEREP_LOG;;;;;;;;;;;X
+ATTRLOSSBIGWEREP_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+ATTRLOSSBIGWEREP_BTN2;¼±ÅÃ ;Select;;;;;;;;;X
+##;;;;;;;;;;;X
+LOSTONSHIPWEREP_SETUP;When one of our land units is lost after losing its transport ship;Quand une de nos divisions est détruite après la perte de ses transports;Quando una delle nostre unità di terra è perduta a causa della distruzione della sua nave da trasporto;Cuando una de nuestras unidades de tierra se pierde después de perder su nave de transporte;Wenn eine unserer Bodentruppen mit einem Transportschiff untergeht;Kiedy jedna z naszych jednostek l¹dowych jest stracona po zatopieniu statku transportowego;;Êîãäà îäèí èç íàøèõ ñóõîïóòíûõ îòğÿäîâ òåğÿåòñÿ ïîñëå ïîòåğè ñâîåãî òğàíñïîğòíîãî ñóäíà;;;X
+LOSTONSHIPWEREP_HEADER;GENERAL STAFF BRIEFING%s;RAPPORT D'ÉTAT-MAJOR%s;RAPPORTO DELLO STATO MAGGIORE%s;INFORME DE LA PLANA MAYOR%s;BERICHT DES GENERALSTABS%s;RAPORT SZTABU GENERALNEGO%s;;ÑÎÎÁÙÅÍÈÅ ÃÅÍÅĞÀËÜÍÎÃÎ ØÒÀÁÀ%s;;;X
+LOSTONSHIPWEREP_1;Land Division Lost!;Division détruite !;Unità di terra perduta!;División de Tierra Perdida!;Division mit Transportschiff untergegangen!;Jednostka l¹dowa utracona!;;Ñóõîïóòíàÿ äèâèçèÿ ïîòåğÿíà!;;;X
+LOSTONSHIPWEREP_2;%t,;%t,;%t,;%t,;%t,;%t,;;%t,;;;X
+LOSTONSHIPWEREP_3;%s;%s;%s;%s;%s;%s;;%s;;;X
+LOSTONSHIPWEREP_4;lost a division together with its transport ships at;a perdu une division ainsi que ses transports en;ha perso una divisione insieme alla sua nave da trasporto in;perdida una división junto con sus barcos de transporte en;hat eine Heeres-Division auf hoher See verloren. Die voll besetzten Truppentransporter sind gesunken bei;- pañstwo straci³o dywizjê wraz z zatopionymi statkami transportowymi;;ïîòåğÿ äèâèçèè âìåñòå ñ òğàíñïîğòíûìè ñóäàìè â;;;X
+LOSTONSHIPWEREP_5;%s;%s;%s;%s;%s;%s;;%s;;;X
+LOSTONSHIPWEREP_6;%s;%s;%s;%s;%s;%s;;%s;;;X
+LOSTONSHIPWEREP_LOG;;;;;;;;;;;X
+LOSTONSHIPWEREP_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+LOSTONSHIPWEREP_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+WSTRBOMBREP_SETUP;When we have losses while bombing a province;Quand nous subissons des pertes en bombardant une province;Quando subiamo delle perdite durante il bombardamento di una provincia;Cuando tenemos perdidas mientras bombardean una provincia;Wenn wir Verluste erleiden, während wir eine Provinz bombardieren;Kiedy ponosimy straty przy bombardowaniu prowincji;;Êîãäà ìû íåñåì ïîòåğè ïğè áîìáàğäèğîâêàõ ïğîâèíöèé;;;X
+WSTRBOMBREP_HEADER;AIR FORCE BRIEFING%s;RAPPORT AERIEN%s;RAPPORTO DELL'AERONAUTICA%s;INFORME DE LA FUERZA AÉREA%s;LUFTWAFFEN-EINSATZBESPRECHUNG%s;RAPORT SI£ POWIETRZNYCH%s;;ÑÎÎÁÙÅÍÈÅ ÂÂÑ%s;;;X
+WSTRBOMBREP_1;Bombing Losses Report;Rapport de pertes lors d'un bombardement;Rapporto sulle perdite del bombardamento;Reporte de las perdidas del bombardeo;Bericht über Bomber-Verluste;Raport strat w bombowcach;;Îò÷åò ïîòåğü îò áîìáàğäèğîâîê;;;X
+WSTRBOMBREP_2;%t, our Air Force received damage on the bombing run against;%t, notre aviation a subi des pertes lors du bombardement de;%t, le nostre forze aeree hanno subito delle perdite durante il bombardamento di;%t, nuestra Fuerza Aérea recibió daños en el bombardeo contra;%t, unsere Luftwaffe hat Verluste erlitten bei einem Angriff auf;%t, nasze si³y powietrzne ponios³y straty w czasie bombardowania pañstwa:;;%t, íàøè ÂÂÑ ïîëó÷èëè ïîâğåæäåíèÿ â áîìáàğäèğîâêå ïğîòèâ;;;X
+WSTRBOMBREP_3;%s;%s;%s;%s;%s;%s;;%s;;;X
+WSTRBOMBREP_4;at;à;a;en;in;w prowincji:;;â;;;X
+WSTRBOMBREP_5;%s;%s;%s;%s;%s;%s;;%s;;;X
+WSTRBOMBREP_6;%s;%s;%s;%s;%s;%s;;%s;;;X
+WSTRBOMBREP_LOG;;;;;;;;;;;X
+WSTRBOMBREP_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+WSTRBOMBREP_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+TSTRBOMBREP_SETUP;When another nation has losses while bombing a province;Quand un autre pays subit des pertes en bombardant une province;Quando un'altra nazioni subisce perdite mentre bombarda una provincia;Cuando otra nación tiene pérdidas, mientras se bombardea una provincia;Wenn eine andere Nation Verluste erleidet, während sie eine Provinz bombardiert;Kiedy inne pañstwo ponosi straty w czasie bombardowania prowincji;;Êîãäà äğóãàÿ ñòğàíà íåñåò ïîòåğè, âî âğåìÿ áîìáàğäèğîâîê ïğîâèíöèé;;;X
+TSTRBOMBREP_HEADER;INTELLIGENCE BRIEFING%s\nConcerning;RAPPORT DES RENSEIGNEMENTS%s\nConcernant;RAPPORTO DEI SERVIZI SEGRETI%s\nSu;INFORME DE INTELIGENCIA%s\nAcerca de;AUFKLÄRUNGSBESPRECHUNG%s\nBetreffend;RAPORT WYWIADU%s\nDotyczy:;;ÑÎÎÁÙÅÍÈÅ ĞÀÇÂÅÄÊÈ%s\nÎ;;;X
+TSTRBOMBREP_1;%s;%s;%s;%s;%s;%s;;%s;;;X
+TSTRBOMBREP_2;%t, their bombers received damage on the bombing run against;%t, son aviation a subi des pertes lors du bombardement de;%t, le loro forze aeree hanno subito delle perdite durante il bombardamento di;%t, sus bombarderos recibieron daños en el bombardeo contra;%t, ihre Bomber haben Verluste erlitten bei einem Angriff auf;%t, ich bombowce ponios³y straty w czasie bombardowania pañstwa:;;%t, ñâîèõ áîìáàğäèğîâùèêîâ ïîëó÷èëè ïîâğåæäåíèÿ â áîìáàğäèğîâêå ïğîòèâ;;;X
+TSTRBOMBREP_3;%s;%s;%s;%s;%s;%s;;%s;;;X
+TSTRBOMBREP_4;at;à;a;en;in;w prowincji:;;â;;;X
+TSTRBOMBREP_5;%s;%s;%s;%s;%s;%s;;%s;;;X
+TSTRBOMBREP_6;%s;%s;%s;%s;%s;%s;;%s;;;X
+TSTRBOMBREP_LOG;;;;;;;;;;;X
+TSTRBOMBREP_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+TSTRBOMBREP_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+TSTRBOMBUSREP_SETUP;When we inflict losses to enemy bombers attacking our province;Quand nous infligeons des pertes aux bombardiers enemis attaquant notre province;Quando danneggiamo bombardieri nemici che attaccano le nostre provincie;Cuando nososotros infligimos pérdidas a los bombarderos enemigos que atacan nuestra provincia;Wenn wir feindlichen Bombern, die eine unserer Provinzen angreifen, Verluste zufügen;Kiedy zadajemy straty wrogim bombowcom atakuj¹cym nasz¹ prowincjê;;Êîãäà ìû íàíåñëè ïîâğåæäåíèÿ âğàæåñêèì áîìáàğäèğîâùèêàì, àòàêóşùèì íàøó ïğîâèíöèş;;;X
+TSTRBOMBUSREP_HEADER;ARMY BRIEFING%s;RAPPORT TERRESTRE%s;RAPPORTO DELL'ESERCITO%s;INFORME DEL EJÉRCITO DE TIERRA%s;ARMEE-EINSATZBESPRECHUNG%s;RAPORT ARMII%s;;ÑÎÎÁÙÅÍÈÅ ÂÑ%s;;;X
+TSTRBOMBUSREP_1;AA Defence Report;Rapport de la DCA;Rapporto della difesa anti aerea;Reporte de la defensa AA;Bericht der Flugabwehr;Raport obrony przeciwlotniczej;;Äîêëàä ÏÂÎ;;;X
+TSTRBOMBUSREP_2;%t, our brave men defending;%t, nos braves soldats défendant;%t, i nostri valorosi soldati a difesa di;%t, nuestros valientes hombres defendiendo;%t, unsere tapferen Verteidiger von;%t, nasi odwa¿ni ludzie broni¹cy prowincji:;;%t, íàøè õğàáğûå âîèíû îáîğîíÿşòñÿ;;;X
+TSTRBOMBUSREP_3;%s;%s;%s;%s;%s;%s;;%s;;;X
+TSTRBOMBUSREP_4;managed to shot down invading bombers from;sont parvenus à abattre des bombardiers de;sono riusciti ad abbattere i bombardieri di;logrado derribar los bombarderos invasores;haben angreifende Bomber abgeschossen. Die Invasoren kamen aus;zestrzelili atakuj¹ce bombowce pañstwa:;;óäàëîñü ñáèòü âòîğãøèåñÿ áîìáàğäèğîâùèêè èç;;;X
+TSTRBOMBUSREP_5;%s;%s;%s;%s;%s;%s;;%s;;;X
+TSTRBOMBUSREP_6;%s;%s;%s;%s;%s;%s;;%s;;;X
+TSTRBOMBUSREP_LOG;;;;;;;;;;;X
+TSTRBOMBUSREP_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+TSTRBOMBUSREP_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+ARMYDESTROYREP_SETUP;When one of your armies is destroyed by the enemy;Quand une de nos armées est détruite par l'ennemi;Quando una delle nostre armate è distrutta dal nemico;Cuando uno de sus ejércitos es destruido por el enemigo;Wenn der Gegner eine unserer Armeen zerstört;Kiedy jedna z naszych armii jest zniszczona przez wroga;;Êîãäà îäíà èç âàøèõ àğìèé óíè÷òîæåíà âğàãîì;;;X
+ARMYDESTROYREP_HEADER;ARMY BRIEFING%s;RAPPORT TERRESTRE%s;RAPPORTO DELL'ESERCITO%s;INFORME DEL EJÉRCITO DE TIERRA%s;ARMEE-EINSATZBESPRECHUNG%s;RAPORT ARMII%s;;ÑÎÎÁÙÅÍÈÅ ÂÑ%s;;;X
+ARMYDESTROYREP_1;Disaster!;Désastre !;Disastro!;Desastre!;Katastrophe!;Katastrofa!;;Êàòàñòğîôà!;;;X
+ARMYDESTROYREP_2;%t,;%t,;%t,;%t,;%t,;%t,;;%t,;;;X
+ARMYDESTROYREP_3;%s;%s;%s;%s;%s;%s;;%s;;;X
+ARMYDESTROYREP_4;has been completely annihilated by the enemy in;a été complètement annihilée par l'ennemi à;è stata completamente distrutta dal nemico a;ha sido completamente aniquilado por el enemigo en;ist komplett durch Feindfeuer aufgerieben worden in;- armia zosta³a ca³kowicie unicestwiona przez wroga w prowincji:;;áûë ïîëíîñòüş óíè÷òîæåí ïğîòèâíèêîì â;;;X
+ARMYDESTROYREP_5;%s;%s;%s;%s;%s;%s;;%s;;;X
+ARMYDESTROYREP_6;%s;%s;%s;%s;%s;%s;;%s;;;X
+ARMYDESTROYREP_LOG;%s has been completely annihilated in %s!;%s a été complètement annihilée par l'ennemi à %s!;%s è stata completamente distrutta dal nemico a %s!;%s ha sido completamente aniquilado en %s!;%s ist in %s komplett vernichtet worden!;%s - armia zosta³a ca³kowicie unicestwiona w prowincji: %s!;;%s áûë ïîëíîñòüş óíè÷òîæåí â %s!;;;X
+ARMYDESTROYREP_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+ARMYDESTROYREP_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+NAVYDESTROYREP_SETUP;When one of your fleets is destroyed by the enemy;Quand une de nos flottes est détruite par l'ennemi;Quando una delle nostre flotte è distrutta dal nemico;Cuando una de sus flotas es destruida por el enemigo;Wenn der Gegner eine unserer Flotten zerstört;Kiedy jedna z naszych flot jest zniszczona przez wroga;;Êîãäà îäèí èç âàøèõ ôëîòîâ óíè÷òîæåí âğàãîì;;;X
+NAVYDESTROYREP_HEADER;NAVAL BRIEFING%s;RAPPORT NAVAL%s;RAPPORTO DELLA MARINA%s;INFORME DE LA ARMADA%s;MARINE-EINSATZBESPRECHUNG%s;RAPORT MARYNARKI%s;;ÑÎÎÁÙÅÍÈÅ ÂÌÔ%s;;;X
+NAVYDESTROYREP_1;Disaster!;Désastre !;Disastro!;Desastre!;Katastrophe!;Katastrofa!;;Êàòàñòğîôà!;;;X
+NAVYDESTROYREP_2;%t,;%t,;%t,;%t,;%t,;%t,;;%t,;;;X
+NAVYDESTROYREP_3;%s;%s;%s;%s;%s;%s;;%s;;;X
+NAVYDESTROYREP_4;has been completely annihilated by the enemy in; a été complètement annihilée par l'ennemi en;è stata completamente distrutta dal nemico a;ha sido completamente aniquilado por el enemigo en;ist komplett durch Feindfeuer aufgerieben worden in;- flota zosta³a ca³kowicie unicestwiona przez wroga w prowincji:;;áûë ïîëíîñòüş óíè÷òîæåí ïğîòèâíèêîì â;;;X
+NAVYDESTROYREP_5;%s;%s;%s;%s;%s;%s;;%s;;;X
+NAVYDESTROYREP_6;%s;%s;%s;%s;%s;%s;;%s;;;X
+NAVYDESTROYREP_LOG;%s has been completely annihilated in %s!;%s a été complètement annihilée par l'ennemi en %s!;%s è stata completamente distrutta dal nemico a %s!;%s ha sido completamente aniquilado en %s!;%s ist in %s komplett vernichtet worden!;%s - flota zosta³a ca³kowicie unicestwiona w prowincji: %s!;;%s áûë ïîëíîñòüş óíè÷òîæåí â %s!;;;X
+NAVYDESTROYREP_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+NAVYDESTROYREP_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+AIRDESTROYREP_SETUP;When one of your airunits is destroyed by the enemy;Quand un de nos escadrons est détruit par l'ennemi;Quando una delle nostre unità aeree è distrutta dal nemico;Cuando una de tus unidades Aéreas es destruida por el enemigo;Wenn der Gegner eine unserer Luftflotten zerstört;Kiedy jedna z naszych eskadr jest zniszczona przez wroga;;Êîãäà îäíà èç âàøèõ àâèà÷àñòåé óíè÷òîæåíà âğàãîì;;;X
+AIRDESTROYREP_HEADER;AIR FORCE BRIEFING%s;RAPPORT AERIEN%s;RAPPORTO DELL'AERONAUTICA%s;INFORME DE LA FUERZA AÉREA%s;LUFTWAFFEN-EINSATZBESPRECHUNG%s;RAPORT SI£ POWIETRZNYCH%s;;ÑÎÎÁÙÅÍÈÅ ÂÂÑ%s;;;X
+AIRDESTROYREP_1;Disaster!;Désastre !;Disastro!;Desastre!;Katastrophe!;Katastrofa!;;Êàòàñòğîôà!;;;X
+AIRDESTROYREP_2;%t,;%t,;%t,;%t,;%t,;%t,;;%t,;;;X
+AIRDESTROYREP_3;%s;%s;%s;%s;%s;%s;;%s;;;X
+AIRDESTROYREP_4;has been completely annihilated by the enemy in; a été complètement annihilée par l'ennemi à;è stata completamente distrutta dal nemico a;ha sido completamente aniquilado por el enemigo en;ist komplett durch Feindfeuer aufgerieben worden in;- eskadra zosta³a ca³kowicie unicestwiona przez wroga w prowincji:;;áûë ïîëíîñòüş óíè÷òîæåí ïğîòèâíèêîì â;;;X
+AIRDESTROYREP_5;%s;%s;%s;%s;%s;%s;;%s;;;X
+AIRDESTROYREP_6;%s;%s;%s;%s;%s;%s;;%s;;;X
+AIRDESTROYREP_LOG;%s has been completely annihilated in %s!;%s été complètement annihilée par l'ennemi à %s!;%s è stata completamente distrutta dal nemico a %s!;%s ha sido completamente aniquilado en %s!;%s ist in %s komplett vernichtet worden!;%s - eskadra zosta³a ca³kowicie unicestwiona w prowincji: %s!;;%s áûë ïîëíîñòüş óíè÷òîæåí â %s!;;;X
+AIRDESTROYREP_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+AIRDESTROYREP_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+UNITDESTROYWEREP_SETUP;When we destroy an enemy unit;Quand nous détruisons un escadron ennemi;Quando distruggiamo un'unità nemica;Cuando destruimos una unidad enemiga;Wenn wir eine feindliche Einheit vernichten;Kiedy niszczymy jednostkê wroga;;Êîãäà ìû óíè÷òîæèëè âğàæåñêîå ïîäğàçäåëåíèå;;;X
+UNITDESTROYWEREP_HEADER;GENERAL STAFF BRIEFING%s;RAPPORT D'ÉTAT-MAJOR%s;RIUNIONE DELLO STATO MAGGIORE%s;INFORME DE LA PLANA MAYOR%s;BERICHT DES GENERALSTABS%s;RAPORT SZTABU GENERALNEGO%s;;ÑÎÎÁÙÅÍÈÅ ÃÅÍÅĞÀËÜÍÎÃÎ ØÒÀÁÀ%s;;;X
+UNITDESTROYWEREP_1;Success!;Victoire !;Vittoria!;Éxito!;Sieg!;Sukces!;;Óñïåõ!;;;X
+UNITDESTROYWEREP_2;%t, we destroyed\n§W%s§§\nfrom;%t, nous avons détruit\n§W%s§§\nde;%t, abbiamo distrutto\n§W%s§§\ndi;%t, destruimos\n§W%s§§\nde;%t, wir haben eine gegnerische Einheit aufgerieben:\n§W%s§§\naus;%t, zniszczyliœmy jednostkê: \n§W%s§§\nz pañstwa:;;%t, ìû ğàçğóøèëè\n§W%s§§\nèç;;;X
+UNITDESTROYWEREP_3;%s;%s;%s;%s;%s;%s;;%s;;;X
+UNITDESTROYWEREP_4;in ;à ;a ;en;in ;w prowincji:;;â;;;X
+UNITDESTROYWEREP_5;%s;%s;%s;%s;%s;%s;;%s;;;X
+UNITDESTROYWEREP_6;%s;%s;%s;%s;%s;%s;;%s;;;X
+UNITDESTROYWEREP_LOG;We destroyed %s (%s) in %s!;Nous avons détruit %s (%s) à %s !;Abbiamo distrutto %s (%s) a %s!;Hemos destruido %s (%s) en %s!;Wir haben %s (%s) in %s vernichtet!;Zniszczyliœmy: %s (%s) w prowincji: %s!;;Ìû ğàçğóøèëè %s (%s) â %s!;;;X
+UNITDESTROYWEREP_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+UNITDESTROYWEREP_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+UNITDESTROYOTHERREP_SETUP;When other country destroys an enemy unit;Quand un autre pays détruit un escadron ennemi;Quando un'altra nazione distrugge un'unità nemica;Cuando otro pais destruye una unidad enemiga;Wenn eine andere Nation eine feindliche Einheit vernichtet;Kiedy inne pañstwo niszczy wrog¹ jednostkê;;Êîãäà äğóãàÿ ñòğàíà óíè÷òîæàåò âğàæåñêîå ïîäğàçäåëåíèå;;;X
+UNITDESTROYOTHERREP_HEADER;INTELLIGENCE BRIEFING%s\nConcerning;RAPPORT DES RENSEIGNEMENTS%s\nConcernant;RAPPORTO DEI SERVIZI SEGRETI%s\nSu;INFORME DE INTELIGENCIA%s\nAcerca de;AUFKLÄRUNGSBESPRECHUNG%s\nBetreffend;RAPORT WYWIADU%s\nDotyczy:;;ÑÎÎÁÙÅÍÈÅ ĞÀÇÂÅÄÊÈ%s\nÎ;;;X
+UNITDESTROYOTHERREP_1;%s;%s;%s;%s;%s;%s;;%s;;;X
+UNITDESTROYOTHERREP_2;%t, they destroyed an unit from;%t, a détruit un escadron de;%t, hanno distrutto un'unità di;%t, ellos an destruido una unidad de;%t, sie haben eine Einheit vernichtet aus;%t, zniszczyli jednostkê z pañstwa:;;%t, îíè óíè÷òîæèëè ïîäğàçäåëåíèå èç;;;X
+UNITDESTROYOTHERREP_3;%s;%s;%s;%s;%s;%s;;%s;;;X
+UNITDESTROYOTHERREP_4;in ;à ;a ;en;in ;w prowincji:;;â;;;X
+UNITDESTROYOTHERREP_5;%s;%s;%s;%s;%s;%s;;%s;;;X
+UNITDESTROYOTHERREP_6;%s;%s;%s;%s;%s;%s;;%s;;;X
+UNITDESTROYOTHERREP_LOG;;;;;;;;;;;X
+UNITDESTROYOTHERREP_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+UNITDESTROYOTHERREP_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+NUKEDBYNEUTRALREP_SETUP;When one of our units is damaged by a nuclear bomb of neutral country;Quand une de nos unités est endommagée par la bombe nucléaire d'un pays neutre;Quando una nostra unità è danneggiata dalla bomba nucleare di un paese neutrale;Cuando una de nuestras unidades ha sido dañada por una bomba nuclear de un país neutral;Wenn eine unserer Einheiten durch Kernwaffen eines neutralen Landes beschädigt wird;Kiedy jedna z naszych jednostek ponosi straty z powodu wybuchu bomby atomowej neutralnego pañstwa;;Êîãäà îäíî èç íàøèõ ïîäğàçäåëåíèé ïîâğåæäåíî àòîìíîé áîìáîé íåéòğàëüíîé ñòğàíû;;;X
+NUKEDBYNEUTRALREP_HEADER;GENERAL STAFF BRIEFING%s;RAPPORT D'ÉTAT-MAJOR%s;RIUNIONE DELLO STATO MAGGIORE%s;INFORME DE LA PLANA MAYOR%s;BERICHT DES GENERALSTABS%s;RAPORT SZTABU GENERALNEGO%s;;ÑÎÎÁÙÅÍÈÅ ÃÅÍÅĞÀËÜÍÎÃÎ ØÒÀÁÀ%s;;;X
+NUKEDBYNEUTRALREP_1;Nuclear Attack\nLosses Report;Attaque nucléaire\nRapport de pertes;Attacco Nucleare\nRapporto sulle perdite;Ataque Nuclear\nReporte de Perdidas;Angriff mit Kernwaffen\nVerlustbericht;Atak nuklearny\nRaport strat;;ßäåğíàÿ Àòàêà\nîò÷åò ïî ïîòåğÿì;;;X
+NUKEDBYNEUTRALREP_2;%t,;%t,;%t,;%t,;%t,;%t,;;%t,;;;X
+NUKEDBYNEUTRALREP_3;%s;%s;%s;%s;%s;%s;;%s;;;X
+NUKEDBYNEUTRALREP_4;currently located at;située actuellement à;attualmente in;actualmente localizado en;befindet sich momentan in;- jednostka aktualnie zlokalizowana w prowincji:;;â íàñòîÿùåå âğåìÿ íàõîäèòñÿ â;;;X
+NUKEDBYNEUTRALREP_5;%s;%s;%s;%s;%s;%s;;%s;;;X
+NUKEDBYNEUTRALREP_6;has been damaged by a nuclear bomb dropped against\n§W%s§§\n%s;a été endommagée par la bombe nucléaire larguée contre\n§W%s§§\n%s;è stata danneggiata da una bomba nucleare sganciata contro\n§W%s§§\n%s;ha sido dañado por una bomba nuclear lanzada contra\n§W%s§§\n%s;und ist durch die Explosion einer Kernwaffe beschädigt worden. Die Bombe wurde eingesetzt gegen\n§W%s§§\n%s;zosta³a uszkodzona przez bombê atomow¹ zrzucon¹ przeciwko\n§W%s§§\n%s;;áûë ïîâğåæäåí àòîìíîé áîìáîé ñáğîøåííîé ïğîòèâ\n§W%s§§\n%s;;;X
+NUKEDBYNEUTRALREP_LOG;%s has been damaged by a nuclear bomb in %s.;%s a été endommagée par une bombe nucléaire à %s.;%s è stata danneggiata da una bomba nucleare a %s.;%s ha sido dañado por una bomba nuclear en %s.;%s wurde durch Kernwaffeneinsatz in %s beschädigt.;%s - jednostka zosta³a uszkodzona przez bombê atomow¹ w %s.;;%s áûë ïîâğåæäåí àòîìíîé áîìáîé íà %s.;;;X
+NUKEDBYNEUTRALREP_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+NUKEDBYNEUTRALREP_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+## Darkest Hour 1.05;;;;;;;;;;;X
+##;;;;;;;;;;;X
+ARMYMISTERM_SETUP;When one of your armies cannot continue its mission;Quand une de vos armées ne peut pas continuer sa mission;Quando una delle tue armate non può completare la sua missione;Cuando uno de tus ejércitos no puede continuar su misión;Wenn ein Armeeverband seine Mission nicht weiter fortsetzen kann;Kiedy jedna z twoich armii nie mo¿e kontynuowaæ swojej misji;;Êîãäà íàøà àğìèÿ ïğåêğàùàåò âûïîëíåíèå áîåâîãî çàäàíèÿ.;;;X
+ARMYMISTERM_HEADER;ARMY BRIEFING%s;RAPPORT TERRESTRE%s;RAPPORTO DELL'ESERCITO%s;INFORME DEL EJÉRCITO DE TIERRA%s;ARMEE-EINSATZBESPRECHUNG%s;RAPORT ARMII%s;;ÑÎÎÁÙÅÍÈÅ ÂÑ%s;;;X
+ARMYMISTERM_1;Mission Terminated;Mission terminée;Missione interrotta;Misión Terminada;Mission beendet;Misja przerwana;;Âûïîëíåíèå çàäàíèÿ ïğåêğàùåíî;;;X
+ARMYMISTERM_2;%t, the army of;%t, les armées de;%t, le armate di;%t, los ejércitos de;%t, die Armee von;%t, si³y powietrzne kraju:;;%t, íàøà àğìèÿ,;;;X
+ARMYMISTERM_3;%s;%s;%s;%s;%s;%s;;%s,;;;X
+ARMYMISTERM_4;have stopped their assigned mission:;ont arrêté la mission qui leur était assignée :;hanno interrotto la missione loro assegnata:;han detenido su misión asignada:;stoppte die ihr zugewiesene Mission:;przerwa³y swoj¹ przydzielon¹ misjê:;;ïğåêğàùàåò âûïîëíåíèå áîåâîãî çàäàíèÿ:;;;X
+ARMYMISTERM_5;%s;%s;%s;%s;%s;%s;;%s;;;X
+ARMYMISTERM_6;;;;;;;;;;;X
+ARMYMISTERM_LOG;%s cannot continue with their '%s' mission.;%s ne peuvent pas poursuivre leur mission '%s'.;%s non possono proseguire con la loro missione '%s';%s no pueden continuar con su misión '%s' .;%s kann die Mission '%s' nicht fortsetzen.;%s nie mo¿e kontynuowaæ swojej misji: '%s'.;;%s ïğåêğàùàåò âûïîëíåíèå çàäàíèÿ: %s.;;;X
+ARMYMISTERM_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+ARMYMISTERM_BTN2;¼±ÅÃ ;Select;;;;;;;;;X
+##;;;;;;;;;;;X
+AIRMISTERM_SETUP;When one of your air units cannot continue its mission;Quand une de vos unités aériennes ne peut pas continuer sa mission;Quando una delle tue unità aeree non può continuare la sua missione;Cuando una de tus unidades aéreas no puede continuar con su misión;Wenn eine Luftwaffenverband seine Mission nicht weiter fortsetzen kann;Kiedy jedna z twoich jednostek powietrznych nie mo¿e kontynuowaæ swojej misji;;Êîãäà íàøå àâèàöèîííîå ñîåäèíåíèå ïğåêğàùàåò âûïîëíåíèå áîåâîãî çàäàíèÿ.;;;X
+AIRMISTERM_HEADER;AIR FORCE BRIEFING%s;RAPPORT AERIEN%s;RAPPORTO DELL'AERONAUTICA%s;INFORME DE LA FUERZA AÉREA%s;LUFTWAFFEN-EINSATZBESPRECHUNG%s;Raport sztabu lotniczego%s;;ÑÎÎÁÙÅÍÈÅ ÂÂÑ%s;;;X
+AIRMISTERM_1;Mission Terminated;Mission terminée;Missione interrotta;Misión Terminada;Mission beendet;Misja przerwana;;Âûïîëíåíèå çàäàíèÿ ïğåêğàùåíî;;;X
+AIRMISTERM_2;%t, the air-forces of;%t, les forces aériennes de;%t, le forze aeree di;%t, las fuerzas aéreas de;%t, die Luftwaffe von;%t, si³y powietrzne kraju:;;%t, íàøå àâèàöèîííîå ñîåäèíåíèå,;;;X
+AIRMISTERM_3;%s;%s;%s;%s;%s;%s;;%s,;;;X
+AIRMISTERM_4;have stopped their assigned mission:;ont arrêté la mission qui leur était assignée :;hanno interrotto la missione loro assegnata:;han detenido su misión asignada:;stoppte die ihr zugewiesene Mission:;przerwa³y swoj¹ przydzielon¹ misjê:;;ïğåêğàùàåò âûïîëíåíèå áîåâîãî çàäàíèÿ:;;;X
+AIRMISTERM_5;%s;%s;%s;%s;%s;%s;;%s;;;X
+AIRMISTERM_6;;;;;;;;;;;X
+AIRMISTERM_LOG;%s cannot continue with their '%s' mission.;%s ne peuvent pas poursuivre leur mission '%s'.;%s non possono proseguire con la loro missione '%s';%s no pueden continuar con su misión '%s' .;%s kann die Mission '%s' nicht fortsetzen.;%s nie mo¿e kontynuowaæ swojej misji: '%s'.;;%s ïğåêğàùàåò âûïîëíåíèå çàäàíèÿ: %s.;;;X
+AIRMISTERM_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+AIRMISTERM_BTN2;¼±ÅÃ ;Select;;;;;;;;;X
+##;;;;;;;;;;;X
+NAVYMISTERM_SETUP;When one of your naval units cannot continue its mission;Quand une de vos unités navales ne peut pas continuer sa mission;Quando una delle tue unità navali non può continuare la sua missione;Cuando una de tus unidades navales no puede continuar con su misión;Wenn ein Marineverband seine Mission nicht weiter fortsetzen kann;Kiedy jedna z twoich jednostek morskich nie mo¿e kontynuowaæ swojej misji;;Êîãäà íàøå ñîåäèíåíèå ôëîòà ïğåêğàùàåò âûïîëíåíèå áîåâîãî çàäàíèÿ.;;;X
+NAVYMISTERM_HEADER;NAVAL BRIEFING%s;RAPPORT NAVAL%s;RAPPORTO DELLA MARINA%s;INFORME DE LA ARMADA%s;MARINE-EINSATZBESPRECHUNG%s;Raport marynarki%s;;ÑÎÎÁÙÅÍÈÅ ÂÌÔ%s;;;X
+NAVYMISTERM_1;Mission Terminated;Mission terminée;Missione interrotta;Misión Terminada;Mission beendet;Misja przerwana;;Âûïîëíåíèå çàäàíèÿ ïğåêğàùåíî;;;X
+NAVYMISTERM_2;%t, the naval forces of;%t, les forces navales de;%t, le forze navali di;%t, las fuerzas navales de;%t, die Marine von;%t, marynarka wojenna kraju:;;%t, íàøå ñîåäèíåíèå ôëîòà,;;;X
+NAVYMISTERM_3;%s;%s;%s;%s;%s;%s;;%s,;;;X
+NAVYMISTERM_4;have stopped their assigned mission:;ont arrêté la mission qui leur était assignée :;hanno interrotto la missione loro assegnata:;han detenido su misión asignada:;stoppte die ihr zugewiesene Mission:;przerwa³a swoj¹ przydzielon¹ misjê:;;ïğåêğàùàåò âûïîëíåíèå áîåâîãî çàäàíèÿ:;;;X
+NAVYMISTERM_5;%s;%s;%s;%s;%s;%s;;%s;;;X
+NAVYMISTERM_6;;;;;;;;;;;X
+NAVYMISTERM_LOG;%s cannot continue with their '%s' mission.;%s ne peuvent pas poursuivre leur mission '%s'.;%s non possono proseguire con la loro missione '%s'.;%s no pueden continuar con su misión '%s' .;%s kann die Mission '%s' nicht fortsetzen.;%s nie mo¿e kontynuowaæ swojej misji: '%s'.;;%s ïğåêğàùàåò âûïîëíåíèå çàäàíèÿ: %s.;;;X
+NAVYMISTERM_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+NAVYMISTERM_BTN2;¼±ÅÃ ;Select;;;;;;;;;X
+##;;;;;;;;;;;X
+GUARAOTHER_SETUP;When one nation guarantees the independence of a third nation;Quand une nation garantit l'indépendance d'une tierce nation;Quando una nazione garantisce l'indipendenza di un'altra nazione;Cuando una nación garantiza la independencia de una tercera nación;Wenn eine Nation die Unabhängigkeit einer dritten Nation garantiert;Kiedy jeden kraj gwarantuje niepodleg³oœæ kraju trzeciego;;Êîãäà îäíà ñòğàíà ãàğàíòèğóåò íåçàâèñèìîñòü äğóãîé ñòğàíå;;;X
+GUARAOTHER_HEADER;FOREIGN POLICY BRIEFING%s;RAPPORT POLITIQUE ETRANGERE%s;RAPPORTO DI POLITICA ESTERA%s;INFORME DE ASUNTOS EXTERIORES%s;AUSSENPOLITIK-BESPRECHUNG%s;Raport ministerstwa spraw zagranicznych%s;;ÑÎÎÁÙÅÍÈÅ ÌÈÄ%s;;;X
+GUARAOTHER_1;%s;%s;%s;%s;%s;%s;;%s;;;X
+GUARAOTHER_2;now guarantees the independence of;garantit désormais l'indépendance de;ora garantisce l'indipendenza di;ahora garantiza la independencia de ;garantiert nun die Unabhängigkeit von;teraz gwarantuje niepodleg³oœæ kraju:;;òåïåğü ãàğàíòèğóåò íåçàâèñèìîñòü;;;X
+GUARAOTHER_3;%s;%s;%s;%s;%s;%s;;%s;;;X
+GUARAOTHER_4;;;;;;;;;;;X
+GUARAOTHER_5;;;;;;;;;;;X
+GUARAOTHER_6;;;;;;;;;;;X
+GUARAOTHER_LOG;%s now guarantees the independence of %s.;%s garantit désormais l'indépendance de %s.;%s ora garantisce l'indipendenza di %s.;%s ahora garantiza la independencia de %s.;%s garantiert nun die Unabhängigkeit von %s.;%s teraz gwarantuje niepodleg³oœæ kraju: %s.;;%s òåïåğü ãàğàíòèğóåò íåçàâèñèìîñòü %s.;;;X
+GUARAOTHER_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+GUARAOTHER_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+##;;;;;;;;;;;X
+GUARACANCEL_SETUP;When one nation no longer guarantees the independence of another nation;Quand une nation ne garantit plus l'indépendance d'une tierce nation;Quando una nazione smette di garantire l'indipendenza di un'altra nazione;Cuando una nacion ya no garantiza la independencia de otra nación;Wenn eine Nation nicht mehr die Unabhängigkeit einer dritten Nation garantiert;Kiedy jeden kraj przestaje gwarantowaæ niepodleg³oœæ innego kraju;;Êîãäà îäíà ñòğàíà áîëüøå íå ãàğàíòèğóåò íåçàâèñèìîñòü äğóãîé ñòğàíå;;;X
+GUARACANCEL_HEADER;FOREIGN POLICY BRIEFING%s;RAPPORT POLITIQUE ETRANGERE%s;RAPPORTO DI POLITICA ESTERA%s;INFORME DE ASUNTOS EXTERIORES%s;AUSSENPOLITIK-BESPRECHUNG%s;Raport ministerstwa spraw zagranicznych%s;;ÑÎÎÁÙÅÍÈÅ ÌÈÄ%s;;;X
+GUARACANCEL_1;%s;%s;%s;%s;%s;%s;;%s;;;X
+GUARACANCEL_2;no longer guarantees the independence of;ne garantit plus l'indépendance de;non garantisce più l'indipendenza di;ya no garantiza la independencia de;garantiert nicht mehr die Unabhängigkeit von;nie gwarantuje ju¿ niepodleg³oœci kraju:;;áîëüøå íå ãàğàíòèğóåò íåçàâèñèìîñòü;;;X
+GUARACANCEL_3;%s;%s;%s;%s;%s;%s;;%s;;;X
+GUARACANCEL_4;;;;;;;;;;;X
+GUARACANCEL_5;;;;;;;;;;;X
+GUARACANCEL_6;;;;;;;;;;;X
+GUARACANCEL_LOG;%s no longer guarantees the independence of %s.;%s ne garantit plus l'indépendance de %s.;%s non garantisce più l'indipendenza di %s.;%s ya no garantiza la independencia de %s.;%s garantiert nicht mehr die Unabhängigkeit von %s.;%s nie gwarantuje ju¿ niepodleg³oœci kraju: %s.;;%s áîëüøå íå ãàğàíòèğóåò íåçàâèñèìîñòü %s.;;;X
+GUARACANCEL_BTN1;È®ÀÎ ;OK;;;;;;;;;X
+GUARACANCEL_BTN2;±×°÷À¸·Î ;Goto;;;;;;;;;X
+#EOF;;;;;;;;;;;X

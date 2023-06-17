@@ -1,0 +1,72 @@
+IND;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+250001;Head of State;라젠드라 프라사드 ;1947;1964;1999;SD;Weary Stiffneck;High;M59031;X
+250002;Head of Government;모한다스 카람찬드 간디 ;1933;1964;1999;SD;Naive Optimist;High;M59037;X
+250003;Foreign Minister;수브하스 찬드라 보세 ;1933;1964;1999;LWR;The Cloak N Dagger Schemer;High;M59011;X
+250004;Minister of Armament;사르다르 발랍바이 파델 ;1933;1964;1999;SD;Military Entrepreneur;High;M59056;X
+250005;Minister of Security;라피 아흐메드 키드와이 ;1933;1964;1999;SD;Crime Fighter;Medium;M59068;X
+250006;Head of Military Intelligence;스리 자그지반 람 ;1933;1964;1999;SD;Political Specialist;Very High;M59077;X
+250007;Chief of Staff;모한 싱 ;1933;1964;1999;SL;School of Mass Combat;Very Low;M59028;X
+250008;Chief of Army;람 싱 타쿠르 ;1933;1964;1999;SD;Guns and Butter Doctrine;Very High;M59099;X
+250009;Chief of Navy;바스카르 소만 ;1933;1964;1999;SD;Decisive Naval Battle Doctrine;Medium;M59107;X
+250010;Chief of Air Force;아르얀 싱 비부산 ;1933;1964;1999;SD;Air Superiority Doctrine;medium;M59113;X
+250011;Head of State;바하두르 바트람 ;1933;1964;1999;SL;Pig-headed Isolationist;High;M59032;X
+250012;Head of State;라시베하리 바수 ;1933;1964;1999;PA;Insignificant Layman;High;M59016;X
+250013;Head of Government;자와할랄 네루 ;1938;1964;1999;SD;Silent Workhorse;High;M59046;X
+250014;Head of Government;나봅 쿠레이시 ;1942;1964;1999;ML;Smiling Oilman;low;M59040;X
+250015;Head of Government;모하메드 이크발 ;1933;1964;1999;PA;Backroom Backstabber;medium;M59041;X
+250016;Foreign Minister;아난타사야남 아얀가르 ;1937;1964;1999;SD;Great Compromiser;Low;M59044;X
+250017;Foreign Minister;사라트 찬드라 보세 ;1941;1964;1999;SD;Biased Intellectual;Very High;M59045;X
+250018;Foreign Minister;자와할랄 네루 ;1941;1964;1999;SD;Ideological Crusader;High;M59046;X
+250019;Foreign Minister;빔라오 람지 아므베드카르 ;1943;1964;1999;SD;Apologetic Clerk;Low;M59025;X
+250020;Foreign Minister;모하메드 아유브 칸 ;1943;1964;1999;SL;General Staffer;High;M59049;X
+250021;Foreign Minister;알리 칸 4세 ;1942;1964;1999;ML;Great Compromiser;High;M59050;X
+250022;Foreign Minister;아조이 쿠마르 고시 ;1943;1964;1999;PA;Biased Intellectual;Medium;M59023;X
+250023;Foreign Minister;카와자 나지무딘 ;1947;1964;1999;PA;Apologetic Clerk;High;M59055;X
+250024;Minister of Armament;랄 바하두르 샤스트리 ;1944;1964;1999;SD;Administrative Genius;High;M59024;X
+250025;Minister of Armament;히텐드라 데사이 ;1945;1964;1999;SL;Resource Industrialist;Very High;M59060;X
+250026;Minister of Armament;바하두르 자일라 ;1933;1964;1999;ML;Battle Fleet Proponent;Medium;M59048;X
+250027;Minister of Armament;나와브 자이구르 ;1939;1964;1999;ML;Resource Industrialist;Medium;M59062;X
+250028;Minister of Armament;조티 바수 ;1939;1964;1999;PA;Administrative Genius;Very High;M59021;X
+250029;Minister of Armament;무하메드 알리 보그라 ;1944;1964;1999;PA;Air to Sea Proponent;Medium;M59067;X
+250030;Minister of Armament;이스칸데르 미르자 ;1933;1964;1999;PA;Infantry Proponent;Medium;M59014;X
+250031;Minister of Security;빔라오 람지 아므베드카르 ;1941;1964;1999;SD;Man of the People;Very High;M59025;X
+250032;Minister of Security;하릴랄 J. 카니아 ;1933;1964;1999;SL;Silent Lawyer;Low;M59070;X
+250033;Minister of Security;헨리 기드니 ;1942;1964;1999;SL;Compassionate Gentleman;Very High;M59071;X
+250034;Head of Military Intelligence;라피 아흐메드 키드와이 ;1943;1964;1999;SD;Dismal Enigma;Medium;M59068;X
+250035;Head of Military Intelligence;초투 람 ;1933;1964;1999;SL;Industrial Specialist;High;M59026;X
+250036;Head of Military Intelligence;제항기르 바바 호미 ;1943;1964;1999;SL;Technical Specialist;Very High;M59079;X
+250037;Head of Military Intelligence;브와하두르 칸드라 ;1933;1964;1999;ML;Industrial Specialist;Medium;M59083;X
+250038;Head of Military Intelligence;라시베하리 바수 ;1939;1964;1999;PA;Logistics Specialist;Very High;M59016;X
+250039;Head of Military Intelligence;압둘 마지드 크와자 ;1945;1964;1999;PA;Dismal Enigma;Medium;M59087;X
+250040;Chief of Staff;수브하스 찬드라 보세 ;1933;1964;1999;LWR;School of Psychology;Medium;M59011;X
+250041;Chief of Staff;아난타사야남 아얀가르 ;1943;1964;1999;SD;School of Defence;High;M59044;X
+250042;Chief of Staff;사르다르 발데브 싱 ;1941;1964;1999;SL;School of Psychology;Medium;M59092;X
+250043;Chief of Staff;코단데라 카리아파 ;1945;1964;1999;SL;School of Fire Support;High;M59093;X
+250044;Chief of Staff;코단데라 티마야 ;1942;1964;1999;ML;School of Defence;Low;M59095;X
+250045;Chief of Staff;샤 나와즈 칸 ;1943;1964;1999;PA;School of Manoeuvre;Very High;M59017;X
+250046;Chief of Staff;라젠드라 프라사드 ;1933;1964;1999;ML;School of Defence;Low;M59031;X
+250047;Chief of Army;모한 싱 ;1941;1964;1999;SD;Decisive Battle Doctrine;Very Low;M59028;X
+250048;Chief of Army;코단데라 카리아파 ;1933;1964;1999;SL;Elastic Defence Doctrine;Low;M59093;X
+250049;Chief of Army;쿠레이시 바왈라푸르 ;1933;1964;1999;PA;Static Defence Doctrine;Medium;M59040;X
+250050;Chief of Navy;람 다스 카타리 ;1947;1964;1999;SL;Power Projection Doctrine;Medium;M59019;X
+250051;Chief of Navy;하린데르 싱 ;1946;1964;1999;PA;Indirect Approach Doctrine;Medium;M59112;X
+250052;Chief of Air Force;수브로토 무커지 ;1946;1964;1999;SD;Army Aviation Doctrine;medium;M59115;X
+250053;Chief of Air Force;아스피 메르완 ;1943;1964;1999;SL;Naval Aviation Doctrine;medium;M59117;X
+250054;Chief of Air Force;라빈드라 다르샨 싱 ;1933;1964;1999;PA;Carpet Bombing Doctrine;High;M59118;X
+250055;Chief of Air Force;메하르 싱 ;1933;1964;1999;SL;Army Aviation Doctrine;medium;M59114;X
+250056;Head of State;라젠드라 프라사드 ;1933;1964;1999;SL;Weary Stiffneck;High;M59031;X
+250057;Foreign Minister;예스완트라오 2세 ;1941;1964;1999;PA;Iron Fisted Brute;Medium;9911;X
+250058;Minister of Armament;불란드 키샹가르 ;1942;1964;1999;PA;Air to Ground Proponent;Very High;M59123;X
+250059;Minister of Security;알리 칸 3세 ;1933;1964;1999;PA;Prince of Terror;Very High;M59124;X
+250060;Minister of Security;와지 모르비 ;1944;1964;1999;PA;Compassionate Gentleman;Very High;M59125;X
+250061;Head of Military Intelligence;타시 시킴 ;1933;1964;1999;PA;Political Specialist;Medium;9912;X
+250062;Head of State;차크라바르티 라자고팔라차리 ;1948;1964;1999;SD;Die-hard Reformer;High;9913;X
+250063;Foreign Minister;가네쉬 마발란카르 ;1952;1964;1999;SD;Great Compromiser;High;M59129;X
+250064;Minister of Security;사르베펠리 라다르크리슈난 ;1951;1964;1999;SD;Compassionate Gentleman;Very High;9914;X
+250065;Minister of Armament;모한 싱 ;1949;1964;1999;PA;Laissez-Faire Capitalist;High;6089;x
+250066;Chief of Staff;모한 싱 ;1949;1964;1999;PA;School of Mass Combat;High;6089;x
+250067;Minister of Security;비나야크 D. 사바르카르 ;1947;1964;1999;SD;Silent Lawyer;High;6090;x
+250068;Minister of Security;마드하브 S. 골왈카르 ;1940;1964;1999;FA;Silent Lawyer;High;8543;x
+250069;Head of State;수브하스 찬드라 보세 ;1941;1964;1999;FA;Resigned Generalissimo;High;M59011;X
+250070;Head of Government;수브하스 찬드라 보세 ;1941;1964;1999;FA;Naive Optimist;High;M59011;X

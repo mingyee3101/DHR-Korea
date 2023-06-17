@@ -1,0 +1,55 @@
+U20;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+915001;Head of State;유호 K. 파시키비 ;1945;1964;1999;LWR;Autocratic Charmer;High;2509;X
+915002;Head of State;오토 빌레 쿠시넨 ;1933;1964;1999;ST;Ruthless Powermonger;High;2513;X
+915003;Head of Government;V. 키비살로 ;1933;1964;1999;LWR;Naive Optimist;High;2514;X
+915004;Head of Government;마우노 페칼라 ;1945;1964;1999;LWR;Political Protege;High;2516;X
+915005;Head of Government;오토 빌레 쿠시넨 ;1939;1964;1999;ST;Flamboyant Tough Guy;High;2513;X
+915006;Foreign Minister;안셀미 핏캐실타 ;1933;1964;1999;LWR;Apologetic Clerk;Medium;M29067;X
+915007;Foreign Minister;V. 키비살로 ;1943;1964;1999;LWR;Iron Fisted Brute;Very High;2514;X
+915008;Foreign Minister;카를 J. 엥켈 ;1944;1964;1999;LWR;Great Compromiser;Medium;2521;X
+915009;Foreign Minister;오토 빌레 쿠시넨 ;1939;1964;1999;ST;Apologetic Clerk;Low;2513;X
+915010;Foreign Minister;헬라 M. 부올리요키 ;1942;1964;1999;ST;Great Compromiser;Low;2523;X
+915011;Minister of Armament;V. 빌리얌 시니살로 ;1933;1964;1999;LWR;Strategic Air Proponent;Medium;M29082;X
+915012;Minister of Armament;카를 아우구스트 파게르홀름 ;1943;1964;1999;LWR;Keynesian economy;Medium;2524;X
+915013;Minister of Armament;마우노 페칼라 ;1944;1964;1999;LWR;Theoretical Scientist;Medium;2516;X
+915014;Minister of Armament;오토 토이보넨 ;1946;1964;1999;LWR;Military Entrepreneur;Medium;M29085;X
+915015;Minister of Armament;마우리츠 F. 로센베리 ;1939;1964;1999;ST;Planned economy proponent;Low;2526;X
+915016;Minister of Security;후고 E. 아텔라 ;1943;1964;1999;LWR;Prince of Terror;Medium;2527;X
+915017;Minister of Security;발프리드 에스콜라 ;1944;1964;1999;LWR;Back Stabber;Medium;2528;X
+915018;Minister of Security;올라비 I. 카얄라 ;1946;1964;1999;LWR;Crime Fighter;Medium;2529;X
+915019;Minister of Security;위리외 K. 레이노 ;1933;1964;1999;ST;Secret police chief;Low;M29025;X
+915020;Head of Military Intelligence;에드바르드 카얄라 ;1933;1964;1999;LWR;Naval Intelligence Specialist;High;M29120;X
+915021;Head of Military Intelligence;브루노 수비란타 ;1944;1964;1999;LWR;Dismal Enigma;High;2533;X
+915022;Head of Military Intelligence;투레 V. 레헨 ;1939;1964;1999;ST;Political Specialist;High;2536;X
+915023;Chief of Staff;레오나르드 A. M. 그란델 ;1933;1964;1999;LWR;School of Fire Support;Very High;392;X
+915024;Chief of Staff;악셀리 안틸라 ;1939;1964;1999;ST;School of Mass Combat;Very High;2537;X
+915025;Chief of Army;카를레 배이뇌 보이온마 ;1933;1964;1999;LWR;Guns and Butter Doctrine;Very High;M29140;X
+915026;Chief of Army;악셀리 안틸라 ;1939;1964;1999;ST;Guns and Butter Doctrine;Very High;2537;X
+915027;Chief of Navy;클라에스 H. ;1933;1964;1999;LWR;Open Seas Doctrine;High;M29148;X
+915028;Chief of Navy;에로 라홀라 ;1939;1964;1999;ST;Indirect Approach Doctrine;Very High;M29029;X
+915029;Chief of Air Force;V. V. 발츠 포르바리 ;1933;1964;1999;LWR;Army Aviation Doctrine;Very High;2539;X
+915030;Chief of Air Force;악셀리 안틸라 ;1939;1964;1999;ST;Army Aviation Doctrine;Very High;2537;X
+915031;Head of Government;카를 아우구스트 파게르홀름 ;1948;1964;1999;LWR;Ambitious Union Boss;High;2524;X
+915032;Minister of Armament;랄프 J. G. 퇴른렌 ;1948;1964;1999;LWR;Military Entrepreneur;Medium;2540;X
+915033;Minister of Security;카를 아우구스트 파게르홀름 ;1948;1964;1999;LWR;Man of the People;Medium;2524;X
+915034;Chief of Staff;요한네스 시흐보 ;1948;1964;1999;LWR;School of Psychology;Very High;419;X
+915035;Chief of Army;K. 라우리 T. 말름베리 ;1947;1964;1999;LWR;Armoured Spearhead Doctrine;Very High;407;X
+915036;Chief of Navy;요우코 O. 아르호 ;1948;1964;1999;LWR;Indirect Approach Doctrine;Medium;L9757;X
+915037;Chief of Air Force;올라비 사르코 ;1948;1964;1999;LWR;Vertical Envelopment Doctrine;Very High;L9777;X
+915038;Head of State;발프리드 페르틸래 ;1914;1954;1954;LE;ruthless powermonger;High;8358;X
+915039;Head of Government;쿨레르보 만네르 ;1914;1940;1966;LE;happy amateur;High;8361;X
+915040;Foreign Minister;위리외 시롤라 ;1914;1937;1937;LE;Ideological Crusader;Low;8582;X
+915041;Minister of Armament;오스카리 토코이 ;1914;1964;1964;LE;Military Entrepreneur;Medium;8583;X
+915042;Minister of Armament;얄로 코호넨 ;1914;1936;1970;LE;Planned economy proponent;Medium;8584;X
+915043;Minister of Security;에로 하팔라이넨 ;1914;1938;1966;LE;Back Stabber;Medium;8585;X
+915044;Minister of Security;아돌프 타이미 ;1914;1955;1955;LE;Crime Fighter;Medium;8587;X
+915045;Minister of Security;라우리 레톤매키 ;1914;1936;1972;LE;compassionate gentleman;Low;8588;X
+915046;Head of Military Intelligence;알리 알토넨 ;1914;1919;1960;LE;Logistics Specialist;High;8589;X
+915047;Chief of Staff;알리 알토넨 ;1914;1919;1960;LE;School of Fire Support;Very High;8589;X
+915048;Chief of Staff;미크하일 스테파노비크흐 스베크흐니코브 ;1914;1939;1939;LE;school of manoeuvre;Very High;8590;X
+915049;Chief of Army;에로 하팔라이넨 ;1914;1938;1966;LE;static defence doctrine;Very High;8585;X
+915050;Chief of Army;에이노 라흐야 ;1914;1937;1961;LE;Doctrine of autonomy;Very High;8604;X
+915051;Chief of Army;미크하일 스테파노비크흐 스베크흐니코브 ;1914;1939;1939;LE;decisive battle doctrine;Very High;8590;X
+915052;Chief of Navy;에로 하팔라이넨 ;1914;1938;1966;LE;decisive naval battle doctrine;Medium;8585;X
+915053;Chief of Air Force;에로 하팔라이넨 ;1914;1938;1966;LE;air superiority doctrine;Very High;8585;X

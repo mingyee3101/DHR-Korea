@@ -1,0 +1,60 @@
+U05;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;x
+;Replacements;;;;;;;;;x
+840001;Head of State;빌헬미나 ;1933;1964;1999;ML;Stern Imperialist;High;M8001;x
+840002;Head of Government;알리디우스 얄다 ;1933;1964;1999;ML;Naive Optimist;High;M577002;x
+840003;Foreign Minister;휘베르튀스 반 무크 ;1914;1964;1999;ML;Ideological Crusader;High;M577003;x
+840004;Minister of Armament;J. 라마에르 ;1914;1964;1999;SC;Administrative Genius;Medium;unknownminister;x
+840005;Minister of Security;휘베르튀스 반 무크 ;1914;1964;1999;ML;Crime Fighter;High;M577003;x
+840006;Head of Military Intelligence;무르크 부르스트라 ;1914;1964;1999;SC;Logistics Specialist;Very High;L7802;x
+840007;Chief of Staff;무르크 부르스트라 ;1914;1964;1999;SC;School of Manoeuvre;Very High;L7802;x
+840008;Chief of Army;헤라르뒤스 베렌스호트 ;1914;1964;1999;SC;Static Defence Doctrine;Very High;L7801;x
+840009;Chief of Navy;콘라드 헬프리흐 ;1914;1964;1999;SC;Indirect Approach Doctrine;Very High;L7839;x
+840010;Chief of Air Force;뤼돌프 반 오이언 ;1914;1964;1999;SC;Army Aviation Doctrine;Very High;L7859;x
+840011;Head of State;수카르노 ;1933;1964;1999;PA;Weary Stiffneck;Very High;M577011;x
+840012;Head of Government;모하마드 하타 ;1933;1964;1999;PA;Silent Workhorse;High;M577014;x
+840013;Foreign Minister;모하마드 하타 ;1914;1964;1999;PA;Biased Intellectual;High;M577014;x
+840014;Minister of Armament;수탄 스자흐리르 ;1914;1964;1999;PA;Infantry Proponent;Low;M577019;x
+840015;Minister of Security;라지만 베디오디닝라트 ;1914;1964;1999;PA;Compassionate Gentleman;Medium;unknownminister;x
+840016;Head of Military Intelligence;아미르 스자리푸딘 ;1914;1964;1999;PA;Political Specialist;Low;M577016;x
+840017;Chief of Staff;베사르 수디르만 ;1914;1964;1999;PA;School of Defence;High;M577034;x
+840018;Chief of Army;베사르 수디르만 ;1914;1964;1999;PA;Static Defence Doctrine;High;M577034;x
+840019;Chief of Navy;베사르 수디르만 ;1914;1964;1999;PA;Open Seas Doctrine;High;M577034;x
+840020;Chief of Air Force;베사르 수디르만 ;1914;1964;1999;PA;Army Aviation Doctrine;High;M577034;x
+840021;Head of State;카완 무소 ;1933;1964;1999;ST;Autocratic Charmer;Very High;M577013;x
+840022;Head of Government;루크만 단 사르드조노 ;1933;1964;1999;ST;Ambitious Union Boss;Very High;M577027;x
+840023;Foreign Minister;수르요노 수리프노 ;1914;1964;1999;ST;Ideological Crusader;High;M577021;x
+840024;Minister of Armament;루스카크 ;1914;1964;1999;LE;Resource Industrialist;High;unknownminister;x
+840025;Minister of Security;아미르 스자리푸딘 ;1914;1964;1999;LWR;Compassionate Gentleman;Low;M577016;x
+840026;Head of Military Intelligence;아미르 스자리푸딘 ;1914;1964;1999;LWR;Political Specialist;Low;M577016;x
+840027;Chief of Staff;탄 말라카 ;1914;1964;1999;LWR;School of Psychology;Low;M577042;x
+840028;Chief of Army;탄 말라카 ;1914;1964;1999;LWR;Decisive Battle Doctrine;Low;M577042;x
+840029;Chief of Navy;탄 말라카 ;1914;1964;1999;LWR;Open Seas Doctrine;Low;M577042;x
+840030;Chief of Air Force;탄 말라카 ;1914;1964;1999;LWR;Army Aviation Doctrine;Low;M577042;x
+840031;Head of Government;수탄 스자흐리르 ;1940;1964;1999;LWR;Happy Amateur;High;M577019;x
+840032;Head of Government;아미르 스자리푸딘 ;1944;1964;1999;LWR;Naive Optimist;High;M577016;x
+840033;Head of Government;모하마드 탐린 ;1933;1964;1999;PA;Smiling Oilman;Very High;M577015;x
+840034;Head of State;스자프루딘 프라비라네가라 ;1944;1964;1999;SC;Insignificant Layman;High;M577022;x
+840035;Head of Government;휘베르튀스 반 무크 ;1942;1964;1999;SC;Corporate Suit;Medium;M577003;x
+840036;Head of Government;스자프루딘 프라비라네가라 ;1944;1964;1999;SC;Political Protege;High;M577022;x
+840037;Foreign Minister;아흐마드 수반드리오 ;1944;1964;1999;PA;Ideological Crusader;Medium;M577017;x
+840038;Foreign Minister;수탄 스자흐리르 ;1945;1964;1999;LWR;The Cloak N Dagger Schemer;Low;M577019;x
+840039;Minister of Armament;스자프루딘 프라비라네가라 ;1944;1964;1999;SC;Administrative Genius;Low;M577022;x
+840040;Chief of Staff;아미르 스자리푸딘 ;1944;1964;1999;LWR;School of Psychology;Low;M577016;x
+840041;Chief of Staff;헤라르뒤스 베렌스호트 ;1939;1964;1999;PA;School of Manoeuvre;Very High;L7801;x
+840042;Chief of Staff;헤인 테르 포르텐 ;1941;1964;1999;PA;School of Defence;Very High;L7819;x
+840043;Chief of Army;헤인 테르 포르텐 ;1939;1964;1999;PA;Static Defence Doctrine;Very High;L7819;x
+840044;Chief of Army;뤼돌프 바케르스 ;1941;1964;1999;PA;Static Defence Doctrine;Very High;L7800;x
+840045;Chief of Army;요한 우흘 ;1945;1964;1999;PA;Static Defence Doctrine;Very High;unknownminister;x
+840046;Chief of Navy;콘라드 헬프리흐 ;1939;1964;1999;PA;Indirect Approach Doctrine;Very High;L7839;x
+840047;Chief of Army;레이몬드 베스테를링 ;1946;1964;1999;PA;Decisive Battle Doctrine;Low;M577006;x
+840048;Chief of Army;압둘 하리스 나수티온 ;1948;1964;1999;PA;Guns and Butter Doctrine;High;M577043;x
+840049;Head of State;빌헬미나 ;1914;1933;1999;ML;Stern Imperialist;High;2664;x
+840050;Head of Government;알렉산더르 빌렘 ;1914;1933;1999;ML;Naive Optimist;High;5779;x
+840051;Chief of Air Force;휘스타프 아돌프 일헌 ;1932;1964;1999;SC;air superiority doctrine;Very High;9291;x
+840052;Chief of Air Force;Emile Toussaint Kengen;1945;1946;1947;SC;air superiority doctrine;Very High;9845;X
+840053;Chief Of Staff;Johannes Cornelis Koster;1929;1932;1936;SC;school of defence;Very High;9846;x
+840054;Chief of Army;Johannes Cornelis Koster;1932;1935;1936;SC;static defence doctrine;Very High;9846;x
+840055;Chief of Army;무르크 부르스트라 ;1935;1939;1940;SC;decisive battle doctrine;Very High;L7802;x
+840056;Chief of Army;뤼돌프 반 오이언 ;1943;1946;1947;SC;static defence doctrine;Very High;L7859;x
+840057;Chief of Army;Simon Spoor;1946;1949;1950;SC;decisive battle doctrine;Very High;M8137;x
+840058;Chief of Army;Dirk Cornelis Buurman Van Vreeden;1949;1950;1951;SC;static defence doctrine;Very High;9847;x

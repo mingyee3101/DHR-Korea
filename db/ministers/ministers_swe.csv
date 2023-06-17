@@ -1,0 +1,199 @@
+SWE;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+40001;Head of State;구스타프 5세 ;1933;1964;1999;SC;Pig-headed Isolationist;High;M7001;X
+40002;Head of Government;악셀 페르손 브람스토르프 ;1933;1964;1999;SL;Happy Amateur;High;M7002;X
+40003;Foreign Minister;칼 G. 베스트만 ;1933;1964;1999;SL;Apologetic Clerk;Very High;M7003;X
+40004;Minister of Armament;빌마르 융달 ;1933;1964;1999;SL;Tank Proponent;Very High;M7004;X
+40005;Minister of Security;토르발드 베리퀴스트 ;1933;1964;1999;SL;Compassionate Gentleman;Very High;M7005;X
+40006;Head of Military Intelligence;카를로스 아들러르크루츠 ;1933;1964;1999;SC;Political Specialist;High;M7068;X
+40007;Chief of Staff;오스카르 니그렌 ;1933;1964;1999;SC;School of Defence;Medium;M7007;X
+40008;Chief of Army;오스카르 니그렌 ;1933;1964;1999;SC;Guns and Butter Doctrine;Medium;M7007;X
+40009;Chief of Navy;샤를스 데 샴스 ;1933;1964;1999;PA;Decisive Naval Battle Doctrine;Very Low;M7009;X
+40010;Chief of Air Force;토르스텐 프리스 ;1933;1964;1999;ML;Army Aviation Doctrine;Very High;M7010;X
+40011;Head of State;구스타프 5세 ;1933;1964;1999;SD;Pig-headed Isolationist;High;M7001;X
+40012;Head of Government;페르 알빈 한손 ;1932;1964;1999;SD;Ambitious Union Boss;High;M7033;X
+40013;Head of Government;타게 에를란데르 ;1946;1964;1999;SD;Political Protege;High;M7034;X
+40014;Head of Government;예스타 바게 ;1942;1964;1999;ML;Smiling Oilman;High;M7035;X
+40015;Head of Government;악셀 페르손 브람스토르프 ;1938;1964;1999;SL;Happy Amateur;High;M7002;X
+40016;Head of Government;베르틸 올린 ;1945;1964;1999;SL;Corporate Suit;High;M7037;X
+40017;Foreign Minister;리샤르드 산들레르 ;1933;1964;1999;SD;Biased Intellectual;Low;M7038;X
+40018;Foreign Minister;크리스티안 귄테르 ;1940;1964;1999;SC;Apologetic Clerk;High;M7039;X
+40019;Foreign Minister;위스텐 운덴 ;1945;1964;1999;SD;Great Compromiser;High;M7040;X
+40020;Foreign Minister;페르 에드빈 스쾰드 ;1933;1964;1999;SD;Ideological Crusader;Medium;M7041;X
+40021;Foreign Minister;빌헬름 예란 룬드비크 ;1937;1964;1999;SL;Biased Intellectual;High;M7042;X
+40022;Foreign Minister;R. 레손 솔르만 ;1938;1964;1999;SL;Iron Fisted Brute;High;M7043;X
+40023;Foreign Minister;페르 E.G. 인술란데르 ;1939;1964;1999;SL;General Staffer;High;M7044;X
+40024;Foreign Minister;예오리 안드레안 ;1945;1964;1999;SC;Ideological Crusader;High;M7045;X
+40025;Foreign Minister;악셀 페르손 브람스토르프 ;1940;1964;1999;SL;The Cloak N Dagger Schemer;Very High;M7002;X
+40026;Minister of Armament;에른스트 비그포르스 ;1933;1964;1999;SD;Resource Industrialist;Low;M7047;X
+40027;Minister of Armament;구스타브 묄러 ;1933;1964;1999;SD;laissez-faire capitalist;Medium;M7048;X
+40028;Minister of Armament;구스타브 카셀 ;1937;1964;1999;ML;Administrative Genius;Medium;M7049;X
+40029;Minister of Armament;에리크 팔므스티에르나 ;1937;1964;1999;SD;Battle Fleet Proponent;Medium;M7050;X
+40030;Minister of Armament;에른스트 트리게르 ;1938;1964;1999;ML;Theoretical Scientist;Medium;M7051;X
+40031;Minister of Armament;에리크 아이나르 에크스트란드 ;1939;1964;1999;ML;Submarine Proponent;Medium;M7052;X
+40032;Minister of Armament;예스타 바게 ;1940;1964;1999;ML;Resource Industrialist;Medium;M7035;X
+40033;Minister of Armament;위스텐 운덴 ;1941;1964;1999;LWR;Infantry Proponent;Medium;M7054;X
+40034;Minister of Armament;베르틸 올린 ;1944;1964;1999;SL;Military Entrepreneur;Medium;M7037;X
+40035;Minister of Armament;마르틴 스코그룬드 ;1940;1964;1999;ML;laissez-faire capitalist;High;M7056;X
+40036;Minister of Armament;프리쇼프 도뫼 ;1945;1964;1999;ML;Administrative Genius;High;M7057;X
+40037;Minister of Security;칼 실리테르 ;1933;1964;1999;SD;Silent Lawyer;High;M7058;X
+40038;Minister of Security;구스타브 안데르손 라시외 ;1940;1964;1999;SL;Compassionate Gentleman;Medium;M7059;X
+40039;Minister of Security;악셀 T. 에델스베르드 ;1933;1964;1999;SL;Silent Lawyer;Very High;M7060;X
+40040;Minister of Security;안데르스 린스테트 ;1937;1964;1999;SD;Compassionate Gentleman;Very High;M7061;X
+40041;Minister of Security;페테르 G.A. 비이크만 ;1938;1964;1999;ML;Back Stabber;Very High;M7063;X
+40042;Minister of Security;리하르드 J. 산들레르 ;1939;1964;1999;SD;Prince of Terror;Very High;M7038;X
+40043;Minister of Security;K.G. 베스트만 ;1940;1964;1999;SL;Crime Fighter;Very High;M7003;X
+40044;Minister of Security;아르비드 G. 리헤르트 ;1940;1964;1999;SD;Man of the People;Very High;M7066;X
+40045;Head of Military Intelligence;헬게 융 ;1942;1964;1999;SC;Political Specialist;Low;M7006;X
+40046;Head of Military Intelligence;에리크 팔므스티에르나 ;1939;1964;1999;SC;Naval Intelligence Specialist;Medium;M7050;X
+40047;Head of Military Intelligence;에케 함메르스키욀드 ;1941;1964;1999;SL;Dismal Enigma;High;unknownminister;X
+40048;Chief of Staff;올로프 퇴르넬 ;1937;1964;1999;SC;School of Fire Support;Very High;M7072;X
+40049;Chief of Staff;악셀 라페 ;1940;1964;1999;SC;school of manoeuvre;Low;M7073;X
+40050;Chief of Staff;사무에르 오케르헤름 ;1941;1964;1999;ML;School of Mass Combat;Medium;M7074;X
+40051;Chief of Staff;악셀 브레드베리 ;1942;1964;1999;ML;School of Psychology;High;M7075;X
+40052;Chief of Staff;카를 구스타프 에렌스보르드 ;1944;1964;1999;SC;School of Manoeuvre;Medium;M7076;X
+40053;Chief of Staff;닐스 스베드룬드 ;1946;1964;1999;ML;School of Psychology;Very High;M7077;X
+40054;Chief of Army;페르 시르반 ;1937;1964;1999;SC;Static Defence Doctrine;Medium;M7079;X
+40055;Chief of Army;올로프 퇴르넬 ;1940;1964;1999;SC;Guns and Butter Doctrine;Very High;M7072;X
+40056;Chief of Army;헬게 융 ;1943;1964;1999;SD;Armoured Spearhead Doctrine;Medium;M7006;X
+40057;Chief of Army;아르히발드 더우글라스 ;1943;1964;1999;PA;Decisive Battle Doctrine;Medium;M7017;X
+40058;Chief of Army;악셀 라페 ;1943;1964;1999;SC;Elastic Defence Doctrine;Very Low;M7073;X
+40059;Chief of Army;벤트 노르덴스쾰드 ;1943;1964;1999;SD;Decisive Battle Doctrine;Low;M7070;X
+40060;Chief of Army;악셀 브레드베리 ;1943;1964;1999;SL;Static Defence Doctrine;High;M7075;X
+40061;Chief of Navy;에리크 팔므스티에르나 ;1933;1964;1999;SD;Base Control Doctrine;Medium;M7050;X
+40062;Chief of Navy;예스타 에렌스보드 ;1942;1964;1999;ML;Decisive Naval Battle Doctrine;Medium;M7087;X
+40063;Chief of Navy;파비안 탐 ;1944;1964;1999;SC;Open Seas Doctrine;High;M7088;X
+40064;Chief of Navy;헬게 스트룀베크 ;1945;1964;1999;SL;Indirect Approach Doctrine;High;M7089;X
+40065;Chief of Air Force;벤트 노르덴스쾰드 ;1942;1964;1999;ML;Air Superiority Doctrine;High;M7070;X
+40066;Chief of Air Force;악셀 융다르 ;1944;1964;1999;SL;Vertical Envelopment Doctrine;Very High;M7092;X
+40067;Head of State;마르틴 에크스트룀 ;1933;1964;1999;NS;Powerhungry Demagogue;High;M7011;X
+40068;Head of Government;마르틴 에크스트룀 ;1933;1964;1999;NS;Naive Optimist;High;M7011;X
+40069;Foreign Minister;에릭 본 로센 ;1933;1964;1999;NS;Ideological Crusader;Very High;M7013;X
+40070;Minister of Armament;아르투르 린덴 ;1933;1964;1999;NS;Laissez-Faire Capitalist;Medium;M7014;X
+40071;Minister of Security;스벤 헤딘 ;1933;1964;1999;FA;Back Stabber;Very High;M7015;X
+40072;Head of Military Intelligence;헤르만 닐손 엘레 ;1933;1964;1999;NS;Technical Specialist;Very High;M7016;X
+40073;Chief of Staff;아르히발드 더우글라스 ;1933;1964;1999;NS;School of Manoeuvre;High;M7017;X
+40074;Chief of Army;마르틴 에크스트룀 ;1933;1964;1999;NS;Decisive Battle Doctrine;Very High;M7011;X
+40075;Chief of Navy;샤를스 데 샴스 ;1933;1964;1999;FA;Decisive Naval Battle Doctrine;Very High;M7009;X
+40076;Chief of Air Force;악셀 일렌크로크 ;1933;1964;1999;PA;Army Aviation Doctrine;Low;M7020;X
+40077;Head of State;스벤 린더로트 ;1933;1964;1999;ST;Insignificant Layman;High;M7021;X
+40078;Head of Government;스벤 린더로트 ;1933;1964;1999;ST;Happy Amateur;High;M7021;X
+40079;Foreign Minister;휴고 셀렌 ;1933;1964;1999;ST;Ideological Crusader;Very High;M7023;X
+40080;Minister of Armament;힐딩 하그베리 ;1933;1964;1999;ST;Resource Industrialist;Very High;M7024;X
+40081;Minister of Security;카를 킬봄 ;1933;1964;1999;LE;Crime Fighter;High;M7025;X
+40082;Head of Military Intelligence;C.H. 헤르만손 ;1933;1964;1999;ST;Naval Intelligence Specialist;High;M7026;X
+40083;Chief of Staff;군나르 요한손 ;1933;1964;1999;ST;School of Mass Combat;Very High;unknownminister;X
+40084;Chief of Army;악셀 페테르손 ;1933;1964;1999;ST;Decisive Battle Doctrine;Very High;unknownminister;X
+40085;Chief of Navy;페르 M. 에릭손 ;1933;1964;1999;ST;Decisive Naval Battle Doctrine;Very High;unknownminister;X
+40086;Chief of Air Force;크리스터 로이터스베르드 ;1933;1964;1999;LWR;Army Aviation Doctrine;Low;unknownminister;X
+40087;Head of State;구스타프 6세 아돌프 ;1950;1964;1999;SD;Benevolent Gentleman;High;M7093;X
+40088;Minister of Armament;페르 에드빈 스쾰드 ;1949;1964;1999;SD;Infantry Proponent;High;M7041;X
+40089;Head of State;구스타프 6세 아돌프 ;1950;1964;1999;ML;Benevolent Gentleman;High;M7093;X
+40090;Chief of Army;카르스텐 발베리 ;1900;1911;1911;SC;static defence doctrine;High;9269;X
+40091;Chief of Army;오스카르 2세 ;1900;1907;1999;SC;static defence doctrine;High;3308;X
+40092;Chief of Army;악셀 라페 ;1900;1933;1999;SC;static defence doctrine;High;3309;X
+40093;Chief of Army;크누트 일스 빌트 ;1905;1933;1999;SC;Decisive Battle Doctrine;High;3310;X
+40094;Chief of Army;구스타프 5세 ;1907;1933;1999;ML;static defence doctrine;High;3311;X
+40095;Chief of Army;안톤 닐손 ;1914;1933;1999;ST;Guns and Butter Doctrine;High;3312;X
+40096;Chief of Army;악셀 라페 ;1915;1933;1999;PA;Guns and Butter Doctrine;Very High;3309;X
+40097;Chief of Army;라르스 팅스텐 ;1916;1933;1999;SL;Decisive Battle Doctrine;High;3313;X
+40098;Chief of Army;라르스 팅스텐 ;1919;1933;1999;SC;Decisive Battle Doctrine;High;3313;X
+40099;Chief of Army;카를 함마르셸드 ;1922;1933;1999;SC;Static Defence Doctrine;High;3314;X
+40100;Chief of Navy;테오도르 산드스트렘 ;1907;1933;1999;SC;Decisive Naval Battle Doctrine;High;unknownminister;X
+40101;Chief of Navy;스텐 안카르시로나 ;1911;1933;1999;ML;Decisive Naval Battle Doctrine;High;unknownminister;X
+40102;Chief of Navy;루드비그 시드네르 ;1914;1933;1999;SL;Indirect Approach Doctrine;High;3315;X
+40103;Chief of Navy;헤닝 본 크루센스톄르나 ;1916;1933;1999;SL;Open Seas Doctrine;High;3316;X
+40104;Chief of Staff;악셀 라페 ;1900;1933;1999;SC;School of Psychology;High;3309;X
+40105;Chief of Staff;카르스텐 발베리 ;1900;1911;1911;SC;School of Defence;High;9269;X
+40106;Chief of Staff;크누트 일스 빌트 ;1905;1933;1999;SC;School of Manoeuvre;High;3310;X
+40107;Chief of Staff;악셀 라페 ;1914;1933;1999;PA;School of Psychology;Very High;3309;X
+40108;Chief of Staff;안톤 닐손 ;1914;1933;1999;ST;School of Mass Combat;High;3312;X
+40109;Chief of Staff;라르스 팅스텐 ;1919;1933;1999;SC;School of Psychology;High;3313;X
+40110;Chief of Staff;카를 함마르셸드 ;1922;1933;1999;SC;School of Mass Combat;High;3314;X
+40111;Foreign Minister;루드비그 더우글라스 ;1900;1933;1999;ML;Biased Intellectual;High;3317;X
+40112;Foreign Minister;알프레드 라거르헤임 ;1900;1933;1999;SC;Great Compromiser;High;3318;X
+40113;Foreign Minister;아우구스트 길덴스토르페 ;1904;1933;1999;ML;Apologetic clerk;High;3319;X
+40114;Foreign Minister;에리크 트롤레 ;1905;1933;1999;SL;Great Compromiser;High;3320;X
+40115;Foreign Minister;프레드리크 바시트마이스터 ;1905;1933;1999;SC;Biased Intellectual;High;3321;X
+40116;Foreign Minister;빅토리아 ;1907;1933;1999;PA;Ideological Crusader;High;3322;X
+40117;Foreign Minister;아르비드 토브 ;1909;1933;1999;ML;Ideological Crusader;High;unknownminister;X
+40118;Foreign Minister;알베르트 에렌스베르드 ;1911;1933;1999;SL;Ideological Crusader;High;3323;X
+40119;Foreign Minister;투레 네르만 ;1914;1933;1999;ST;Ideological Crusader;Very High;3324;X
+40120;Foreign Minister;크누트 발렌베리 ;1914;1933;1999;SC;Ideological Crusader;High;3325;X
+40121;Foreign Minister;아르비드 린드만 ;1917;1933;1999;ML;Ideological Crusader;High;3326;X
+40122;Foreign Minister;요하네스 헬네르 ;1917;1933;1999;SL;Ideological Crusader;High;3327;X
+40123;Foreign Minister;에리크 팔므스티에르나 ;1920;1933;1999;SD;Ideological Crusader;High;3328;X
+40124;Foreign Minister;헤르만 렝겔 ;1920;1933;1999;ML;Ideological Crusader;High;3329;X
+40125;Foreign Minister;위스텐 운덴 ;1920;1933;1999;SD;Apologetic Clerk;High;3330;X
+40126;Foreign Minister;얄마르 브란팅 ;1921;1933;1999;SD;Apologetic Clerk;High;3331;X
+40127;Foreign Minister;카를 헤데르스티에르나 ;1923;1933;1999;ML;Ideological Crusader;High;3332;X
+40128;Foreign Minister;에리크 본 뷔르템베리 ;1923;1933;1999;ML;Biased Intellectual;High;3987;X
+40129;Foreign Minister;엘리엘 뢰프그렌 ;1926;1933;1999;SL;BIASED INTELLECTUAL;High;3333;X
+40130;Head of Government;에리크 구스타브 포스트렘 ;1900;1933;1999;SC;Flamboyant Tough Guy;High;3334;X
+40131;Head of Government;프레드리크 본 오테르 ;1900;1933;1999;ML;Old Admiral;High;3335;X
+40132;Head of Government;요한 람스테드 ;1905;1933;1999;ML;Corporate Suit;High;3336;X
+40133;Head of Government;크리스티안 룬드베리 ;1905;1933;1999;SC;Corporate Suit;High;3337;X
+40134;Head of Government;아르비드 린드만 ;1906;1933;1999;SC;Old Admiral;High;3326;X
+40135;Head of Government;빅토리아 ;1907;1933;1999;PA;Silent Workhorse;High;3322;X
+40136;Head of Government;얄마르 브란팅 ;1907;1933;1999;SD;Ambitious Union Boss;High;3331;X
+40137;Head of Government;칼 스타프 ;1911;1933;1999;SL;Naive Optimist;High;3338;X
+40138;Head of Government;얄마르 함마르셀드 ;1914;1933;1999;ML;Political Protege;High;3339;X
+40139;Head of Government;카를 스바르트 ;1917;1933;1999;SC;Corporate Suit;High;3340;X
+40140;Head of Government;닐스 에덴 ;1917;1933;1999;SL;Flamboyant Tough Guy;High;3341;X
+40141;Head of Government;루이스 데 이에르 ;1920;1933;1999;SL;Political Protege;High;3342;X
+40142;Head of Government;오스카르 본 시도브 ;1921;1933;1999;ML;Flamboyant Tough Guy;High;3343;X
+40143;Head of Government;카를 구스타프 에크만 ;1922;1933;1999;SL;Backroom Backstabber;High;3344;X
+40144;Head of Government;에른스트 트리게르 ;1923;1933;1999;SC;Happy Amateur;High;3345;X
+40145;Head of Military Intelligence;카르스텐 발베리 ;1900;1911;1911;SC;Logistics Specialist;High;9269;X
+40146;Head of Military Intelligence;악셀 라페 ;1900;1933;1999;SC;Logistics Specialist;High;3309;X
+40147;Head of Military Intelligence;크누트 일스 빌트 ;1905;1933;1999;SC;Logistics Specialist;High;3310;X
+40148;Head of Military Intelligence;오토 그림룬드 ;1914;1933;1999;ST;Dismal Enigma;High;3346;X
+40149;Head of Military Intelligence;스벤 헤딘 ;1915;1933;1999;PA;Dismal Enigma;High;3347;X
+40150;Head of Military Intelligence;라르스 팅스텐 ;1919;1933;1999;SC;Logistics Specialist;High;3313;X
+40151;Head of Military Intelligence;카를로스 아들러르크루츠 ;1920;1933;1999;ML;Political Specialist;High;3348;X
+40152;Head of Military Intelligence;카를 함마르셸드 ;1922;1933;1999;SC;Logistics Specialist;High;3314;X
+40153;Head of State;오스카르 2세 ;1900;1907;1999;ML;Benevolent Gentleman;High;3308;X
+40154;Head of State;오스카르 2세 ;1900;1907;1999;PA;Benevolent Gentleman;High;3308;X
+40155;Head of State;오스카르 2세 ;1900;1907;1999;SC;Benevolent Gentleman;High;3308;X
+40156;Head of State;구스타프 5세 ;1907;1933;1999;SC;Popular Figurehead;High;3311;X
+40157;Head of State;구스타프 5세 ;1907;1933;1999;ML;Popular Figurehead;High;3311;X
+40158;Head of State;구스타프 5세 ;1907;1933;1999;PA;Popular Figurehead;High;3311;X
+40159;Head of State;제트 회글룬드 ;1914;1933;1999;ST;Die-hard Reformer;High;3349;X
+40160;Minister of Armament;프레드리크 바시트마이스터 ;1900;1933;1999;SC;Resource Industrialist;High;3321;X
+40161;Minister of Armament;에른스트 메위어 ;1902;1933;1999;SL;Laissez-Faire Capitalist;High;unknownminister;X
+40162;Minister of Armament;엘로프 비에세르트 ;1905;1933;1999;SL;Resource Industrialist;High;unknownminister;X
+40163;Minister of Armament;카를 스바르트 ;1906;1933;1999;SC;Resource Industrialist;High;3340;X
+40164;Minister of Armament;테오도르 아델스베르드 ;1911;1933;1999;SL;Resource Industrialist;High;3350;X
+40165;Minister of Armament;카를 킬봄 ;1914;1933;1999;ST;Battle Fleet proponent;High;9886;X
+40166;Minister of Armament;악셀 벤네르스텐 ;1914;1933;1999;ML;Administrative Genius;High;3351;X
+40167;Minister of Armament;에른스트 트리게르 ;1915;1933;1999;PA;Laissez-Faire Capitalist;High;3345;X
+40168;Minister of Armament;페르 알빈 한손 ;1917;1933;1999;SD;military entrepreneur;High;3352;X
+40169;Minister of Armament;콘라드 카를레손 ;1917;1933;1999;SC;Laissez-Faire Capitalist;High;3988;X
+40170;Minister of Armament;얄마르 브란팅 ;1917;1933;1999;SD;Resource Industrialist;High;3331;X
+40171;Minister of Armament;프레드리크 토르손 ;1918;1933;1999;SD;Resource Industrialist;High;3353;X
+40172;Minister of Armament;리카르드 산들레르 ;1920;1933;1999;SD;Resource Industrialist;High;3354;X
+40173;Minister of Armament;헨리크 탐 ;1920;1933;1999;ML;Administrative Genius;High;unknownminister;X
+40174;Minister of Armament;야코브 베스코브 ;1921;1933;1999;ML;Resource Industrialist;High;3355;X
+40176;Minister of Armament;카를 구스타프 에크만 ;1922;1933;1999;SL;Laissez-Faire Capitalist;High;3344;X
+40177;Minister of Security;루드비그 안네르스테드 ;1900;1933;1999;SL;Crime Fighter;High;unknownminister;X
+40178;Minister of Security;얄마르 함마르셀드 ;1901;1933;1999;ML;Crime Fighter;High;3339;X
+40179;Minister of Security;오시안 베리에르 ;1902;1933;1999;SC;Compassionate Gentleman;High;3356;X
+40180;Minister of Security;구스타프 베리 ;1905;1933;1999;SC;Compassionate Gentleman;High;unknownminister;X
+40181;Minister of Security;칼 스타프 ;1905;1933;1999;SL;Man of the People;High;3338;X
+40182;Minister of Security;알베르트 페테르손 ;1906;1933;1999;ML;Silent Lawyer;High;3357;X
+40183;Minister of Security;구스타프 산드스트렘 ;1909;1933;1999;SL;Crime Fighter;High;3358;X
+40184;Minister of Security;구스타프 산드스트렘 ;1911;1933;1999;SL;Crime Fighter;High;3358;X
+40185;Minister of Security;카를 린드하겐 ;1914;1933;1999;ST;Back Stabber;High;3359;X
+40186;Minister of Security;베른드 하셀르로트 ;1914;1933;1999;ML;Silent Lawyer;High;3360;X
+40187;Minister of Security;스테노 스텐베리 ;1914;1933;1999;ML;Silent Lawyer;High;3989;X
+40188;Minister of Security;스벤 헤딘 ;1915;1933;1999;PA;Man of the People;High;3347;X
+40189;Minister of Security;엘리엘 뢰프그렌 ;1917;1933;1999;SL;Silent Lawyer;High;3333;X
+40190;Minister of Security;위스텐 운덴 ;1920;1933;1999;SD;Crime Fighter;High;3330;X
+40191;Minister of Security;비리에르 에케베리 ;1920;1933;1999;ML;Silent Lawyer;High;3361;X
+40192;Minister of Security;아사르 오케르만 ;1920;1933;1999;SD;Silent Lawyer;High;3362;X
+40193;Minister of Security;토르스텐 노틴 ;1924;1933;1999;SD;Silent Lawyer;High;3363;X
+40194;Minister of Security;요한 티렌;1924;1933;1999;SL;Compassionate Gentleman;High;3364;X
+40195;Chief of Air Force;토르스텐 라프 ;1948;1964;1999;SD;Air Superiority Doctrine;High;9918;x
+40196;Chief of Army;닐스 스베드룬드 ;1950;1964;1999;ML;Armoured Spearhead Doctrine;High;6020;x 
+40197;Minister of Security;비리에르 프루고르 ;1933;1964;1999;NS;Back Stabber;Medium;6021;x
+40198;Foreign Minister;비리에르 프루고르 ;1933;1964;1999;NS;Apologetic Clerk;Medium;6021;x

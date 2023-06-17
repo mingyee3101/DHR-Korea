@@ -1,0 +1,332 @@
+y;English;French;Italian;Spanish;German;Polish;Portugese;Russian;;Extra2;X
+##;;;;;;;;;;;X
+TUTORIAL_SETUP;When a scripted tutorial event occurs;Lorsqu'un événement scripté de formation survient;Se si verifica un evento del tutorial predefinito;Cuando ocurra un suceso del 'script' del tutorial;Wenn sich ein festgelegtes Tutorial-Ereignis ereignet;Kiedy nast¹pi wydarzenie z samouczka;;Êîãäà ïðîèñõîäèò ïðåäóñìîòðåííîå ñöåíàðèåì ñîáûòèå;;;X
+TUTORIAL_HEADER;Tutorial Info%s;Formation%s;Informazioni del tutorial %s;Información del tutorial%s;Tutorial-Informationen%s;Informacje o samouczku%s;;Èíôîðìàöèÿ%s;;;X
+TUTORIAL_1;%s;%s;%s;%s;%s;%s;;%s;;;X
+TUTORIAL_2;%s;%s;%s;%s;%s;%s;;%s;;;X
+TUTORIAL_3;;;;;;;;;;;X
+TUTORIAL_4;;;;;;;;;;;X
+TUTORIAL_5;;;;;;;;;;;X
+TUTORIAL_6;;;;;;;;;;;X
+TUTORIAL_LOG;%s: %s;%s : %s;%s: %s;%s: %s;%s: %s;%s: %s;;%s: %s;;;X
+TUTORIAL_BTN1;ÁÁ¾Æ ;OK;OK;Aceptar;OK;OK;;ÎÊ;;;X
+TUTORIAL_BTN2;;;;;;;;;;;X
+##;;;;;;;;;;;X
+TUTORIAL_MAIN_TITLE;'Darkest Hour' ¿¡ ¿À½Å°ÍÀ» È¯¿µÇÕ´Ï´Ù! ;Bienvenue sur Hearts of Iron II;Benvenuto in Darkest Hour;Bienvenido a Darkest Hour;Willkommen bei Darkest Hour;Witaj w Darkest Hour;;Äîáðî ïîæàëîâàòü â èãðó 'Darkest Hour';;;X
+TUTORIAL_MAIN_DESC;Á¶½É½º·¹ ¸»ÇØº¸ÀÚ¸é 'Darkest Hour'´Â ¿ä±¸ÇÏ´Â °ÍÀÌ ¸¹Àº °ÔÀÓÀÔ´Ï´Ù. ´ç½ÅÀº Á¤Ä¡, ¿Ü±³, °æÁ¦ ¹× °úÇÐ ¿¬±¸¸¦ ÅëÇÑ ³»Á¤ ±×¸®°í ±¹Á¦Àû ±Ô¸ðÀÇ Á¤º¹ °ú Àü¼úÀû º´·Â ¿î¿ëÀ» Á÷Á¢ ÇØ¾ß¸¸ ÇÕ´Ï´Ù. ±×·¯³ª ±× Èûµç µµÀüÀº ´ç½ÅÀÌ ¿øÇØ¿Ô´ø ¼¼°è ÃÖ°íÀÇ 2Â÷¼¼°è´ëÀü ½Ã¹Ä·¹ÀÌ¼Ç-'Darkest Hour'-¶ó´Â Å« º¸»óÀ» ¹Þ°Ô µÉ °ÍÀÔ´Ï´Ù. ½Â¸®¶ó´Â ¸ñÇ¥¸¦ ÇâÇÑ ±æÀº ´ç½Å ÀÚ½Å¿¡°Ô ¹«ÇÑÇÑ °¡´É¼ºÀ¸·Î ¿­·Á ÀÖ½À´Ï´Ù! ±×¸®°í ÀÌ °­ÀÇµéÀº ½Â¸®¸¦ ÇâÇÑ Ã¹ ¹ß°ÉÀ½ÀÌ µÉ °ÍÀÔ´Ï´Ù. ÀÌ °­ÀÇµéÀº ´ç½ÅÀÌ ±¹°¡¸¦ ¿î¿ëÇÏ°í ´Ù¸¥ ±¹°¡¸¦ Á¤º¹ÇÏ´Â ±âÃÊÀûÀÎ ºÎºÐÀ» ¼³¸íÇÕ´Ï´Ù. Á» ´õ ¸¹Àº ºÎºÐÀÌ ÇÊ¿äÇÏ´Ù¸é ÆÐÅ°Áö¾È¿¡ ÀÖ´Â ¸Þ´º¾óÀÌ³ª ¿ì¸®ÀÇ À¥»çÀÌÆ®(Paradoxplaza.com)¸¦ ÂüÁ¶ÇÏ½Ê½Ã¿À. ±¹³»¿¡¼­ Á¤º¸¸¦ Ã£À¸½Å´Ù¸é http://cafe.daum.net/Europa ¸¦ ÃßÃµ ÇÕ´Ï´Ù. ;On peut affirmer sans détours que Hearts of Iron II exige beaucoup des joueurs. On attend de vous des décisions politiques, diplomatiques, il vous faut gérer la production et la recherche à un niveau national comme international, mais aussi maîtriser l'art de la conquête et du combat tactique. En retour, Hearts of Iron vous apporte une satisfaction considérable, en ce qu'il offre la simulation la plus réaliste qui soit de toute la période couvrant la Seconde Guerre mondiale. Il vous offre un nombre illimité d'options qui vous permettront de fouler les sentiers de la gloire. Nous vous recommandons, pour mieux débuter, de consulter ce didacticiel . Il vous explique toutes les fonctions principales du jeu. Si vous souhaitez avoir des informations plus précises, veuillez consulter le manuel de jeu, ou visiter nos forums sur Paradoxplaza.com;Darkest Hour è sicuramente un gioco molto impegnativo. Dovrai gestire la politica, la diplomazia, la produzione e la ricerca a livello nazionale e internazionale, ma anche fare conquiste e affrontare combattimenti tattici. Dietro ogni grande sfida si nasconde però una grande ricompensa. Darkest Hour ti offre la simulazione più realistica dell'epoca della Seconda Guerra Mondiale, permettendoti di tracciare il tuo sentiero di gloria attraverso un'infinità di possibili strade. Per cominciare con facilità ti consigliamo di seguire questo tutorial, dove troverai spiegazione a tutte le principali caratteristiche del gioco. Per ulteriori dettagli, consulta il manuale di gioco oppure visita i nostri forum all'indirizzo www.paradoxplaza.com.;No hay duda al decir que Darkest Hour es un juego muy exigente. Tendrás que ocuparte de la política, la diplomacia, la producción y la investigación en el ámbito nacional e internacional, así como dominar la conquista y el combate táctico. Pero los grandes desafíos conllevan grandes recompensas, así que Darkest Hour te ofrece la simulación más realista de la época de la II Guerra Mundial que hubieras podido desear. Te proporciona infinitas formas de recorrer tu propio sendero de gloria. Para hacer más fácil el empezar a jugar te recomendamos este tutorial, que explica todas las características principales del juego. Para obtener una información más exhaustiva, te rogamos que leas el manual del juego o visites nuestros foros en Paradoxplaza.com;Darkest Hour ist ein ausgesprochen anspruchsvolles Spiel. Sie bestimmen die Politik, üben sich in Diplomatie und steuern die Produktion und die Forschungsarbeiten auf nationaler und internationaler Ebene. Darüber hinaus bestimmen Sie natürlich den Lauf des Krieges mit und üben sich im taktischen Kampf. Wer sich diesen Herausforderungen stellt, den erwartet die realistischste Darstellung des Zweiten Weltkrieges, die man sich vorstellen kann. Hier schafft sich jeder seinen eigenen Weg zum Sieg. In diesem Tutorial erklären wir Ihnen die wichtigsten Funktionen des Spiels. Weiterführende Informationen finden Sie im Handbuch zum Spiel oder besuchen Sie unsere Foren unter Paradoxplaza.com. ;Mo¿na powiedzieæ, ¿e  Darkest Hour to bardzo wymagaj¹ca gra. Bêdziesz musia³ zarz¹dzaæ polityk¹ wewnêtrzn¹, dyplomacj¹, produkcj¹, badaniami oraz poznaæ taktykê ataku i obrony swoich granic. Du¿e wyzwanie  to du¿a satysfakcja – Darkest Hour jest najdok³adniejsz¹ symulacj¹ drugiej wojny œwiatowej o jakiej mog³eœ marzyæ. Oferuje Ci niezliczone drogi do osi¹gniêcia ostatecznego zwyciêstwa. Aby u³atwiæ Ci rozpoczêcie gry, przygotowaliœmy dla Ciebie ten samouczek. Je¿eli potrzebujesz dok³adniejszych informacji, zajrzyj do instrukcji lub odwiedŸ forum na stronie Paradoxplaza.com.;;Íå áóäåò ïðåóâåëè÷åíèåì ñêàçàòü, ÷òî ê èãðå 'Darkest Hour' ñëåäóåò ïîäõîäèòü î÷åíü ñåðüåçíî. Âàì ïðåäñòîèò óïðàâëÿòü âíóòðåííåé ïîëèòèêîé, äèïëîìàòèåé, ïðîèçâîäñòâîì è èññëåäîâàíèÿìè â ñëîæíîé è áûñòðî ìåíÿþùåéñÿ ìåæäóíàðîäíîé îáñòàíîâêå. Âû òàêæå áóäåòå íåñòè îòâåòñòâåííîñòü çà ñòðàòåãè÷åñêîå ïëàíèðîâàíèå âîåííûõ äåéñòâèé è âûáîð òàêòèêè â îòäåëüíûõ ñðàæåíèÿõ. Ýòî íåïðîñòî, çàòî âçàìåí âû ïîëó÷àåòå âîçìîæíîñòü ïðèíèìàòü ðåøåíèÿ â ñàìîé ïðèáëèæåííîé ê ðåàëüíîñòè îáñòàíîâêå, êàêóþ òîëüêî ìîæíî ñîçäàòü â êîìïüþòåðíîé èãðå, è âûáðàòü òîò ïóòü, êîòîðûé ïðèâåäåò âàøó ñòðàíó ê ïîáåäå âî Âòîðîé ìèðîâîé âîéíå. Ýòè ó÷åáíûå ñöåíàðèè ïîìîãóò âàì ðàçîáðàòüñÿ â îñíîâàõ èãðû. Áîëåå ïîäðîáíóþ èíôîðìàöèþ âû ìîæåòå íàéòè â ðóêîâîäñòâå èëè íà îôèöèàëüíûõ ôîðóìàõ èãðû.;;;X
+##;;;;;;;;;;;X
+TUTORIAL_DESC_1;´ç½ÅÀÌ ¼¼°è´ëÀü¿¡ °³ÀÔ ÇÒ ¼ö ÀÖµµ·Ï °£·«ÇÑ º¸°í¸¦ ¹ßÇ¥ÇÏ°Ú½À´Ï´Ù. ;Brève présentation d'un monde en guerre dans lequel vous vous apprêtez à entrer :;Una breve presentazione della Guerra Mondiale che stai per cominciare;Una breve exposición del mundo bélico en el que estás a punto de entrar;Eine kurze Beschreibung der vom Krieg gebeutelten Welt, in die wir Sie jetzt führen werden;Ogólna prezentacja œwiata gry;;Êðàòêîå îïèñàíèå ìèðà èãðû è îñíîâû èãðîâîãî ïðîöåññà;;;X
+TUTORIAL_DESC_2;¿Ü±³¸¦ ¼öÇàÇÏ°í ±¹³» Á¤Ä¡¸¦ ¿î¿ëÇÏ´Â ¹æ¹ý¿¡ ´ëÇØ ¹è¿öº¾½Ã´Ù. ;Apprenez à utiliser la diplomatie et à participer à la politique de votre pays;Impara a gestire la diplomazia e la politica nazionale;Aprende a dirigir la diplomacia y la política nacional;Diplomatie und nationale Politik;Naucz siê prowadziæ politykê wewnêtrzn¹ i zagraniczn¹;;Îñíîâû äèïëîìàòèè è âíóòðåííåé ïîëèòèêè;;;X
+TUTORIAL_DESC_3;±¹°¡ÀÇ °æÁ¦/°ø¾÷ ´É·ÂÀ» ¿î¿ëÇÏ´Â ¹æ¹ý¿¡ ´ëÇØ ¹è¿öº¾½Ã´Ù. ;Apprenez à gérer les points de production d'un pays;Impara a dirigere la produttività industriale di una nazione;Aprende a gestionar la capacidad industrial de un país;Einsatz der industriellen Ressourcen eines Landes;Naucz siê zarz¹dzaæ potêg¹ przemys³ow¹ swojego pañstwa;;Îñíîâû óïðàâëåíèÿ ïðîèçâîäñòâîì;;;X
+TUTORIAL_DESC_4;»õ ±â¼ú°ú ÀüÅõ±³¸®¸¦ °³¹ßÇÏ´Â ¹æ¹ý¿¡ ´ëÇØ ¹è¿öº¾½Ã´Ù. ;Apprenez à développer de nouvelles doctrines et technologies;Impara a sviluppare nuove tecnologie e dottrine;Aprende a desarrollar nuevas tecnologías y doctrinas;Entwicklung neuer Technologien und Doktrinen;Naucz siê rozwijaæ nowe technologie i doktryny walki.;;Îñíîâû íàó÷íî-òåõíè÷åñêèõ èññëåäîâàíèé;;;X
+TUTORIAL_DESC_5;'Darkest Hour'ÀÇ ±âº»ÀûÀÎ ÀüÀï ¼öÇà¿¡ ´ëÇØ ¹è¿öº¾½Ã´Ù. ;Apprenez les techniques de guerre élémentaires de Hearts of Iron II;Impara i principi base della guerra in Darkest Hour;Aprende los fundamentos de la guerra en Darkest Hour;Grundlagen der Kriegsführung in Darkest Hour;Poznaj podstawy prowadzenia wojny w Darkest Hour;;Îñíîâû âåäåíèÿ âîåííûõ äåéñòâèé;;;X
+TUTORIAL_DESC_6;ÀüÀïÀ» ¼öÇàÇÒ ¶§ È¿°úÀûÀÎ °í±Þ Àü¼ú¿¡ ´ëÇØ ¹è¿öº¾½Ã´Ù. ;Consultation des options avancées des techniques de guerre;Uno sguardo alle opzioni di guerra avanzate;Un vistazo a las opciones avanzadas al librar una guerra;Ein Blick auf die Optionen für Fortgeschrittene;Poznaj niuanse prowadzenia wojen.;;Äîïîëíèòåëüíûå âîçìîæíîñòè âåäåíèÿ âîåííûõ äåéñòâèé;;;X
+TUTORIAL_BATTLESCENARIOS;ÀÏ´ÜÀº ÀüÅõ¿¡ ´ëÇÑ °Í¸¸ ¹è¿öº¸°í ½Í½À´Ï´Ù. ;Pour l'instant, j'aimerais simplement découvrir l'art de la guerre;Per ora, voglio imparare solo qualcosa sulla guerra;De momento sólo quiero saber sobre la guerra;Im Moment möchte ich nur etwas über die Kriegsführung lernen;Na razie wystarcz¹ mi zasady prowadzenia wojny.;;Ñåé÷àñ ÿ õî÷ó òîëüêî íàó÷èòüñÿ âîåâàòü;;;X
+##;;;;;;;;;;;X
+FETUTORIAL_1;°³¿ä & ÀÎÅÍÆäÀÌ½º ;Interface;Interfaccia;Interfaz;Benutzeroberfläche;Interfejs;;Îáùèå ñâåäåíèÿ;;;X
+FETUTORIAL_2;¿Ü±³¿Í Á¤Ä¡ ;Diplomatie et gouvernement;Diplomazia e Governo;Diplomacia y gobierno;Diplomatie und die Regierung;Dyplomacja i rz¹d;;Äèïëîìàòèÿ è ïðàâèòåëüñòâî;;;X
+FETUTORIAL_3;»ý»ê ;Production;Produzione;Producción;Produktion ;Produkcja;;Ïðîèçâîäñòâî;;;X
+FETUTORIAL_4;¿¬±¸ ;Recherche;Ricerca;Investigación;Forschung;Badania;;Èññëåäîâàíèÿ;;;X
+FETUTORIAL_5;±âº» ÀüÅõ±â¼ú ;Conduite élémentaire de la guerre;Guerra di base;Guerra básica;Grundlagen der Kriegsführung;Podstawy walki;;Îñíîâû âîåííûõ äåéñòâèé;;;X
+FETUTORIAL_6;Áøº¸µÈ ÀüÅõ±â¼ú ;Conduite avancée de la guerre;Guerra avanzata;Guerra avanzada;Kriegsführung f. Fortgeschrittene;Zaawansowana walka;;Ñëîæíûå âîåííûå ïðèåìû;;;X
+FETUTORIAL_7;¸ÞÀÎÀ¸·Î µ¹¾Æ°¡±â ;RETOUR AU MENU PRINCIPAL;MENU PRINCIPALE;VOLVER AL PRINCIPAL;ZURÜCK ZUM HAUPTMENÜ;Powrót do g³ównego menu;;ÃËÀÂÍÎÅ ÌÅÍÞ;;;X
+##;;;;;;;;;;;X
+############## TUTORIAL ##################;;;;;;;;;;;X
+##;;;;;;;;;;;X
+#  Tutorial Chapter 1;;;;;;;;;;;X
+TUTORIAL_1_A1_NAME;Æ©Åä¸®¾ó¿¡ ¿À½Å °ÍÀ» È¯¿µÇÕ´Ï´Ù! ;;;;;;;;;;X
+TUTORIAL_1_A1_DESC;Æ©Åä¸®¾óÀÇ Ã¹ Àå¿¡¼­ ¿ì¸®´Â 'Heart Of Iron 2'¸¦ °£´ÜÈ÷ µÑ·¯º¸°í ÀÌ °ÔÀÓÀÌ ¹«¾ùÀ» Á¦°øÇÏ¸ç, ±âº»ÀûÀÎ ÀÎÅÍÆäÀÌ½ºµéÀ» ¾î¶»°Ô »ç¿ëÇÏ´ÂÁö ¹è¿ì°Ô µÉ °ÍÀÔ´Ï´Ù. °­ÀÇ¸¦ °è¼Ó º¸°í ½ÍÀ¸¸é ÀÌÁ¦ºÎÅÍ ¼³¸íÇÏ´Â ´ë·Î µû¶óÇÏ±â¸¸ ÇÏ¸é µË´Ï´Ù. ¿£ÅÍÅ° Ç¥½Ã°¡ ³ªÅ¸³ª¸é ±×°ÍÀ» Å¬¸¯ÇÏ°Å³ª °£´ÜÈ÷ ¿£ÅÍ¸¦ ´©¸£¸é °­ÀÇ¸¦ °è¼Ó º¼ ¼ö ÀÖ½À´Ï´Ù. ¸¸ÀÏ °­ÀÇ¸¦ ³¡³»°í ½Í´Ù¸é ¾ðÁ¦µçÁö ESCÅ°¸¸ ´©¸£¸é Æ©Åä¸®¾ó ¸Þ´º·Î ºüÁ®³ª°¥ °ÍÀÔ´Ï´Ù. ;;;;;;;;;;X
+TUTORIAL_1_A2_NAME;¸ÞÀÎ Áöµµ º¸±â ;;;;;;;;;;X
+TUTORIAL_1_A2_DESC;¿©±â´Â ´ç½ÅÀÌ °ÔÀÓÀ» ÇÏ¸é¼­ °¡Àå ¸¹Àº ½Ã°£À» ÇÒ¾ÖÇÏ°Ô µÉ ¸ÞÀÎ Áöµµ¸¦ º¸¿©ÁÖ´Â È­¸éÀÔ´Ï´Ù. ±×¸®°í ÀÌ°÷ÀÌ ¹Ù·Î ´ç½ÅÀÇ ¿ø´ëÇÑ ²ÞÀ» ½ÇÇöÇÒ ¼ö ÀÖ´Â Àå¼Ò°¡ µÉ °ÍÀÔ´Ï´Ù. ÀÌ °ÔÀÓÀÇ °¡Àå ÁÖµÈ ¿ä¼Ò´Â ¼¼°è ÁöµµÀÌ¸ç, ÀÌ Áöµµ´Â ´ç½ÅÀÌ ¾ÕÀ¸·Î ½Î¿ì°Ô µÉ ¼öÃµ°³ÀÇ Áö¿ªÀ¸·Î ³ª´µ¾îÁ® ÀÖ½À´Ï´Ù. ÀÌ Áö¿ª¿¡´Â °øÀå°ú ¿ä»õ, °øÇ×°ú ·ÎÄÏ±âÁö°¡ ¼û¾î ÀÖ½À´Ï´Ù. ÀÚ, Áöµµ¿¡ ÀÖ´Â º´»çµéÀ» º¸½Ê½Ã¿À. ´ç½ÅÀÌ ¾ÕÀ¸·Î ¹ú¾îÁú ÀüÀï¿¡¼­ ÀÌ º´»çµéÀ» ÁöÈÖÇÏ°Ô µÉ °ÍÀÔ´Ï´Ù. ;;;;;;;;;;X
+TUTORIAL_1_A3_NAME;³¯Â¥/Á¤Áö ¹öÆ° ¹× ¸Þ´º ¹öÆ° ;;;;;;;;;;x
+TUTORIAL_1_A3_DESC;¿©±â¼­ ´ç½ÅÀº ³¯Â¥/Á¤Áö ¹öÆ°À» Ã£À» ¼ö ÀÖ½À´Ï´Ù. ´ç½ÅÀÌ ÀÌ°ÍÀ» »ç¿ëÇØ °ÔÀÓ¼Óµµ¸¦ Á¶ÀýÇÏ´Â °ÍÀ» ÀÍÈ÷´Â °ÍÀº ÇÊ¼öÀÔ´Ï´Ù. °ÔÀÓ³»¿¡¼± ½ÇÁ¦½Ã°£º¸´Ù ÈÎ¾À »¡¶ó¼­, ¿ª»ç»óÀ¸·Î´Â ¸¹Àº ³¯ÀÌ °É·È´ø °áÁ¤µéÀÌ ¼ö½Ê ÃÊ ³»¿¡ ´ç½Å¿¡ ÀÇÇØ¼­ ¸¸µé¾î Á®¾ß ÇÒ °ÍÀÔ´Ï´Ù. °ÔÀÓÀ» ¶§¶§·Î ÀÏ½ÃÁ¤Áö½ÃÅ°°í, ¹öÆ°¿¡ ´ë°í ¸¶¿ì½º¿À¸¥ÂÊ¹öÆ°À» ´­·¯¼­ ½Ã°£¼³Á¤À» ¹Ù²Ù´Â °ÍÀ¸·Î ´ç½ÅÀº »ý°¢°ú ¸í·ÉÀ» ³»¸± ½Ã°£À» °®°Ô µÉ °ÍÀÔ´Ï´Ù. ´ç½ÅÀº ¶ÇÇÑ Å°º¸µåÀÇ <pause> Å°¸¦ ´­·¯¼­ ÀÏ½ÃÁ¤ÁöÇÒÁö ¾ÈÇÒÁö ÇÒ ¼ö ÀÖ°í, Ctrl Å°¿Í ¼ýÀÚÅ°ÆÐµåÂÊÀÇ +/- ¸¦ ´­·¯¼­ ¼Óµµ¸¦ ¹Ù²Ü ¼ö ÀÖ½À´Ï´Ù. ¸Þ´º ¹öÆ°Àº ´ç½ÅÀÌ °ÔÀÓÀ» ÀúÀåÇÏ°í, ¼³Á¤À» ¹Ù²Ù°Å³ª °ÔÀÓÀ» ±×¸¸µÎ±â À§ÇØ »ç¿ëÇÕ´Ï´Ù. ;;;;;;;;;;X
+TUTORIAL_1_A4_NAME;Ãø¸é»óÅÂÃ¢(Sidebar) ;;;;;;;;;;X
+TUTORIAL_1_A4_DESC;ÀÌ°ÍÀº ´ç½ÅÀÇ Áö¿ª°ú À°±ººÎ´ë°¡ ¾îµø´ÂÁö º¸°í °ü¸®ÇÕ´Ï´Ù. ±×¸®°í ÀüÅõ°¡ ÀÏ¾î³ª´Â Àå¼ÒÀÇ ¼¼ºÎ»çÇ×µéÀ» ¾Ë ¼ö ÀÖ½À´Ï´Ù. °Ç¼³·Î Áö¿ªÀ» °³¼±½ÃÅ°°í, ´ç½ÅÀÇ ±º´ë¸¦ Æí¼ºÇÏ°í, À°±ºÀ» »ó·ú¼ö¼ÛÇÔ¿¡ Å¾½Â½ÃÅ°°í, ³«ÇÏ»êºÎ´ë¸¦ ¼ö¼Û±â¿¡ Å¾½Â½ÃÅ°´Â - ±×°ÍµéÀ» ¸ðµÎ Ãø¸é»óÅÂÃ¢(Sidebar)¿¡¼­ ÇÏ°Ô µË´Ï´Ù. ¿©±âÀú±â ÀÚÀ¯·Ó°Ô ´­·¯º¸°í ´À²¸¼¼¿ä. ´ç½ÅÀº, ¿¹¸¦ µé¸é, º£¸¦¸° Áö¿ª°ú º£¸¦¸°¿¡ ÀÖ´Â ±º´ë¿Í ±× ¾È¿¡ »ç´ÜµéÀÇ ¸í·ÉÀ» º¸°í Á¶Á¾ÇÒ ¼ö ÀÖ½À´Ï´Ù. ;;;;;;;;;;X
+TUTORIAL_1_A5_NAME;¸ñ·Ï ¹öÆ° ;;;;;;;;;;X
+TUTORIAL_1_A5_DESC;Ãø¸é»óÅÂÃ¢ À§¿¡ ¹öÆ°µéÀº ´ç½ÅÀÇ Áö¿ª, À°±º, °ø±º, ÇØ±º µî¿¡ °üÇÑ ¸ñ·ÏÀ» º¸¿©ÁÝ´Ï´Ù. ´ç½ÅÀº È°µ¿ÁßÀÎ ¸ðµç ÀüÅõ ¸ñ·Ï°ú ¹èÄ¡µÇÁö ¾ÊÀº »ç´ÜÀÌ ÀÖ´Â º´·Â ´ë±â¼Ò¸¦ º¼ ¼ö ÀÖ½À´Ï´Ù. ¹«¾ùÀ» ´õ º¼ ¼ö ÀÖÀ»Áö ´ç½ÅÀÌ Ã£¾Æº¸¼¼¿ä. ;;;;;;;;;;X
+TUTORIAL_1_A6_NAME;¹Ì´Ï¸Ê ;;;;;;;;;;X
+TUTORIAL_1_A6_DESC;¹Ì´Ï¸ÊÀº ºü¸£°Ô ¼¼°è ¿©±âÀú±âÀ» Ã£½À´Ï´Ù. ¿À¸¥ÂÊ¿¡ ¸ÞÀÎ¸ÊÀ» È®´ë/Ãà¼Ò ÇÏ±â À§ÇÑ ¹öÆ°ÀÌ ÀÖ½À´Ï´Ù. ´ç½ÅÀº ¶ÇÇÑ ¼ýÀÚÅ°ÆÐµåÀÇ + ¿Í - Å°¸¦ ´­·¯¼­ Å°º¸µå·Î È®´ë/Ãà¼Ò ÇÒ ¼ö ÀÖ½À´Ï´Ù. ¾Æ·¡ÀÇ ¹öÆ°À¸·Î´Â Áöµµ¹æ½ÄÀ» ¼±ÅÃÇÒ ¼ö ÀÖ½À´Ï´Ù. Áöµµ¹æ½ÄÀº À§Ä¡ÀûÀ¸·Î¿Í ÃÑÃ¼ÀûÀ¸·Î ¾çÂÊÀ¸·Î ´Ù¸¥ ¸ð½ÀÀ» º¸¿©ÁÝ´Ï´Ù. °è¼ÓÇÏ±â Àü¿¡ ±×°ÍÀ» ÀÚÀ¯·Ó°Ô ÇØº¸°í ´À³¢¼¼¿ä. ¾È°³(fog-of-war)·Î °¡·ÁÁø ¾îµÎ¿î Áö¿ªÀº ÀÌ¿ëÇÒ ¼ö ÀÖ´Â Á¤º¸°¡ Á¦ÇÑµÇ¾î ÀÖ½À´Ï´Ù. ¹Ì´Ï¸Ê¿¡ ´ë°í ¸¶¿ì½º¿À¸¥ÂÊ¹öÆ°À» ´­¸£¸é ¹Ì´Ï¸Ê»ó¿¡ ´ç½ÅÀÇ ¸ðµç À°±ººÎ´ë,°ø±ººÎ´ë,ÇØ±ººÎ´ë¸¦ º¼ ¼ö ÀÖ½À´Ï´Ù. ;;;;;;;;;;X
+TUTORIAL_1_A7_NAME;¿ª»ç±â·Ï ;;;;;;;;;;X
+TUTORIAL_1_A7_DESC;Áß¿äÇÑ ÀÌº¥Æ®´Â °ÔÀÓ±â·Ï¿¡¼­ Á¦Ãâ¹Þ½À´Ï´Ù. ¸Þ½ÃÁö¿¡ ´ë°í ¸¶¿ì½º¿À¸¥ÂÊ¹öÆ°À» ´©¸£¸é ´ç½ÅÀº ´ç½ÅÀÇ ÁÖ¹®¿¡ µû¶ó ¾î¶² À¯ÇüÀÇ Á¤º¸¸¦ Á¦Ãâ¹Þ¾Æ¾ß ÇÏ´ÂÁö ¸¸µé ¼ö ÀÖ½À´Ï´Ù. ¸Þ½ÃÁö ¼³Á¤Àº ¶ÇÇÑ ¸Þ´ºÀÇ È¯°æ¼³Á¤ ¾È¿¡¼­ ÇÒ¼ö ÀÖ½À´Ï´Ù. ½ÇÁ¦·Î °ÔÀÓÀ» ÇÒ ¶§ ´ç½ÅÀº ¾Æ¸¶ °ú´ÙÇÑ Á¤º¸·Î ÀÎÇØ Áß¿äÇÑ Á¤º¸¸¦ ³õÄ¡´Â °ÍÀ» ÇÇÇÏ±â À§ÇØ ¸Þ½ÃÁö ¼³Á¤À» ÇÏ°Ô µÉ °ÍÀÔ´Ï´Ù. ;;;;;;;;;;X
+TUTORIAL_1_A8_NAME;»ó´Ü»óÅÂÃ¢(Topbar) ;;;;;;;;;;X
+TUTORIAL_1_A8_DESC;È­¸éÀÇ ÃÖ»óÀ§¿¡¼­ ´ç½ÅÀº ´ç½ÅÀÇ ÀÚ¿ø£¬ºÒ¸¸µµ, ¼ö¼Û·Â°ú °ø¾÷·Â °°Àº Áß¿äÇÑ °¡Ä¡¸¦ ´ë·« º¼ ¼ö ÀÖ½À´Ï´Ù. ºÒ¸¸µµ´Â ´ç½ÅÀÇ ±¹°¡³»¿¡ ¹Ý¿ªÇÏ·Á´Â °æÇâÀ» ³ªÅ¸³À´Ï´Ù. ¼ö¼Û·ÂÀº ¼¼°è¿¡ ÆÛÁ®ÀÖ´Â ´ç½ÅÀÇ ±º´ë·Î º¸±ÞÇ°À» ³ª¸£´Â ´É·ÂÀÔ´Ï´Ù. °ø¾÷·ÂÀº »ý»ê¿¡ ÀÌ¿ëÇÒ ¼ö ÀÖ´Â °øÀåÀÇ ÀÛ¾÷°ø°£µéÀ» ¹¦»çÇÕ´Ï´Ù. È®ÀåµÈ ¼³¸í°ú Á¤º¸¸¦ ¾Ë±â À§ÇØ ¾ÆÀÌÄÜÀ§¿¡ ¸¶¿ì½ºÆ÷ÀÎÅÍ¸¦ ´ë¾îÁÖ¼¼¿ä. ÀÌÁ¦ºÎÅÍ ±â¼úÈ­¸éÀ» º¸·¯ °©´Ï´Ù. ±â¼ú ÅÇÀ» ´©¸£¼¼¿ä. ;;;;;;;;;;X
+TUTORIAL_1_A9_NAME;±â¼ú È­¸é ;;;;;;;;;;X
+TUTORIAL_1_A9_DESC;ÀÌ°ÍÀº ±â¼ú È­¸éÀÔ´Ï´Ù. ÇöÀç´Â ¿©±â¿¡ ÁøÇàÁßÀÎ°Ç ¾ø½À´Ï´Ù, ±×·¯³ª ÀÌ°ÍÀº ´ç½ÅÀÇ ¿¬±¸ÆÀÀÌ Àûº¸´Ù ¿ìÀ§¸¦ Áö¼ÓÇÏ±â À§ÇØ °æÁÖÇÏ´Â °÷ÀÔ´Ï´Ù. ´ç½ÅÀº »õ·Î¿î ºÎ´ë Á¾·ù, ¶Ñ·ÇÇÑ ¿ì¼¼¿Í Æ¯º°ÇÑ À¯ÇüÀÇ ÀÓ¹«¸¦ ÁÖ´Â ±³¸®¸¦ ¿¬±¸ÇÒ ¼ö ÀÖ½À´Ï´Ù. ´ç½ÅÀº ¶ÇÇÑ ´ç½Å »ê¾÷ÀÇ ¹ÙÄû¸¦ ºü¸£°Ô µ¹¸®´Â ¹Î°£ÀÇ ¹ßÀüÀ» ¿¬±¸ÇÒ ¼ö ÀÖ½À´Ï´Ù. ¿¬±¸¿¡¼­ÀÇ Àü·«°áÁ¤°ú ´ç½ÅÀÇ ½ÇÇàÀº ´ç½ÅÀÌ ¼±ÅÃÇÑ ¾î¶² Àå±â Àü·«À» ¸Å¿ì Àß ¸¸µé°Å³ª ¶Ç´Â ºÎ¼ú ¼ö ÀÖ½À´Ï´Ù. ¹Ýµå½Ã ´ç½ÅÀÇ ¿¬±¸´Â ÃÖ´ë·Î »ç¿ëÇÏ¼¼¿ä. ´ç½ÅÀº ¿¬±¸¿¡ °üÇÑ Æ©Åä¸®¾ó¿¡¼­ ÀÌ È­¸éº¸´Ù ´õ ¹è¿ï ¼ö ÀÖ½À´Ï´Ù. ÀÌÁ¦ºÎÅÍ, »ý»êÈ­¸éÀ» »ìÆìº¸±â À§ÇØ »ý»ê ÅÇÀ» ´©¸£¼¼¿ä. ;;;;;;;;;;X
+TUTORIAL_1_A10_NAME;»ý»ê È­¸é ;;;;;;;;;;X
+TUTORIAL_1_A10_DESC;ÀÌ°ÍÀº »ý»êÈ­¸éÀÔ´Ï´Ù. ¿©±â¼­ ´ç½ÅÀº ¸ðµç ´ç½ÅÀÇ »õ·Î¿î À°±º,°ø±º,ÇØ±º,¿ä»õÈ­¿Í ´õ ¸¹Àº °ÍµéÀ» »ý»êÇÒ ¼ö ÀÖ½À´Ï´Ù. ¶ÇÇÑ ´ç½ÅÀº ÀÌ È­¸é¿¡¼­ ´ç½ÅÀÇ °ø¾÷·ÂÀ» ºÐ¹èÇÏ°í, È£¼Û¼±´ÜÀ» °ü¸®ÇÕ´Ï´Ù. ´ç½ÅÀÇ ±¹°¡Àü·«¸ñÇ¥·Î ºÎ´ë¸¦ »ý»êÇÏ°í »ý°è¸¦ ²Ù·Á°¡´Â °ÍÀº ¾î¶² ÀüÀïÀÌ¶óµµ ÀÌ±â±â À§ÇÑ ¿­¼èÀÔ´Ï´Ù. ´ç½ÅÀº Æ©Åä¸®¾ó »ý»êÃ©ÅÍ¿¡¼­ ÀÌ°Í¿¡ °üÇØ ´õ ¸¹Àº °ÍÀ» ¹è¿ï ¼ö ÀÖ½À´Ï´Ù. ÀÌÁ¦, °è¼ÓÇÏ·Á¸é ¿Ü±³ÅÇÀ» ´©¸£¼¼¿ä. ;;;;;;;;;;X
+TUTORIAL_1_A11_NAME;¿Ü±³ È­¸é ;;;;;;;;;;X
+TUTORIAL_1_A11_DESC;ÀüÀïÀº Á¤Ä¡ÀÇ ¿¬¼ÓÀÌ°í ´ç½ÅÀÌ Á¤Ä¡¸¦ ½ÇÇàÇÏ´Â °÷(º»±¹°ú ¼¼°è¹«´ë ¾çÂÊ)ÀÔ´Ï´Ù. ÀÌ°ÍÀº ´ç½ÅÀÌ °¡ÀÔÇÏ°Å³ª ¸¸µé°Å³ª ±ú´Â µ¿¸Í, ¹«¿ª°Å·¡ Çù»ó°ú ´ç½ÅÀÇ ÀûÀ» ¹«¸­²Ý°Ô °­¿äÇÏ´Â °÷ÀÔ´Ï´Ù. ¼±ÀüÆ÷°í¿Í ÆòÈ­Çù»óµµ ¸ðµÎ ¿©±âÀÔ´Ï´Ù. ´ç½ÅÀº ½ÉÁö¾î ´ç½ÅÀÇ °ü°è¸¦ °³¼±ÇÏ±â À§ÇØ ¼±ÀüÈ°µ¿À» »ç¿ëÇÏ°Å³ª Á¤º¯À» ÀÏÀ¸Å³Áöµµ ¸ð¸¨´Ï´Ù. ´ç½ÅÀº ¶ÇÇÑ ±¹³»Á¤Ä¡¸¦ °ü¸®ÇÒ ¼ö ÀÖ°í£¬´ç½ÅÀÌ ÁÁ¾ÆÇÏ´Â ÂÊÀ¸·Î Á¤ºÎ¸¦ ÁöÁ¤ÇÒ ¼ö ÀÖ½À´Ï´Ù. ¿Ü±³¿¡ °üÇÑ Æ©Åä¸®¾ó Ã©ÅÍ´Â ´õ ¸¹ÀÌ ´ç½ÅÀ» °¡¸£ÃÄÁÙ °ÍÀÔ´Ï´Ù, ±×·¯³ª ´ç½ÅÀº ¾Æ¸¶ ÀÌ°Í¿¡ °üÇÏ¿© ¸Þ´º¾óÀ» Âü°íÇØ¾ß ÇÒ °ÍÀÔ´Ï´Ù. ÀÌÁ¦, Åë°è ÅÇÀ» ´©¸£¼¼¿ä. ;;;;;;;;;;X
+TUTORIAL_1_A12_NAME;Åë°è È­¸é ;;;;;;;;;;X
+TUTORIAL_1_A12_DESC;'Hearts of Iron 2'¾È¿¡¼­ ´ç½ÅÀº °áÄÚ È¥ÀÚ°¡ ¾Æ´Õ´Ï´Ù. ¾ðÁ¦³ª, ´ç½ÅÀÌ ÇÏ´Â °Í°ú °°Àº ÀÏµéÀ» ÇÏ°í ÀÖ´Â °ÅÀÇ 100°³ÀÇ ´Ù¸¥ ±¹°¡µéÀÌ ÀÖ½À´Ï´Ù. ÀÌ°ÍÀº ´ç½ÅÀÌ »çÇ×¿¡ °üÇØ Á¤¸» ¾î·Á¿î »ç½ÇÀ» ÇÊ¿ä·Î ÇÒ¶§, °¡¾ßÇÏ´Â °÷ÀÔ´Ï´Ù. ¸¹Àº Á¤º¸´Â ÃÊº¸¿¡°Ô Á¶±Ý ¾î·Á¿ïÁöµµ ¸ð¸¨´Ï´Ù, ±×·¯³ª ´ç½ÅÀº °ð ÀÌ Á¤º¸¸¦ °£Ã»ÇÒ °ÍÀÌ°í, ´õ ¸¹½À´Ï´Ù! °ÔÀÓÀÇ ÀÌ ¾È³»¿©ÇàÀ» ÇØ°áÇÏ±â À§ÇØ, ¿£ÅÍÅ°¸¦ ´©¸£¼¼¿ä. ;;;;;;;;;;X
+TUTORIAL_1_A13_NAME;³¡¸Î´Â ¸» ;;;;;;;;;;X
+TUTORIAL_1_A13_DESC;ÀÌ°ÍÀº 'Darkest Hour'ÀÇ °£´ÜÇÑ ÇÁ¸®Á¨Å×ÀÌ¼ÇÀ» °á·Ð Áþ½À´Ï´Ù. ´ç½ÅÀº ±âº»ÀûÀÎ È­¸é°ú ÁÖ¿äÇÑ º¸±âµéÀ» ÀÍÇû½À´Ï´Ù. ´ÙÀ½ Ã©ÅÍ¿¡¼­ ¿ì¸®´Â ´ç½Å¿¡°Ô ´Ü°èº° »çÇ×À¸·Î ¼Ò°³ÇÒ °ÍÀÔ´Ï´Ù. ;;;;;;;;;;X
+TUTORIAL_1_A14_NAME;¿Ü±³ ÅÇ ;;;;;;;;;;X
+TUTORIAL_1_A14_DESC;**;;;;;;;;;;X
+TUTORIAL_1_A15_NAME;Åë°è ÅÇ ;;;;;;;;;;X
+TUTORIAL_1_A15_DESC;**;;;;;;;;;;X
+TUTORIAL_1_A16_NAME;Áö¿ª Á¤º¸ ;;;;;;;;;;X
+TUTORIAL_1_A16_DESC;**;;;;;;;;;;X
+TUTORIAL_1_A17_NAME;À°±º Á¤º¸ ;;;;;;;;;;X
+TUTORIAL_1_A17_DESC;**;;;;;;;;;;X
+TUTORIAL_1_A18_NAME;°ø±º Á¤º¸ ;;;;;;;;;;X
+TUTORIAL_1_A18_DESC;**;;;;;;;;;;X
+TUTORIAL_1_A19_NAME;ÇØ±º Á¤º¸ ;;;;;;;;;;X
+TUTORIAL_1_A19_DESC;**;;;;;;;;;;X
+TUTORIAL_1_A20_NAME;ÀüÅõ Á¤º¸ ;;;;;;;;;;X
+TUTORIAL_1_A20_DESC;**;;;;;;;;;;X
+TUTORIAL_1_A21_NAME;º´·Â ´ë±â¼Ò ;;;;;;;;;;x
+TUTORIAL_1_A21_DESC;**;;;;;;;;;;x
+TUTORIAL_1_A22_NAME;Ã©ÅÍ ³¡ ;;;;;;;;;;x
+TUTORIAL_1_A22_DESC;**;;;;;;;;;;x
+TUTORIAL_1_A23_NAME;Æ©Åä¸®¾ó ÀÎÅÍÆäÀÌ½º¿¡ ¿À½Å°ÍÀ» È¯¿µÇÕ´Ï´Ù. ;;;;;;;;;;X
+TUTORIAL_1_A23_DESC; In this chapter we will examine the layout of the game interface and Learn how to manage and operate your troops and units. To quit the tutorial, click the MENU button in the upper-right corner of the screen and choose SURRENDER.;;;;;;;;;;x
+TUTORIAL_1_A24_NAME;ÀÚ¿ø Á¤º¸ ;;;;;;;;;;X
+TUTORIAL_1_A24_DESC;**;;;;;;;;;;X
+TUTORIAL_1_A25_NAME;Ãß°¡ Á¤º¸ ;;;;;;;;;;X
+TUTORIAL_1_A25_DESC;**;;;;;;;;;;X
+TUTORIAL_1_A26_NAME;Áöµµ ;;;;;;;;;;X
+TUTORIAL_1_A26_DESC;**;;;;;;;;;;X
+TUTORIAL_1_A27_NAME;ÁßÁöÇÏ°í£¬ÀÎ-°ÔÀÓ ¸Þ´º¿¡ Á¢±ÙÇÏ´Â °Í ;;;;;;;;;;X
+TUTORIAL_1_A27_DESC;In the upper-right corner of the screen, just below the diplomacy and statistics tabs you’ll find two essential buttons - The Pause button and the Menu button. The pause-button  displays the current date and time. HoI2 is played in highly accelerated real-time and decisions and plans that had to be made within days or even hours in history, will have to be made by you within second unless you Pause the game. Learn to control the pace of the game by pausing and un-pausing frequently. Another thing that you will want to do regularly is to change the time-scale. This is done by right clicking the Pause button and selecting the desired time-scale. You can also pause the game by pressing the “Pause?button on you keyboard. Time-scale can be changed by pressing Ctrl and the + or ?keys on the numeric keypad. The menu button is used to access the in-game menu. The in-game menu lets you save the game and change the setting for sound and gameplay. This is also where you find the option to surrender and quit the game.;;;;;;;;;;X
+TUTORIAL_1_A28_NAME;½Ã°£Á¶Àý ¹öÆ° ;;;;;;;;;;X
+TUTORIAL_1_A28_DESC;**;;;;;;;;;;X
+# Chapter 2 #######################;;;;;;;;;;;X
+TUTORIAL_2_A1_NAME;»ý»ê ;;;;;;;;;;X
+TUTORIAL_2_A1_DESC;Æ©Åä¸®¾ó¿¡ ¿À½Å °ÍÀ» È¯¿µÇÕ´Ï´Ù. ÀÌ ÀåÀº »ý»ê¿¡ °üÇÑ ¸ðµç °ÍÀÔ´Ï´Ù. ¿ì¸®´Â »õ·Î¿î ±º´ë¸¦ ¾ò´Â ¹æ¹ý¿¡ ´ëÇØ ÈÈ¾îº¼ °ÍÀÔ´Ï´Ù. ±×¸®°í ´ç½ÅÀÇ °æÁ¦¿Í º¸±ÞÀ» °ü¸®ÇÕ´Ï´Ù. ¿ì¸®´Â »ý»êÃ¢À» º¸±âÀü¿¡ °ø¾÷·Â¿¡ ´ëÇØ ¾Ë ÇÊ¿ä°¡ ÀÖ½À´Ï´Ù. ´ç½ÅÀº ¾ðÁ¦¶óµµ Å°º¸µå À§¿¡ ESCÅ°¸¦ ´­·¯¼­ ÀÌ Æ©Åä¸®¾ó¿¡¼­ ³ª°¥ ¼ö ÀÖ½À´Ï´Ù. ;;;;;;;;;;X
+TUTORIAL_2_A2a_NAME;°ø¾÷·Â ;;;;;;;;;;x
+TUTORIAL_2_A2a_DESC;±Ùº»ÀûÀ¸·Î ´ç½ÅÀÇ °ø¾÷·Â(IC)´Â ´ç½ÅÀÌ °¡Áö°í ÀÖ´Â Áö¿ª ³» ¸ðµç °øÀåµéÀÇ ÃÑ°è¿¡ ´Ù¸¥ º¸³Ê½º ¹× ÆÐ³ÎÆ¼¸¦ ¼öÁ¤ÇÑ ¼öÄ¡ÀÔ´Ï´Ù. °¢ °øÀåµéÀÌ È¿°úÀûÀÌ±â À§ÇØ¼± ÇÏ·ç¿¡ 2°³ÀÇ ¿¡³ÊÁö, 1°³ÀÇ ±Ý¼Ó, 1/2ÀÇ Èñ¼Ò¹°ÀÚÀÌ ÇÊ¿äÇÕ´Ï´Ù. ( 1IC = 2¿¡³ÊÁö+1±Ý¼Ó+0.5Èñ¼Ò¹°ÀÚ ) ÀÌ ÀÚ¿øµéÀº ´ç½Å Áö¿ª¿¡¼­ ÀÚµ¿À¸·Î »ý»êµÇ°í, ´ç½ÅÀº ´Ù¸¥ ±¹°¡¿¡°Ô ÀÚ¿øÀ» ¼öÀÔÇÒ ¼ö ÀÖ½À´Ï´Ù. Áö±Ý Áö¿ªÀ» º¸¼¼¿ä. È²»öÀÇ È­»ìÇ¥°¡ °¡¸®Å°´Â stettin Áö¿ªÀ» ´©¸£¼¼¿ä. ;;;;;;;;;;x
+TUTORIAL_2_A2_NAME;;;;;;;;;;;x
+TUTORIAL_2_A2_DESC;Áö±Ý ÇÏ¾á °øÀå ¾ÆÀÌÄÜÀ» º¸¼¼¿ä. ±×°ÍÀÇ ´ÙÀ½ °¡Ä¡´Â °øÀåµéÀÇ ÃÑ°è¸¦ Ç¥ÇöÇÕ´Ï´Ù. ±×°Í ¹Ø¿¡¼­ ´ç½ÅÀº 1¿­ÀÇ ÀÚ¿ø ¾ÆÀÌÄÜµé(±Ý¼Ó, ¿¡³ÊÁö, ¼®À¯¿Í Èñ¼Ò¹°ÀÚ)À» º¼ ¼ö ÀÖ½À´Ï´Ù. ±×°ÍµéÀº ÀÌ Áö¿ª¿¡¼­ °¢ ÀÚ¿øµéÀÌ ¸ÅÀÏ ¾î¶»°Ô »ý»êµÇ´À³Ä¸¦ °¡¸£Åµ´Ï´Ù. ÀÎ·Â ¾ÆÀÌÄÜÀº Áö¿ª¿¡¼­ ¾ó¸¶³ª ¸¹Àº ÀÎ·ÂµéÀÌ À¯·¡ÇÏ´À³Ä¸¦ °¡¸£Åµ´Ï´Ù. ´ç½ÅÀÇ ±º´ë¸¦ »ý»êÇÏ°í, Áõ¿øÇÏ±â À§ÇØ ÀÎ·ÂÀÌ ÇÊ¿äÇÕ´Ï´Ù. °øÀåÀÌ³ª »ê¾÷±â¹Ý, ¿ä»õÈ­µéÀ» °Ç¼³ÇÏ·Á°í ÁÖ¹®ÇÏ·Á¸é ´ÜÁö Àû´çÇÑ ¾ÆÀÌÄÜÀ» ´©¸£¼¼¿ä. Áö±Ý ±×·¸°Ô ÇØ ÁÖ¼¼¿ä(Áö±Ý °øÀå°Ç¼³À» ÇØº¸¶ó´Â ¶æ). ´ç½ÅÀÇ °øÀåÀÌ »ý»ê ÁÙ ¾È¿¡ Áö±Ý ÀÖ½À´Ï´Ù. ±×°ÍÀº Á¶±Ý ³ªÁß¿¡ ¼³¸íµÉ °ÍÀÔ´Ï´Ù. ;;;;;;;;;;x
+TUTORIAL_2_A3_NAME;;;;;;;;;;;x
+TUTORIAL_2_A3_DESC;È­¸é »ó´Ü¿¡¼­ ´ç½ÅÀº ¼öµµ¿¡ ºñÃàµÈ ÀÚ¿øÀÇ ÃÑ°è¸¦ ¾Ë ¼ö ÀÖ½À´Ï´Ù. ÀÚ¿ø ¾ÆÀÌÄÜ ´ÙÀ½ÀÇ »¡°£ °¡Ä¡´Â ¼Òºñº¸´Ù »ý»êÀÌ ³·¾Æ ºñÃà·®ÀÌ ÁÙ°í ÀÖ´Â °ÍÀ» °¡¸®Åµ´Ï´Ù. ³ì»öÀÇ °¡Ä¡´Â ¼ºÀåÀ» °¡¸®Åµ´Ï´Ù. ¿À¸¥ÂÊ »ó´Ü ±¸¼®Àº ´ç½ÅÀÇ ÃÑIC(³¶ºñµÇ´ÂIC/°¡¿ëIC/±âº»IC)ÀÌ°í, »ý»ê¿¡ ÀÇÇØ °í°¥µÇÁö ¾Ê½À´Ï´Ù. ±×°ÍÀº ¿ë·®À» Ç¥ÇöÇÏ´Â °ÍÀÌ±â ¶§¹®¿¡, ±×°ÍÀº »ç¿ëµÉ »ÓÀÌ°Å³ª, ³î°í ÀÖÀ» »ÓÀÔ´Ï´Ù. ÀÚ¿øÀº ºñÃàµÉ ¼ö ÀÖ°í, °í°¥µÉ ¼ö ÀÖ½À´Ï´Ù. »ý»ê ºñ¿ëµéÀº Ç×»ó »ý»ê ³¯¿¡ ´ëÇÏ¿© ÇÊ¿ä·Î ÇÏ°Ô µÇ´Â IC¿¡¼­ ÁàÁý´Ï´Ù. ¸»ÇÑ °ÍÃ³·³, ¸ðµç °øÀåÀº 1°³ÀÇ ±âº»IC¸¦ »ý»ê¿¡ »ç¿ëÇÏ±â À§ÇØ ÇÏ·ç¿¡ 2°³ÀÇ ¿¡³ÊÁö, 1°³ÀÇ ±Ý¼Ó°ú 1/2 Èñ¼Ò¹°ÀÚµéÀ» ÇÊ¿ä·Î ÇÕ´Ï´Ù. Áö±Ý »ý»êÈ­¸éÀ¸·Î µé¾î°¡±â À§ÇØ »ý»ê ÅÇÀ» ´­·¯ÁÖ¼¼¿ä. ;;;;;;;;;;x
+TUTORIAL_2_A4_NAME;»ý»êÈ­¸é °³¿ä ;;;;;;;;;;x
+TUTORIAL_2_A4_DESC;ÀÌ°ÍÀº »ý»ê È­¸éÀÔ´Ï´Ù. ¿©±â¿¡¼­ ´ç½ÅÀº ´ç½ÅÀÇ °ø¾÷·ÂÀ» ¹èºÐÇÏ°í, »ý»ê ÁÖ¹®ÇÑ ¹°°ÇµéÀ» ³»°í, ´ç½ÅÀÇ È£¼Û¼±´ÜµéÀ» °ü¸®ÇÕ´Ï´Ù. ¿ÞÂÊ¿¡ Å« Áö¿ªÀº ´ç½ÅÀÇ »ý»ê°ø°£ÀÔ´Ï´Ù. ¿À¸¥ÂÊ »ó´ÜÀº ´ç½ÅÀÌ ´ç½ÅÀÇ ÀÚ¿øÀ» ³»·Á´Ù º¸°í, ´ç½ÅÀÇ °ø¾÷·ÂÀ» ¹èºÐÇÏ´Â °÷ÀÔ´Ï´Ù. ±× ¹Ø¿¡´Â ¹«¿ª, È£¼Û¼±´Üµé°ú ÀÚ¿ø ÀúÀå¼ÒµéÀÇ °³¿ä°¡ ÀÖ½À´Ï´Ù. ÀÌ °÷µéÀ» °¢°¢ ÈÈ¾îº¸¼¼¿ä. ;;;;;;;;;;x
+TUTORIAL_2_A5_NAME;ÀÚ¿ø °³¿ä ;;;;;;;;;;x
+TUTORIAL_2_A5_DESC;¿©±â¿¡¼­ ´ç½ÅÀº ¼öµµ¿¡ ºñÃàµÈ ÀÚ¿ø°ú ¸ÅÀÏ ¼ºÀåµÇ´Â ·®À» º¾´Ï´Ù. ¿¡³ÊÁö, ±Ý¼Ó°ú Èñ¼Ò¹°ÀÚµéÀº ´ç½ÅÀÇ °øÀå¿¡¼­ »ý»êÇÒ¶§ ¼ÒºñÇÏ°Ô µË´Ï´Ù. ¼®À¯¿Í º¸±ÞÇ°Àº ¾ßÀüÀÇ ºÎ´ë¿¡¼­ »ç¿ëµË´Ï´Ù. µ·Àº ±â¼ú°³¹ß°ú ¿Ü±³È°µ¿¿¡ ÇÊ¿äÇÕ´Ï´Ù. ÀÎ·ÂÀº ±º´ë¸¦ »ý»êÇÏ°í, Áõ¿øÇÏ±â À§ÇØ ÇÊ¿äÇÕ´Ï´Ù. ;;;;;;;;;;x
+TUTORIAL_2_A6_NAME;°ø¾÷·Â ÇÒ´ç ½½¶óÀÌ´õ (IC Allocation Sliders) ;;;;;;;;;;x
+TUTORIAL_2_A6_DESC;ÀÌ ½½¶óÀÌ´õ´Â ´ç½ÅÀÇ IC¸¦ ¹èºÐÇÏ°í °ü¸®ÇÕ´Ï´Ù. IC¸¦ ´ç½Å ÀÎ±¸ÀÇ ÇÊ¿ä¼ºÀ» ÃæÁ·ÇÏ±â À§ÇØ ¼ÒºñÀçÀÇ »ý»ê¿¡ ÇÒ´çÇØÁÖ¼¼¿ä. ³²´Â °ÍÀº µ·À» ¸¸µé°í, ´ç½Å Áö¿ªÀÇ ºÒ¸¸µµ¸¦ ³·Ãä´Ï´Ù. »ý»ê ½½¶óÀÌ´õ´Â »õ·Î¿î ºÎ´ë¸¦ »ý»êÇÏ°í ¿¹¾àÇÏ±â À§ÇØ ICÀÇ ÃÑ°è¸¦ Á¦¾îÇÕ´Ï´Ù. º¸±ÞÇ°Àº ´ç½ÅÀÇ ±º´ë¿¡ ÇÊ¿äÇÕ´Ï´Ù. IC¸¦ Áõ¿ø¿¡ ÇÒ´çÇÏ¸é ÀüÅõ¿¡¼­ Èñ»ýµÈ ºÎ´ë¸¦ ¿ø·¡ º´·ÂÀ¸·Î µÇµ¹¸± ¼ö ÀÖ½À´Ï´Ù. °³¼±µÈ ºÎ´ëÁ¾·ù¸¦ ¸¸µé¾î ÀÌ¿ëÇÒ ¼ö ÀÖÀ»¶§ ´ç½ÅÀÌ ¾÷±×·¹ÀÌµå¿¡ IC¸¦ ÇÒ´çÇÏ¸é, ÇöÀçÀ¯´Ö¿¡¼­ ¾÷±×·¹ÀÌµå ÇÕ´Ï´Ù. ½½¶óÀÌ´õ¸¦ ²ø¾îº¸½Ã¸é ICÀÇ ÃÑ·®ÀÌ Ç×»ó ÀüÃ¼IC³»¿¡¼­ ¼öÁ¤µÇ´Â °ÍÀ» ¾Ë ¼ö ÀÖ½À´Ï´Ù. ;;;;;;;;;;x
+TUTORIAL_2_A7_NAME;»ý»ê °ø°£ ;;;;;;;;;;x
+TUTORIAL_2_A7_DESC;¿©±â¿¡¼­ ´ç½ÅÀº »ý»ê°ø°£À» º¸¼¼¿ä. ´ç½ÅÀÌ °è¼ÓÀûÀÎ »ý»êÀ» °¡Áú ¶§, ÀÌ °ø°£Àº ´ç½ÅÀÇ »ý»ê ÁÙ¿¡ ÀÇÇØ Ã¤¿ì°Ô µË´Ï´Ù. ¸¸ÀÏ ´ç½ÅÀÌ Áö¿ª¿¡¼­ °Ç¼³¸í·ÉÀ» ³»¸®¸é, ´ç½ÅÀº ¿©±â¿¡¼­µµ ¹ß°ßÇØ ³¾°ÍÀÔ´Ï´Ù. À§ÀÇ ÆÄÆ®µéÀº »õ·Î¿î ºÎ´ë¸¦ »ý»êÇÏ±â À§ÇØ ÀÌ¿ëÇÒ ¼ö ÀÖ´Â ¿É¼ÇµéÀ» ÁõÁ¤ÇÕ´Ï´Ù. Áö±Ý, ±âº»ÀûÀÎ Áö»óºÎ´ë¸¦ »ý»êÇÏ±â À§ÇØ 'À°±º' À» ´­·¯ÁÖ¼¼¿ä. ;;;;;;;;;;x
+TUTORIAL_2_A8_NAME;»ý»ê ÁÖ¹® ;;;;;;;;;;x
+TUTORIAL_2_A8_DESC;¿©±â¿¡¼­ ´ç½ÅÀº »ç´Ü Á¾·ù¸¦ ¼±ÅÃÇØ ¸¸µé ¼ö ÀÖ½À´Ï´Ù. ¿À¸¥ÂÊÀº ºÎ´ëÀÇ Áß¿äÇÑ ÀÚ·á¸¦ Á¦ÃâÇÕ´Ï´Ù. °ýÈ£³» »ý·«ÇüÀº ºÎ´ëÁ¾·ù ÀÌ¸§À» °¡¸®Åµ´Ï´Ù. ±×¸²°ú ¾Æ·¡ ¾ÆÀÌÄÜµµ ºÎ´ëÁ¾·ù¸¦ ³ªÅ¸³À´Ï´Ù. °°Àº Á¾·ùÀÇ ¿©·¯ ºÎ´ë¸¦ ¸¸µé±â À§ÇØ ¿¬¼Ó»ý»ê°ú µû·Î»ý»êÀÌ ÀÖ½À´Ï´Ù.  ¿¬¼Ó»ý»êÀº µû·Î»ý»êº¸´Ù ´õ ¸¹Àº IC¸¦ Â÷ÁöÇÏÁö ¾ÊÀ¸³ª, ¿¬¼ÓÇÏ¿© ¿Ï·áÇÒ¶§±îÁö »ý»êÀ» °è¼ÓÇÕ´Ï´Ù. ¸¸ÀÏ Áß´ÜÇÏÁö ¾Ê°í ¸¸µé¸é, »ý»êÀ» ´õ¿í´õ »¡¸®ÇÕ´Ï´Ù. µû·Î »ý»êÀº ¿©·¯ºÎ´ë¸¦ µ¿½Ã¿¡ ¸¸µì´Ï´Ù. Áö±Ý »ý»êÀ» ÁØºñÇÏ°í, '»ý»ê½ÃÀÛ'À» ´©¸¨´Ï´Ù. ;;;;;;;;;;x
+TUTORIAL_2_A9_NAME;»ý»ê ´ë±â¿­ ;;;;;;;;;;x
+TUTORIAL_2_A9_DESC;´ç½ÅÀÌ »ý»ê ÁÖ¹®ÇÑ ¹°°ÇÀº Áö±Ý »ý»êÁÙ¿¡ ³õ¿´½À´Ï´Ù. ÁÙÀÇ ÁÖ¹®ÇÑ ¹°°ÇÀº IC¿Í ÀÚ¿øÀ» ¹Þ±âÀ§ÇØ ¿ì¼±µµ¸¦ Ç¥ÇöÇÕ´Ï´Ù. ¿ì¼±µµ ¼øÀ§¿¡ ÀÇÇØ À§¿Í ¾Æ·¡·Î ¿òÁ÷ÀÌ·Á¸é È­»ì ´ÜÃßµéÀ» »ç¿ëÇÕ´Ï´Ù. ÁÖ¹®À» Ãë¼ÒÇÏ·Á¸é X´ÜÃß¸¦ »ç¿ëÇÏ¼¼¿ä. ÆÇÀÇ »öÀº »ý»ê »óÅÂ¸¦ °¡¸®Åµ´Ï´Ù. ³ì»öÆÇÀº IC¿Í ÀÚ¿øÀÌ ÇÒ´çµÇ°í ÀÖ´Â °ÍÀ» ÀÇ¹ÌÇÕ´Ï´Ù. È²»öÆÇÀº ÀÚ¿øÀÇ ºÎÁ·À» °¡¸®Åµ´Ï´Ù. »¡°£ÆÇÀº IC¿Í ÀÚ¿øÀÇ ºÎÁ·¶§¹®¿¡ ¿ÏÀüÇÑ Á¤Áö¸¦ °¡¸®Åµ´Ï´Ù. ¸¸ÀÏ ´ç½ÅÀÌ ÃæºÐÇÑ ÀÚ¿øÀ» °¡Áö¸é, ´ç½ÅÀº µû·Î »ý»êÇÏ´Â ÃÑ°è¸¦ ´Ã¸®±â À§ÇØ Ç×»ó ´õ ¸¹Àº IC¸¦ »ý»ê¿¡ ÇÒ´çÇÒ ¼ö ÀÖ½À´Ï´Ù. ;;;;;;;;;;x
+TUTORIAL_2_A10_NAME;¹«¿ª °Å·¡ ;;;;;;;;;;x
+TUTORIAL_2_A10_DESC;¿©±â¿¡¼­ ´ç½ÅÀº ¸ðµç ¹«¿ª °Å·¡ È°µ¿À» º¼ ¼ö ÀÖ½À´Ï´Ù. ¹«¿ª °Å·¡µéÀº ±Ùº»ÀûÀ¸·Î ´ç½ÅÀÇ ÀÚ¿ø ¹ë·±½º¸¦ À¯ÁöÇÏ±â À§ÇØ ´Ù¸¥ ±¹°¡¿Í ÀÚ¿øµéÀ» ¼­·Î °øÆòÇÏ°Ô ±³È¯ÇÏ´Â °ÍÀÔ´Ï´Ù. ¹«¿ª°Å·¡´Â ÀÌ ¸ñ·ÏÀ» ¸¶¿ì½º ¿À¸¥ÂÊ ´ÜÃß¸¦ ´©¸£´Â °Í¿¡ ÀÇÇØ ¿Ü±³ÀûÈ°µ¿À» ÅëÇÏ¿© °Å·¡ÇÏ°Å³ª Ãë¼ÒÇÒ ¼ö ÀÖ½À´Ï´Ù. ´ç½ÅÀº Æ©Åä¸®¾ó ¿Ü±³Ã©ÅÍ¿¡¼­ ¹«¿ª¿¡ °üÇÏ¿© ´õ ¹è¿ï ¼ö ÀÖ½À´Ï´Ù. ;;;;;;;;;;x
+TUTORIAL_2_A11_NAME;È£¼Û¼±´Ü ¹× ÀÚ¿øÀúÀå¼Ò ;;;;;;;;;;x
+TUTORIAL_2_A11_DESC;ÀÚ¿øÀº ÀúÀå¼Ò¿¡ º¸°üµË´Ï´Ù. ´ç½Å ±¹°¡ÀÇ °í¸³µÈ ÀÏºÎ¿¡ ÀÚ¿øÀúÀå¼Ò´Â ÀÚµ¿ÀûÀ¸·Î ¸¸µé¾îÁý´Ï´Ù. ´ç½ÅÀº Ç×»ó ´ç½ÅÀÇ ¼öµµ¿¡¼­ ÀÚ¿øÀúÀå¼Ò¸¦ °¡Áý´Ï´Ù. ±×¸®°í ±×°ÍÀº ´ç½ÅÀÇ ÁÖµÈ ºñÃàÀÌ ÀÖ´Â °÷ÀÔ´Ï´Ù. ´ç½ÅÀÇ ¼öµµ¿¡¼­ ¸Õ ¿Ü±¹ÀÇ ÀúÀå¼Ò±îÁö ÀÚ¿øÀ» ¾ò±â À§ÇØ, ´ç½ÅÀº È£¼Û¼±´ÜµéÀ» ÇÊ¿ä·Î ÇÕ´Ï´Ù. ´ç½ÅÀº ¶ÇÇÑ ±×°ÍÀÌ ´ç½ÅÀÇ À°±º,°ø±º,ÇØ±º¿¡°Ô º¸±ÞÀ» Á¦°øÇÏ´Â ÀúÀå¼Ò·Î¼­ ÇÊ¿äÇÕ´Ï´Ù. È£¼Û¼±´ÜµéÀº È­¹°¼ö¼Û¼±°ú È£À§ÇÔÀ¸·Î ÀÌ·ç¾îÁö°í, ÁöµµÀ§¿¡¼­´Â º¸ÀÌÁö ¾Ê½À´Ï´Ù. ±×µéÀº Àû ±ºÇÔ¿¡ ÀÇÇØ ÆÄ±«µÇ°í, Â÷´ÜµÉ ¼ö ÀÖ½À´Ï´Ù. È£¼Û¼±´ÜµéÀº ±âº»ÀûÀ¸·Î ¸¸µé¾îÁö°í ÀÚµ¿ÀûÀ¸·Î À¯ÁöµË´Ï´Ù. ±×·¯³ª, ¼öµ¿À¸·Î ±×µéÀ» °ü¸®ÇÏ´Â °Íµµ °¡´ÉÇÕ´Ï´Ù. ;;;;;;;;;;x
+TUTORIAL_2_A12_NAME;º´·Â ´ë±â¼Ò(Force Pool) ;;;;;;;;;;x
+TUTORIAL_2_A12_DESC;¿Ï·áµÈ ºÎ´ë´Â »ý»êÁÙ¿¡¼­ »èÁ¦ÇÏ°í, ´ç½ÅÀÇ º´·Â ´ë±â¼Ò(Force Pool)¿¡ ³õ½À´Ï´Ù. º´·Â ´ë±â¼Ò´Â Áöµµ º¸±âÀÇ Ãø¸éÃ¢¿¡¼­ Á¢±ÙÇÏ°Ô µË´Ï´Ù. °Å±â¿¡¼­ ´ç½ÅÀÇ ºÎ´ëÀ» Áö¿ª¿¡ ¹èÄ¡ÇÏ°Å³ª, ºÎ¼Ó¿©´ÜÀ» ºÎ´ë¿¡ ¹è¼ÓÇÏµµ·Ï ÇÒ ¼ö ÀÖ½À´Ï´Ù. Áö¿ªº¸±â¿¡¼­ÀÇ °³¼±¸í·ÉÀº(°øÀå, ´ë°øÆ÷ ¹× ¿ä»õÈ­) ÀÚµ¿À¸·Î Áö¿ª¿¡ ¹èÄ¡µË´Ï´Ù.  ;;;;;;;;;;x
+TUTORIAL_2_A13_NAME;;;;;;;;;;;x
+TUTORIAL_2_A13_DESC;;;;;;;;;;;x
+TUTORIAL_2_A14_NAME;;;;;;;;;;;x
+TUTORIAL_2_A14_DESC;;;;;;;;;;;x
+TUTORIAL_2_A15_NAME;³¡¸Î´Â ¸» ;;;;;;;;;;x
+TUTORIAL_2_A15_DESC;»ý»ê¿¡ ´ëÇÑ Æ©Åä¸®¾óÀ» °á·ÐÁþ½À´Ï´Ù. ´ç½ÅÀº Áö±Ý °ø¾÷·Â°ú ÀÚ¿øÀÌ ÀÛ¿ëÇÏ´Â ¹æ¹ý°ú ´ç½ÅÀÇ °æÁ¦¸¦ À§ÇØ ±×µéÀÇ º»ÁúÀûÀÎ Áß¿ä¼ºÀ» ÀÌÇØÇß½À´Ï´Ù. ´ç½ÅÀº ¶ÇÇÑ IC¸¦ ÇÒ´çÇÏ°í ±º´ë¸¦ »ý»êÇÏ°í, Áö¿ªÀ» Àß °³¼±ÇÒ ¼ö ÀÖ°Ô µÇ¾ú½À´Ï´Ù. ;;;;;;;;;;x
+# Chapter 3 #######################;;;;;;;;;;;x
+TUTORIAL_3_A1_NAME;¿Ü±³ ;;;;;;;;;;x
+TUTORIAL_3_A1_DESC;¿Ü±³¿¡ °üÇÑ Æ©Åä¸®¾ó¿¡ ¾î¼­ ¿À½Ê½Ã¿À. ÀÌ Àå¿¡¼­ ¿ì¸®´Â ¿Ü±³È­¸éÀ» ÈÈ¾î º¼ °ÍÀÌ°í, ¿Ü±¹°ú ±¹³»ÀÇ ÀÏµéÀ» Ãë±ÞÇÏ´Â ¹æ¹ýÀ» ¹è¿ï °ÍÀÔ´Ï´Ù. Áö±Ý, ÀÌ Ã¢À» ´Ý°í, ¿Ü±³ ÅÇÀ» ´©¸£¼¼¿ä. ´ç½ÅÀº ¾ðÁ¦¶óµµ Å°º¸µåÀÇ ESC Å°¸¦ ´­·¯¼­ Æ©Åä¸®¾ó¿¡¼­ ³ª°¥ ¼ö ÀÖ½À´Ï´Ù. ;;;;;;;;;;x
+TUTORIAL_3_A2_NAME;°³¿ä ;;;;;;;;;;x
+TUTORIAL_3_A2_DESC;ÀÌ°ÍÀº ¿Ü±³È­¸éÀÔ´Ï´Ù. ¿©±â¼­ ´ç½ÅÀº ´ç½ÅÀÇ ´ëºÎºÐÀÇ Áß¿äÇÑ Àå±âÀûÀÎ °áÁ¤µé°ú ´ç½ÅÀÇ ´ëºÎºÐÀÇ Áß´ëÇÑ ´Ü±â °áÁ¤µéÀ» ÇÒ °ÍÀÔ´Ï´Ù. ´ç½ÅÀÌ ÀüÀïÀ» ¼±¾ðÇÏ°í, ÆòÈ­¿¡ °üÇÏ¿© ±³¼·ÇÏ°í, ¹«¿ª °Å·¡µéÀ» °á·Ð Áþ´Â °ÍÀº ¿©±â¿¡ ÀÖ½À´Ï´Ù. ÀÌ°ÍÀº ¶ÇÇÑ ´ç½ÅÀÌ ±¹¹ÎµéÀÇ Á¤Ä¡Àû ¹ßÀü¿¡ Å°¸¦ Àâ°í, ´ç½ÅÀÇ Á¤ºÎ¸¦ °ü¸®ÇÏ´Â Àå¼ÒÀÔ´Ï´Ù. ±¹°¡ °Ë»öÃ¢ÀÌ ¿ÞÂÊ¿¡ ÀÖ°í, ±¹°¡ Á¤º¸°¡ ¿À¸¥ÂÊ¿¡ ÀÖ½À´Ï´Ù. ±¹°¡ Á¤º¸¿¡¼­ À§ÂÊÀº ¿Ü±³ÀÌ°í, ¾Æ·¡ÂÊÀº Á¤ºÎ¿Í ±¹³»Á¤Ã¥ÀÔ´Ï´Ù. ;;;;;;;;;;x
+TUTORIAL_3_A3_NAME;±¹°¡ °Ë»öÃ¢(The nation browser) ;;;;;;;;;;x
+TUTORIAL_3_A3_DESC;±¹°¡ °Ë»öÃ¢¿¡¼­ 'ÀüÃ¼'¸ñ·ÏÀº °ÔÀÓ ³»ÀÇ ¸ðµç ±¹°¡¸¦ ³ªÅ¸³»°í, ¿©±â¿¡¼­ ´ç½ÅÀº ¾î¶² ±¹°¡¸¦ ¼±ÅÃÇÕ´Ï´Ù. »ó´Ü¿¡´Â ´ç½Å ÀÚ½Å ±¹°¡ÀÇ ±ê¹ßÀ» °¡Áý´Ï´Ù. ÃßÃà±¹,¿¬ÇÕ±¹,ÄÚ¹ÎÅ×¸¥ °°Àº µ¿¸Í´ÜÃ¼µéÀÌ³ª ´ë·úº°·Î ±¹°¡´ÜÃ¼ ÅÇÀÌ ÀÖ½À´Ï´Ù. ±¹°¡¸¦ ¼±ÅÃÇÏ·Á¸é, ´ÜÁö ¸ñ·Ï¿¡¼­ ±ê¹ßÀ» ´©¸£¼¼¿ä. ´ç½ÅÀº ¶ÇÇÑ Áö¿ªº¸±â¿¡¼­ ±ê¹ßÀ» ´­·¯¼­µµ º¼ ¼ö ÀÖ½À´Ï´Ù. Áö±Ý, ´ç½Å ÀÚ½ÅÀÇ ±¹°¡¸¦ ¼±ÅÃÇÏ±â À§ÇØ »ó´ÜÀÇ Å« ±ê¹ßÀ» ´©¸£¼¼¿ä. ;;;;;;;;;;x
+TUTORIAL_3_A4_NAME;±¹°¡ Á¤º¸ ;;;;;;;;;;x
+TUTORIAL_3_A4_DESC;ÀÌ °ø°£Àº ¼±ÅÃµÈ ±¹°¡ÀÇ ¿Ü±³Àû »óÅÂ¸¦ ³ªÅ¸³À´Ï´Ù. Ã³À½Àº Á¤ºÎÀÇ Á¾·ùÀÔ´Ï´Ù(ÀÌ °æ¿ì, ±¹°¡ »çÈ¸ÁÖÀÇ). °¢ Á¾·ùÀÇ Á¤ºÎ´Â ÀÚ½ÅÀÇ ÀÌÁ¡°ú ºÒ¸®ÇÑ Á¡À» °¡Áý´Ï´Ù. ¾î¶² Àå±âÀûÀÎ Àü·«À» ÇÏ±â Àü¿¡, ´ç½Å Á¤ºÎÀÇ Á¾·ù¿Í ÀüÁ¦Á¶°Çµé¿¡ ´ëÇØ ¾Ë±â À§ÇØ ¸Å´º¾óÀ» Âü°íÇØÁÖ¼¼¿ä. È£Àüµµ´Â ±¹°¡ÀÇ ¿Ü°ß»ó Ä§·«¼ºÀ» Ç¥ÇöÇÏ´Â °ªÀÔ´Ï´Ù. ³ôÀº °ªÀº ±× ±¹°¡¿¡ ¼±ÀüÆ÷°íÇÏ±â ½±½À´Ï´Ù. ¿Ü±³Àû Çàµ¿µéÀº ¿À¸¥ÂÊ¿¡ ÀÖ½À´Ï´Ù. ´ç½Å ÀÚ½ÅÀÇ ±¹°¡¿¡´Â ±×¿¡ ´ëÇÑ ¸¹Àº Çàµ¿µéÀÌ ¾ø±â ¶§¹®¿¡, ¿ì¸®´Â ´ÜÁö ÀÌ ÀåÀÇ ±× ÀÌÈÄ¸¦ À§ÇØ ¼³¸íÀ» ±×¸¸µÑ °ÍÀÔ´Ï´Ù. ;;;;;;;;;;x
+TUTORIAL_3_A5_NAME;±¹°¡ Á¤º¸ - ¿Ü±³ È°µ¿ ;;;;;;;;;;x
+TUTORIAL_3_A5_DESC;±¹°¡ ¹ØÀÇ Á¤º¸´Â ±¹°¡ÀÇ ¸ðµç ¿Ü±³È°µ¿ÀÇ ±âÀç»çÇ×ÀÔ´Ï´Ù. ÀÌ °æ¿ì ÇÉ¶õµå¿Í ÇÔ²² ¼Ò·Ã¿¡ ¹ÝÇÏ´Â ÀüÀï»óÅÂ¿¡ ÀÖ´Â µ¶ÀÏÀ» ³ªÅ¸³À´Ï´Ù. ´Ù¸¥ ÇÑ ±¹°¡¿Í ¾î¶² ÁÖ¿äÇÑ ¿Ü±³È°µ¿¿¡ Á¾»çÇÏ±â Àü¿¡  ´ç½ÅÀÌ ÇÏ´Â ¹«¾ùÀÌ ±× ±¹°¡ÀÇ µ¿¸Í±¹µéÀÌ³ª Àûµé¿¡°Ôµµ ¿µÇâÀ» ³¢Ä¡´ÂÁö, ¾Æ´Ï¸é ´ç½Å°úÀÇ °ü°è¿¡¸¸ ¿µÇâÀ» ³¢Ä¡´ÂÁö ±× »óÅÂ¿Í È°µ¿À» Á¡°ËÇÏ¿© È®ÀÎÇØÁÖ¼¼¿ä. ;;;;;;;;;;x
+TUTORIAL_3_A6_NAME;Á¤ºÎ ;;;;;;;;;;x
+TUTORIAL_3_A6_DESC;ÀÌ°ÍÀº ´ç½ÅÀÇ ±¸¼ºµÈ Á¤ºÎÀÔ´Ï´Ù. °¢ Àå°üÀº ±×ÀÇ Ã¥ÀÓ¿µ¿ª¿¡ º¸³Ê½º³ª ÆÐ³ÎÆ¼¸¦ ÁÝ´Ï´Ù. ±×µéÀÌ ¾î¶»°Ô ´ç½ÅÀÇ ±¹°¡¿¡ ¿µÇâÀ» ³¢Ä¡´ÂÁö º¸±âÀ§ÇØ ÃÊ»ó À§¿¡ ¸¶¿ì½º Æ÷ÀÎÅÍ¸¦ ´ë¼¼¿ä. Àå°üÀ» ¹Ù²Ù±â À§ÇØ¼±, ´ÜÁö ±×°ÍÀ» ´©¸£¼¼¿ä, ±×¸®°í ÀÌ¿ë °¡´ÉÇÑ ±³È¯µé Áß 1°³¸¦ ¼±ÅÃÇØÁÖ¼¼¿ä. ¹à¾ÆÁö´Â ÃÊ»óÀ» °¡Áø Àå°üµé¸¸ ¹Ù²Ü ¼ö ÀÖ´Â Á¡À» ÁÖÀÇÇØÁÖ¼¼¿ä. ±³È¯ÇØ ÀÌ¿ë °¡´ÉÇÑ °ÍÀº ±¹°¡ÀÇ Á¤Ã¥µé¿¡ ÀÇÇØ °áÁ¤µÇ°í, °ÔÀÓ µ¿¾È¿¡ ¹Ù²ðÁöµµ ¸ð¸¨´Ï´Ù. °è¼ÓÇÏ±â Àü¿¡ 2°³ÀÇ Àå°üµéÀ» ¹Ù²ãº¸¼¼¿ä. ;;;;;;;;;;x
+TUTORIAL_3_A7_NAME;¿Ü±³ Á¤Ã¥ ;;;;;;;;;;x
+TUTORIAL_3_A7_DESC;ÀÌ ½½¶óÀÌ´õ´Â ±¹³» Á¤Ã¥µéÀ» Á¦¾îÇÕ´Ï´Ù. ½½¶óÀÌ´õ À§¿¡ ¸¶¿ì½º Æ÷ÀÎÅÍ¸¦ °¡Á®´Ù ´ë¾î Á¤Ã¥µéÀÌ ¾î¶² È¿°úµéÀ» °¡Áö´ÂÁö º¾´Ï´Ù. º¸³Ê½º¿Í ÆÐ³ÎÆ¼µé ¿Ü¿¡, Á¤Ã¥µéÀº Á¤ºÎÀÇ Á¾·ù¸¦ °áÁ¤ÇÏ°í, Àå°üµéÀ» ÀÌ¿ëÇÒ ¼ö ÀÖ°Ô ÇÕ´Ï´Ù. ´ç½ÅÀº ¸Å³â 1È¸ ±¹³»Á¤Ã¥À» 1Ä­ ÀÌµ¿½ÃÅ³ ¼ö ÀÖ½À´Ï´Ù. ;;;;;;;;;;x
+TUTORIAL_3_A8a_NAME;´Ù¸¥ ±¹°¡ ;;;;;;;;;;x
+TUTORIAL_3_A8a_DESC;ÀÌ °ÔÀÓ ¾È¿¡¼­, ¸ðµç ±¹°¡´Â ¼¼°è¿¡¼­ ±× ¹ÛÀÇ ¸ðµç ±¹°¡¿Í °ü°è°¡ ÀÖ½À´Ï´Ù. ±¹°¡ °Ë»öÃ¢¿¡¼­ ¾î¶² ¿Ü±¹ÀÇ ±¹°¡¶óµµ ´­·¯ÁÖ¼¼¿ä. ±¹°¡ Á¤º¸ÀÇ ±× ±ê¹ß ¿·¿¡ ´ç½ÅÀº '¿ì¸®¿ÍÀÇ °ü°è'¸¦ º¼ °ÍÀÔ´Ï´Ù. ÀÌ °ü°è °¡Ä¡´Â µÎ ±¹°¡ÀÇ ¿ìÈ£µµ¸¦ °¡¸®Åµ´Ï´Ù. ´ç½ÅÀÇ °ü°è´Â ¿Ü±³Àû Çàµ¿µé°ú È°µ¿µé¿¡ ÀÇÇØ ¿µÇâÀ» ¹Þ½À´Ï´Ù.  ¿À¸¥ÂÊ¿¡ ¿Ü±³Àû Çàµ¿µéÀÇ ¸ñ·ÏÀ» ºÁÁÖ¼¼¿ä. ´Ù¸¥ ±¹°¡µéÀ» º¸°í, ÀÌ¿ë °¡´ÉÇÑ Çàµ¿µéÀÌ ´ç½ÅÀÇ °ü°è¿¡ µû¶ó º¯È­ÇÑ´Ù¶ó°í ¾Ë¾ÆÂ÷·Á ÁÖ¼¼¿ä. ;;;;;;;;;;x
+TUTORIAL_3_A8_NAME;¿Ü±³ È°µ¿ ;;;;;;;;;;x
+TUTORIAL_3_A8_DESC;´ëºÎºÐÀÇ ¿Ü±³Àû Çàµ¿µéÀº ±×µé°ú °ü·ÃµÇ´Â ±ÝÀ¶ÀÇ ºñ¿ëµéÀ» °¡Áö°í ÀÖ½À´Ï´Ù. ±×·¯¹Ç·Î Çö±Ý º¸Á¸À» °¡Áö´Â °ÍÀº Áß¿äÇÕ´Ï´Ù.  ±×µéÀÌ ¹«¾ùÀ» ÇÏ´À³Ä, ±×¸®°í ±×µéÀÌ ¾ó¸¶°¡ µé¾ú´À³Ä¸¦ º¸±â À§ÇØ Çàµ¿µé À§¿¡ ¸¶¿ì½ºÆ÷ÀÎÅÍ¸¦ ´ëÁÖ¼¼¿ä. ¾à°£ÀÇ Çàµ¿µéÀº ¼öÃëÀÎ¿¡¼­ ÀÀ´äÀ» ÇÊ¿ä·Î ÇØ¼­, È¿°ú¸¦ ´ÊÃä´Ï´Ù. ´ëºÎºÐÀÇ Çàµ¿µéÀº ¼º°øÀÇ È®·üÀ» °¡Áö°í, È®·üÀÌ º¸¿©Áú¶§µµ ÀÖ°í, ¼û°ÜÁú¶§µµ ÀÖ½À´Ï´Ù.  ;;;;;;;;;;x
+TUTORIAL_3_A9_NAME;¹«¿ª ÇùÁ¤ ;;;;;;;;;;x
+TUTORIAL_3_A9_DESC;ÀÌ Æ©Åä¸®¾ó ¾È¿¡¼­ ¿ì¸®´Â ÀÏÀ» ÇÏ´Â ¹æ¹ýÀ» ÀÏÀÏÈ÷ º¸¿©ÁÖÁö ¾ÊÀ» °ÍÀÔ´Ï´Ù. ¹«¿ª ÇùÁ¤µµ ±× Áß ÇÏ³ªÀÔ´Ï´Ù. ¹«¿ª ÇùÁ¤À¸·Î ´ç½ÅÀº ÇÊ¼öÀûÀÎ ´Ù¸¥ ÀÚ¿øÀ¸·ÎÀÇ ±³È¯À» ½ÅÃ»ÇÕ´Ï´Ù. ¹«¿ª ÇùÁ¤Àº °³°³ÀÇ ±¹°¡µé »çÀÌ¿¡¼­ ¸Î°Ô µË´Ï´Ù. ¹«¿ª ÇùÁ¤Àº ¸¸ÀÏ ¹Þ°Ô µÇ¸é ±×°ÍÀÌ ±úÁú¶§±îÁö ¸ÅÀÏ ÀÚ¿ø ±³È¯À» °è¼ÓÇÒ °ÍÀÔ´Ï´Ù. ¹«¿ª ÇùÁ¤Àº ´ç½ÅÀÇ °æÁ¦ ±ÕÇüÀ» Àâ±â À§ÇØ ÇÊ¼öÀÔ´Ï´Ù. ;;;;;;;;;;x
+TUTORIAL_3_A10_NAME;¼±ÀüÆ÷°í ¹× ÆòÈ­ÇùÁ¤ ;;;;;;;;;;x
+TUTORIAL_3_A10_DESC;´ç½ÅÀÌ ÀüÀïÀ» ¼±¾ðÇØ¾ß ÇÒ¶§ ¼±ÀüÆ÷°í! ¸¦ ´©¸£°í È®ÀÎÇÕ´Ï´Ù. ´ç½ÅÀº ¶ÇÇÑ ´ç½ÅÀÇ µ¿¸Í±¹ÀÌ ´©±º°¡¿¡°Ô °ø°Ý´çÇÏ¸é ÀüÀïÇÒÁöµµ ¸ð¸¨´Ï´Ù. ÀüÀïÀ» Á¾·á½ÃÅ°±â À§ÇØ ´ç½ÅÀº ÆòÈ­¸¦ À§ÇØ Ã»±¸ÇÏ°Å³ª, ÀûÀÇ ÆòÈ­ Á¦¾ÈÀ» ¹Þ½À´Ï´Ù. ÀüÀïÁ¡¼ö´Â ÀüÀïÀ» ¾ó¸¶³ª Àß ¼öÇàÇÏ´ÂÁö °¡¸®Å³ °ÍÀÌ°í, Á¦½ÃÇÒ °ÍÀÎÁö ¿ä±¸ÇÒ °ÍÀÎÁö¿¡ °üÇØ °áÁ¤ÇÒ °ÍÀÔ´Ï´Ù. ÆòÈ­ÇùÁ¤ °Å·¡µéÀÇ °á°ú·Î ±¹°¡´Â ÇÕº´µÉ ¼öµµ ÀÖ°í, ±«·Ú±¹ÀÌ µÉ ¼öµµ ÀÖ½À´Ï´Ù. ±«·Ú±¹ÀÌ µÈ ±¹°¡´Â ¾ÆÁ÷ ±× ÀÚÃ¼¸¦ Áö¹èÇÏ°í ÀÖÁö¸¸, IC¸¦ Á¦°øÇÏ°í, ±× Áö¹èÀÎ¿¡ ÀÇÇØ °­¿äµÈ µ¿¸Í¾È¿¡ ÀÖ½À´Ï´Ù. ;;;;;;;;;;x
+TUTORIAL_3_A11_NAME;Çù»ó °³½Ã ;;;;;;;;;;x
+TUTORIAL_3_A11_DESC;Çù»ó°³½Ã´Â ¹«¿ªÇùÁ¤°ú ºñ½ÁÇÏÁö¸¸, ÀÏÈ¸¼º °Å·¡µé¸¸ ÀÔ´Ï´Ù. Çù»ó°³½Ã·Î ´ç½ÅÀº ´Ù¸¥ ±¹°¡¿Í ÀÚ¿ø,±â¼ú Ã»»çÁø°ú Áö¿ªÀ» ±³È¯ÇÒÁöµµ ¸ð¸¨´Ï´Ù. Ã»»çÁøÀº ±¹°¡µé »çÀÌ¿¡ µ¿¸Í¿¡¼­¸¸ ¸Å¸ÅµÉ ¼ö ÀÖ½À´Ï´Ù. ;;;;;;;;;;x
+TUTORIAL_3_A12_NAME;;;;;;;;;;;x
+TUTORIAL_3_A12_DESC;;;;;;;;;;;x
+TUTORIAL_3_A13_NAME;;;;;;;;;;;x
+TUTORIAL_3_A13_DESC;;;;;;;;;;;x
+TUTORIAL_3_A14_NAME;³¡¸Î´Â ¸» ;;;;;;;;;;x
+TUTORIAL_3_A14_DESC;¿Ü±³ Æ©Åä¸®¾óÀ» °á·ÐÁþ½À´Ï´Ù. ´ç½ÅÀº Áö±Ý ÀÎÅÍÆäÀÌ½ºÀÇ ÃÑÃ¼ÀûÀÎ ÀÌÇØ¿Í ±¹Á¦ÀûÀÎ Á¤Ä¡ÀÇ ¼¼°è¿¡¼­ Çàµ¿ÇÏ´Â ¹æ¹ý¿¡ °üÇÑ ±âÃÊÀûÀÎ Áö½ÄÀ» °¡Á®¾ß ÇÕ´Ï´Ù. ;;;;;;;;;;x
+# Chapter 4 #######################;;;;;;;;;;;x
+TUTORIAL_4_A1_NAME;±â¼ú ;;;;;;;;;;x
+TUTORIAL_4_A1_DESC;±â¼ú Æ©Åä¸®¾ó¿¡ ¾î¼­ ¿À½Ê½Ã¿À. ÀÌ Àå¿¡¼­ ¿ì¸®´Â ´ç½ÅÀÌ ´ç½ÅÀÇ Àûº¸´Ù À¯¸®ÇÔÀ» ÁÙ ¼ö ÀÖ´Â »õ·Î¿î ±â¼úÀûÀÎ Áøº¸¸¦ °¡Á®¿À´Â ¹æ¹ý¿¡ ´ëÇØ ¹è¿ï °ÍÀÔ´Ï´Ù. ±â¼ú°³¹ßÀº Àå±âÀûÀ¸·Î Àü·«À» °¡Áö°í ´ç½ÅÀÌ ÇØ¾ßÇÏ´Â Çàµ¿ÀÔ´Ï´Ù. ÀÌ Ã¢À» ´Ý°í, ±â¼ú ÅÇÀ» ´­·¯¼­ ½ÃÀÛÇÏ¼¼¿ä. ´ç½ÅÀº ¾ðÁ¦¶óµµ Å°º¸µåÀÇ ESC Å°¸¦ ´­·¯¼­ Æ©Åä¸®¾ó¿¡¼­ ³ª°¥ ¼ö ÀÖ½À´Ï´Ù. ;;;;;;;;;;x
+TUTORIAL_4_A2_NAME;±â¼ú È­¸é °³¿ä ;;;;;;;;;;x
+TUTORIAL_4_A2_DESC;ÀÌ°ÍÀº ±â¼ú È­¸éÀÔ´Ï´Ù. ¿©±â¿¡¼­ ´ç½ÅÀº »õ·Î¿î À¯´ÖÀÇ Á¾·ù, º¸³Ê½º ¹× ´É·Â¿¡ ´ëÇÑ ¿¬±¸¸¦ ¸í·ÉÇÕ´Ï´Ù. ¸ðµç ¿¬±¸´Â ´ç½Å¿¡ ÀÇÇØ ÁöÁ¤µÇ´Â ¿¬±¸ÆÀµé¿¡ ÀÇÇØ ½ÇÇàµË´Ï´Ù. ´ç½ÅÀº ´ç½ÅÀÇ °ø¾÷·Â¿¡ ÀÇÇÏ¿© ÃÖ°í 5°³ÆÀµéÀ» µ¿½Ã¿¡ ÀÏÇÏµµ·Ï ÇÒ ¼ö ÀÖÀ¸³ª, ÀÌ Æ©Åä¸®¾ó¿¡¼­´Â 1°³¸¸ °¡Áú °ÍÀÔ´Ï´Ù. (°ø¾÷·Â20´ç 1°³ÆÀ¾¿ Ãß°¡µË´Ï´Ù) ´ç½ÅÀÇ ÆÀµéÀº ºñ·Ï ¾ÆÁ÷ ÁöÁ¤µÇÁö ¾Ê°í ÀÖÁö¸¸, ¿ÞÂÊ ¸ñ·Ï¿¡¼­ ÁöÁ¤µË´Ï´Ù. Áö±Ý ¿¬±¸ÆÀÀ» ÇÒ´çÇÏ±â À§ÇØ ºñ¾îÀÖ´Â ¿øÀ» ´©¸£¼¼¿ä. ;;;;;;;;;;x
+TUTORIAL_4_A3_NAME;¿¬±¸ÆÀ ;;;;;;;;;;x
+TUTORIAL_4_A3_DESC;ÀÌ°ÍÀº ´ç½Å ±¹°¡ÀÇ ÀÌ¿ë °¡´ÉÇÑ ¸ðµç ¿¬±¸ÆÀµéÀ» ³ªÅ¸³À´Ï´Ù. °¢ ÆÀµéÀº ±â¼úµî±Þ°ú Àü¹®±â¼ú¿µ¿ª(Á¤»ç°¢ ¾ÆÀÌÄÜÀ¸·Î Ç¥½Ã)À» °¡Áö°í ÀÖ½À´Ï´Ù. Àü¹®±â¼ú ¾ÆÀÌÄÜ À§¿¡ ¸¶¿ì½ºÆ÷ÀÎÅÍ¸¦ ´ë¸é ±×°ÍÀÌ ¹«¾ùÀ» Ç¥ÇöÇÏ´ÂÁö ¶å´Ï´Ù. ±â¼úµî±ÞÀº ÆÀÀÇ ¿¬±¸ºñ¿ë°ú ¿¬±¸¼Óµµ¸¦ ÁÂ¿ìÇÕ´Ï´Ù. Àü¹®±â¼úÀÇ ºÐ¾ß³»¿¡¼­ ¿¬±¸¸¦ ½Ç½ÃÇÏ´Â °ÍÀº ¿Ï¼º½Ã°£À» ÁÙÀÏ °ÍÀÔ´Ï´Ù. Áö±Ý, ¾î¶² ÆÀÀÌ¶óµµ ´­·¯¼­ ¿¬±¸ÆÀÀ» ÇÒ´çÇÏ¼¼¿ä. ;;;;;;;;;;x
+TUTORIAL_4_A4_NAME;;;;;;;;;;;x
+TUTORIAL_4_A4_DESC;Áö±Ý ´ç½ÅÀº ¿¬±¸ÆÀÀ» ÇÒ´çÇß½À´Ï´Ù. ´ç½Å ±¹°¡°¡ µ¿½Ã¿¡ °¡Áú ¼ö ÀÖ´Â ÆÀ ¼ýÀÚ´Â ´ç½ÅÀÇ °ø¾÷·Â¿¡ ÀÇÁ¸ÇÕ´Ï´Ù. ±×·¯³ª 1º¸´Ù ÀÛÀ»¼öµµ 5º¸´Ù ¸¹À» ¼öµµ ¾ø½À´Ï´Ù. $ Ç¥½Ã¸¦ º¾½Ã´Ù. ³ì»öÀÏ¶§ ÆÀÀÌ ÇÊ¿ä·Î ÇÏ´Â ±ÝÀ¶ÀÇ ÀÚ±Ý Á¦°øÀ» °¡Áö°í ÀÖ°í, Àü¼Ó·ÂÀ¸·Î ¿î¿µµÉ ¼ö ÀÖ´Ù´Â °É ÀÇ¹ÌÇÕ´Ï´Ù. ±×°Í À§¿¡ ¸¶¿ì½º Æ÷ÀÎÅÍ¸¦ ´ë°í ÆÀÀÇ È°µ¿¿¡ µå´Â ºñ¿ëÀ» º¾´Ï´Ù. Áö±Ý ¿À¸¥ÂÊ ¿µ¿ª À§¿¡ 'º¸º´' ´ÜÃß¸¦ ´­·¯¼­ ´ç½Å º¸º´ÀÇ ±â¼úÀ» º¸¼¼¿ä. ;;;;;;;;;;x
+TUTORIAL_4_A5_NAME;±â¼ú°¥·¡ (technology trees) ;;;;;;;;;;x
+TUTORIAL_4_A5_DESC;´ç½ÅÀº ¿©±â¼­ °¢ °³°³ÀÇ ±â¼úÀº ¶óº§¿¡ ÀÇÇØ Ç¥ÇöµÇ´Â °É ¾Ë ¼ö ÀÖ½À´Ï´Ù. ±×°ÍÀº ³ì»öÀÌ°Å³ª, È¸»öÀÌ°Å³ª, ÆÄ¶þµµ·Ï ¹°µéÀÌ°Ô µË´Ï´Ù. ³ì»öÀÇ ¶óº§µéÀº ´ç½ÅÀÌ ¹ú½á ¿¬±¸Çß°í, È¸»öÀº ÀÌ¿ëÇÒ ¼ö ¾ø°í, ÇöÀç ¿¬±¸¿¡ ÀÌ¿ë °¡´ÉÇÑ °ÍµéÀº ÆÄ¶õ»öÀÔ´Ï´Ù. ¸ðµç ±â¼úÀº °¥·¡ ±¸Á¶·Î ¿¬°áµË´Ï´Ù. ¾î¶² ÇÑ ±â¼úÀ» ¿¬±¸ÇÒ ¼ö ÀÖ±â À§ÇØ¼±, ±× ±â¼ú ÀÌÀüÀÇ °¥·¡¿¡ ÀÖ´Â ¸ðµç ±â¼úÀÌ ¿¬±¸µÇ¾î¾ß ÇÕ´Ï´Ù. Áö±Ý ÇØ±º ±³¸® ´ÜÃß¸¦ ´©¸£¼¼¿ä. ;;;;;;;;;;x
+TUTORIAL_4_A5a_NAME;±â¼ú°¥·¡ (technology trees) ;;;;;;;;;;x
+TUTORIAL_4_A5a_DESC;¿©±â¼­ ´ç½ÅÀº °¥·¡ÀÇ ºÎºÐÀÌ Æø³ÐÀº È­»ìÇ¥·Î ¿¬°áµÇ°í ÀÖÀ½À» ¾Ë ¼ö ÀÖ½À´Ï´Ù. Æø³ÐÀº È­»ìÇ¥´Â ¹æÄ§ÀÇ ¼±ÅÃÀ» °¡¸®Åµ´Ï´Ù. 1°³ÀÇ ¹æÄ§À» ¿¬±¸ÇÏ´Â °ÍÀº ³²Àº ´Ù¸¥ ¹æÄ§µéÀ» Àá±Û °ÍÀÔ´Ï´Ù. 'ÇØ»óºÀ¼â'°¡ ¼±ÅÃµÇ¾ú±â ¶§¹®¿¡ 'ÇöÁ¸ÇÔ´ë'¿Í '±âÁöÅ¸°Ý'Àº Àá°¡Á³½À´Ï´Ù. Àá°¡Áø ±â¼úÀº »¡°£»öÀ¸·Î ³ªÅ¸³ª°í, ¼±À» ±×¾î Áö¿ì°Ô µË´Ï´Ù. ¶ÇÇÑ ¸î°³ÀÇ ±â¼úÀÌ °¥·¡¿¡¼­ ¿©·¯ Àå¼Ò¿¡ ÀÖ´Â Á¡À» ÁÖÀÇÇØ ÁÖ¼¼¿ä. Áö±Ý 'Áøº¸µÈ Àá¼öÇÔÀÛÀü' ¶óº§À» ´­·¯ÁÖ¼¼¿ä. ;;;;;;;;;;x
+TUTORIAL_4_A6_NAME;;;;;;;;;;;x
+TUTORIAL_4_A6_DESC;Áö±Ý ´ç½ÅÀº ¿¬±¸¸¦ ¾ò±âÀ§ÇÑ 5°³ÀÇ ±¸¼º ¿ä¼Òµé°ú ÇÔ²² ±â¼úÀÇ Á¤½ÄÀûÀÎ ÀÌ¸§À» º¾´Ï´Ù. ¿¬±¸½Ã°£À» ÃÖÀûÈ­ÇÏ±â À§ÇØ ´ç½Å ÆÀÀÇ Àü¹®±â¼ú¿µ¿ª°ú ¸ÂÃçÁÖ¼¼¿ä. ´ç½ÅÀº ¶ÇÇÑ ±â¼ú¿¡ ´ëÇÑ Ã»»çÁøÀÌ ÀÖ´ÂÁö º¼ ¼ö ÀÖ½À´Ï´Ù. Ã»»çÁø(Blueprints)Àº ¿Ü±³È­¸éÀÇ Çù»ó°³½Ã¸¦ ÅëÇØ ¾òÀ» ¼ö ÀÖ°í, ¿¬±¸½Ã°£À» ÁÙÀÏ °ÍÀÔ´Ï´Ù. ±â¼úÀÌ ¿Ï·áµÉ¶§ °¡Áú ¼ö ÀÖ´Â ¸ðµç È¿°ú¸ñ·ÏÀÌ ¿À¸¥ÂÊ¿¡ ÀÖ½À´Ï´Ù. Áö±Ý ±â¼úÀ» ¿¬±¸ÇÏ±â À§ÇØ 'ÇÁ·ÎÁ§Æ® ½ÃÀÛ'À» ´­·¯ÁÖ¼¼¿ä. ;;;;;;;;;;x
+TUTORIAL_4_A7_NAME;;;;;;;;;;;x
+TUTORIAL_4_A7_DESC;ÀÌ°ÍÀº °è¼ÓÀûÀÎ ¿¬±¸¿¡ ´ëÇÑ ´õ Ã¶ÀúÇÑ Á¤º¸¸¦ ³ªÅ¸³»´Â ¿¬±¸ ÁøÇà º¸±âÀÔ´Ï´Ù. »ó´Ü ÁøÇà ¸·´ë´Â ÃÑÃ¼ÀûÀÎ ÁøÇàÀ» ³ªÅ¸³À´Ï´Ù. °¢ ±¸¼º¿ä¼Òµµ ÀÚ½ÅÀÇ ÁøÇà ¸·´ë¸¦ °¡Áý´Ï´Ù. 5°³ÀÇ ±¸¼º ¿ä¼ÒµéÀÌ ¸ðµÎ ¿Ï·áµÉ¶§ ¿¬±¸´Â ¿Ï·áµÇ°í, ¸ðµç È¿°ú°¡ È°¼ºÈ­µË´Ï´Ù. Áö±Ý ÇÁ·ÎÁ§Æ® Ãë¼Ò¸¦ ´©¸£¼¼¿ä. ;;;;;;;;;;x
+TUTORIAL_4_A8_NAME;;;;;;;;;;;x
+TUTORIAL_4_A8_DESC;Áö±Ý, 'ºñ¹Ðº´±â'¸¦ ´©¸£¼¼¿ä. ;;;;;;;;;;x
+TUTORIAL_4_A9_NAME;ºñ¹Ðº´±â ;;;;;;;;;;x
+TUTORIAL_4_A9_DESC;¿¬±¸¿µ¿ª Áß 1°³ÀÎ, ºñ¹Ðº´±â´Â ¾à°£ ´Ù¸¨´Ï´Ù. ÀÌ ¿¬±¸¸¦ ÇÏ·Á¸é ÀÌ ¿¬±¸¸¦ ÇÏ±â À§ÇÑ ±â¼úµéÀ» ¹Ì¸® ¿¬±¸ÇØ³õ¾Æ¾ß ÇÏ°í, ÇÊ¿äÇÑ ±â¼úµé¿¡ ÀÇÇØ ¹ß»ýÇÏ´Â Æ¯º°ÇÑ ÀÌº¥Æ®µµ ÇÊ¿ä·Î ÇÕ´Ï´Ù. ´ç½ÅÀº ¸¶¿ì½º Æ÷ÀÎÅÍ¸¦ <?> ¾ÆÀÌÄÜ À§¿¡ °¡Á®°¡¼­ ±â¼ú°³¹ßÀ» À§ÇÑ ÀüÁ¦ Á¶°ÇµéÀ» º¼ ¼ö ÀÖ½À´Ï´Ù. Áö±Ý °è¼ÓÇÏ·Á¸é, '±â¼ú °³¿ä'¸¦ ´©¸£¼¼¿ä. ;;;;;;;;;;x
+TUTORIAL_4_A10_NAME;°³¿ä È­¸é ;;;;;;;;;;x
+TUTORIAL_4_A10_DESC;°³¿ä´Â ¿¬±¸¸¦ ÅëÇØ ¾ò°Ô µÉ ¼ö ÀÖ´Â °¡Àå º»ÁúÀûÀÎ È¿°úµéÀ» ³ªÅ¸³À´Ï´Ù. Àü·«À» ¼¼¿ì°í, ¾î¶² ±â¼úµéÀ» ¿¬±¸ÇØ¾ß ÇÏ´À³Ä¿¡ °üÇØ °áÁ¤ÇÒ ¶§, ÀÌ ÆäÀÌÁö¿¡ »ó´ãÇØ ÁÖ¼¼¿ä. ;;;;;;;;;;x
+TUTORIAL_4_A11_NAME;³¡¸Î´Â ¸» ;;;;;;;;;;x
+TUTORIAL_4_A11_DESC;±â¼ú Ã©ÅÍÀÇ Æ©Åä¸®¾óÀ» °á·Ð Áþ½À´Ï´Ù. ´ç½ÅÀº ¿¬±¸ÆÀµéÀ» ÇÒ´çÇÒ ¼ö ÀÖ¾î¾ß ÇÏ°í, ÀÌ ÆÀµé°ú ÇÔ²² ¿¬±¸¸¦ ½Ç½ÃÇØ¾ß ÇÕ´Ï´Ù. ;;;;;;;;;;x
+# Chapter 5 #######################;;;;;;;;;;;x
+TUTORIAL_5_A1_NAME;±âº» ÀüÅõ±â¼ú ;;;;;;;;;;x
+TUTORIAL_5_A1_DESC;ÀÌ Æ©Åä¸®¾ó¾È¿¡¼­, ´ç½ÅÀº »óÈ²¿¡ ´ëÇÑ ÀÎ½Ä°ú Ãëµæ, ¸í·ÉÀ» ³»¸®°í º¸±ÞÀÇ Áß¿ä¼ºÀ» ÀÌÇØÇÏ´Â°ÍÀ» ¹è¿ï°ÍÀÔ´Ï´Ù. ÃÖÃÊÀÇ »óÈ²¼³¸í ÈÄ, ¿ì¸®´Â ´ç½ÅÀÚ½ÅÀ» À§ÇØ, Çàµ¿À» ½Ç½ÃÇÏ´Â°ÍÀ» ´ç½Å¿¡°Ô ¸Ã±æ°ÍÀÔ´Ï´Ù. Ãø¸é»óÅÂÃ¢Àº Àá±ÅÁö°í, ±× ¶§¹®¿¡ ´ç½ÅÀº ´ç½ÅºÎ´ë·Î º¼¼ö ÀÖ½À´Ï´Ù ±×·¯³ª ¾î¶² º¹ÀâÇÑ Á¤º¸·ÎÀÎÇØ ¼ö·É¿¡ ºüÁöÁö ¸¶¼¼¿ä. ´ç½ÅÀÌ Ã³À½½Ãµµ¸¦ ¼º°øÇÏÁö ¸øÇÏ´õ¶óµµ ÀÚÆ÷ÀÚ±âÇÏÁö ¸¶¼¼¿ä. ´ÜÁö ´Ù½Ã ÀÌ Æ©Åä¸®¾óÀ» ½ÇÇàÇÏ°í ¼³¸íÀ» ÁÖÀÇ±í°Ô ÀÐÀ¸¸é ´ç½ÅÀº Àý´ë·Î ÇÊ¿äÇÑ ¸ðµçÁ¤º¸¸¦ ÀâÀ»¼ö ÀÖÀ»°Ì´Ï´Ù. ´ç½ÅÀº ESCÅ°¸¦ ´­·¯ ¾ðÁ¦¶óµµ Æ©Åä¸®¾ó¿¡¼­ ³ª¿Ã¼ö ÀÖ½À´Ï´Ù. ;;;;;;;;;;x
+TUTORIAL_5_A2_NAME;»óÈ² ;;;;;;;;;;x
+TUTORIAL_5_A2_DESC;½ÅÁßÇÏ°Ô Áöµµ¸¦ ºÁÁÖ¼¼¿ä. ´ç½ÅÀÌ º¸´Â °Í¿¡ µû¶ó, 7°³ÀÇ Áö¿ªÀÌ ÀÌ ½Ã³ª¸®¿À¿¡ ÀÖ½À´Ï´Ù. ´ÜÄ¡È÷, ºñµå°í½´Ä¡, Æ÷Áî³ªÀÎÀº Æú¶õµå¿¡ ÀÇÇØ Áö¹èµË´Ï´Ù. ³ª¸ÓÁö´Â ´ç½Å °ÍÀÔ´Ï´Ù. ¸ñÀûÀº Æú¶õµåÀÇ ±º´ëµéÀ» ³»ÂÑ°í, ¸ðµç Áö¿ªÀ» Áö¹è¸¦ ÇÏ´Â °ÍÀÔ´Ï´Ù. È­¸éÀÇ ¿ÞÂÊ ±¸¼®¾Æ·¡¿¡ 'Á¤Ä¡ Áöµµ' ¹öÆ°À» ¼±ÅÃÇÏ¿© ´©°¡ Áö¹èÇÏ´ÂÁö º¾´Ï´Ù. ;;;;;;;;;;x
+TUTORIAL_5_A3_NAME;ºÎ´ë ;;;;;;;;;;x
+TUTORIAL_5_A3_DESC;ÁöµµÀ§¿¡ ºÎ´ë¸¦ ´­·¯ ´ç½ÅÀº 'Field Command'À» Ãø¸é»óÅÂÃ¢À¸·Î º¼ ¼ö ÀÖ½À´Ï´Ù. Áö±Ý ±×·¸°Ô ÇÏ°í, Ãø¸é»óÅÂÃ¢À¸·Î º¾´Ï´Ù. ºÎ´ë ¶Ç´Â 'Field Command'´Â ÇÏ³ªÀÇ ÁöÈÖ°ü ¾Æ·¡¿¡¼­ ±âº»ÀûÀ¸·Î ÀÌµ¿°ú ÀüÅõ¸¦ °°ÀÌÇÏ´Â »ç´ÜÀÇ Áý´ÜÀÔ´Ï´Ù. 'Field Command' ¾È¿¡¼­ ´ç½ÅÀº ºÎ´ëÀÇ ÁöÈÖ°ü, ºÎ´ë°¡ ¾î¶² ¸í·ÉÀ» ÇÏ°í ÀÖ´ÂÁö, ±×¸®°í ºÎ´ëÀÇ »óÅÂ¿Í Á¤º¸¸¦ º¼¼ö ÀÖ½À´Ï´Ù. ¾Æ·¡´Â ºÎ´ë¸¦ ±¸¼ºÇÏ°í ÀÖ´Â »ç´ÜÀÇ ¸ñ·ÏÀÔ´Ï´Ù. ºÎ´ë°¡ Áö¿ª¿¡ ÀÖÀ»¶§ °£´ÜÈ÷ ÁöµµÀ§¿¡ ºÎ´ë¸¦ ´­·¯ ±×µé¿¡°Ô ´Ù½Ã ¸í·ÉÀ» µû¸£µµ·Ï ÇÒ ¼ö ÀÖ½À´Ï´Ù. ;;;;;;;;;;x
+TUTORIAL_5_A4_NAME;»ç´Ü ;;;;;;;;;;x
+TUTORIAL_5_A4_DESC;Áö±Ý »ç´Ü Ã¢À» ºÁÁÖ¼¼¿ä. ¾ÆÀÌÄÜÀº »ç´ÜÀÇ Á¾·ù(º¸º´,ÀüÂ÷,Â÷·®È­º¸º´,±âÅ¸ µîµî)¸¦ ³ªÅ¸³À´Ï´Ù. ¾ÆÀÌÄÜ ¿·¿¡´Â Àý´ë·Î Áß¿äÇÑ µÎ°³ÀÇ ¸·´ë°¡ ÀÖ½À´Ï´Ù. º´·ÂÀº ±âº»ÀûÀÎ Å©±âÀÌ°í, Á¶Á÷·ÂÀº »ç´ÜÀÇ °á¼Ó·ÂÀÔ´Ï´Ù. ³ôÀº Á¶Á÷·ÂÀ» ¸¸µç »ç´ÜÀº ÀüÅõ¸¦ ´õ ÀßÇÕ´Ï´Ù. Á¶Á÷·ÂÀº »ç´ÜÀÌ ÀüÅõ¸¦ ÇÏ°í ÀÖÀ»¶§ ÁÙ¾îµì´Ï´Ù. ¸¸¾à Á¶Á÷·ÂÀÌ ³·¾ÆÁö¸é, ºÎ´ë´Â Åð°¢ÇÒ °ÍÀÔ´Ï´Ù. º´·ÂÀÌ 0 ÀÌ µÇ¸é ºÎ´ë´Â ÆÄ±«µË´Ï´Ù. °¢ »ç´ÜÀÇ º´·ÂÀº ¶ÇÇÑ ÁöµµÀ§ÀÇ ºÎ´ë ¾Æ·¡ ¸·´ë·Î ³ªÅ¸³À´Ï´Ù. ¸·´ëÀÇ »ö±òÀº »ç´ÜÀÇ Á¶Á÷·ÂÀ» Ç¥½ÃÇÕ´Ï´Ù. ;;;;;;;;;;x
+TUTORIAL_5_A5_NAME;»óÈ² ÀÎ½Ä ;;;;;;;;;;x
+TUTORIAL_5_A5_DESC;Áö±Ý »óÈ²À» ´õ ±íÀÌ ÈÈ¾î º¾´Ï´Ù. Äí½ºÆ®¸°¿¡ ´ç½ÅÀº 1°³ÀÇ ÀüÂ÷»ç´Ü,2°³ÀÇ Â÷·®È­º¸º´»ç´Ü°ú 2°³ÀÇ º¸º´»ç´ÜÀ» °¡Áö°í ÀÖ½À´Ï´Ù. ÀÌ°ÍµéÀº ´ç½ÅÀÇ °¡Àå °­ÇÑ °ø°ÝºÎ´ëÀÔ´Ï´Ù. ½´Å×Æ¾¿¡ 3°³ÀÇ º¸º´»ç´Ü, ¿¤ºù¿¡ 2°³ÀÇ º¸º´»ç´Ü°ú 1°³ÀÇ ÀüÂ÷»ç´ÜÀ» °¡Áö°í ÀÖ½À´Ï´Ù. Áö±Ý 'º¸±Þ Áöµµ' ¸ðµå¸¦ ºÁÁÖ¼¼¿ä. ¿¤ºù Áö¿ªÀÌ »¡°£°É ¾Ë¾ÆÂ÷¸®¼¼¿ä. Áï ±×°ÍÀº ½´Å×Æ¾¿¡¼­ºÎÅÍÀÇ º¸±ÞÀÌ ²÷¾îÁ³±â ¶§¹®ÀÔ´Ï´Ù. ´ç½ÅÀÌ ½´Å×Æ¾¿¡¼­ º¸±Þ¼±À» ¸¸µéÁö ¾ÊÀ¸¸é ¿¤ºùÀÇ ºÎ´ë°¡ ÀÚ¸êÇÏ¹Ç·Î °ø°ÝÇÏ¼¼¿ä. ;;;;;;;;;;x
+TUTORIAL_5_A6_NAME;°èÈ¹ ;;;;;;;;;;x
+TUTORIAL_5_A6_DESC;´ç½ÅÀÇ ÁÖ¿äÇÑ ¸ñÀûÀº ºñµå°í½´Ä¡ Áö¿ªÀ» »¯¾î ¿¤ºùÀÇ ´ç½ÅºÎ´ë¿¡°Ô º¸±Þ¼±À» ¸¸µå´Â °ÍÀÔ´Ï´Ù. ´ÙÀ½ ´ç½ÅÀº ¸ðµç ´ç½ÅºÎ´ë¸¦ »ç¿ëÇÏ¿© µ¿½Ã¿¡ Áö½ÃÇÏ¿© Æú¶õµåÀÇ °ÅÁ¡ÀÎ ´ÜÄ¡È÷¸¦ °ø°ÝÇÕ´Ï´Ù. ÈÄ¿¡ ³²ÂÊ¿¡ ³²¾ÆÀÖ´Â Æú¶õµå ºÎ´ë¸¦ Áö¿ì´Â °ÍÀº ½±½À´Ï´Ù. °¡´ÉÇÑ ÇÑ Ç×»ó ¸¹Àº º´·Â°ú Á¶Á÷·ÂÀ¸·Î °ø°ÝÇÏ´Â °ÍÀÌ ÆÐ¹è¸¦ ÇÇÇÏ´Â °ÍÀÔ´Ï´Ù. ¶ÇÇÑ ÇÏ³ªÀÇ Áö¿ª¿¡ ¸¹Àº ºÎ´ëÀ» ½×¾Æ °ø°ÝÀ» ½ÃµµÇÏ´Â °ÍÀº ´ç½Å¿¡°Ô ºÒÀÌÀÍÀ» ÁÝ´Ï´Ù. ¸¸¾à »ç´ÜÀÇ Á¶Á÷·ÂÀÌ ³·¾ÆÁö¸é °£´ÜÈ÷ ºÎ´ë¿¡°Ô ÈÞ½ÄÀ» ÁÖ¸é µË´Ï´Ù. ;;;;;;;;;;x
+TUTORIAL_5_A7_NAME;¸í·É ;;;;;;;;;;x
+TUTORIAL_5_A7_DESC;¸ÕÀú, ÁöµµÀ§¿¡ ´ç½Å ºÎ´ë¸¦ ²ø¾î¼­ ¸ðµÎ ¼±ÅÃÇÕ´Ï´Ù. ºñµå°í½´Ä¡ Áö¿ªÀ» °ø°ÝÇÏ±â À§ÇØ ¿À¸¥Å¬¸¯ÇÏ¼¼¿ä. Áö±ÝÀº °ø°ÝÁö¿øÀ» ¼±ÅÃÇÏ°í, ½Ã°£¼³Á¤µéÀº ¹«½ÃÇÏ°í È®ÀÎÀ» ´©¸£¼¼¿ä. °ø°ÝÁö¿øÀº ±× Áö¿ªÀ» ÇâÇÑ °ø°Ý¿¡ Âü°¡ÇÏ±â À§ÇÑ ¸í·ÉÀÔ´Ï´Ù. °ø°ÝÁö¿øÀº Á¤º¹µÈ ÀÌÈÄ¿¡µµ ¸ñÀûÁö·Î ¿òÁ÷ÀÌÁö ¾ÊÀ» °ÍÀÔ´Ï´Ù. Áö±Ý Äí½ºÆ®¸°ÀÇ µÎ°³ ºÎ´ë¸¦ ¼±ÅÃÇØ¼­ °ø°Ý¸í·ÉÀ» ³»¸®¼¼¿ä. ºñµå°í½´Ä¡Áö¿ªÀÌ Á¤º¹µÇ¸é °è¼ÓµÉ °ÍÀÔ´Ï´Ù. ;;;;;;;;;;x
+TUTORIAL_5_A8_NAME;´ç½ÅÀº ºñµå°í½´Ä¡ÀÇ Áö¹è¸¦ ¾ò¾ú½À´Ï´Ù! ;;;;;;;;;;x
+TUTORIAL_5_A8_DESC;ºñµå°í½´Ä¡¸¦ Á¤º¹ÇÑ °ÍÀ» ÃàÇÏÇÕ´Ï´Ù. ´ç½ÅÀº Áö±Ý ½´Å×Æ¾¿¡¼­ ¿¤ºù±îÁö º¸±Þ¼±À» °¡Á³À¸´Ï ÁØºñÇÏ¼¼¿ä. Áö±Ý ½´Å×Æ¾°ú ºñµå°í½´Ä¡¿¡¼­ ´ÜÄ¡È÷·Î ÇÕµ¿À¸·Î °ø°ÝÇØÁÖ¼¼¿ä. ¿¤ºù¿¡¼­ ´ÜÄ¡È÷¸¦ °ø°ÝÇØÁÖ¼¼¿ä. ÈÄ¿¡ ´ç½ÅÀÌ Æ÷Áî³ªÀÎÀ» Á¤º¹ÇÏ´Â °ÍÀº ½ÄÀºÁ×¸Ô±âÀÔ´Ï´Ù. ;;;;;;;;;;x
+TUTORIAL_5_A9_NAME;½Â¸®! ;;;;;;;;;;x
+TUTORIAL_5_A9_DESC;´ç½ÅÀÇ Ã¹¹øÂ° ½Â¸®¸¦ ÃàÇÏÇÕ´Ï´Ù! ´ç½ÅÀº Áö±Ý ÀüÅõÀÇ ±âÃÊ¸¦ ¹è¿ü½À´Ï´Ù. ;;;;;;;;;;x
+# Chapter 6 #######################;;;;;;;;;;;x
+TUTORIAL_6_A1_NAME;Áøº¸µÈ ÀüÅõ±â¼ú ;;;;;;;;;;x
+TUTORIAL_6_A1_DESC;Æ©Åä¸®¾ó ÃÖÈÄÀÇ Àå - Áøº¸µÈ ÀüÅõ±â¼ú¿¡ ¿À½Å°ÍÀ» È¯¿µÇÕ´Ï´Ù. ÀÌ Àå ¾È¿¡¼­ ¿ì¸®´Â ´õ Áøº¸ÇÑ ¸í·Éµé°ú °è·«µéÀ» º¼ °ÍÀÔ´Ï´Ù. ´ç½ÅÀº ¹Ù´Ù¿Í °øÁß¿¡¼­ ´ç½ÅÀÇ ¸í·ÉÀ» ÀÚµ¿È­ÇÏ´Â ÀÓ¹«¸¦ ¸¸µå´Â °Í¿¡ ´ëÇØ ¹è¿ï °ÍÀÔ´Ï´Ù. ´ç½ÅÀº ¶ÇÇÑ »ó·ú°ú °ø¼ö°­½À ±×¸®°í ´ç½Å ºÎ´ë¸¦ ÀçÆíÇÏ´Â °Í¿¡ ´ëÇØ ¹è¿ï °ÍÀÔ´Ï´Ù. ´ç½ÅÀº ¾ðÁ¦¶óµµ Å°º¸µå À§ÀÇ ESCÅ°¸¦ ´­·¯¼­ Æ©Åä¸®¾ó¿¡¼­ ³ª°¥ ¼ö ÀÖ½À´Ï´Ù. ;;;;;;;;;;x
+TUTORIAL_6_A2_NAME;»óÈ² ;;;;;;;;;;x
+TUTORIAL_6_A2_DESC;ÀÌ ÀÛÀº °¡»ó½Ã³ª¸®¿À ¾È¿¡¼­ ´ç½ÅÀº ÀÏº»À¸·Î ÇÃ·¹ÀÌÇÕ´Ï´Ù. ¸ñÀûÀº ¹Ù´Ù¿Í °øÁßÀ» ÅëÇÑ ½À°ÝÀ¸·Î ´ë¸¸À» Á¡·ÉÇÏ´Â °ÍÀÔ´Ï´Ù. Àû ±º´ë´Â ´ë¸¸, ±× ¿µ°ø°ú ´ëºÎºÐÀÇ Áß±¹ ¹Ù´Ù¸¦ Áö¹èÇÏ°í ÀÖ½À´Ï´Ù. ´ç½ÅºÎ´ë¸¦ ÀçÆíÈÄ °­½ÀÀ» Ãâ¹ßÇÏ±âÀü¿¡, ¹Ù´ÙÀÇ ¸ðµç Àû ±ºÇÔÀ» Ã»¼ÒÇÏ°í, ¿µ°øÀÇ ÅëÁ¦±ÇÀ» »¯À¸¼¼¿ä. ´ç½ÅÀÌ ÁÁ¾ÆÇÏ´Â ¾î¶² ¸í·ÉÀ» ³»°Å³ª Á¶Á¾ÇÏ´Â °ÍÀº ÀÚÀ¯ÀÏ °ÍÀÔ´Ï´Ù, ±×·¯³ª ´ç½ÅÀÌ (ÀÌ Æ©Åä¸®¾óÀÇ) ¼¼ºÎ Áö½Ã¿¡ µû¸£´Â °ÍÀ» °­·ÂÃßÃµÇÕ´Ï´Ù. ;;;;;;;;;;x
+TUTORIAL_6_A3_NAME;;;;;;;;;;;x
+TUTORIAL_6_A3_DESC;´ç½Å ºÎ´ë¸¦ Á¶»çÇÕ´Ï´Ù. Áö¿ª º¸±â¿Í ÁöµµÀ§ÀÇ ºÎ´ë¿¡ Á¢±ÙÇÏ±â À§ÇØ Ãø¸éÃ¢ÀÇ À§¿¡ ¸ñ·Ï´ÜÃß¸¦ ÀÌ¿ëÇÏ¼¼¿ä. ´ç½Å ±º´ë¸¦ ¾Ë°í ÀÖ´Â °ÍÀº ½Ã³ª¸®¿À¸¦ ½Â¸®ÇÏ±â À§ÇÑ ¿­¼èÀÔ´Ï´Ù. ¿ÀÅ°³ª¿Í¿¡ ´ç½ÅÀº 2°³ÀÇ À°±ººÎ´ë¸¦ °¡Áö°í ÀÖ´Âµ¥, ÇÏ³ª´Â 2°³ÀÇ °ø¼ö»ç´ÜÀÌ°í, ÇÏ³ª´Â 2°³ÀÇ À°±º»ç´ÜÀÔ´Ï´Ù. ÇÑ°³ÀÇ ºÎ¼Ó Æ÷º´¿©´ÜÀ» °¡Áö°í ÀÖ´Âµ¥, ±×°ÍÀº »ç´ÜÀÇ ±âº» Áö»ó°ø°Ý ¼öÄ¡¿¡ Ãß°¡¸¦ ÁÝ´Ï´Ù. ¿ÀÅ°³ª¿Í¿¡ ´ç½ÅÀº ¶ÇÇÑ 1°³ÀÇ »ó·ú¼ö¼ÛÇÔ°ú ´ç½Å ºÎ´ë¸¦ Çà¼±Áö¿¡ ¶³±¸´Â 1°³ÀÇ ¼ö¼Û±â¸¦ °¡Áý´Ï´Ù. ¾Æ¸¶¹Ì¿¡ ´ç½ÅÀº °­·ÂÇÑ ±¸ÃàÇÔ´ëµé°ú °­·ÂÇÑ ÀüÅõ±â»ç´ÜÀ» °¡Áö°í ÀÖ½À´Ï´Ù. ´ç½ÅÀº ¹Ù´Ù¿Í ¿µ°ø¿¡ ´ëÇÑ Áö¹è¸¦ À§ÇØ ÀÌ°ÍµéÀ» »ç¿ëÇÒ °ÍÀÔ´Ï´Ù. ;;;;;;;;;;x
+TUTORIAL_6_A4_NAME;ÀÓ¹« ;;;;;;;;;;x
+TUTORIAL_6_A4_DESC;ÀÓ¹«´Â °ÔÀÓÀÇ Áß¿äÇÑ ÀÏºÎÀÔ´Ï´Ù. ±×°ÍÀº ´ç½ÅÀÇ °ø±º°ú ÇØ±º ÀÛÀüÀ» ÀÚµ¿È­ÇÕ´Ï´Ù. ÀÓ¹«µéÀº ÀÓ¹« Á¾·ù¿¡ µû¶ó Áö¿ª, ¿µ¿ª, ±¤¿ªÀ» ¸ñÇ¥·Î ÇÕ´Ï´Ù. ±¤¿ªÀº Å« Áö¿ªÀÇ ¹­À½ÀÌ°í, ¿µ¿ªÀº 3-4°³ Áö¿ªÀÇ ÀÛÀº ¹­À½ÀÔ´Ï´Ù. ±¤¿ª°ú ¿µ¿ªÀº Áöµµ¸ðµå·Î º¸¼¼¿ä. ÀÓ¹«´Â Ãø¸éÃ¢¿¡¼­ ÀÓ¹«»óÀÚ¸¦ ´©¸£°Å³ª, ¸ñÇ¥ Áö¿ª,¿µ¿ª,±¤¿ªÀ» ´©¸£°Å³ª, ¾î´ÀÂÊ¿¡¼­¶óµµ ¸¸µé ¼ö ÀÖ½À´Ï´Ù. Ãø¸éÃ¢ÀÇ field command º¸±â¿¡¼­ ´ç½ÅÀº ºÎ´ë ¸ñ·ÏÀÇ ÀÓ¹«»óÀÚ¸¦ Ã£À» ¼ö ÀÖ½À´Ï´Ù. ;;;;;;;;;;x
+TUTORIAL_6_A5_NAME;ÇØ±º ÀÓ¹« ;;;;;;;;;;x
+TUTORIAL_6_A5_DESC;Ã¹¹øÂ°·Î, ¹Ù´Ù Áö¿ªÀÇ Àû Àá¼öÇÔµéÀ» Ã»¼ÒÇÏ¼¼¿ä. ¾Æ¸¶¹Ì¿¡¼­ ´ç½ÅÀÇ ±¸ÃàÇÔ´ë¸¦ ¼±ÅÃÇÏ¼¼¿ä. Field Command º¸±â¸¦ ºÁÁÖ¼¼¿ä. <ÀÌ ºÎ´ë´Â ÀÓ¹«°¡ ¾ø½À´Ï´Ù.> ÀÓ¹«»óÀÚ¸¦ ´©¸£¼¼¿ä. Áö±Ý 'ÇØ¾çÃÊ°è'¸¦ ¼±ÅÃÇÏ°í, ÁöµµÀ§ÀÇ ¹ã»ö ¿µ¿ª ¶Ç´Â 'µ¿Áß±¹ÇØ'¸¦ ¼±ÅÃÇÏ¼¼¿ä. µÚÀÌ¾î °è¼ÓµÇ´Â ´ÙÀÌ¾ó·Î±× ¹Ú½º¿¡¼­ ¾ðÁ¦ ÀÓ¹«¸¦ ½ÃÀÛÇØ¾ßÇÏ°í, ¸ØÃç¾ß ÇÏ´ÂÁö ¸Å°³ º¯¼öµéÀ» ±âÀÔÇÕ´Ï´Ù. (Æ©Åä¸®¾ó¿¡¼±) ¹«½ÃÇÏ°í ÀÌ ¼³Á¤´ë·Î È®ÀÎÀ» ´©¸£¼¼¿ä. ;;;;;;;;;;x
+TUTORIAL_6_A6_NAME;°ø±º ÀÓ¹« ;;;;;;;;;;x
+TUTORIAL_6_A6_DESC;Áö±Ý ´ç½ÅÀÇ ÀüÅõ±âµéÀ» ¼±ÅÃÇÏ±â À§ÇØ ¾Æ¸¶¹ÌÀÇ È°ÁÖ·Î ¾ÆÀÌÄÜÀ» ´­·¯ÁÖ¼¼¿ä. ±×¸®°í ´ë¸¸¿¡¼­ ¾î¶² Áö¿ªÀÌ¶óµµ ¸¶¿ì½º ¿À¸¥ÂÊ ´ÜÃß¸¦ ´­·¯ÁÖ¼¼¿ä. ´ë¸¸ÀÇ 3°³ Áö¿ª(Å¸ÀÌº£ÀÌ,È­·Ë,°¡¿À½¹)Àº 1°³ÀÇ ¿µ¿ªÀ» ÀÌ·ì´Ï´Ù. ±×°ÍÀº Áöµµ¸ðµå¿¡¼­ º¼ ¼ö ÀÖ½À´Ï´Ù. 'Á¦°ø±ÇÀå¾Ç' °°Àº ÀÓ¹«¸¦ ¼±ÅÃÇÏ°í, ¼¼ºÎ ´ÙÀÌ¾ó·Î±×¿¡¼­ ±×³É °£´ÜÈ÷ È®ÀÎÀ» ´©¸£¼¼¿ä. ´ç½ÅÀÇ ÀüÅõ±âµéÀº Áö±Ý ¼¶ ÁÖÀ§ÀÇ ¸ðµç Àû ºñÇà±âµéÀ» ¼Ó¹ÚÇÒ °ÍÀÌ°í, ±×°ÍÀº ´ç½ÅÀÇ °­ÇÏº´µéÀ» ¼ö¼Û±â¿¡¼­ ¾ÈÀüÇÏ°Ô ÇÏ°­½ÃÅ³ °ÍÀÔ´Ï´Ù. ;;;;;;;;;;x
+TUTORIAL_6_A7_NAME;ºÎ´ë ÀçÆí ;;;;;;;;;;x
+TUTORIAL_6_A7_DESC;Áö±ÝÀº Ä§ÀÔÀ» ÁØºñÇÏ´Â ½Ã°£ÀÔ´Ï´Ù. °¢ »ó·ú¼ö¼ÛÇÔ°ú ¼ö¼Û±â´Â ¿ÀÁ÷ 1°³ÀÇ Å©±â¿¡ ÇØ´çÇÏ´Â »ç´ÜÀ» ¼ö¼ÛÇÒ ¼ö ÀÖ½À´Ï´Ù. ´ç½ÅÀÇ °­ÇÏº´µé°ú º¸º´µéÀ» Å¾½Â½ÃÅ°±â À§ÇØ ±×µéÀ» 1°³ÀÇ »ç´Ü¾¿À¸·Î ³ª´­ ÇÊ¿ä°¡ ÀÖ½À´Ï´Ù. ÀÌ°ÍÀº field command º¸±â¿¡¼­ »õ·Î¿î ºÎ´ë¸¦ ¸¸µå´Â ¹öÆ°À» ´­·¯¼­ ÇÏ°Ô µË´Ï´Ù. ±× ´ÙÀ½ ´ç½ÅÀº + ´ÜÃß¸¦ ´­·¯ »ç´ÜÀ» »õ·Î¿î °Í¿¡ Ã¤¿ó´Ï´Ù. °è¼ÓÇÏ±â Àü¿¡ Áö±Ý ´ç½ÅÀÇ º¸º´°ú °­ÇÏº´µéÀ» ÂÉ°³¾î º¾´Ï´Ù. ±× ºÐ¸®µÈ °ÍÀº °¢°¢ 1°³ »ç´ÜÀ¸·Î ÀÌ·ç¾îÁø 4°³ÀÇ ºÎ´ëÀÔ´Ï´Ù. ;;;;;;;;;;x
+TUTORIAL_6_A8_NAME;°ø¼ö°­½À ;;;;;;;;;;x
+TUTORIAL_6_A8_DESC;Áö±Ý ¼ö¼Û±â¿¡ °­ÇÏº´ »ç´ÜÀ» Å¾½Â½ÃÅ°´Â °ÍÀÌ °¡´ÉÇÕ´Ï´Ù. °­ÇÏº´ÀÇ Field Command º¸±â¿¡¼­ ³«ÇÏ»ê ¾ÆÀÌÄÜÀ» ´­·¯¼­ ±×·¸°Ô ÇØÁÖ¼¼¿ä. ¼ö¼Û±â´Â Áö±Ý ÀÚµ¿ÀûÀ¸·Î ¼±ÅÃµË´Ï´Ù. È­·Ë Áö¿ªÀ» ¿À¸¥Å¬¸¯ÇÏ¿© °ø¼ö°­½ÀÀ» ¼±ÅÃÇÏ¼¼¿ä. ;;;;;;;;;;x
+TUTORIAL_6_A9_NAME;´ë¸¸ Á¤º¹ ;;;;;;;;;;x
+TUTORIAL_6_A9_DESC;È­·Ë¿¡ ´ëÇÑ ´ç½ÅÀÇ ¼º°øÀûÀÎ °­½ÀÀ» ÃàÇÏÇÕ´Ï´Ù. ÇØ±º »ó·ú¼ö¼ÛÇÔ¿¡ ºÎ´ë¸¦ ÅÂ¿ì´Â °ÍÀº ¼ö¼Û±â¿¡ ÅÂ¿ì´Â °Í°ú ´ÜÃß»ç¿ëÀ» Á¦¿ÜÇÏ°ï ¶È°°½À´Ï´Ù. ÇØ±º »ó·ú¼ö¼ÛÇÔ¿¡ ºÎ´ë¸¦ ÅÂ¿ì´Â ´ÜÃß¸¦ Ã£°í ´ë¸¸¿¡ »ó·ú°­½À°ú °ø¼ö°­½ÀÀ» »ç¿ëÇØ¼­ Á¤º¹ÇØº¸¼¼¿ä. °ø°ÝÁö¿øÀ» »ç¿ëÇÒ ¼ö ÀÖ´Ù´Â °É ÀØÁö ¸¶¼¼¿ä, ±×·¸Áö ¾ÊÀ¸¸é ´ç½ÅÀº ÆÐ¹è·Î °í»ýÇÒÁöµµ ¸ð¸¨´Ï´Ù. Çà¿îÀ» º÷´Ï´Ù! ;;;;;;;;;;x
+TUTORIAL_6_A10_NAME;³¡¸Î´Â ¸» ;;;;;;;;;;x
+TUTORIAL_6_A10_DESC;´ç½ÅÀº ´ë¸¸À» Á¤º¹ÇÏ°í, ÀÚµ¿È­µÈ ÀÓ¹«¹æ½ÄÀ» ¹è¿ì°í, º¸º´°ú °­ÇÏº´À» ¼ö¼ÛÇÏ°í °­½ÀÇÏ±â À§ÇØ ÀçÆí¼ºÇÏ´Â ¹ýÀ» ¹è¿ü½À´Ï´Ù. ÀÌ°ÍÀº ¸¶Áö¸· Æ©Åä¸®¾óÀÔ´Ï´Ù, ±×·¯³ª ´ç½ÅÀº ¹è¿ì±â À§ÇØ ¸ØÃßÁö ¸¶¼¼¿ä. Áö±ÝºÎÅÍ ´ç½ÅÀº ´ç½ÅÀÇ ¸Å´º¾óÀ» Âü°íÇØ¾ß ÇÒ °ÍÀÔ´Ï´Ù. ¸¸ÀÏ Á¤¸» ¾î·Á¿öÁö¸é, ´ç½ÅÀº ¿ì¸®ÀÇ paradoxplaza.com À¥Æ÷·³À» ¹æ¹®ÇØ ´õ ¸¹Àº °ÍÀ» ¹è¿ï ¼ö ÀÖ½À´Ï´Ù. ;;;;;;;;;;x
+#;;;;;;;;;;;x
+HINT_HEADER;°ÔÀÓ ÈùÆ® #%d ;;;;;;;;;;X
+HINT_SHOWHINTS;½ÃÀÛÇÒ¶§ ÆÁ º¸±â ;;;;;;;;;;X
+HINT_BTN_NEXT;´ÙÀ½ ;;;;;;;;;;X
+HINT_BTN_CLOSE;´Ý±â ;;;;;;;;;;X
+HINT_BTN_PREVIOUS;ÀÌÀüÀ¸·Î ;;;;;;;;;;X
+##;;;;;;;;;;;X
+HINT_1;'ctrl' Å°¿Í '+' ¶Ç´Â '-' Å°¸¦ µ¿½Ã¿¡ ´©¸§À¸·Î½á, ½Ã°£ ÁøÇà ¼Óµµ(°ÔÀÓ ¼Óµµ)¸¦ º¯È­½ÃÅ³ ¼ö ÀÖ½À´Ï´Ù. ¶ÇÇÑ ½Ã°£ Ç¥½Ã Ã¢ À§¿¡ ¿ìÅ¬¸¯À» ÇÏ¸é ÆË¾÷ ¸Þ´º¿¡¼­ ¿øÇÏ´Â ¼Óµµ¸¦ ¼±ÅÃÇÒ ¼ö ÀÖ½À´Ï´Ù. ;;;;;;;;;;X
+HINT_2;°ÔÀÓ Áöµµ È­¸éÀ» È®´ëÇÏ±â À§ÇØ¼­ ¹Ì´Ï¸Ê ¿·¿¡ ÀÖ´Â + ¿Í  - ¾ÆÀÌÄÜÀ» ÀÌ¿ëÇÏ¼¼¿ä. ¶ÇÇÑ, Å°º¸µåÀÇ '+' ¶Ç´Â '-' Å°µµ ÁöµµÀÇ È®´ë Á¤µµ¸¦ º¯È­½ÃÅ°´Â ´ÜÃàÅ°ÀÔ´Ï´Ù. ;;;;;;;;;;X
+HINT_3;'Pause/Break' ¹öÆ°À» ´©¸£¸é °ÔÀÓÀÌ ¸ØÃß°Å³ª Àç°³µË´Ï´Ù. ¶ÇÇÑ °ÔÀÓ ½Ã°£À» ¸ØÃß±â À§ÇØ¼­´Â ½Ã°£ Ã¢À» ÁÂÅ¬¸¯ ÇÏ¸é µË´Ï´Ù. ÀÌ¾î¼­ ÇÑ¹ø ´õ Å¬¸¯ÇÏ¸é, °ÔÀÓÀº Àç°³µË´Ï´Ù. ;;;;;;;;;;X
+HINT_4;À¯´ÖµéÀÇ ÀÌµ¿ °æ·Î¿¡ Áß°£ °æÀ¯Áö¸¦ Ãß°¡ÀûÀ¸·Î ¼³Á¤ÇÏ·Á¸é ½¬ÇÁÆ® Å°¸¦ ´©¸£°í Å¬¸¯ÇÏ¸é µË´Ï´Ù. ÀÌ ±â´ÉÀº ÀÚµ¿ ÀÌµ¿À¸·Î À¯´ÖµéÀÌ ³Ê¹« À§ÇèÇÑ °÷¿¡ ´Ù°¡°¡°Ô ÇÒ ¶§ À¯¿ëÇÕ´Ï´Ù. ;;;;;;;;;;X
+HINT_5;È­¸é»óÀÇ ¼ýÀÚ ¹öÆ°ÀÌ³ª ¾ÆÀÌÄÜ¿¡ ¸¶¿ì½º Ä¿¼­¸¦ ´ë°í ÀÖÀ¸¸é, ´ë°³ 2ÃÊ Á¤µµ ÈÄ¿¡ ´õ »ó¼¼ÇÑ Á¤º¸°¡ ³ªÅ¸³¯ °ÍÀÔ´Ï´Ù. ;;;;;;;;;;X
+HINT_6;¸¶¿ì½º ¿ÞÂÊ ¹öÆ°À» ´õºí Å¬¸¯ÇÏ°Å³ª ¿À¸¥ÂÊ ¹öÆ°À» ÇÑ¹ø Å¬¸¯ÇÔÀ¸·Î½á ½½¶óÀÌ´õµéÀ» °íÁ¤½ÃÅ°°Å³ª Ç® ¼ö ÀÖ½À´Ï´Ù. ÀÌ°ÍÀº »ý»ê ½½¶óÀÌ´õµéÀ» ¼¼ÆÃÇÒ ¶§ ±²ÀåÈ÷ µµ¿òÀÌ µË´Ï´Ù. ;;;;;;;;;;X
+HINT_7;ºÎ´ë¸¦ ÅÂ¿î »ó·ú¼ö¼ÛÇÔÀÇ Çà¼±Áö¸¦ ¿ì±º ¶Ç´Â ¾Æ±º Ç×±¸·Î ¼³Á¤ÇØ³õÀ¸¸é, Å¸°í ÀÖ´ø ºÎ´ëµéÀÌ ÀÚµ¿À¸·Î ÇÏÂ÷ÇÕ´Ï´Ù. ;;;;;;;;;;X
+HINT_8;À¯´Ö ¶õ ÇÏ´ÜÀÇ ½Â¼±¹öÆ°À» Å¬¸¯ÇÏ¸é Ç×±¸¿¡ ÀÖ´Â »ó·ú¼ö¼ÛÇÔ¿¡ ºÎ´ëµéÀ» ÅÂ¿ï ¼ö ÀÖ½À´Ï´Ù. ;;;;;;;;;;X
+HINT_9;Á¶Á÷·Â(ORG)Àº À¯´ÖÀÇ ÀüÅõ ´É·ÂÀ» º¸¿©ÁÝ´Ï´Ù. Á¶Á÷·ÂÀº ÀüÅõ³ª, ÀÌµ¿ ¶Ç´Â º¸±Þ ºÎÁ·À¸·Î °¨¼ÒÇÒ ¼ö ÀÖ½À´Ï´Ù. ¸¸¾à Á¶Á÷·ÂÀÌ 0ÀÌ µÈ´Ù¸é, ´ç½ÅÀÇ À¯´ÖÀº ¾î¶°ÇÑ ÀüÅõ¿¡¼­µç Åð°¢ÇÒ °ÍÀÔ´Ï´Ù. ±×¸®°í ¶ÇÇÑ Æ÷À§µÈ´Ù¸é, Ç×º¹ÇÒÁöµµ ¸ð¸¨´Ï´Ù. ;;;;;;;;;;X
+HINT_10;Åë¼Ö·ÂÀº Áß¿äÇÕ´Ï´Ù. ´ç½ÅÀÇ ÇÙ½É ¿µÅäµé¿¡ ¹èÄ¡µÈ ºÎ´ëµéÀ» ÁöÈÖÇÏ´Â µ¥ ÃÖ°íÀÇ Àå¼ºµéÀ» »ç¿ëÇÏ¼¼¿ä. ¶ÇÇÑ, ¾î¶² Àå¼ºµéÀº ±â°© ¶Ç´Â Æ¯¼ö ºÎ´ë (°ø¼öºÎ´ë, »ê¾ÇºÎ´ë, ÇØº´´ë) ¸¦ ÁöÈÖÇÏ°Å³ª °ø°Ý°ú ¹æ¾î, ¿ä»õ¸¦ °ø°ÝÇÏ´Â µîÀÇ È°µ¿¿¡ º¸³Ê½º¸¦ °®´Â Æ¯º°ÇÑ Æ¯¼ºµéÀ» Áö´Ï°í ÀÖ½À´Ï´Ù. ;;;;;;;;;;X
+HINT_11;º´·Â(STR)Àº º´·Â°ú È­·ÂÀ» ¹Ý¿µÇÕ´Ï´Ù. ÀÌ°ÍÀº ÀüÅõ ÁßÀÌ°Å³ª º¸±ÞÀÌ ´ÜÀýµÈ »óÅÂ¿¡¼­ÀÇ ¼Õ½Ç¿¡ ÀÇÇÏ¿© ÁÙ¾îµé ¼ö ÀÖ½À´Ï´Ù. ¸¸¾à ÀÌ°ÍÀÌ 0ÀÌ µÈ´Ù¸é, À¯´ÖÀº ÆÄ±«µË´Ï´Ù. ;;;;;;;;;;X
+HINT_12;²ÙÁØÇÑ Áõ¿øÀ» ÅëÇØ¼­¸¸ À¯´ÖÀÇ º´·ÂÀº Àç°Ç µÉ ¼ö ÀÖ½À´Ï´Ù. Àç°Ç ¼Óµµ¸¦ ²ø¾î¿Ã¸®±â À§ÇØ¼±, À¯´Ö ÆÐ³Î ¹Ø¿¡ ¿ì¼±¼øÀ§ ¼±Á¤ ¹Ú½º¸¦ ´©¸£¼¼¿ä. ;;;;;;;;;;X
+HINT_13;Á¶Á÷·ÂÀº º¸±ÞÀÌ ÀÌ·ç¾îÁö´Â »óÅÂ¿¡¼­ ÀüÅõ¿¡ Âü¿©ÇÏÁö ¾Ê°Å³ª, ÀÌµ¿ÇÏÁö ¾ÊÀ» ¶§ Áõ°¡ÇÕ´Ï´Ù. ´ç½ÅÀÌ ¹ÎÁÖÁ¤ Ã¼Á¦¶ó¸é, ÆòÈ­ ½Ã±â µ¿¾ÈÀº À¯´ÖµéÀÇ Á¶Á÷·ÂÀÌ Àý¹ÝÀÌ µË´Ï´Ù. ÀÌ°ÍÀº ºÎºÐÀûÀ¸·Î ºÎ´ëµéÀÌ µ¿¿ø ÇØÁ¦ »óÅÂ¶ó´Â °ÍÀ» ÀÇ¹ÌÇÕ´Ï´Ù. ;;;;;;;;;;X
+HINT_14;'Darkest Hour'¿¡¼± ÀÎÇü ¸»(¿òÁ÷ÀÌ´Â ¸ðÇü)À» »ç¿ëÇØ¼­ °ÔÀÓÀÇ À¯´ÖÀ» ³ªÅ¸³À´Ï´Ù. ¸¸¾à ´ç½ÅÀÌ ¿©·¯ º¸µå °ÔÀÓ¿¡¼­ ¾²ÀÌ´Â °ÍÃ³·³ ³ªÅä ±âÈ£¸¦ ´õ ÁÁ¾ÆÇÑ´Ù¸é, ´ç½ÅÀº ¿É¼Ç ¸Þ´º¿¡¼­ º¸µå°ÔÀÓ Ä¨ »ç¿ëÇÏ±â(Use Counter¸¦ OnÀ¸·Î ¼³Á¤)¸¦ ¼±ÅÃÇÒ ¼ö ÀÖ½À´Ï´Ù. ;;;;;;;;;;X
+HINT_15;À¯´Ö »ý»ê¿¡ ÇÊ¿äÇÑ IC°¡ ºÎÁ·ÇÒ °æ¿ì, »ý»ê ¶õ¿¡ ¿ì¼±¼øÀ§¸¦ ¼±Á¤(»ý»ê ¶õÀÇ ÃÖ»ó´Ü¿¡ ³õ¿´À» ¶§) ÇÒ ¼ö ÀÖ½À´Ï´Ù. ¸¸¾à, IC°¡ ÃæºÐÄ¡ ¸øÇÏ°Ô ÇÒ´ç µÉ °æ¿ì, ÇÁ·ÎÁ§Æ®µéÀÌ ´À¸®°Ô ÁøÇàµÇ°Å³ª ¾Æ¿¹ ÁøÇàÀÌ ¾È µÉ ¼öµµ ÀÖ½À´Ï´Ù. ;;;;;;;;;;X
+HINT_16;¹Ì´Ï ¸Ê¿¡ ÁÂÅ¬¸¯À» ÇÏ¸é ¸ÞÀÎ ¸ÊÀÇ ¾î´À À§Ä¡¿¡¼­µç Áß½ÉÀ¸·Î È­¸éÀ» ÀüÈ¯ÇÒ ¼ö ÀÖ½À´Ï´Ù. À¯´ÖÀ» ¼±ÅÃÇÑ »óÅÂ¿¡¼­ °¡¿îµ¥·Î ÀüÈ¯ÇÏ·Á¸é, Home Å°¸¦ ´©¸£¼¼¿ä. ;;;;;;;;;;X
+HINT_17;°øÁß °­½ÀÀº ¼ö¼Û±â¿¡ °ø¼öºÎ´ë¸¦ Å¾½Â½ÃÅ°°í, °­ÇÏ ÀÓ¹«¸¦ ¼±ÅÃÇÏ¸é µË´Ï´Ù. ÀÌ·± °ø°ÝÀº ÀÚÃ¼ÀÇ ÀüÅõÈ¿À²ÀÌ ¶³¾îÁö´Â Æ¯º°ÇÑ °ø°Ý¹æ½ÄÀÌÁö¸¸, º°µ¿ Áö¿ªÀ» °ø°ÝÇÏ°Å³ª ÀûµéÀÇ ¿ä»õ³ª °­, ¹æ¾î¼±À» Ä§ÅõÇÒ ¶§ À¯¿ëÇÕ´Ï´Ù. ;;;;;;;;;;X
+HINT_18;¼ö¼Û·Â(TC)´Â ±¹°¡ ¿µÅä Àü¹Ý¿¡ °ÉÃÄ ÀÎ·Â, Àåºñ, º¸±ÞÇ°À» ¼ö¼ÛÇÒ ¼ö ÀÖ´Â ¸ðµç ¿ª·®À» ¶æÇÕ´Ï´Ù. ¹Ý±ºÈ°µ¿, Àû ¿µÅä Á¡°Å, ºÎ´ë¿¡ ÇÊ¿äÇÑ º¸±Þ°ú ±âÅ¸ ¿©·¯ È°µ¿¿¡´Â ÃæºÐÇÑ TC¸¦ ÇÊ¿äÇÕ´Ï´Ù. TC ¼ö¿ë·ÂÀ» ÃÊ°úÇÏ¸é ºÎ´ë¿¡ ÃæºÐÇÑ º¸±ÞÀ» ÇÒ ¼ö°¡ ¾ø½À´Ï´Ù. ;;;;;;;;;;X
+HINT_19;¸ðµç À¯´ÖµéÀº ÀÓ¹« »óÀÚ¸¦ °®°í ÀÖ½À´Ï´Ù. ±âº» »óÅÂ¿¡¼± ¾Æ¹« ÀÓ¹«µµ ÇÒ´çµÇÁö ¾Ê¾Ò´Ù´Â °ÍÀ» ¶æÇÕ´Ï´Ù. À¯´Öµé·Î ´Ù¸¥ ¿µÅäµé¿¡ ¿ìÅ¬¸¯ÇÏ¸é °ø°Ý, ÀÌµ¿ µîÀÇ ÀÓ¹«°¡ ÀÚµ¿À¸·Î ÇÒ´çµË´Ï´Ù. ¶ÇÇÑ ÀÓ¹« »óÀÚ¸¦ Å¬¸¯ÇÏ¿©, ÀÓ¹« ¹æ½ÄÀÌ³ª ¸ñÇ¥¸¦ Á÷Á¢ ¼³Á¤ÇÒ ¼öµµ ÀÖ½À´Ï´Ù. ;;;;;;;;;;X
+HINT_20;¿µÅä¸¦ ¿ìÅ¬¸¯ÇÏ°í ´ç½ÅÀÌ ¿øÇÏ´Â ¿ä»õ, °øÀå, ±âÁö, ±âÅ¸ ¼³ºñ °Ç¼³µéÀ» ¼±ÅÃÇÏ¼¼¿ä. ¶ÇÇÑ ¿µÅä Á¤º¸ ÆÐ³Î¿¡¼­ Á÷Á¢ÀûÀ¸·Î ÁöÁ¤ÇÒ ¼öµµ ÀÖ½À´Ï´Ù. ÀÏ´Ü °³¹ßµÉ °ÍµéÀÌ ÁöÁ¤µÇ°í, »ý»ê Ã¢¿¡ ÃæºÐÇÑ IC°¡ ÇÒ´çµÈ´Ù¸é, ¹ßÀüÀÌ ÀÌ·ç¾îÁý´Ï´Ù. ;;;;;;;;;;X
+HINT_21;¿©´ÜÀº ´ë°ø¿©´ÜÀÌ³ª ÁßÀüÂ÷ °°ÀÌ ´ç½ÅÀÇ »ç´ÜÀÇ ´É·ÂÀ» Çâ»ó½ÃÅ°±â À§ÇÏ¿© ºÎ¼ÓÀÌ °¡´ÉÇÑ ÁØ-»ç´Ü À¯´ÖÀÔ´Ï´Ù. ¿©´ÜÀ» ºÎ¼ÓÇÏ´Â °¡Àå ½¬¿î ¹æ¹ýÀº À¯´ÖÀ» ¼±ÅÃÇÑ ÈÄ À¯´Ö ¼¼ºÎ»çÇ× ¶õ¿¡¼­ ¿©´Ü ºÎ¼Ó(B+) ¾ÆÀÌÄÜÀ» Å¬¸¯ÇÏ´Â °ÍÀÔ´Ï´Ù. ¶ÇÇÑ Æ÷½º Ç®¿¡¼± ¹èÄ¡°¡´ÉÇÑ ¸ðµç ¿©´ÜµéÀ» È®ÀÎÇÒ ¼ö ÀÖ½À´Ï´Ù. ;;;;;;;;;;X
+HINT_22;¿©´ÜÀ» ¶¼¾î³»±â À§ÇØ¼±, À¯´Ö ¼¼ºÎ»çÇ× ¶õ¿¡¼­ ¿©´Ü ¶¼¾î³»±â ¾ÆÀÌÄÜÀ»(B-) Å¬¸¯ÇÏ¼¼¿ä. ÀÌ·Î¼­ ¿©´ÜÀ» Æ÷½º Ç®·Î º¸³¾ ¼ö ÀÖÀ¸¸ç, 7ÀÏ µ¿¾È ÀçÁ¶Á÷µÈ ÈÄ¿¡ ´Ù½Ã ´Ù¸¥ »ç´Ü¿¡ ºÎ¼Ó½ÃÅ³ ¼ö ÀÖ½À´Ï´Ù. ;;;;;;;;;;X
+HINT_23;°¢°¢ Á¡·ÉµÈ ¿µÅä´Â ¹Ý±º È°µ¿ ¼öÄ¡°¡ ¸Þ°ÜÁý´Ï´Ù. ÀÌ°ÍÀº TC¿¡ ºÎÁ¤ÀûÀÎ ¿µÇâÀ» ¹ÌÄ¡¸ç, È®ÀÎÇÏÁö ¾ÊÀ» °æ¿ì¿£, ¹Ý±º À¯´ÖÀÌ ³ªÅ¸³ª ´ç½ÅÀÇ ±º´ë¸¦ °ø°ÝÇÒ °ÍÀÔ´Ï´Ù. ¹Ý±º È°µ¿À» ³·Ãß±â À§ÇØ¼±, ÁÖµÐº´µéÀ» ¹èÄ¡ÇÏ¿© ¹Ý±º¼ÒÅÁÀ» ¸í·ÉÇÏ¼¼¿ä. ;;;;;;;;;;X
+HINT_24;±âº» ¼³Á¤¿¡¼­, °ÔÀÓÀº ÀÚ¿ø°ú º¸±ÞÇ°µéÀ» ÀûÀç Àå¼Ò¿¡ ¿î¼ÛÇÏ±âÀ§ÇØ È­¹°¼ö¼Û¼±À» ÀÚµ¿ÀûÀ¸·Î ¹èÄ¡ÇÕ´Ï´Ù. ¸¸¾à, ´ç½ÅÀÌ ½º½º·Î °ü¸®ÇÏ°í ½Í´Ù¸é, »ý»ê Ã¢¿¡ È­¹°¼ö¼Û¼± ÀÚµ¿ ¹èÄ¡¸¦ Ã¼Å© ÇØÁ¦ ÇÏ¼¼¿ä. ;;;;;;;;;;X
+HINT_25;¿ì±º¿¡°Ô ÀÚ¿øµéÀ» ¼ö¼ÛÇÏ·Á¸é, ¿Ü±³ Ã¢¿¡¼­ ¹«¿ªÇùÁ¤À» ÇÏ¼¼¿ä. ÀÚ¿ø ¼öÃâÀº ÀÚµ¿ÀûÀ¸·Î °ü¸®µÇ¹Ç·Î »ý»ê Ã¢¿¡ ÀÚ¿øµéÀ» ³ª¸£´À¶ó °ÆÁ¤ÇÒ ÇÊ¿ä°¡ ¾ø½À´Ï´Ù. ;;;;;;;;;;X
+HINT_26;ÇØ»ó, Ç×°ø À¯´ÖµéÀº 1¿¡¼­ 10±îÁö Å©±â°¡ ¸Þ°ÜÁö´Â ±âÁö¸¦ Áß½ÉÀ¸·Î ÀÛÀüÀ» ¼öÇàÇÕ´Ï´Ù. ±âÁöµéÀº Àû±º¿¡ ÀÇÇØ ¼Õ»óµÉ ¼öµµ ÀÖÀ¸¸ç, ±×·Î ÀÎÇØ ÀÛÀü ¼öÇàÀÌ ¾î·Á¿ö Áú ¼öµµ ÀÖ½À´Ï´Ù. ±âÁö¸¦ Ç×»ó º¸È£ÇÏ½Ê½Ã¿À. ±×·¸Áö ¾ÊÀ¸¸é ÀÛÀüÀ» È¿°úÀûÀ¸·Î ¼öÇàÇÏ±â Èûµé °ÍÀÔ´Ï´Ù. ;;;;;;;;;;X
+HINT_27;¿¬±¸´Â ±â¼ú Ã¢¿¡ ÇÁ·ÎÁ§Æ®µéÀ» Å×Å© ÆÀ¿¡ ÇÒ´çÇÏ´Â °ÍÀ¸·Î ¿Ï·áµË´Ï´Ù. °¢°¢ÀÇ Å×Å© ÆÀÀº °íÀ¯ÇÑ ±â¼ú ·¹º§°ú Æ¯±â¸¦ °®°í ÀÖÀ¸¸ç, °¢°¢ÀÇ Å×Å©´Â ³­¹®°ú ¿ä±¸ ÄÄÆ÷³ÍÆ®µéÀ» °®°í ÀÖ½À´Ï´Ù. ¿¬±¸¸¦ ¸í·ÉÇÒ ¶§, °¢ Å×Å©¿¡ ÇÊ¿äÇÑ ÄÄÆ÷³ÍÆ®¿Í Æ¯±â°¡ À¯»çÇÑ ÆÀÀ» ÀÌ¿ëÇÏ½Ê½Ã¿À. ;;;;;;;;;;X
+HINT_28;°ÔÀÓ¿¡¼­ ¿©·¯ ¿µÅäµéÀº ½Â¸® Æ÷ÀÎÆ®¸¦ °®°í ÀÖ½À´Ï´Ù. ÀÌ°ÍµéÀº Áö¿ªµéÀÇ »ó´ëÀûÀÎ Áß¿äµµ¸¦ ¹Ý¿µÇÏ¸ç, °ÔÀÓÀÇ ½Â¸®ÀÚ°¡ ´©±¸³Ä¸¦ °áÁ¤Áþ´Âµ¥ ÀÌ¿ëµË´Ï´Ù. Á¡·ÉÀ» Á¦¿ÜÇÏ°íµµ Æ¯¼ö Á¶°ÇÀ» ÃæÁ·½ÃÅ³ ¶§, ¹ß»ýÇÏ´Â ÀÌº¥Æ®¸¦ ÅëÇØ ½Â¸® Æ÷ÀÎÆ®·Î È¹µæÇÒ ¼öµµ ÀÖ½À´Ï´Ù. ¶ÇÇÑ Àû±¹ÀÇ ½Â¸® Æ÷ÀÎÆ® Áö¿ªÀ» Á¡·ÉÇÏ¸é ÆòÈ­ÇùÁ¤À» À¯¸®ÇÏ°Ô ÁøÇà½ÃÅ³ ¼ö ÀÖ½À´Ï´Ù. ;;;;;;;;;;X
+HINT_29;»ó´ç¼öÀÇ ¿µÅäµéÀº ¿¡³ÊÁö³ª Èñ±Í ±Ý¼Ó µî ¿©·¯ ÀÚ¿øµéÀ» »ý»êÇÕ´Ï´Ù. »ê¾÷ »ý»êÀ» ±Ø´ëÈ­ÇÏ°í ¹«¿ªÇù»óÀ» À§ÇÑ ¿©ºÐÀÇ ÀÚ¿øÀ» °®±â À§ÇØ¼± ÀÌ·± ¿µÅäµéÀ» ÅëÄ¡ÇÏ´Â °ÍÀÌ Áß¿äÇÕ´Ï´Ù. Á¡·ÉÁöÀÇ ÀÚ¿ø»ý»êÀº º»±¹º¸´Ù ´õ È¿À²ÀÌ ¶³¾îÁý´Ï´Ù. ;;;;;;;;;;X
+HINT_30;À°Áö ¿µÅä¿¡¼± ¿ä»õµéÀ» °Ç¼³ÇÒ ¼ö ÀÖ½À´Ï´Ù. ¿ä»õ´Â °ø°ÝÀÚÀÇ °ø°ÝÈ¿À²À» ¶³¾î¶ß¸®¸ç, µû¶ó¼­ À¯´ÖµéÀÇ ÇÇÇØ¸¦ ¸·´Âµ¥ È¿°úÀûÀÔ´Ï´Ù. À°Áö ¿ä»õ´Â ÀÎÁ¢ÇÑ ¿µÅä¿¡¼­ÀÇ °ø°ÝÀ» ¸·¾ÆÁÝ´Ï´Ù. ÇÏÁö¸¸, »ó·ú°ø°ÝÀÌ³ª °ø¼ö °ø°ÝÀ» ¸·¾ÆÁÖÁø ¸øÇÕ´Ï´Ù. ¿ÀÁ÷ ÇØ¾È ¿ä»õ¸¸ÀÌ »ó·ú °ø°ÝÀ» ¹æ¾îÇØÁÝ´Ï´Ù. ;;;;;;;;;;X
+HINT_31;°¢°¢ÀÇ ¿µÅä´Â ·ÎÄÏ ±âÁö¶óµçÁö ´ë°øÆ÷, ±âÁö, ¿ä»õ µî Æ¯¼öÇÑ °Ç¹°µéÀ» °®°í ÀÖ½À´Ï´Ù. ¸¶Âù°¡Áö·Î, »ý»ê Ã¢¿¡¼­, ¶Ç´Â ´õ ½±°Ô ¿µÅä¸¦ ¿ìÅ¬¸¯ÇÔÀ¸·Î½á ¿øÇÏ´Â ½Ã¼³µéÀ» ½±°Ô °Ç¼³ÇÒ ¼ö ÀÖ½À´Ï´Ù. ;;;;;;;;;;X
+HINT_32;¿µÅä Ã¢Àº ¿ìÃøÀÇ ¿µÅä ÀÌ¹ÌÁö·Î ÀÎÁ¢ÇÑ ¿µÅä ¸®½ºÆ®¸¦ º¸¿©ÁÝ´Ï´Ù. ÀÌ°ÍÀº ¾î´À ¿µÅä·Î °­ÀÌ³ª ÀÏ¹ÝÀûÀÎ Áö»ó ¿¬°áÀÌ µÇ¾îÀÖ´ÂÁö ÇÑ ´«¿¡ º¸¿©ÁÝ´Ï´Ù. ;;;;;;;;;;X
+HINT_33;¿Ü·¹Áëµå ÇØÇùÀÌ³ª º¸½ºÆ÷·¯½º ÇØÇù, Áöºê·ÑÅÍ ÇØÇù, ¼ö¿¡Áî ¿îÇÏÃ³·³ ÀÎÁ¢ÇÑ Áö»ó ¿µÅä°¡ Àûµé¿¡°Ô Á¡°ÅµÇ¾î ÀÖÀ¸¸é, ÇØ»ó À¯´ÖÀÌ Áö³ª°¥ ¼ö ¾ø´Â ¸î¸î ¼ö·ÎµéÀÌ Á¸ÀçÇÕ´Ï´Ù. ;;;;;;;;;;X
+HINT_34;³¯¾¾ ¸Ê-¸ðµå·Î ºñ, ÆøÇ³, ´«º¸¶ó¿Í °°Àº ³¯¾¾ »óÅÂ¸¦ È®ÀÎÇÒ ¼ö ÀÖ½À´Ï´Ù. ¾ÇÃµÈÄ¿¡¼± ÀûÀ» ¹ß°ßÇÏ°í ºü¸£°Ô ±âµ¿ÇÏ°Å³ª È¿°úÀûÀ¸·Î ÀüÅõÇÏ´Â °ÍÀÌ ºÒ°¡´ÉÇÕ´Ï´Ù. °¡´ÉÇÑ °Ü¿ï¿¡´Â ÀüÅõ¸¦ ÇÇÇÏ¼¼¿ä. ;;;;;;;;;;X
+HINT_35;°ÔÀÓ¿¡ Æ¯Â¡ÀÌ³ª ½Â¸® Àü·«, ÆÐÄ¡ ´Ù¿î·Îµå, À¯ÀúµéÀÌ ¸¸µç MOD ±×¸®°í ±âÅ¸ ±× ¿Ü °ÍµéÀ» Âü°íÇÏ°í ½Í´Ù¸é, www.paradoxplaza.com ÀÇ HoI 2 Æ÷·³À» ¹æ¹®ÇØÁÖ¼¼¿ä. ;;;;;;;;;;X
+HINT_36;ÀÚ¿ø, ºÒ¸¸µµ, ¸ÇÆÄ¿ö, IC, TC, ±âÅ¸ °ªµéÀ» º¸¿©ÁÖ´Â ÃÖ»ó´ÜÀÇ ¹Ù¿¡ Ç×»ó ÁÖÀÇ¸¦ ±â¿ïÀÌ¼¼¿ä. »¡°£»öÀ¸·Î ¹Ù²î¸é ÇØ´ç °ªÀÌ °¨¼ÒµÈ´Ù´Â ÀÇ¹ÌÀÌ°í, °á±¹¿¡´Â Àç°í¸¦ ¸ðµÎ ¼ÒÁøÇÏ°Å³ª, ºÒ¸¸µµ°¡ Áõ°¡ÇÏ¿© »ê¾÷ÀÌ³ª ÀüÅõ È¿À²ÀÌ ¶³¾îÁö°Ô µÇ¹Ç·Î ÁÖÀÇ°¡ ÇÊ¿äÇÕ´Ï´Ù. ;;;;;;;;;;X
+HINT_37;Åë°è È­¸é¿¡¼­ À¯´ÖÀ» Å¬¸¯ÇÏ¸é À¯´ÖÀÌ ¼±ÅÃµÈ Ã¤ Áöµµ È­¸éÀ¸·Î ÀüÈ¯µË´Ï´Ù. ÀÌ ±â´ÉÀº À¯´Ö º´·Â Á¤µµ¸¦ ºÐ·ùÇÏ°Å³ª ¿ì¼± ´ëÃ¼ º´·ÂµéÀ» ¹Ù·Î È®ÀÎÇÒ ¶§ À¯¿ëÇÕ´Ï´Ù. ;;;;;;;;;;X
+HINT_38;? Å°¸¦ ´©¸£¸é ¿µÅä¸¦ ÀÌ¸§ÀÌ³ª ID ¼ýÀÚ·Î °Ë»öÀÌ °¡´ÉÇÕ´Ï´Ù. ¿µÅäÀÇ Á¤È®ÇÑ ID ¼ýÀÚ¸¦ ÀÔ·ÂÇÏ¸é ÀÚµ¿ÀûÀ¸·Î ÇØ´ç ¿µÅä·Î ÀÌµ¿ÇÕ´Ï´Ù. ;;;;;;;;;;X
+HINT_39;F12 Å°¸¦ ´©¸§À¸·Î½á °ÔÀÓ ÄÜ¼Ö Ã¢À» ¶ç¿ï ¼ö ÀÖ½À´Ï´Ù. ÀÌ°ÍÀº Ä¡Æ® ÄÚµå, ÀÌº¥Æ®¸¦ ¹ßµ¿½ÃÅ°°Å³ª ÀüÀï ¾È°³¸¦ Á¦°ÅÇÏ´Â ½ÄÀ¸·Î ±âÅ¸ °ÔÀÓ ÆíÀÇ¸¦ À§ÇØ ÀÌ¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù. ;;;;;;;;;;X
+HINT_40;Åë°è Ã¢¿¡¼­ °¢ ¶õÀº Ç¥Á¦µéÀ» Å¬¸¯ÇÔÀ¸·Î½á ºÐ·ù¸¦ ¼Õ ½±°Ô ÇÒ ¼ö ÀÖ½À´Ï´Ù. Ç¥Á¦¸¦ ´Ù½Ã ´©¸£¸é, À§·Î Á¤·Ä, µÚ·Î Á¤·Ä µîÀ¸·Î ºÐ·ù ±â´ÉÀ» ÀÌ¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù. ;;;;;;;;;;X
+HINT_41;ÆÐ·¯µ¶½º ¿£ÅÍÅ×ÀÎ¸ÕÆ®ÀÇ À¥»çÀÌÆ®´Â www.paradoxplaza.com ¿¡ À§Ä¡ÇÏ°í ÀÖ½À´Ï´Ù. ÃÖ½Å Á¤º¸³ª ÆÐÄ¡¸¦ À§ÇØ ÀÚÁÖ ¹æ¹®ÇØÁÖ¼¼¿ä. ¶ÇÇÑ ´Ù¸¥ È£ÀÌ ÇÃ·¹ÀÌ¾îµé¿¡ ÀÇÇØ ºü¸£°Ô ´äº¯µÇ´Â Åä·Ð Æ÷·³À» ¹æ¹®ÇØÁÖ¼¼¿ä. ;;;;;;;;;;X
+HINT_42;±¹³» Á¤Ã¥ ½½¶óÀÌ´õ´Â ¿Ü±³ ¸Þ´º¸¦ ÅëÇØ¼­ Á¢±ÙÇÒ ¼ö ÀÖ½À´Ï´Ù. ¸Å ¿©¼¸ ´Þ¸¶´Ù ½½¶óÀÌ´õ¸¦ ÇÑ¹ø ¿Å±æ ¼ö ÀÖ½À´Ï´Ù. ¶§¶§·Î Á¤ºÎ Å¸ÀÔ¿¡ ÀÇÇØ ½½¶óÀÌ´õ¸¦ ¿Å±â´Â °ÍÀÌ Á¦ÇÑ µÉ ¼öµµ ÀÖ½À´Ï´Ù. ½½¶óÀÌ´õ ¹Ù¿¡ ¸¶¿ì½º¸¦ ³õÀ¸¸é, ±× À§Ä¡·Î ½½¶óÀÌ´õ¸¦ ¿òÁ÷ÀÏ ¶§ÀÇ ¿¹»ó È¿°úµéÀ» º¼ ¼ö ÀÖ½À´Ï´Ù. ;;;;;;;;;;X
+HINT_43;Àå°üµéÀº ³ª¶ó¸¦ ¿î¿µÇØ°¡´Â »ç¶÷µéÀÔ´Ï´Ù. °¢°¢ÀÇ Àå°üÀº IC³ª ±º»ç, º¸±ÞÇ° ±âÅ¸ µî¿¡ ¿µÇâÀ» ³¢Ä¨´Ï´Ù. µû¶ó¼­ Àå°üÀ» º¯°æÇÏ´Â °ÍÀº ±¹°¡ÀÇ »ýÁ¸°ú ¿î¿µ¿¡ ÇÊ¼öÀûÀÔ´Ï´Ù. ¸Å³â ÇÑ ÇØ°¡ »õ·Î ½ÃÀÛµÉ ¶§ »õ·Ó°Ô ÀÓ¸íÇÒ ¼ö ÀÖÀ¸¸ç, ¶ÇÇÑ ±×°ÍµéÀº ±¹³» Á¤Ã¥ ½½¶óÀÌ´õ¿¡ ¿µÇâÀ» ¹Þ½À´Ï´Ù. ;;;;;;;;;;X
+HINT_44;´ç½ÅÀº ¿Ü±³Ã¢ÀÇ ¿ÞÂÊ ¶õÀÌ³ª ¿µÅäÀÇ ±¹±âµéÀ» Å¬¸¯ÇÔÀ¸·Î½á ´Ù¸¥ ³ª¶ó¿Í »óÈ£È°µ¿À» ÇÒ ¼ö ÀÖ½À´Ï´Ù. ¶ÇÇÑ ¸î¸î ¿Ü±³¸í·ÉµéÀº Á÷Á¢ÀûÀ¸·Î ÇØ´ç ³ª¶óÀÇ ¿µÅä¸¦ ¿ìÅ¬¸¯ÇÔÀ¸·Î½á ÀÌ·ç¾î Áú ¼ö ÀÖ½À´Ï´Ù. ;;;;;;;;;;X
+HINT_45;¿µÅä¸¦ ÁÂÅ¬¸¯ÇÏ¸é, È­¸é ¿ÞÂÊ ¶õ¿¡ ¿µÅä Ã¢ÀÌ ³ªÅ¸³ª°Ô µË´Ï´Ù. ÀÌ°ÍÀº ¿µÅäÀÇ  ½Â¸® Æ÷ÀÎÆ®, °ø±º±âÁö³ª Ç×±¸ÀÇ Á¸Àç¿©ºÎ, ÀÎÁ¢ÇÑ ¿µÅä´Â ¹«¾ùÀÎÁö, ÀÎÇÁ¶ó ¼öÁØ, ¶Ç ¹Ý±º È°µ¿ÀÌ ¾ó¸¶³ª ÀÏ¾î³ª°í ÀÖ´ÂÁö, ±× »Ó¸¸ ¾Æ´Ï¶ó °¡¿ë IC³ª ´ë°øÆ÷, ¿ä»õ, ÀÚ¿øµéÀ» ÇÑ´«¿¡ º¸¿©ÁÝ´Ï´Ù. ;;;;;;;;;;X
+HINT_46;Åë°è ÅÇÀ» ¼±ÅÃÇÔÀ¸·Î½á, ½ºÅ©¸° »ó´Ü ¿ìÃø¿¡ °ÔÀÓ Àü¹ÝÀÇ ½Â¸® Æ÷ÀÎÆ®, ÀÚ¿ø »ý»ê, ±â¼ú, À¯´Ö, Àå¼º ±×¸®°í ¿ª»ç ±â·Ï¿¡ ´ëÇÑ ¿ä¾à Á¤º¸¸¦ º¼ ¼ö ÀÖ½À´Ï´Ù. ;;;;;;;;;;X
+HINT_47;ÇãÃ÷ ¿Àºê ¾ÆÀÌ¾ð 2ÀÇ ½Ã³ª¸®¿À³ª Ä·ÆäÀÎ¿¡¼­ ÀÏ¹ÝÀûÀÎ ½Â¸®Á¶°ÇÀº ´Ù¸¥ ¿¬ÇÕº¸´Ù ´õ ¸¹Àº ½Â¸® Æ÷ÀÎÆ®¸¦ È¹µæÇÏ´Â °ÍÀÔ´Ï´Ù. ¸î¸î ½Ã³ª¸®¿ÀµéÀº Æ¯¼öÇÑ ½Â¸®Á¶°ÇÀÌ ÀÖ±â ¶§¹®¿¡ ¹Ì¼Ç ºê¸®ÇÎ¿¡ ÁÖÀÇ¸¦ ±â¿ï¿©¾ß ÇÕ´Ï´Ù. ;;;;;;;;;;X
+HINT_48;¸¸¾à ½Â¸® Æ÷ÀÎÆ®°¡ ÀÖ´Â ¿µÅä¸¦ ¸ðµÎ Àû¿¡°Ô »©¾Ñ±ä´Ù¸é ´ç½ÅÀÇ ±¹°¡´Â ÇÕº´´çÇÒ ¼öµµ ÀÖ½À´Ï´Ù. ÀÌ°ÍÀº ´ç½Å ±¹°¡ÀÇ Áï°¢ÀûÀÎ ÆÐ¹è¸¦ ¹ß»ý½ÃÅ°¸ç, °ÔÀÓÀº ³¡³ª°Ô µË´Ï´Ù. Ç×»ó ½Â¸® Æ÷ÀÎÆ®°¡ ÀÖ´Â ¿µÅäµéÀ» ½ÅÁßÈ÷ º¸È£ÇÏ¼¼¿ä. ;;;;;;;;;;X
+HINT_49;ÀüÀï ½Ã³ª¸®¿À¸¦ ÇÃ·¹ÀÌÇÏ´Ùº¸¸é, ¼¼°è ÁöµµÀÇ ´ëºÎºÐÀÌ ¸·ÇôÀÖ´Â °ÍÀ» ¹ß°ßÇÏ½Ç ¼ö ÀÖ½À´Ï´Ù. ÀÌ°ÍÀº ±× ½Ã³ª¸®¿À°¡ Æ¯Á¤µÈ Áö¿ª¿¡ ÇÑÁ¤µÇ¾î ÀÖÀ½À» ÀÇ¹ÌÇÏ¸ç ´ç½ÅÀÇ À¯´ÖµéÀº ¸·ÇôÀÖ´Â Áö¿ªµé·Î ÀÌµ¿ÇÒ ¼ö°¡ ¾ø½À´Ï´Ù. ;;;;;;;;;;X
+HINT_50;ÃâÇ×Çß°Å³ª »ó°ø¿¡ ¶°ÀÖ´Â À¯´ÖµéÀº ¿©´ÜµéÀ» ºÎ¼ÓÇÏ°Å³ª ¶¼¾î³¾ ¼ö°¡ ¾ø½À´Ï´Ù. ¸¸¾à ºÎ¼Ó ¿©´ÜÀ» º¯°æÇÏ°í ½Í´Ù¸é, ÇØ´ç À¯´ÖÀ» ±âÁö·Î ±ÍÈ¯½ÃÅ°¼¼¿ä. ;;;;;;;;;;X
+HINT_51;ÀüÅõ±â³ª Àü¼úÆø°Ý±â°°Àº °øÁß À¯´ÖÀº Ç×°ø¸ðÇÔ¿¡ ÅÂ¿ï ¼ö ¾ø½À´Ï´Ù. Ç×°ø¸ðÇÔ¿¡¼­ ÀÛÀüÀ» ¼öÇàÇÏ´Â À¯ÀÏÇÑ À¯´ÖÀº ÇÔÀç±â(CAG)»ÓÀÔ´Ï´Ù. CAG¸¦ Ç×°ø¸ðÇÔ¿¡ ÅÂ¿ì·Á¸é Ç×°ø¸ðÇÔÀ» Ç×±¸·Î ÀÌµ¿½ÃÅ² ÈÄ, Ç×°ø¸ðÇÔÀÇ ¼¼ºÎ Á¤º¸ Ã¢À¸·Î µé¾î°¡°í B+(¿©´ÜÃß°¡)¹öÆ°À» ´­·¯ Ãß°¡ÇÏ¸é µË´Ï´Ù. ;;;;;;;;;;X
+HINT_52;ÇÔÀç±â(CAG)´Â ÀüÅõÁß¿¡ Àû ÇÔ¼±À» ÀÚµ¿À¸·Î °ø°ÝÇÕ´Ï´Ù. ;;;;;;;;;;X
+HINT_53;¸¸¾à Ç×°ø¸ðÇÔÀ» Æ÷ÇÔÇÑ ÇÔ´ë°¡ ºñÇàÀå°ú Ç×±¸ Æø°ÝÀ» ½ÇÇàÇÑ´Ù¸é, Æø°ÝÀ» ½ÇÇàÇÑ Áö¿ª¿¡¼­´Â ÀûÀÇ ÀÛÀü¼öÇàÀ» ¹æÇØÇÒ ¼ö ÀÖÀ» °ÍÀÔ´Ï´Ù. ;;;;;;;;;;X
+HINT_54;¸¸ÀÏ °ÔÀÓ Áß ¹ö±×¸¦ Ã£¾Æ³»¾ú´Ù¸é HOI2 game distributor techinical support ¿¡ ¿¬¶ôÇÏ½Ã°Å³ª ÆÄ¶óµ¶½º»ç(www.paradoxplaza.com)ÀÇ ¹ö±× °Ô½ÃÆÇÀ» ÀÌ¿ëÇØ ±ÛÀ» ¿Ã·ÁÁÖ½Ã¸é µË´Ï´Ù. ;;;;;;;;;;X
+HINT_55;µ·Àº ¿¬±¸°³¹ßÁ¶(Å×Å©ÆÀ)¿¡ ÀÚ±ÝÀ» Áö¿øÇÏ°Å³ª ¿Ü±¹¿¡ ±º»ç Á¤º¯ °°Àº ¿Ü±³Àû Çàµ¿(È¤Àº °øÀå)À» ÇÒ ¶§ ¾¹´Ï´Ù. ¸¸¾à µ·ÀÌ ÃæºÐÇÏÁö ¸øÇÏ´Ù¸é ¿Ü±³È°µ¿(È¤Àº °øÀÛ)À» ÇÏÁö ¸ø ÇÒ °ÍÀÔ´Ï´Ù. µ·À» ¸¸µé¾î³»±â À§ÇØ¼­´Â ¼ÒºñÀç IC¸¦ ´õ Ãß°¡ÇÒ ÇÊ¿ä°¡ ÀÖ½À´Ï´Ù. ±¹³» Á¤Ã¥À» º¯È­½ÃÄÑ µ·ÀÌ ¸¸µé¾îÁö´Â ¾ç¿¡ º¯È­¸¦ ÁÙ ¼öµµ ÀÖ½À´Ï´Ù. ;;;;;;;;;;X
+HINT_56;°ÔÀÓÀ» ÀúÀåÇÏ±â À§ÇØ¼± F10À» ´­·¯ ¸Þ´ºÃ¢À» ¶ß°Ô ÇÏ°í ÀúÀå¹öÆ°À» ´©¸£¸é µË´Ï´Ù. ¶ÇÇÑ ´ç½ÅÀº ÀÚµ¿ÀúÀå ±â´ÉÀ» »ç¿ëÇÒ ¼ö ÀÖ´Âµ¥, ÀÌ ±â´ÉÀº °ÔÀÓ ½ÃÀÛ Àü¿¡ ¼³Á¤ÇÏ°Å³ª °ÔÀÓ Áß°£¿¡ ¸Þ´ºÀÇ ¼³Á¤(¿É¼Ç)¿¡¼­ ÀÚµ¿ÀúÀå ±â´ÉÀ» ¼³Á¤ÇÒ ¼ö ÀÖ½À´Ï´Ù. ;;;;;;;;;;X
+HINT_57;À°±º ºÎ´ë´Â 30ÀÏ°£ ´õ ³ôÀº º¸±ÞÈ¿À²·Î ÀÛÀü¼öÇàÀÌ °¡´ÉÇÕ´Ï´Ù(°ø¼¼ ±â´É »ç¿ë½Ã). ÀÌ ±â´ÉÀº ºÎ´ë Ã¢¿¡¼­ °ø¼¼ ¹öÆ°(È­»ìÇ¥ ¸ð¾ç)À» ´©¸£¸é µË´Ï´Ù. ÀÌ ±â´ÉÀ» ¾²¸é Áï½Ã º¸±ÞÇ°ÀÌ ºüÁ®³ª°¥ °ÍÀÌ°í ¸î¸î ºÎ´ë(ÀüÂ÷ µî)´Â ±â¸§µµ ¼ÒºñÇÏÁö¸¸, °ø¼¼ ±â´ÉÀº ºÎ´ëÀÇ ÀüÅõ´É·ÂÀ» Çâ»ó½ÃÄÑ ÁÙ °ÍÀÔ´Ï´Ù. ;;;;;;;;;;X
+HINT_58;°°Àº Áö¿ª¿¡ ÀÖ´Â µÎ ºÎ´ë¸¦ ÇÕÄ¡°íÀÚ ÇÑ´Ù¸é ÀÏ´Ü ´ç½ÅÀº ¸¶¿ì½º ¿ÞÂÊ ¹öÆ°À¸·Î µå·¡±×ÇÏ¿© ºÎ´ëµéÀ» ¼±ÅÃÇØ¾ß ÇÕ´Ï´Ù. ±× ÈÄ ¿ÞÂÊ ±¸¼®ÀÇ ºÎ´ëÃ¢¿¡ ÀÖ´Â ÇÕÄ¡±â ¹öÆ°À» ´©¸£¸é µË´Ï´Ù. ¸¸¾à ³Ê¹« ¸¹Àº ºÎ´ë¸¦ ¼±ÅÃÇÏ¿´´Ù°í »ý°¢ÇÏ¸é 'Shift + ¸¶¿ì½º ¿ÞÂÊ¹öÆ°'À¸·Î À¯´Ö ¼±ÅÃÀ» ÇØÁ¦½ÃÅ³ ¼ö ÀÖ½À´Ï´Ù. ÇÕÄ¡±â´Â ÀüÅõÁßÀÌ³ª ÀÌµ¿ÁßÀÏ ¶§¿¡´Â ºÒ°¡´ÉÇÕ´Ï´Ù. ;;;;;;;;;;X
+HINT_59;ºÎ´ë(2°³ »ç´Ü ÀÌ»ó)¸¦ ÂÉ°³°í ½Í´Ù¸é ¿ÞÂÊ ±¸¼®¿¡ ÀÖ´Â ºÎ´ë Ã¢ÀÇ ºÐÇÒ ¹öÆ°À» ´©¸£°í, À¯´Ö Ã¢¿¡ À§¾Æ·¡ ¹Ý¾¿ ³ª´²Áø ºÐÇÒ Ã¢ÀÌ ³ª¿Ã °ÍÀÔ´Ï´Ù. +,- ¹öÆ°À» ´­·¯¼­ ´ç½ÅÀº »õ·Î Ãß°¡µÇ´Â Áý´Ü¿¡ »ç´ÜÀ» Ãß°¡½ÃÅ°°Å³ª »¬ ¼ö ÀÖ½À´Ï´Ù. Áöµµ ¾Æ¹«µ¥³ª¸¦ ´©¸£°Å³ª ºÐÇÒ Ã¢ÀÇ ³¡¿¡ ÀÖ´Â »õ Áý´ÜÀÇ ¸·´ë±â¸¦ ´©¸£¸é ºÐÇÒÀÌ ¿Ï·áµË´Ï´Ù. ;;;;;;;;;;X
+HINT_60;ºÎ´ë¿¡ ÁöÈÖ°üÀ» ÀÓ¸íÇÏ°íÀÚ ÇÑ´Ù¸é, À¯´ÖÀÇ ¿ÞÂÊ À§¿¡ ÀÖ´Â »çÁøÀ» ¸¶¿ì½º ¿ÞÂÊ ¹öÆ°À¸·Î ´©¸£¸é, ´ë±âÁßÀÎ ÁöÈÖ°üµéÀÇ »çÁø°ú ÀÌ¸§ÀÌ ¶ã °ÍÀÔ´Ï´Ù. ÁöÈÖ°ü »çÁøÀ» ´­·¯ ´ç½ÅÀÌ ¿øÇÏ´Â Àå±ºÀ» ºÎ´ë¿¡ ¹èÄ¡ÇÒ ¼ö ÀÖ½À´Ï´Ù. ;;;;;;;;;;X
+HINT_61;ÁöÈÖ°üÀ» Áø±Þ½ÃÅ°°íÀÚ ÇÑ´Ù¸é ÁöÈÖ°üÀÇ »çÁøÀ» ´©¸£°í Áø±Þ ¹öÆ°À» ´©¸£¸é µË´Ï´Ù. ÀÌ ±â´ÉÀº ÁöÈÖ°üÀÇ °è±ÞÀ» ¿Ã·ÁÁÖÁö¸¸ °æÇèÄ¡¿Í ¼÷·Ãµµ°¡ ¶³¾îÁú °ÍÀÔ´Ï´Ù(°­Á¦·Î Áø±ÞÇÒ¶§¿¡´Â ±×·¸Áö¸¸ ÀÚµ¿Áø±ÞÀ¸·Î ÇØ³õÀ¸¸é ¼÷·Ãµµ, °æÇèÄ¡¸¦ ÀÒÁö ¾Ê½À´Ï´Ù.) ;;;;;;;;;;X
+HINT_62;°ÔÀÓÁß¿¡ ´ç½ÅÀº ´Ü¼øÇÑ º¯È­¸¦ ÁÖ´Â °­È­ ÀÌº¥Æ®¿¡¼­ ÀÏº»¿¡°Ô ¾ïÁö·Î ÀüÀïÀ» ³¡³»µµ·Ï ÇÏ¿© Æ¯º°ÇÑ ÆòÈ­»óÅÂ¿¡ ÀÌ¸£°Ô ÇÏ´Â º¹ÀâÇÑ ÀÌº¥Æ®±îÁö, ÀÌº¥Æ® ÆË¾÷(pop-up)Ã¢À» º¸°Ô µË´Ï´Ù. ¼±ÅÃÁö À§¿¡ ¸¶¿ì½º¸¦ °¡Á®°¡¸é ¾î¶² È¿°ú°¡ ¹ß»ýÇÏ´ÂÁö µµ¿òÀ» ¾òÀ» ¼ö ÀÖ½À´Ï´Ù. ;;;;;;;;;;X
+HINT_63;ºÎ´ëµéÀº ¶§¶§·Î Á¶Á÷·ÂÀÌ ³·À» °æ¿ì ÈÄÅðÇÏ°í Á¶Á÷·ÂÀÌ 0¿¡ °¡±î¿öÁö¸é °ÅÀÇ Ç×»ó ÈÄÅðÇÕ´Ï´Ù.  ¸¸¾à ÀÎÁ¢Áö¿ªÀ» ÀûÀÌ Á¡·ÉÇÏ°Å³ª ÀÎÁ¢ ÇØ»ó¿¡ »ó·ú¼ö¼ÛÇÔÀÌ ¾ø´Ù¸é ºÎ´ë´Â ¼¶¸êµÉ °ÍÀÔ´Ï´Ù. ;;;;;;;;;;X
+HINT_64;º¸±Þ Áöµµ ¸ðµå´Â º¸±ÞÀÌ ¹ÌÄ¡´Â Áö¿ª(ÃÊ·Ï»ö À½¿µ) °ú º¸±Þ ÇÑ°è¸¦ ¹þ¾î³­ Áö¿ª(ºÓÀº»ö À½¿µ)À¸·Î ³ª´²Áý´Ï´Ù.  ºÎ´ë°¡ º¸±Þ ÇÑ°è¸¦ ¹þ¾î³­ Áö¿ª¿¡¼­ ½Î¿ì°Ô µÈ´Ù¸é È¿À²ÀûÀ¸·Î ½Î¿ïÁö ¸øÇÒ °ÍÀÔ´Ï´Ù. ;;;;;;;;;;X
+HINT_65;±º»çÅëÇà±ÇÀº Áß¸³±¹ÀÇ Áö¿ªÀ» ´Ù´Ò ¼ö ÀÖ°Ô ÇØÁÝ´Ï´Ù(Áß¸³±¹ : ´ç½ÅÀÇ µ¿¸Íµµ ¾Æ´Ï°í ÀûÀÇ µ¿¸Íµµ ¾Æ´Ñ ±¹°¡). ´ç½ÅÀÇ ºÎ´ë´Â ±º»çÅëÇàÀ» ¾òÀº Áö¿ª ³»¿¡¼­´Â ¸¶À½²¯ ¿òÁ÷ÀÏ ¼ö ÀÖÁö¸¸ ¿ìÈ£±¹ÀÇ Áö¿ªÀ¸·Î ÀÌµ¿ÇÏ°Å³ª ÀûÀÇ ¶¥À» Á¡·ÉÇÒ ÇÊ¿ä°¡ ÀÖ½À´Ï´Ù. ;;;;;;;;;;X
+HINT_66;ÇØ±ºÀº ¸ðµ¨¿¡ µû¶ó ¼³Á¤µÈ ÀÛÀü¹Ý°æÀ» °¡Áö°í ÀÖ´Âµ¥ °ÅÁ¡À¸·Î µÎ´Â °÷À¸·ÎºÎÅÍ ÀÛÀü ¹Ý°æ ³»ÀÇ °Å¸®¿¡¼­ È°µ¿ÇÒ ÇÊ¿ä°¡ ÀÖ½À´Ï´Ù. ¸¸ÀÏ ÇÔ´ë°¡ ÀÛÀü ¹Ý°æ¿¡¼­ ¹þ¾î³ª¸é ÇÔ´ë°¡ ¸Å¿ì ´À¸° ¼Óµµ·Î ¿òÁ÷ÀÏ °ÍÀÌ°í Á¶Á÷·Â°ú »ç±â°¡ ±ðÀÏ °ÍÀÔ´Ï´Ù. ;;;;;;;;;;X
+HINT_67;°ø±ºÀº ±âÁ¾¿¡ µû¶ó ±âÁö·ÎºÎÅÍÀÇ ÀÛÀü¹Ý°æÀÌ Á¦ÇÑµË´Ï´Ù. Æí´ë¸¦ ±¸¼ºÇÒ ¶§¿¡´Â ºñ½ÁÇÑ ÀÛÀü¹Ý°æÀ» °¡Áø °ø±º À¯´Ö³¢¸® ±¸¼ºÇÏ°í Æí´ëÀÇ ÀÛÀü¹Ý°æÀÌ ¾Æ±ºÀÇ °ø±º±âÁö¿¡¼­ ÀûÀÇ ¶¥¿¡ ´êÀ» ¼ö ÀÖµµ·Ï ÇØ¾ßÇÕ´Ï´Ù. ;;;;;;;;;;X
+HINT_68;ºÎ´ëÀÇ °æÇèÀº ÀüÅõ È¿À²¿¡ ¿µÇâÀ» ¹ÌÄ¨´Ï´Ù. °æÇèÄ¡´Â Àû ºÎ´ë¿Í ½Î¿ï ¶§ ¾ò°í ºÎ´ë¿¡ Ãæ¿øÀÌ µÉ ¶§ °æÇèÄ¡¸¦ ÀÒ½À´Ï´Ù. °æÇèÄ¡¸¦ ³ôÀÌ·Á ÇÑ´Ù¸é Àû°úÀÇ ½Î¿ò¿¡¼­ ÃÖ¼ÒÇÑÀÇ ¼Õ½Ç·Î ÃÖ´ëÇÑÀÇ ½Â¸®¸¦ ¾ò¾î¾ß °æÇèÄ¡¸¦ ½±°Ô ¾òÀ» ¼ö ÀÖÀ» °ÍÀÔ´Ï´Ù. ;;;;;;;;;;X
+HINT_69;´ç½ÅÀÇ ºÎ´ë°¡ º¸±Þ °¡´ÉÇÑ Áö¿ª¿¡¼­ ÀüÅõÇÒ ¶§ ÀÎ¿ø¼Õ½Ç(STR)ÀÌ ÀÖÀ¸¸é ÀÏºÎ ºÎ»óÀÚµéÀº ¿¹ºñ ÀÎ·Â(¸ÇÆÄ¿ö)·Î È¯¿øµË´Ï´Ù. Æ÷À§¸¦ ´çÇÏ°Å³ª º¸±Þ ÇÑ°è¸¦ ¹þ¾î³­ ÁöÁ¡¿¡¼­ ½Î¿òÀ» ÇÇÇÏ¸é ÀÎ·Â ¼Õ½ÇÀ» ÁÙÀÏ ¼ö ÀÖÀ» °ÍÀÔ´Ï´Ù. ;;;;;;;;;;X
+HINT_70;Å×Å©ÆÀÀ» ´Ã¸®±â À§ÇØ IC¿¡¸¸ ÅõÀÚÇÒ ÇÊ¿ä´Â ¾øÁö¸¸, Å×Å©ÆÀÀÇ ¼ö¿¡ IC°¡ ¿µÇâÀ» ¹ÌÄ¨´Ï´Ù. ;;;;;;;;;;X
+HINT_71;Ä·ÆäÀÎº¸´Ù ÀüÅõ¿¡ ´õ ÁýÁßµÇ°í ÁøÇà±â°£ÀÌ Ä·ÆäÀÎº¸´Ù ÂªÀº ÀüÅõ ½Ã³ª¸®¿À°¡ ÀÖ½À´Ï´Ù. ÀüÅõ ½Ã³ª¸®¿À´Â ¿¬±¸¿Í »ý»ê¿¡ Á¦ÇÑ(È¤Àº Á¦¾à)ÀÌ ÀÖ°í, ÀüÅõ ½Ã³ª¸®¿À¿¡¸¸ ÀÖ´Â Æ¯º°ÇÑ »ç°ÇµéÀÌ ÀÖ½À´Ï´Ù. ;;;;;;;;;;X
+HINT_72;ÁÖº¯ Áö¿ª¿¡ ÁÖµÐÇÑ ¾Æ±ºÀÌ ÀûÀ» °ø°ÝÇÒ ¶§ ÀûÀÇ ¶¥À¸·Î ¿òÁ÷ÀÌÁö ¾Êµµ·Ï ÇÏ·Á¸é °ø°ÝÁö¿ø ÀÓ¹«·Î °ø°ÝÇÏ¸é µË´Ï´Ù. ;;;;;;;;;;X
+HINT_73;ÇÑ ³ª¶óÀÇ ¼öµµ´Â ºÓÀº»ö/Èò»ö Ç¥½Ã·Î ³ªÅ¸³³´Ï´Ù. ¼öµµ´Â °øÀåµéÀÌ ¼ÒºñÇÏ±â À§ÇÑ ÀÚ¿øµé°ú º¸±ÞÇ°À» ÀúÀåÇÏ´Â ±â´ÉÀ» °¡Áö°í ÀÖ½À´Ï´Ù. ¼öµµ¸¦ »¯±ä´Ù¸é ÀúÀåµÈ ÀÚ¿øµé°ú º¸±ÞÇ°µé Áß »ó´ç¼ö¸¦ ÀÒÀ» °ÍÀÔ´Ï´Ù. ;;;;;;;;;;X
+HINT_74;¼öµµ¸¦ »¯±â¸é ´Ù¸¥ ¾îµò°¡¿¡ ÀÓ½Ã ¼öµµ°¡ »ý±â°í, ³ª¶ó¿¡ ¶¥ÀÌ ³²¾ÆÀÖ´Ù¸é ±× ¶¥µéÀº ÀÓ½Ã¼öµµ°¡ µÉ ¼ö ÀÖ½À´Ï´Ù. ÇÑ ±¹°¡¸¦ Á¤º¹ÇÏ·Á¸é ¿ø·¡ÀÇ ¼öµµ¸¦ Á¡·ÉÇÏ°í ½ÂÁ¡À» °¡Áø Áö¿ªÀ» Á¡·ÉÇØ¾ß ÇÕ´Ï´Ù. ;;;;;;;;;;X
+HINT_75;ÇÙ°ø°ÝÀº ´ë»ó Áö¿ªÀÇ ½ÂÁ¡À» 1 ±ð½À´Ï´Ù. °¡Àå ½ÂÁ¡ÀÌ ³ôÀº Áö¿ª¿¡ ÇÙ°ø°ÝÀ» ÇÏ¸é ÀûÀÌ ÆòÈ­Çù»ó¿¡ ³ª¿Àµµ·Ï À¯µµÇÒ ¼ö ÀÖ°í ´ç½ÅÀÇ ¿ä±¸¸¦ ½±°Ô ¼ö¶ôÇÏµµ·Ï ÇÒ °ÍÀÔ´Ï´Ù. ;;;;;;;;;;X
+HINT_76;ÇÃ·¹ÀÌ¾î°¡ Ä§¸ô½ÃÅ² ÀûÀÇ ÇÔ¼±µéÀº À¯´Ö »ó¼¼ È­¸é¿¡¼­ È®ÀÎÇÒ ¼ö ÀÖ´Ù. ;;;;;;;;;;X
+HINT_77;ÇØÀü¿¡¼­ÀÇ ±³Àü°Å¸®´Â ÇÔ¼±ÀÌ Àû¿¡°Ô °ø°ÝÇÒ ¼ö ÀÖ´Â Áö¸¦ °áÁ¤ÇÑ´Ù. °¢ Áø¿µÀº ÀüÅõ¿¡¼­ À¯¸®ÇÏ±â À§ÇØ ÀÌ»óÀûÀÎ ±³Àü °Å¸®¸¦ À¯ÁöÇÏ·Á°í ³ë·ÂÇÒ °ÍÀÌ°í, ÀÌ°ÍÀº ÀÚµ¿ÀûÀ¸·Î ÀÌ·ïÁö¸ç ÁöÈÖ°üÀÇ ±â¼ú, »ó´ëÀûÀÎ ¼Óµµ, ³¯¾¾ »óÅÂ¿¡ ÀÇÇØ °áÁ¤µÈ´Ù. ;;;;;;;;;;X
+HINT_78;±³ÀüÁßÀÎ ´ç½ÅÀÇ ÇÔ¼±À§¿¡ ¸¶¿ì½º Æ÷ÀÎÅÍ¸¦ °¡Á®°¡¸é ÅøÆÁ¾È¿¡¼­ ÀûÀÇ ¹è°¡ °ø°Ý¹Þ´Â °ÍÀ» º¼ ¼ö ÀÖ´Ù. Å¸°ÙÆÃ(À¯´ÐÀÇ Ç¥ÀûÈ­)Àº ¼ö¸¹Àº ¿ä¼Òµé¿¡ ÀÇÇØ ÀÚµ¿ÀûÀ¸·Î ÀÌ·ïÁö°í, ÇÃ·¹ÀÌ¾î°¡ °³ÀÔÇÒ ÇÊ¿ä°¡ ¾ø´Ù. ;;;;;;;;;;X
+HINT_79;¾ß°£¿¡¼­ÀÇ ÀüÅõ ÀÛÀüÀº ´À¸° ¼Óµµ·Î ÁøÇàµÈ´Ù. ÀÌ°ÍÀº ¹æ¾î È¿À²Àº ±×´ë·ÎÀÎµ¥ ¹ÝÇØ °ø°Ý È¿À²ÀÌ ³·¾ÆÁö´Â °ÍÀ» ¹Ý¿µÇÑ °ÍÀÌ´Ù. ±×·¯³ª ·¹ÀÌ´õ¿Í °°Àº ¿©·¯°¡Áö °úÇÐ ±â¼úµéÀº ±º»ç À¯´ÖÀÌ ¹ã¿¡µµ È¿°úÀûÀ¸·Î °è¼Ó ½Î¿ï¼ö ÀÖ°Ô ÇØÁØ´Ù. ;;;;;;;;;;X
+HINT_80;ÇÑ°³ÀÇ ÁÖ ¶Ç´Â ÇØ¿ª¿¡ ³Ê¹« ¸¹Àº ¼öÀÇ ±º»çÀ¯´ÖÀÌ ÀÖÀ» ¶§´Â È¿À²ÀûÀ¸·Î ½Î¿ìÁö ¸øÇÑ´Ù. ÀÌ°ÍÀº µ¿½Ã¿¡ ³Ê¹« ¸¹Àº ±º»ç°¡ È¿À²ÀûÀÎ ±³Àü°Å¸®¿¡ ¹èÄ¡µÇÁö ¸øÇÏ´Â °ÍÀ» ¹Ý¿µÇÑ´Ù. ;;;;;;;;;;X
+HINT_81;Á¤È®ÇÑ º´·Â°ú Á¶Á÷·ÂÀ» È®ÀÎÇÏ·Á¸é ÀüÅõÈ­¸é¿¡¼­ ¸¶¿ì½º¸¦ °¢°¢ÀÇ ¸·´ë¿¡ ¿Ã·Á ³õÀ¸¸é ¾Ë ¼ö ÀÖ´Ù. ;;;;;;;;;;X
+HINT_82;Ç×±¸¿¡ ÇÔ´ë°¡ ¾øÀ¸¸é Ç×±¸´Â È¸»öÀ¸·Î Ç¥½ÃµÇ¸ç ¸¸¾à ÇÔ´ë°¡ ÀÖ´Ù¸é Çª¸¥»öÀ¸·Î Ç¥½ÃµÈ´Ù. ¾È°³¿¡ °¡·ÁÁø Ç×±¸µµ È¸»öÀ¸·Î Ç¥½ÃµÈ´Ù. ;;;;;;;;;;X
+HINT_83;ÀûÀÇ ºñÇàÀåÀº È°ÁÖ·Î Æø°ÝÀ¸·Î ´ë°øÆ÷, ·ÎÄÏ ¿¬±¸ ½Ã¼³µî°ú °°Àº Æ¯º°ÇÑ ½Ã¼³µéÀº ½Ã¼³ Æø°ÝÀ» ÇÔÀ¸·Î½á ÇÇÇØ¸¦ ÁÙ ¼ö ÀÖ´Ù. ;;;;;;;;;;X
+HINT_84;»ê¾÷·ÂÀ» ¼ö¸®¸¦ À§ÇØ ÇÒ´çÇÏ¸é Æø°ÝÀ» ´çÇÑ ±âÁöµéÀº ÀÚµ¿ÀûÀ¸·Î ¼ö¸®¸¦ ½ÃÀÛÇÒ °ÍÀÌ´Ù. ¼ö¸®¸¦ À§ÇØ ´Ù¸¥ ÀÏÀ» ÇÒ ÇÊ¿ä´Â ¾ø´Ù. ;;;;;;;;;;X
+HINT_85;±º»ç À¯´ÖµéÀ» ÃÖ½ÅÀ¸·Î ¾÷±×·¹ÀÌµåÇÏ·Á¸é »ý»ê È­¸é¿¡¼­ ¾÷±×·¹ÀÌµå ½½¶óÀÌ´õ¿¡ »ê¾÷·ÂÀ» ÇÒ´çÇÏ¸é µÈ´Ù. ¾÷±×·¹ÀÌµå´Â ±×ÈÄ¿¡ ÀÚµ¿ÀûÀ¸·Î ÀÌ·ç¾îÁö¸ç, ±º»ç À¯´ÖµéÀ» ±º»ç±âÁö¿¡ µ¹·Á º¸³¾ ÇÊ¿ä´Â ¾ø´Ù. ±º»çµéÀº ÀüÀå¿¡¼­ ¼­¼­È÷ ÀåºñµéÀ» ±³Ã¼ÇØ ³ª°¥ °ÍÀÌ´Ù. ;;;;;;;;;;X
+HINT_86;°úÇÐ ±â¼ú È­¸é¿¡¼­ ¿¬±¸ »óÈ²µéÀº »öµé·Î Ç¥½ÃµÈ´Ù. ³ì»öÀº °³¹ßµÈ »óÅÂ, ³ë¶õ»öÀº ÇöÁ¦ °³¹ßÁß, »¡°£»öÀº ¹ÌÁöÀÇ ±â¼úÀ» ¶æÇÑ´Ù. ;;;;;;;;;;X
+HINT_87;º´·Ä »ý»ê °¡µ¿(ÇÑ°³ÀÇ À¯´ÖÀ» ¿©·¯°³ÀÇ »ý»ê ÁÖ¹®À¸·Î)Àº ¿©·µÀÇ »ç´ÜÀ» ÇÑ¹ø¿¡ »ý»êÇÏ´Â ÇÑ ¹æ¹ýÀÌ´Ù. ÀÌ°ÍÀº ¸¹Àº À¯´ÖÀ» »ý»êÇÏ´Â °¡Àå ºü¸¥ ¹æ¹ýÀÌÁö¸¸ »ê¾÷·ÂÀÌ³ª ½Ã°£¿¡ ´ÜÃà¾øÀÌ ¸ðµç ºñ¿ëÀ» ÁöºÒÇØ¾ß ÇÔÀ» ¶æÇÑ´Ù. ;;;;;;;;;;X
+HINT_88;¿¬¼ÓµÇ´Â »ý»ê °¡µ¿(¿©·¯°³ÀÇ À¯´ÖÀ» ÇÑ°³ÀÇ »ý»ê ÁÖ¹®À¸·Î)Àº Àå±â°£¿¡ °ÉÃÄ ÇÑ°³ÀÇ À¯´ÖÀ» »ý»êÇÏ´Â °øÁ¤À» ¼³Ä¡ÇÏ´Â °ÍÀ» ¶æÇÑ´Ù. °øÀåµéÀ» ÇÑ°³ÀÇ ¾÷¹«¿¡ ¿À·£ ½Ã°£µ¿¾È ÁýÁßÇÏ°Ô ÇÔÀ¸·Î½á ´Ù½Ã »ý»ê °øÁ¤À» ¼³Ä¡ÇÏ´Â ºñ¿ëÀ» ÁÙÀÏ ¼ö ÀÖ´Ù. ÀÎ·Â ºñ¿ëÀº °¢ À¯´ÖÀÌ »ý»ê¿¡ µé¾î°¨À¸·Î½á ÁöºÒµÇ³ª, °øÁ¤ÀÌ ½ÃÀÛµÇ¸é ¸ðµç À¯´Ö¿¡ Àû¿ë µÇ´Â °ÍÀº ¾Æ´Ï´Ù. ;;;;;;;;;;X
+HINT_89;¸¸¾à ´ç½ÅÀÇ »ý»ê ¶óÀÎ¿¡ ¸ðµç °ÍÀ» »ý»êÇÒ ¸¸ÇÑ ÃæºÐÇÑ »ê¾÷·ÂÀÌ ¾ø°í ±ä±ÞÈ÷ Æ¯Á¤ÇÑ »ý»ê ÁÖ¹®À» ¿Ï·áÇÏ±â¸¦ ¿øÇÑ´Ù¸é À§·Î ÇâÇÑ È­»ìÇ¥ ¹öÆ°À» ÅëÇØ ¿ì¼±»çÇ×À» °áÁ¤ÇÒ ¼ö ÀÖ´Ù. ÀÌ°ÍÀº ±× Æ¯Á¤ÇÑ ÁÖ¹®À» »ê¾÷·ÂÀ» È®½ÇÈ÷ ÇÒ´ç¹Þ±â À§ÇØ ´Ù¸¥ ÁÖ¹®µé¿¡ À§¿¡ ³õÀÌ°Ô ÇÑ´Ù. ;;;;;;;;;;X
+HINT_90;¸ÖÆ¼ÇÃ·¹ÀÌ(MP)¸¦ ÇÏ±â À§ÇØ¼­´Â ¹æ È£½ºÆ®¿Í °°Àº ¹öÁ¯¿¡ °ÔÀÓÀ» °¡Áö°í ÀÖ¾î¾ß ÇÑ´Ù. ÀÌ °ÍÀ» È®ÀÎÇØ º¸±â À§ÇØ¼­´Â 'ÇöÁ¦ °ÔÀÓµé'¸ñ·Ï¿¡ µé¾î°£ ÈÄ ¿ìÃø »ó´Ü ±¸¼®¿¡ ÀÖ´Â '°ÔÀÓÁ¤º¸'¾È¿¡¼­ ¹öÁ¯À» ºñ±³ÇØ º¸¾Æ¾ß ÇÑ´Ù. ;;;;;;;;;;X
+HINT_91;¸ÖÆ¼ÇÃ·¹ÀÌ(MP)¸¦ Ä£±¸³ª ´Ù¸¥ »ç¶÷°ú ÇÏ±â À§ÇØ¼­´Â, ÇÑ¸íÀº ¹æ È£½ºÆ®(¼­¹ö)°¡ µÇ¾ß ÇÒ °ÍÀÌ°í ±× ÈÄ ³ª¸ÓÁö´Â ±× ¹æ¿¡ µé¾î°¡¸é µÈ´Ù. ¹æ È£½ºÆ®´Â ½Ã³ª¸®¿À, ±âº»ÀûÀÎ ¼Óµµµî°ú °°Àº ¸ðµç °ÔÀÓ Á¶°ÇÀ» °áÁ¤ÇØ¾ß ÇÑ´Ù. ¹æ È£½ºÆ®´Â °¡Àå ºü¸¥ ÄÄÇ»ÅÍ/³×Æ®¿öÅ©ÀÇ ¼ÒÀ¯ÀÚ°¡ ÇÏ´Â °ÍÀÌ Á¦ÀÏ ÁÁÀ» °ÍÀÌ´Ù. ;;;;;;;;;;X
+HINT_92;¹ßÅ°¸®³Ý(V-Net)¿¡ µé¾î°¬À» ¶§ ¸ÞÀÎ ·Îºñ¿¡¼­ ´ç½Å¾ÆÀÌµð¸¦ ¹ß°ßÇÒ ¼ö ÀÖÀ» °ÍÀÌ´Ù. ¿©±â¼­ 'Darkest Hour' °ÔÀÓ Ã¤³Î·Î °¡¾ß ÇÑ´Ù. ±×·¯±â À§ÇØ ÇÃ·¹ÀÌ¾î ¸ñ·Ï À§¿¡ Ã¤³Î¼±ÅÃ¶õ¿¡¼­ ¼±ÅÃÇØÁà¾ß ÇÑ´Ù. ;;;;;;;;;;X
+HINT_93;·Îºñ³ª °ÔÀÓÃ¤³Î¿¡¼­ ¸»À» ÇÏ±â À§ÇØ¼­´Â Ã¤ÆÃÃ¢ ¹Ø¿¡ ÀÖ´Â Ã¢À» Å¬¸¯ÇÑ ÈÄ, ÇÏ°í ½ÍÀº ¸»À» ¾²°í ¿£ÅÍ¸¦ Ä¡¸é µÈ´Ù. ±×·¯¸é ¸»ÀÌ Ã¤ÆÃÃ¢¿¡ ¶ã °ÍÀÌ´Ù.(¶§·Î´Â ¾à°£ÀÇ Áö¿¬½Ã°£ÀÌ ÀÖ´Ù.) ÇÃ·¹ÀÌ¾î ¸ñ·Ï¿¡ ÀÖ´Â »ç¶÷µé¸¸ ±× ¸Þ½ÃÁö¸¦ º¼ ¼ö ÀÖ´Ù. ;;;;;;;;;;X
+HINT_94;ÇùÁ¶ÇÃ·¹ÀÌ½Ã¿¡´Â ¸ðµç ÇÃ·¹ÀÌ¾î°¡ °°Àº ¼öÁØÀÇ Á¶ÀÛÀ» ÇÒ ¼ö ÀÖ´Ù. °°Àº À¯´Ö¿¡ 2¸íÀÇ ÇÃ·¹ÀÌ¾î°¡ ¸í·ÉÀ» ³»¸®´Â °ÍÀ» ÇÇÇÏ±â À§ÇØ Ã¥ÀÓÀ» ³ª´©´Â°Ô À¯¿ëÇÏ´Ù. ÆÀº¸ÀÌ½º¿Í °°Àº ´ëÈ­ ÇÁ·Î±×·¥À» »ç¿ëÇÔÀ¸·Î½á °ÔÀÓ °æÇèÀ» ¿Ã¸± ¼ö ÀÖ°í Áßº¹ ¸í·É°ú °°Àº ¹®Á¦¸¦ Á¦°Å ÇÏ´Âµ¥ µµ¿òÀÌ µÉ °ÍÀÌ´Ù. ;;;;;;;;;;X
+HINT_95;¸ÖÆ¼ÇÃ·¹ÀÌ½Ã¿¡´Â È£½ºÆ®¿¡ ÀÇÇÑ ÀúÀå¸¸ÀÌ ¸ðµç Á¤º¸¸¦ ÀúÀåÇÒ ¼ö ÀÖ´Ù. È£½ºÆ®°¡ ¾Æ´Ñ ´Ù¸¥ »ç¶÷ÀÇ ÀúÀåÀº ÀÌº¥Æ® Á¤º¸ÀÇ ´©¶ô°ú °°Àº ÀÏÀÌ ¹ú¾îÁú ¼ö ÀÖÀ¸¹Ç·Î ÃÖÈÄÀÇ ¼ö´ÜÀÌ ¾Æ´Ï¶ó¸é ÇÏÁö ¸»ÀÚ. ;;;;;;;;;;X
+HINT_96;À°»ó À¯´ÖµéÀº 'º¸º´ºñÀ²'ÀÌ Æò°¡µÈ´Ù. ÀÌ Æ¯Â¡Àº Æ÷º´ °ø°ÝÀÌ³ª ¼ÒÃÑ °ø°Ý°ú °°Àº 'º¸º´(SOFT)'°ø°Ý¿¡ ¾ó¸¶³ª Ãë¾àÇÑ Áö¸¦ °áÁ¤ÇÑ´Ù. 'º¸º´ºñÀ²'ÀÌ ³·Àº À¯´ÖÀº 'º¸º´(SOFT)'°ø°ÝÀ¸·Î´Â º° ÇÇÇØ¸¦ ÀÔÈ÷Áö ¸øÇÏ¹Ç·Î '±â°©(HARD)'°ø°ÝÀ» ÇØ¾ß ÇÑ´Ù. ;;;;;;;;;;X
+HINT_97;´ëÀüÂ÷Æ÷ ¶Ç´Â ÁßÀå°©Â÷ ¿©´ÜÀ» ¹è¼ÓÇÔÀ¸·Î½á À¯´ÖÀÇ 'ÇÏµå'°ø°Ý ¼öÄ¡¸¦ ³ôÀÏ ¼ö ÀÖ´Ù. ´ë°øÆ÷ ¿©´Ü ¿ª½Ã 'ÇÏµå'°ø°Ý¿¡ º¸³Ê½º¸¦ ÁØ´Ù. ±×µéÀÇ ºü¸¥ ¿¬»ç´Â Àü½Ã¿¡ ÅÊÅ©¿¡ ´ëÇ×ÇÏ¿© È¿°úÀûÀÎ °ÍÀ¸·Î ÆÇ¸íµÇ¾úÀ¸¸ç, µ¶ÀÏ±ºÀÇ Flak 88°¡ °¡Àå À¯¸íÇÏ´Ù. ;;;;;;;;;;X
+HINT_98;³ôÀº ´ë°ø ´É·ÂÀ» °¡Áø À¯´ÖµéÀº ±×µéÀ» °ø°ÝÇÏ´Â °øÁß À¯´Ö¿¡ ´õ ¸¹Àº ÇÇÇØ¸¦ ÁÙ ¼ö ÀÖ´Ù. À°»ó À¯´Ö¿¡ ´ë°øÆ÷ ¿©´ÜÀ» ¹è¼ÓÇÔÀ¸·Î½á ´ë°ø ´É·ÂÀ» °­È­½ÃÅ³ ¼ö ÀÖ´Ù. ´ë°øÆ÷ ¿©´ÜÀº °øÁßÀ¯´ÖÀÌ ±×³É Áö³ª°¡°Å³ª Àü¼ú Æø°ÝÀ» ÇÏ´Â µµÁß¿¡´Â °ø°ÝÇÒ ¼ö ¾ø°í ÀüÅõ±â°¡ ±×µéÀ» Á÷Á¢ °ø°ÝÇÒ ½Ã¿¡¸¸ °ø°ÝÇÒ ¼ö ÀÖ´Ù. ;;;;;;;;;;X
+HINT_99;ÁÖ¿¡ ¼³Ä¡µÈ ´ë°øÆ÷´Â Áö³ª°¡°Å³ª ±× ÁÖ¸¦ °ø°ÝÇÏ´Â ºñÇà±âµéÀ» °ø°ÝÇÒ ¼ö ÀÖ´Ù. ´ë°øÆ÷´Â ¾Æ±ºÀÇ ÇÇÇØ ¾øÀÌ Áö¼ÓÀûÀ¸·Î Àû ºñÇàÁ¤µéÀ» ÁÙ¿©ÁÖ´Â ¾ÆÁÖ ÁÁÀº ¼ö´ÜÀÌ´Ù. Áß¿äÇÑ ÁÖÀÇ ´Ù·®ÀÇ ´ë°øÆ÷ ¼³Ä¡´Â ´ç½ÅÀ» °ø°ÝÇÒ·Á´Â ÀûÀÇ ÀÇÁö¸¦ ²©À» ¼ö ÀÖ´Ù. ;;;;;;;;;;X
+HINT_100;'Darkest Hour'´Â °ÔÀÓÀÌ´Ù. ¶§¶§·Î ÀüÅõ³ª ÀÌº¥Æ®¿¡¼­ ¿ª»çÀûÀ¸·Î ÀÏ¾î³­ ÀÏµé°ú ¹Ý´ëµÇ´Â ÀÏÀÌ »ý±æ ¼ö ÀÖ´Ù. ÀÌ°ÍÀº ¿©·¯Â÷·ÊÀÇ °ÔÀÓÀÌ Á¤È®È÷ °°Áö ¾Ê°Ô ¸¸µé¾î ÁÖ°í ´ÙÀ½¿¡ ¹«½¼ ÀÏÀÌ ¹ú¾îÁúÁö »ç¶÷ÀÌ ¿¹ÃøÇÏ´Â °ÍÀ» ¹æÁöÇÏ°Ô ÇØÁÙ °ÍÀÌ´Ù. ;;;;;;;;;;X
+##;;;;;;;;;;;x
+##;;;;;;;;;;;X
+#EOF;;;;;;;;;;;X
+#EOF;;;;;;;;;;;X

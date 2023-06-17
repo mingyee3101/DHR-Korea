@@ -1,0 +1,52 @@
+ALG;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+450001;Head of State;조르주 르 보 ;1933;1964;1999;SL;Benevolent Gentleman;High;M530001;X
+450002;Head of Government;조르주 르 보 ;1933;1964;1999;SL;Flamboyant Tough Guy;High;M530001;X
+450003;Foreign Minister;쥘 드 쾨니그바르터 ;1933;1964;1999;SL;Ideological Crusader;High;M530003;X
+450004;Minister of Armament;앙투안 마수렐 ;1933;1964;1999;SL;Tank Proponent;Medium;M530004;X
+450005;Minister of Security;마르셀 페이루통 ;1933;1964;1999;SL;Back Stabber;Medium;M530005;X
+450006;Head of Military Intelligence;장 르보 달론네 ;1933;1964;1999;SL;Industrial Specialist;Medium;M530006;X
+450007;Chief of Staff;알프레드 에르토 ;1933;1964;1999;SL;School of Fire Support;Medium;M530007;X
+450008;Chief of Army;피에르 드 셰비뉴 ;1933;1964;1999;SL;Decisive Battle Doctrine;Medium;M530008;X
+450009;Chief of Navy;앙리 망에 ;1933;1964;1999;SL;Indirect Approach Doctrine;Medium;M530009;X
+450010;Chief of Air Force;프랑수아 솜므 ;1933;1964;1999;SL;Air Superiority Doctrine;Medium;M530010;X
+450011;Head of State;장 아브리알 ;1940;1964;1999;SL;Stern Imperialist;High;L24146;X
+450012;Head of State;막심 베강 ;1941;1964;1999;SL;Resigned Generalissimo;High;L24145;X
+450013;Head of State;마르셀 페이루통 ;1943;1964;1999;SL;Barking Buffoon;High;M530005;X
+450014;Head of State;조르주 카트로 ;1943;1964;1999;SL;Pig-headed Isolationist;High;L24029;X
+450015;Head of State;이브 샤테뉴 ;1944;1964;1999;SL;Die-hard Reformer;High;M528020;X
+450016;Head of State;페르아 아바스 ;1933;1964;1999;LWR;Autocratic Charmer;High;M530016;X
+450017;Head of Government;장 아브리알 ;1940;1964;1999;SL;Old Admiral;High;L24146;X
+450018;Head of Government;막심 베강 ;1941;1964;1999;SL;Happy Amateur;High;L24145;X
+450019;Head of Government;마르셀 페이루통 ;1943;1964;1999;SL;Corporate Suit;High;M530005;X
+450020;Head of Government;조르주 카트로 ;1943;1964;1999;SL;Old General;High;L24029;X
+450021;Head of Government;이브 샤테뉴 ;1944;1964;1999;SL;Corporate Suit;High;M528020;X
+450022;Head of Government;페르아 아바스 ;1933;1964;1999;LWR;Smiling Oilman;High;M530016;X
+450023;Foreign Minister;피에르 앙리 테트젠 ;1942;1964;1999;SL;The Cloak N Dagger Schemer;High;M530023;X
+450024;Foreign Minister;사디 음바르카 ;1933;1964;1999;LWR;Biased Intellectual;High;M530024;X
+450025;Foreign Minister;유세프 빈 케다 ;1941;1964;1999;LWR;Great Compromiser;High;M530025;X
+450026;Minister of Armament;외젠 데셸레트 ;1941;1964;1999;SL;Air Superiority Proponent;Medium;M530026;X
+450027;Minister of Armament;프란츠 파농 ;1933;1964;1999;LWR;Military Entrepreneur;Medium;M530027;X
+450028;Minister of Armament;아흐메드 빈 벨라 ;1945;1964;1999;LWR;Administrative Genius;Medium;M530028;X
+450029;Minister of Security;앙드레 장 구댕 ;1942;1964;1999;SL;Compassionate Gentleman;Medium;M530029;X
+450030;Minister of Security;유세프 빈 케다 ;1933;1964;1999;LWR;Back Stabber;Medium;M530025;X
+450031;Minister of Security;자밀 실린느 ;1941;1964;1999;LWR;Man of the People;Medium;M530031;X
+450032;Head of Military Intelligence;피에르 쥘리트 ;1941;1964;1999;SL;Logistics Specialist;Medium;M530032;X
+450033;Head of Military Intelligence;자밀 실린느 ;1933;1964;1999;LWR;Industrial Specialist;Medium;M530031;X
+450034;Head of Military Intelligence;사디 음바르카 ;1941;1964;1999;LWR;Naval Intelligence Specialist;Medium;M530024;X
+450035;Chief of Staff;자크 부르디 ;1944;1964;1999;SL;School of Manoeuvre;Medium;M530035;X
+450036;Chief of Staff;무스타파 알 가니 ;1933;1964;1999;LWR;School of Psychology;Medium;M530036;X
+450037;Chief of Staff;우아리 부메디엔느 ;1944;1964;1999;LWR;School of Mass Combat;Medium;M530037;X
+450038;Chief of Army;폴 오도 ;1943;1964;1999;SL;Armoured Spearhead Doctrine;Medium;M530038;X
+450039;Chief of Army;무스타파 알 가니 ;1933;1964;1999;LWR;Elastic Defence Doctrine;Medium;M530036;X
+450040;Chief of Army;우아리 부메디엔느 ;1944;1964;1999;LWR;Guns and Butter Doctrine;Medium;M530037;X
+450041;Chief of Navy;피에르 드 셰비뉴 ;1943;1964;1999;SL;Base Control Doctrine;Medium;M530008;X
+450042;Chief of Navy;케이르딘 다드치 ;1933;1964;1999;LWR;Open Seas Doctrine;Medium;M530042;X
+450043;Chief of Air Force;알프레드 에르토 ;1939;1964;1999;SL;Army Aviation Doctrine;Medium;M530007;X
+450044;Chief of Air Force;프란츠 파농 ;1933;1964;1999;LWR;Air Superiority Doctrine;Medium;M530027;X
+450045;Chief of Air Force;바크라 바야 ;1944;1964;1999;LWR;Vertical Envelopment Doctrine;Medium;M530045;X
+450046;Chief of Staff;사디 야세프 ;1954;1964;1999;LWR;School of Defence;Medium;5988;x
+450047;Minister of Security;라흐다르 벤토발 ;1957;1964;1999;SD;Man of the People;High;5989;x
+450048;Minister of Security;라흐다르 벤토발 ;1957;1964;1999;LWR;Man of the People;High;5989;x
+450049;Chief of Staff;라흐다르 벤토발 ;1949;1964;1999;SD;School of Defence;High;5989;x
+450050;Chief of Staff;라흐다르 벤토발 ;1949;1964;1999;LWR;School of Defence;High;5989;x

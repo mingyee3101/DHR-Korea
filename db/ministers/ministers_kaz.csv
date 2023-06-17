@@ -1,0 +1,41 @@
+KAZ;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+485001;Head of State;니콜라이 스크보르초프 ;1933;1964;1999;LWR;Die-hard Reformer;High;M520001;X
+485002;Head of Government;주마바이 샤야흐메토프 ;1933;1964;1999;LWR;Silent Workhorse;High;M520002;X
+485003;Foreign Minister;레본 미르조얀 ;1933;1964;1999;LWR;The Cloak N Dagger Schemer;High;M520003;X
+485004;Minister of Armament;아질한 누르샤이코프 ;1933;1964;1999;LWR;Air to Ground Proponent;Medium;M520004;X
+485005;Minister of Security;셰르칸 무르타자 ;1933;1964;1999;LWR;Crime Fighter;Medium;M520005;X
+485006;Head of Military Intelligence;숄판 잔다르베코바 ;1933;1964;1999;LWR;Dismal Enigma;Medium;M520006;X
+485007;Chief of Staff;이반 수사이코프 ;1933;1964;1999;LWR;School of Manoeuvre;Medium;M520007;X
+485008;Chief of Army;탈갓 비겔디노프 ;1933;1964;1999;LWR;Decisive Battle Doctrine;Medium;M520008;X
+485009;Chief of Navy;이반 세르게예프 ;1933;1964;1999;LWR;Decisive Naval Battle Doctrine;Medium;M520009;X
+485010;Chief of Air Force;아르부스 칸 아르센 ;1933;1964;1999;LWR;Vertical Envelopment Doctrine;Medium;M520010;X
+485011;Head of State;드미트리 스네긴 ;1933;1964;1999;ML;Insignificant Layman;High;M520011;X
+485012;Head of State;알리 한 부카이클랴노프 ;1933;1964;1999;PA;Resigned Generalissimo;High;M520012;X
+485013;Head of Government;카킴벡 살림코프 ;1933;1964;1999;ML;Political Protege;High;M520013;X
+485014;Head of Government;알렉산드르 두보프 ;1933;1964;1999;PA;Old General;High;M520014;X
+485015;Foreign Minister;드미트리 쿠나예프 ;1933;1964;1999;LWR;Apologetic Clerk;High;M520015;X
+485016;Foreign Minister;쇼타 우알리하노프 ;1933;1964;1999;ML;Great Compromiser;High;M520016;X
+485017;Foreign Minister;자우르벡 라이바예프 ;1933;1964;1999;PA;Iron Fisted Brute;High;M520017;X
+485018;Minister of Armament;마짓 베갈리예프 ;1933;1964;1999;LWR;laissez-faire capitalist;Medium;M520018;X
+485019;Minister of Armament;무흐타르 샤하노프 ;1933;1964;1999;ML;Military Entrepreneur;Medium;M520019;X
+485020;Minister of Armament;가비덴 무스타핀 ;1933;1964;1999;PA;Tank Proponent;Medium;M520020;X
+485021;Minister of Security;세르게이 옥사누르 ;1933;1964;1999;LWR;Silent Lawyer;Medium;M520021;X
+485022;Minister of Security;이트가빗 무스레노프 ;1933;1964;1999;ML;Back Stabber;Medium;M520022;X
+485023;Minister of Security;아센베이 아스카로프 ;1933;1964;1999;PA;Prince of Terror;Medium;M520023;X
+485024;Minister of Security;아제르바이잔 맘베토프 ;1933;1964;1999;PA;Silent Lawyer;Medium;M520024;X
+485025;Head of Military Intelligence;가비덴 무스타핀 ;1933;1964;1999;LWR;Industrial Specialist;Medium;M520020;X
+485026;Head of Military Intelligence;아이잣 테미르벡 ;1933;1964;1999;ML;Dismal Enigma;Medium;M520026;X
+485027;Head of Military Intelligence;루아샨 바글라노바 ;1933;1964;1999;PA;Political Specialist;Medium;M520027;X
+485028;Chief of Staff;굴잔 아네샨 ;1933;1964;1999;LWR;School of Defence;Medium;M520028;X
+485029;Chief of Staff;니콜라이 수취코프 ;1933;1964;1999;ML;School of Fire Support;Medium;M520029;X
+485030;Chief of Staff;알렉산드르 두보프 ;1933;1964;1999;PA;School of Mass Combat;Medium;M520030;X
+485031;Chief of Army;니콜라이 스타르코프 ;1933;1964;1999;LWR;Armoured Spearhead Doctrine;Medium;M520031;X
+485032;Chief of Army;나콜라이 스타로스틴 ;1933;1964;1999;ML;Static Defence Doctrine;Medium;M520032;X
+485033;Chief of Army;알리 한 부카이클랴노프 ;1933;1964;1999;PA;Guns and Butter Doctrine;Medium;M520012;X
+485034;Chief of Navy;드미트리 사마르스키 ;1933;1964;1999;LWR;Power Projection Doctrine;Medium;M520034;X
+485035;Chief of Navy;사라핀 사르키샨 ;1933;1964;1999;ML;Base Control Doctrine;Medium;M520035;X
+485036;Chief of Navy;마나스 굴림바이질 ;1933;1964;1999;PA;Indirect Approach Doctrine;Medium;M520036;X
+485037;Chief of Air Force;마나스 굴림바이질 ;1933;1964;1999;LWR;Naval Aviation Doctrine;Medium;M520036;X
+485038;Chief of Air Force;알렉산드르 스크보르초프 ;1933;1964;1999;ML;Air Superiority Doctrine;Medium;M520038;X
+485039;Chief of Air Force;사라핀 사르키샨 ;1933;1964;1999;PA;Vertical Envelopment Doctrine;Medium;M520035;X

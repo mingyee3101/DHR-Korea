@@ -1,0 +1,56 @@
+PAL;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+510001;Head of State;해럴드 맥마이클 ;1933;1964;1999;ML;Autocratic Charmer;High;M550005;X
+510002;Head of Government;존 R. 챈슬러 ;1933;1964;1999;ML;Flamboyant Tough Guy;High;M557002;X
+510003;Foreign Minister;나지프 알 칼리디 ;1933;1964;1999;ML;Ideological Crusader;High;M557003;X
+510004;Minister of Armament;조지 훔시 ;1933;1964;1999;ML;Military Entrepreneur;Medium;M557004;X
+510005;Minister of Security;카셈 알 후세이니 ;1933;1964;1999;ML;Prince of Terror;Medium;M557005;X
+510006;Head of Military Intelligence;프레드릭 G. 피크 ;1933;1964;1999;ML;Political Specialist;Medium;M91008;X
+510007;Chief of Staff;허버트 사무엘 ;1933;1964;1999;ML;School of Mass Combat;Medium;M557007;X
+510008;Chief of Army;G.H.C. 스피늘스 ;1933;1964;1999;ML;Elastic Defence Doctrine;Medium;L320014;X
+510009;Chief of Navy;F.B. 투어스 ;1933;1964;1999;ML;Indirect Approach Doctrine;Medium;L1396;X
+510010;Chief of Air Force;J.T. 풀러드 ;1933;1964;1999;ML;Vertical Envelopment Doctrine;Medium;L1441;X
+510011;Head of State;아민 알 후세이니 ;1933;1964;1999;NS;Pig-headed Isolationist;High;M557011;X
+510012;Head of State;허버트 사무엘 ;1933;1964;1999;PA;Stern Imperialist;High;M557007;X
+510013;Head of State;파이드 알 알라미 ;1933;1964;1999;SD;Benevolent Gentleman;High;M557013;X
+510014;Head of State;루히 알 칼리디 ;1933;1964;1999;LWR;Barking Buffoon;High;M557014;X
+510015;Head of Government;유세프 파샤 알 칼리디 ;1933;1964;1999;NS;Political Protege;High;M557015;X
+510016;Head of Government;허버트 플러머 ;1933;1964;1999;PA;Old General;High;M557016;X
+510017;Head of Government;아흐마드 슈카이리 ;1933;1964;1999;SD;Happy Amateur;High;M557017;X
+510018;Head of Government;무스타파 아부시 ;1933;1964;1999;LWR;Ambitious Union Boss;High;M557018;X
+510019;Foreign Minister;라그히드 나샤스비비 ;1933;1964;1999;NS;Iron Fisted Brute;High;M557019;X
+510020;Foreign Minister;그린폴 워쇼프 ;1933;1964;1999;PA;General Staffer;High;M557020;X
+510021;Foreign Minister;해리 C. 루크 ;1933;1964;1999;SD;Great Compromiser;High;M557021;X
+510022;Foreign Minister;하피즈 파샤 압둘 하디 ;1933;1964;1999;LWR;Apologetic Clerk;High;M557022;X
+510023;Minister of Armament;알프레드 로흐 ;1933;1964;1999;NS;Air to Ground Proponent;Medium;M557023;X
+510024;Minister of Armament;압둘라 자페르 달랄 ;1933;1964;1999;PA;Air Superiority Proponent;Medium;M557024;X
+510025;Minister of Armament;루히 압둘 하디 ;1933;1964;1999;SD;laissez-faire capitalist;Medium;M557025;X
+510026;Minister of Armament;날 카글리 ;1933;1964;1999;LWR;Infantry Proponent;Medium;M557026;X
+510027;Minister of Security;아위니 압둘 하디 ;1933;1964;1999;NS;Crooked Kleptocrat;Medium;M557027;X
+510028;Minister of Security;조지 안티누스 ;1933;1964;1999;PA;Compassionate Gentleman;Medium;M557028;X
+510029;Minister of Security;니콜라스 압도 ;1933;1964;1999;SD;Silent Lawyer;Medium;M557029;X
+510030;Minister of Security;데켈 슈크리 ;1933;1964;1999;LWR;Back Stabber;Medium;M557030;X
+510031;Head of Military Intelligence;아부 수우드 ;1933;1964;1999;NS;Technical Specialist;Medium;M557031;X
+510032;Head of Military Intelligence;마수드 알 진나 ;1933;1964;1999;PA;Industrial Specialist;Medium;M557032;X
+510033;Head of Military Intelligence;파루크 하이다르 ;1933;1964;1999;SD;Logistics Specialist;Medium;M557033;X
+510034;Head of Military Intelligence;마지드 압드 엘 하크 ;1933;1964;1999;LWR;Dismal Enigma;Medium;M557034;X
+510035;Chief of Staff;알리 제말 파샤 ;1933;1964;1999;NS;School of Fire Support;Medium;M557035;X
+510036;Chief of Staff;허버트 플러머 ;1933;1964;1999;PA;School of Defence;Medium;M557016;X
+510037;Chief of Staff;앨런 G. 커닝햄 ;1941;1964;1999;ML;School of Manoeuvre;Medium;M557037;X
+510038;Chief of Staff;파루크 하이다르 ;1933;1964;1999;SD;School of Psychology;Medium;M557033;X
+510039;Chief of Staff;자프라 파샤 ;1933;1964;1999;LWR;School of Defence;Medium;M557039;X
+510040;Chief of Army;알리 알 무탈리브 ;1933;1964;1999;NS;Guns and Butter Doctrine;Medium;M557040;X
+510041;Chief of Army;그린폴 워쇼프 ;1933;1964;1999;PA;Static Defence Doctrine;Medium;M557020;X
+510042;Chief of Army;존 고트 ;1942;1964;1999;ML;Armoured Spearhead Doctrine;Medium;L1138;X
+510043;Chief of Army;리와 알 무와위이 ;1933;1964;1999;SD;Elastic Defence Doctrine;Medium;M557043;X
+510044;Chief of Army;날 카글리 ;1933;1964;1999;LWR;Guns and Butter Doctrine;Medium;M557026;X
+510045;Chief of Navy;알리 제말 파샤 ;1933;1964;1999;NS;Base Control Doctrine;Medium;M557035;X
+510046;Chief of Navy;로드니 태튼 스카익스 ;1933;1964;1999;PA;Decisive Naval Battle Doctrine;Medium;L300023;X
+510047;Chief of Navy;알프레드 하워드 ;1933;1964;1999;SD;Open Seas Doctrine;Medium;M557047;X
+510048;Chief of Navy;아흐마드 와시 파샤 ;1933;1964;1999;LWR;Power Projection Doctrine;Medium;M557048;X
+510049;Chief of Air Force;무하마드 아즈미 파샤 ;1933;1964;1999;NS;Army Aviation Doctrine;Medium;M512096;X
+510050;Chief of Air Force;압둘라 자페르 달랄 ;1933;1964;1999;PA;Air Superiority Doctrine;Medium;M557024;X
+510051;Chief of Air Force;제임스 로저스 ;1933;1964;1999;SD;Carpet Bombing Doctrine;Medium;M557051;X
+510052;Chief of Air Force;무하마드 알 타이프 ;1933;1964;1999;LWR;Naval Aviation Doctrine;Medium;M557052;X
+510053;Chief of Staff;하산 살라마 ;1947;1964;1999;ML;School of Defence;High;6095;x
+510054;Chief of Staff;야세르 아라파트 ;1961;1964;1999;LWR;School of Mass Combat;High;6096;x 

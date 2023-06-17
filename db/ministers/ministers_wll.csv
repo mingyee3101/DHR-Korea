@@ -1,0 +1,44 @@
+WLL;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+795001;Head of State;레옹 드그레유 ;1933;1964;1999;NS;Powerhungry Demagogue;NA;M511001;X
+795002;Head of Government;레옹 드그레유 ;1933;1964;1999;NS;Old General;NA;M511001;X
+795003;Foreign Minister;레옹 드그레유 ;1933;1964;1999;NS;Iron Fisted Brute;Very High;M511001;X
+795004;Minister of Armament;빅토르 마티 ;1933;1964;1999;NS;Military Entrepreneur;Very High;M15058;X
+795005;Minister of Security;파울 아우베르스 ;1933;1964;1999;NS;Crime Fighter;Very High;M15075;X
+795006;Head of Military Intelligence;파울 아우베르스 ;1933;1964;1999;NS;Logistics Specialist;Very High;M15075;X
+795007;Chief of Staff;장 베르미에르 ;1933;1964;1999;NS;School of Defence;Very High;M511007;X
+795008;Chief of Army;람베르 샤르돈느 ;1933;1964;1999;FA;Armoured Spearhead Doctrine;Very High;L68002;X
+795009;Chief of Navy;장 베르미에르 ;1933;1964;1999;NS;Open Seas Doctrine;Very High;M511007;X
+795010;Chief of Air Force;루시앙 리페르 ;1933;1964;1999;NS;Army Aviation Doctrine;Very High;M511010;X
+795011;Head of State;알렉산더 폰 팔켄하우젠 ;1940;1964;1999;NS;Resigned Generalissimo;Very High;M510086;X
+795012;Head of State;빅토르 마티 ;1941;1964;1999;NS;Insignificant Layman;Very High;M15058;X
+795013;Head of Government;알렉산더 폰 팔켄하우젠 ;1940;1964;1999;NS;Silent Workhorse;Very High;M510086;X
+795014;Head of Government;조제 스트르엘 ;1942;1964;1999;NS;Political Protege;Very High;M511014;X
+795015;Head of Government;빅토르 마티 ;1941;1964;1999;NS;Silent Workhorse;Very High;M15058;X
+795016;Foreign Minister;장 프랑수아 콜라르 ;1940;1964;1999;FA;Apologetic Clerk;Very High;M511016;X
+795017;Foreign Minister;조제 스트르엘 ;1942;1964;1999;NS;Ideological Crusader;Very High;M511014;X
+795018;Foreign Minister;하비에르 드 그륀느 ;1933;1964;1999;FA;Biased Intellectual;Very High;M511018;X
+795019;Minister of Armament;세르클레 드 라우노 ;1933;1964;1999;FA;Resource Industrialist;Very High;M511019;X
+795020;Minister of Armament;장 프랑수아 콜라르 ;1940;1964;1999;FA;laissez-faire capitalist;Very High;M511016;X
+795021;Minister of Armament;레옹 드그레유 ;1937;1964;1999;NS;Infantry Proponent;Very High;M511001;X
+795022;Minister of Armament;폴 게랭 ;1942;1964;1999;NS;Military Entrepreneur;Very High;M511022;X
+795023;Minister of Armament;하비에르 드 그륀느 ;1933;1964;1999;FA;laissez-faire capitalist;Very High;M511018;X
+795024;Minister of Security;장 베르미에르 ;1933;1964;1999;NS;Efficient Sociopath;Very High;M511007;X
+795025;Minister of Security;얀 하게망 ;1940;1964;1999;NS;Man of the People;Very High;M511025;X
+795026;Minister of Security;조제 스트르엘 ;1942;1964;1999;NS;Man of the People;Very High;M511014;X
+795027;Minister of Security;레옹 드그레유 ;1937;1964;1999;NS;Prince of Terror;Very High;M511001;X
+795028;Minister of Security;하비에르 드 그륀느 ;1933;1964;1999;FA;Silent Lawyer;Very High;M511018;X
+795029;Head of Military Intelligence;얀 하게망 ;1940;1964;1999;NS;Dismal Enigma;Very High;M511025;X
+795030;Head of Military Intelligence;조제 스트르엘 ;1942;1964;1999;NS;Political Specialist;Very High;M511014;X
+795031;Chief of Staff;에허르트 레이더르 ;1940;1964;1999;NS;School of Manoeuvre;Very High;M510061;X
+795032;Chief of Staff;람베르 샤르돈느 ;1933;1964;1999;FA;School of Fire Support;Very High;L68002;X
+795033;Chief of Staff;레옹 드그레유 ;1933;1964;1999;NS;School of Mass Combat;Very High;M511001;X
+795034;Chief of Staff;루시앙 리페르 ;1940;1964;1999;NS;School of Psychology;Very High;M511010;X
+795035;Chief of Staff;파울 아우베르스 ;1938;1964;1999;NS;School of Manoeuvre;Very High;M15075;X
+795036;Chief of Army;에허르트 레이더르 ;1940;1964;1999;NS;Elastic Defence Doctrine;Very High;M510061;X
+795037;Chief of Army;장 베르미에르 ;1933;1964;1999;NS;Static Defence Doctrine;Very High;M511007;X
+795038;Chief of Army;레옹 드그레유 ;1933;1964;1999;NS;Guns and Butter Doctrine;Very High;M511001;X
+795039;Chief of Army;루시앙 리페르 ;1940;1964;1999;NS;Decisive Battle Doctrine;Very High;M511010;X
+795040;Chief of Army;파울 아우베르스 ;1938;1964;1999;NS;Static Defence Doctrine;Very High;M15075;X
+795041;Chief of Navy;에허르트 레이더르 ;1940;1964;1999;NS;Base Control Doctrine;Very High;M510061;X
+795042;Chief of Air Force;에허르트 레이더르 ;1940;1964;1999;NS;Air Superiority Doctrine;Very High;M510061;X

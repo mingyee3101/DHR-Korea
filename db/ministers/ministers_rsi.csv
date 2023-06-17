@@ -1,0 +1,44 @@
+RSI;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+750001;Head of State;베니토 무솔리니 ;1921;1946;1969;NS;Barking Buffoon;Very High;2688;X
+750002;Head of Government;베니토 무솔리니 ;1921;1946;1969;NS;Imperialist Buffoon;Very High;2688;X
+750003;Foreign Minister;세라피노 마졸리니 ;1928;1946;1976;NS;biased intellectual;High;9109;X
+750004;Minister of Armament;도메니코 펠레그리니 잠피에트로 ;1939;1971;1971;FA;Planned economy proponent;High;8571;X
+750005;Minister of Security;기도 부파리니 기디 ;1933;1946;1981;FA;Efficient Sociopath;Very High;6380;X
+750006;Head of Military Intelligence;레나토 리치 ;1923;1957;1957;FA;logistics specialist;Medium;8574;X
+750007;Chief of Staff;가스토네 감바라 ;1927;1963;1963;FA;School of Mass Combat;Medium;L6074;X
+750008;Chief of Army;로돌포 그라치아니 ;1930;1956;1956;FA;Decisive Battle Doctrine;Medium;M508008;X
+750009;Chief of Navy;안토니오 레냐니 ;1933;1944;1944;FA;Open Seas Doctrine;Medium;9110;X
+750010;Chief of Air Force;에르네스토 보토 ;1931;1985;1985;FA;air superiority doctrine;Medium;9116;X
+750011;Head of State;알레산드로 파볼리니 ;1939;1946;1989;NS;ruthless powermonger;High;M508017;X
+750012;Head of Government;주니오 보르게제 ;1940;1975;1975;NS;Corporate Suit;High;M508012;X
+750013;Head of Government;아우구스토 데 마르사니크 ;1950;1974;1974;FA;Silent Workhorse;High;6081;X
+750014;Foreign Minister;베니토 무솔리니 ;1921;1946;1969;NS;Aggressive Nationalist;Very High;2688;X
+750015;Foreign Minister;필리포 안푸조 ;1938;1964;1964;NS;great compromiser;Very High;9111;X
+750016;Foreign Minister;아우구스토 데 마르사니크 ;1945;1974;1974;FA;Great Compromiser;High;6081;X
+750017;Foreign Minister;조르지오 알미란테 ;1945;1989;1989;NS;The Cloak N Dagger Schemer;High;6082;X
+750018;Minister of Armament;로마노 루제로 ;1932;1946;1981;NS;Theoretical Scientist;Medium;M508014;X
+750019;Minister of Armament;로돌포 그라치아니 ;1930;1956;1956;FA;Infantry Proponent;High;M508008;X
+750020;Minister of Armament;에도아르도 모로니 ;1943;1976;1976;FA;laissez-faire capitalist;High;M508003;X
+750021;Minister of Armament;실비오 가이 ;1922;1968;1968;FA;Oil baron;High;9112;X
+750022;Minister of Armament;안젤로 타르키 ;1939;1975;1975;FA;Industrial chemist;High;9113;X
+750023;Minister of Armament;주세페 스피넬리 ;1943;1988;1988;FA;Planned economy proponent;High;9114;X
+750024;Minister of Armament;아르투로 미켈리니 ;1948;1970;1970;FA;Laissez-Faire Capitalist;High;6080;X
+750025;Minister of Security;알레산드로 파볼리니 ;1939;1946;1989;NS;Prince of Terror;Very High;M508017;X
+750026;Minister of Security;렌초 몬타냐 ;1940;1979;1979;FA;Crime Fighter;Very High;L6265;X
+750027;Minister of Security;피에로 피젠티 ;1939;1981;1981;FA;Compassionate Gentleman;Very High;9612;X
+750028;Minister of Security;파올로 제르비노 ;1943;1946;1991;FA;Silent Lawyer;Very High;9115;X
+750029;Minister of Security;안토니노 트링갈리 카사노바 ;1942;1944;1944;FA;Efficient Sociopath;High;8570;X
+750030;Minister of Security;조르지오 알미란테 ;1945;1989;1989;NS;Back Stabber;High;6082;X
+750031;Head of Military Intelligence;칸델로레 데 레오 ;1943;1964;1964;NS;Dismal Enigma;Medium;unknownminister;X
+750032;Head of Military Intelligence;베니토 무솔리니 ;1921;1946;1969;NS;technical specialist;Medium;2688;X
+750033;Head of Military Intelligence;로돌포 그라치아니 ;1930;1956;1956;NS;logistics specialist;Medium;M508008;X
+750034;Chief of Staff;알레산드로 파볼리니 ;1939;1946;1989;NS;School of fire support;Medium;M508017;X
+750035;Chief of Staff;로돌포 그라치아니 ;1930;1956;1956;FA;school of defence;High;M508008;X
+750036;Chief of Army;주니오 보르게제 ;1940;1975;1975;NS;commando doctrine army;High;M508012;X
+750037;Chief of Army;레나토 리치 ;1923;1957;1957;FA;Guns and Butter Doctrine;High;8574;X
+750038;Chief of Army;카를로 엠마누엘레 바실레 ;1943;1973;1973;FA;static defence doctrine;High;9951;X
+750039;Chief of Navy;페루초 페리니 ;1943;1964;1964;FA;Base Control Doctrine;Medium;8573;X
+750040;Chief of Navy;주세페 스파르차니 ;1943;1964;1964;FA;Indirect Approach Doctrine;Medium;9133;X
+750041;Chief of Air Force;아리고 테사리 ;1933;1964;1964;FA;Army Aviation Doctrine;Medium;L6283;X
+750042;Chief of Air Force;만리오 몰페제 ;1943;1970;1970;FA;air superiority doctrine;Medium;9117;X
+750043;Chief of Air Force;루제로 보노미 ;1940;1974;1974;FA;Vertical Envelopment Doctrine;Medium;M508027;X

@@ -1,0 +1,35 @@
+MOZ;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+705001;Head of State;조제 페레이라 카브랄 ;1933;1964;1999;PA;Resigned Generalissimo;High;M569001;X
+705002;Head of Government;조제 드 올리베이라 ;1933;1964;1999;PA;old airmarshal;High;M569002;X
+705003;Foreign Minister;로이스 드 소자 ;1933;1964;1999;PA;General Staffer;High;M569003;X
+705004;Minister of Armament;아우구스투 누느스 ;1933;1964;1999;PA;Military Entrepreneur;Medium;M569004;X
+705005;Minister of Security;주앙 드 베텡코르트 ;1933;1964;1999;PA;Prince of Terror;Medium;M569005;X
+705006;Head of Military Intelligence;안토니우 콘세이카우 ;1933;1964;1999;PA;Naval Intelligence Specialist;Medium;M569006;X
+705007;Chief of Staff;로이스 드 소자 ;1933;1964;1999;PA;School of Psychology;Medium;M569003;X
+705008;Chief of Army;주앙 마르팅스 드 카르발류 ;1933;1964;1999;PA;Guns and Butter Doctrine;Medium;M569008;X
+705009;Chief of Navy;토마스 가르시아 호자두 ;1933;1964;1999;PA;Power Projection Doctrine;Medium;M569009;X
+705010;Chief of Air Force;조제 드 사 아루아주 ;1933;1964;1999;PA;Air Superiority Doctrine;Medium;M569010;X
+705011;Head of State;엔히크 누느스 가르시아 ;1933;1964;1999;SL;Benevolent Gentleman;High;M569011;X
+705012;Head of State;세바스티아우 카브랄 푼샬 ;1933;1964;1999;LWR;Powerhungry Demagogue;High;M569012;X
+705013;Head of Government;조제 잘루아르 누느스 ;1933;1964;1999;SL;Political Protege;High;M569013;X
+705014;Head of Government;조제 바롤루 호드리게스 ;1933;1964;1999;LWR;Naive Optimist;High;M569014;X
+705015;Foreign Minister;주앙 헤이스 에 칸투 ;1933;1964;1999;SL;Ideological Crusader;High;M569015;X
+705016;Foreign Minister;마리아 이스텔라 ;1933;1964;1999;LWR;Biased Intellectual;High;M569016;X
+705017;Minister of Armament;아돌푸 카마라킨팅가 ;1933;1964;1999;SL;laissez-faire capitalist;Medium;M569017;X
+705018;Minister of Armament;파울루 이나시우 ;1933;1964;1999;LWR;Infantry Proponent;Medium;M569018;X
+705019;Minister of Security;루이스 페레이라 고메스 ;1933;1964;1999;SL;Compassionate Gentleman;Medium;M569019;X
+705020;Minister of Security;레오나르두 산투스 시마우 ;1933;1964;1999;LWR;Crime Fighter;Medium;M569020;X
+705021;Head of Military Intelligence;주앙 카울자 드 아히아가 ;1944;1964;1999;PA;Logistics Specialist;Medium;M569021;X
+705022;Head of Military Intelligence;주앙 실바 누느스 ;1933;1964;1999;SL;Technical Specialist;Medium;M569022;X
+705023;Head of Military Intelligence;카를루스 두스 산투스 ;1933;1964;1999;LWR;Industrial Specialist;Medium;M569023;X
+705024;Chief of Staff;아르투르 이벵스 페하스 ;1942;1964;1999;PA;School of Mass Combat;Medium;M569024;X
+705025;Chief of Staff;조제 로바투 게하 ;1933;1964;1999;SL;School of Fire Support;Medium;M569025;X
+705026;Chief of Staff;페데리쿠 다 코스타 ;1933;1964;1999;LWR;School of Manoeuvre;Medium;M569026;X
+705027;Chief of Army;조제 드 바후스 호드리게스 ;1942;1964;1999;PA;Elastic Defence Doctrine;Medium;M569027;X
+705028;Chief of Army;안토니우 타베이라 ;1933;1964;1999;SL;Armoured Spearhead Doctrine;Medium;M569028;X
+705029;Chief of Army;파트리시우 누느스 고메스 ;1933;1964;1999;LWR;Decisive Battle Doctrine;Medium;M569029;X
+705030;Chief of Navy;안토니우 호드리게스 ;1933;1964;1999;SL;Indirect Approach Doctrine;Medium;M569030;X
+705031;Chief of Navy;세자르 폰주 ;1933;1964;1999;LWR;Open Seas Doctrine;Medium;M569031;X
+705032;Chief of Air Force;안토니우 발 코부 ;1933;1964;1999;SL;Naval Aviation Doctrine;Medium;M569032;X
+705033;Chief of Air Force;올리바 누누 토마스 ;1933;1964;1999;LWR;Vertical Envelopment Doctrine;Medium;M569033;X

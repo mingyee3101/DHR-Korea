@@ -1,0 +1,39 @@
+SOV;Name;Pic Name;Skill;Start Year;End Year;Speciality1;Speciality2;Speciality3;Speciality4;Speciality5;Speciality6;Speciality7;Speciality8;Speciality9;Speciality10;Speciality11;Speciality12;Speciality13;Speciality14;Speciality15;Speciality16;Speciality17;Speciality18;Speciality19;Speciality20;Speciality21;Speciality22;Speciality23;Speciality24;Speciality25;Speciality26;Speciality27;Speciality28;Speciality29;Speciality30;Speciality31;Speciality32;x
+30001;61 코뮤나라 니콜라예프 조선소 ;T3700;4;1930;1970;naval_engineering;electronics;naval_artillery;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+30002;바리케이드 공장 ;T3701;5;1930;1970;artillery;mechanics;general_equipment;training;electronics;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+30003;하리코프 공장 ;T3702;7;1927;1970;mechanics;artillery;technical_efficiency;vehicle_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+30004;RNII ;T3703;5;1930;1970;rocketry;mathematics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+30005;이고르 쿠르챠토프 ;T3704;4;1930;1960;nuclear_physics;nuclear_engineering;mathematics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+30006;보리스 샤포슈니코프 ;T3705;5;1930;1945;large_unit_tactics;centralized_execution;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+30007;미하일 투하쳅스키 ;T3706;5;1930;1938;combined_arms_focus;large_unit_tactics;training;cavalry_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+30008;알렉산드르 바실렙스키 ;T3707;7;1940;1970;combined_arms_focus;large_unit_tactics;centralized_execution;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+30009;92호 스탈린 공장 ;T3708;5;1930;1970;mechanics;artillery;technical_efficiency;munitions;general_equipment;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+30010;일류신 설계국 ;T3709;6;1930;1970;aeronautics;bomber_design;general_equipment;munitions;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+30011;키로프 공장 ;T3710;6;1930;1970;mechanics;artillery;munitions;management;vehicle_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+30012;네브스키 설계국 ;T3711;5;1930;1970;naval_engineering;technical_efficiency;naval_artillery;submarine_design;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+30013;니즈니타길 공장 ;T3712;6;1930;1970;mechanics;chemistry;technical_efficiency;industrial_engineering;vehicle_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+30014;스탈린그라드 트랙터 공장 ;T3713;5;1930;1970;mechanics;general_equipment;electronics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+30015;투폴레프 설계국 ;T3714;7;1922;1970;aeronautics;bomber_design;rocketry;technical_efficiency;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+30016;니콜라이 쿠즈네초프 ;T3715;6;1930;1970;naval_artillery;small_taskforce_tactics;submarine_tactics;large_taskforce_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+30017;야코프 이바노비치 알스니스 ;T3716;6;1930;1938;training;piloting;fighter_tactics;bomber_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+30018;알렉산드르 노비코프 ;T3717;6;1940;1970;piloting;bomber_tactics;fighter_tactics;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+30019;야코블레프 설계국 ;T3718;8;1934;1970;aeronautics;mechanics;fighter_design;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+30020;이고르 탐 ;T3719;6;1945;1970;nuclear_physics;nuclear_engineering;mathematics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+30021;세르게이 코롤례프 ;T3720;7;1946;1966;rocketry;aeronautics;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+30022;러시아 공수군 ;T3721;6;1930;1970;artillery;small_unit_tactics;airborne_training;vehicle_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+30023;미코얀-구레비치 설계국 ;100317;8;1940;1970;aeronautics;general_equipment;fighter_design;aircraft_testing;rocketry;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+30024;모스크바 철도공학대학교 ;100472;6;1890;1970;mechanics;industrial_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+30025;툴라 조병창 ;100780;5;1890;1970;general_equipment;training;artillery;medicine;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+30026;레프 트로츠키 ;100318;7;1914;1929;large_unit_tactics;infantry_focus;individual_courage;centralized_execution;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+30027;바실리 알트파테르 ;100459;4;1914;1919;small_taskforce_tactics;naval_training;seamanship;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+30028;예프게니 베렌스 ;100782;4;1919;1920;small_taskforce_tactics;naval_training;seamanship;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+30029;알렉산드르 네미츠 ;100460;4;1920;1922;small_taskforce_tactics;naval_training;seamanship;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+30030;에두아르드 판체르잔스키 ;100781;4;1922;1970;small_taskforce_tactics;naval_training;seamanship;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+30031;루빈 해양 공학 설계국 ;T7209;5;1901;1970;naval_engineering;naval_artillery;technical_efficiency;electronics;nuclear_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+30032;수호이 설계국 ;T7212;4;1939;1970;aeronautics;avionics;fighter_design;rocketry;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+30033;189번 발트 조선소 ;100276;5;1856;1970;naval_engineering;naval_artillery;mechanics;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+30034;동군사참모대학교 ;100479;4;1930;1970;training;large_unit_tactics;small_unit_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+30035;주콥스키 공군학교 ;100706;6;1930;1970;aeronautics;electronics;training;centralized_execution;fighter_tactics;piloting;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+30036;게오르기 주코프 ;100832;8;1940;1958;combined_arms_focus;large_unit_tactics;centralized_execution;training;individual_courage;cavalry_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+30037;보로실로프 RKKF 해군학교 ;100504;3;1930;1970;naval_artillery;small_taskforce_tactics;submarine_tactics;large_taskforce_tactics;naval_training;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x

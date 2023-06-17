@@ -1,0 +1,13 @@
+BOL;Name;Pic Name;Skill;Start Year;End Year;Speciality1;Speciality2;Speciality3;Speciality4;Speciality5;Speciality6;Speciality7;Speciality8;Speciality9;Speciality10;Speciality11;Speciality12;Speciality13;Speciality14;Speciality15;Speciality16;Speciality17;Speciality18;Speciality19;Speciality20;Speciality21;Speciality22;Speciality23;Speciality24;Speciality25;Speciality26;Speciality27;Speciality28;Speciality29;Speciality30;Speciality31;Speciality32;x
+205001;볼리비아 석유회사 ;T5000;2;1900;1970;industrial_engineering;chemistry;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+205002;볼리비아 광업회사 ;T5001;3;1900;1970;industrial_engineering;mechanics;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+205003;볼리비아 국영 철도 ;T5002;3;1900;1970;industrial_engineering;general_equipment;management;electronics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+205004;호스실트 ;T5003;4;1900;1970;general_equipment;mechanics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+205005;파티노스 ;T5004;4;1900;1970;industrial_engineering;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+205006;다비드 토로 루일로바 ;T5005;3;1930;1938;small_unit_tactics;centralized_execution;individual_courage;training;mountain_training;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+205007;엔리케 페냐란다 ;T5006;2;1930;1944;large_unit_tactics;centralized_execution;infantry_focus;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+205008;에우세비오 아얄라 ;T5007;2;1921;1936;large_taskforce_tactics;centralized_execution;seamanship;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+205009;볼리비아 방위성 ;100036;3;1900;1970;small_unit_tactics;infantry_focus;centralized_execution;bomber_tactics;piloting;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+205010;안토파가스타-볼리비아 철도 ;100037;3;1890;1970;industrial_engineering;mechanics;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+205011;볼리비아 육군 ;100036;3;1890;1970;general_equipment;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+205012;한스 쿤트 ;100038;2;1921;1939;infantry_focus;individual_courage;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x

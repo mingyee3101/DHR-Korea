@@ -1,0 +1,61 @@
+KOR;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+265001;Head of State;이승만 ;1933;1964;1999;SC;Stern Imperialist;Medium;M578001;X
+265002;Head of Government;김구 ;1933;1964;1999;SC;Flamboyant Tough Guy;Medium;M578002;X
+265003;Foreign Minister;김규식 ;1933;1964;1999;SC;Great Compromiser;Medium;M578003;X
+265004;Minister of Armament;김창숙 ;1933;1964;1999;SC;Military Entrepreneur;Medium;M578004;X
+265005;Minister of Security;조만식 ;1933;1964;1999;SC;Prince of Terror;Medium;M578005;X
+265006;Head of Military Intelligence;조소앙 ;1933;1964;1999;SC;Logistics Specialist;Medium;M578006;X
+265007;Chief of Staff;채병덕 ;1933;1964;1999;SC;School of Defence;Medium;M578007;X
+265008;Chief of Army;지청천 ;1933;1964;1999;SC;Elastic Defence Doctrine;Medium;M578008;X
+265009;Chief of Navy;손원일 ;1933;1964;1999;SC;Decisive Naval Battle Doctrine;Medium;M578009;X
+265010;Chief of Air Force;이범석 ;1933;1964;1999;SC;Army Aviation Doctrine;Medium;M578010;X
+265011;Head of State;여운형 ;1933;1964;1999;LWR;Weary Stiffneck;Medium;M578011;X
+265012;Head of Government;박헌영 ;1933;1964;1999;LWR;Ambitious Union Boss;Medium;M578012;X
+265013;Foreign Minister;김규준 ;1933;1964;1999;LWR;Apologetic Clerk;Medium;M578013;X
+265014;Minister of Armament;이동휘 ;1933;1964;1999;LWR;Infantry Proponent;Medium;M578014;X
+265015;Minister of Security;이남석 ;1933;1964;1999;LWR;Efficient Sociopath;Medium;M578015;X
+265016;Head of Military Intelligence;김창금 ;1933;1964;1999;LWR;Technical Specialist;Medium;M578016;X
+265017;Chief of Staff;지청천 ;1933;1964;1999;LWR;School of Psychology;Medium;M578017;X
+265018;Chief of Army;김원봉 ;1933;1964;1999;LWR;Guns and Butter Doctrine;Medium;M578018;X
+265019;Chief of Navy;정동주 ;1933;1964;1999;LWR;Open Seas Doctrine;Medium;M578019;X
+265020;Chief of Air Force;이재선 ;1933;1964;1999;LWR;Naval Aviation Doctrine;Medium;M578020;X
+265021;Minister of Armament;임은수 ;1933;1964;1999;SC;Military Entrepreneur;Medium;M578021;X
+265022;Minister of Security;백차범 ;1933;1964;1999;SC;Silent Lawyer;Medium;M578022;X
+265023;Head of Military Intelligence;박정희 ;1933;1964;1999;SC;Political Specialist;Medium;M578023;X
+265024;Head of Government;이범석 ;1933;1964;1999;SC;old airmarshal;Medium;M578010;X
+265025;Head of Government;신성모 ;1950;1964;1999;SC;Happy Amateur;Medium;M578025;X
+265026;Head of Government;장면 ;1950;1964;1999;SC;Silent Workhorse;Medium;M578026;X
+265027;Head of Government;장택상 ;1952;1964;1999;SC;Corporate Suit;Medium;M578027;X
+265028;Head of Government;백두진 ;1952;1964;1999;SC;Backroom Backstabber;Medium;M578028;X
+265029;Foreign Minister;장면 ;1933;1964;1999;SC;Apologetic Clerk;Medium;M578026;X
+265030;Foreign Minister;장도영 ;1950;1964;1999;SC;Iron Fisted Brute;Medium;M578030;X
+265031;Minister of Armament;백한성 ;1951;1964;1999;SC;laissez-faire capitalist;Medium;M578031;X
+265032;Minister of Armament;신성모 ;1951;1964;1999;SC;Theoretical Scientist;Medium;M578032;X
+265033;Minister of Security;변영태 ;1949;1964;1999;SC;Efficient Sociopath;Medium;M578033;X
+265034;Minister of Security;신성모 ;1952;1964;1999;SC;Crime Fighter;Medium;M578025;X
+265035;Head of Military Intelligence;백두진 ;1949;1964;1999;SC;Political Specialist;Medium;M578028;X
+265036;Head of Military Intelligence;신성모 ;1951;1964;1999;SC;Technical Specialist;Medium;M578032;X
+265037;Foreign Minister;장택상 ;1952;1964;1999;SC;Biased Intellectual;Medium;M578027;X
+265038;Chief of Air Force;안창남 ;1916;1933;1999;ML;Air Superiority Doctrine;High;2802;X
+265039;Chief of Air Force;서왈보 ;1916;1933;1999;ML;vertical envelopment doctrine;High;2803;X
+265040;Chief of Army;지청천 ;1914;1933;1999;ML;Decisive Battle Doctrine;Medium;2804;X
+265041;Chief of Army;김좌진 ;1914;1933;1999;SL;Decisive Battle Doctrine;Medium;2805;X
+265042;Chief of Army;오하묵 ;1914;1933;1999;ST;Decisive Battle Doctrine;Medium;2806;X
+265043;Chief of Staff;지청천 ;1914;1933;1999;ML;School of Manoeuvre;Medium;2804;X
+265044;Chief of Staff;김좌진 ;1914;1933;1999;SL;School of Mass Combat;Medium;2805;X
+265045;Chief of Staff;오하묵 ;1914;1933;1999;ST;School of Mass Combat;Medium;2806;X
+265046;Foreign Minister;조소앙 ;1914;1933;1999;ML;General Staffer;Medium;2807;X
+265047;Foreign Minister;박헌영 ;1918;1933;1999;ST;Ideological Crusader;Medium;2808;X
+265048;Foreign Minister;박진순 ;1916;1933;1999;ST;General Staffer;Medium;2809;X
+265049;Head of Government;허헌 ;1916;1933;1999;LWR;Happy Amateur;Medium;2810;X
+265050;Head of Government;사이토 마코토;1914;1933;1999;NS;Happy Amateur;Medium;2759;X
+265051;Head of Government;여운형 ;1914;1933;1999;ST;Flamboyant Tough Guy;Medium;2811;X
+265052;Head of Military Intelligence;허헌 ;1916;1933;1999;ST;Political Specialist;Medium;2810;X
+265053;Head of Military Intelligence;오하묵 ;1914;1933;1999;ST;Dismal Enigma;Medium;2806;X
+265054;Head of State;이은 ;1914;1933;1999;PA;Insignificant Layman;Medium;2812;X
+265055;Minister of Armament;김단야 ;1918;1933;1999;ST;Resource Industrialist;Medium;2813;X
+265056;Minister of Security;조동호 ;1914;1933;1999;ST;Silent Lawyer;Medium;2814;X
+265057;Minister of Security;여운형 ;1914;1933;1999;ST;Crime Fighter;Medium;2811;X
+265058;Head of State;이강 ;1914;1955;1999;PA;Popular Figurehead;Medium;8811;X
+265059;Head of State;이명복 ;1897;1907;1999;PA;Popular Figurehead;Medium;9542;X
+265060;Head of Government;연영선 ;1897;1912;1999;PA;Silent Workhorse;Medium;9543;X

@@ -1,0 +1,31 @@
+CSA;Name;Pic Name;Skill;Start Year;End Year;Speciality1;Speciality2;Speciality3;Speciality4;Speciality5;Speciality6;Speciality7;Speciality8;Speciality9;Speciality10;Speciality11;Speciality12;Speciality13;Speciality14;Speciality15;Speciality16;Speciality17;Speciality18;Speciality19;Speciality20;Speciality21;Speciality22;Speciality23;Speciality24;Speciality25;Speciality26;Speciality27;Speciality28;Speciality29;Speciality30;Speciality31;Speciality32;x
+600001;벨 항공기 제작사 ;T10500;6;1940;1970;aeronautics;bomber_design;avionics;aircraft_testing;rocketry;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+600002;듀크 대학교 ;T10501;6;1900;1970;mathematics;mechanics;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+600003;엠브리-리들 항공 대학교 ;T10502;5;1930;1970;aeronautics;avionics;fighter_design;piloting;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+600004;제너럴 모터스 ;T10503;7;1900;1970;mechanics;industrial_engineering;technical_efficiency;management;vehicle_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+600005;걸프 석유회사 ;T10504;8;1900;1970;industrial_engineering;chemistry;technical_efficiency;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+600006;히긴스 산업 주식회사 ;T105;7;1941;1946;general_equipment;naval_engineering;mechanics;artillery;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+600007;랭글리 연구시설 ;T10506;7;1930;1970;aeronautics;technical_efficiency;rocketry;electronics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+600008;뉴포트 뉴스 조선소 ;100069;7;1900;1970;naval_engineering;technical_efficiency;electronics;submarine_Design;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+600009;노퍽 해군 조선소 ;T112;9;1900;1970;naval_engineering;technical_efficiency;electronics;naval_artillery;carrier_design;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+600010;오크리지 국립 연구소 ;T10509;6;1943;1970;nuclear_physics;nuclear_engineering;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+600011;레드스톤 조병창 ;T10510;6;1942;1970;chemistry;artillery;technical_efficiency;mechanics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+600012;서던 철도 회사 ;T10511;5;1900;1970;mechanics;industrial_engineering;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+600013;포트 베닝 보병학교 ;T10512;7;1900;1970;large_unit_tactics;individual_courage;infantry_focus;training;combined_arms_focus;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+600014;콴티코 해병대 기지 ;T10513;8;1930;1970;small_unit_tactics;artillery;combined_arms_focus;training;marine_training;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+600015;시타델 ;T10514;6;1900;1970;small_unit_tactics;decentralized_execution;individual_courage;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+600016;버지니아 군사대학교 ;T10515;8;1900;1970;small_unit_tactics;large_unit_tactics;centralized_execution;decentralized_execution;individual_courage;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+600017;노퍽 해군기지 ;T10516;7;1900;1970;large_taskforce_tactics;submarine_tactics;carrier_tactics;seamanship;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+600018;랭글리 비행장 ;T10517;7;1930;1970;centralized_execution;training;bomber_tactics;piloting;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+600019;펜사콜라 해군 항공기지 ;T10518;5;1930;1970;aeronautics;fighter_tactics;bomber_tactics;piloting;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+600020;도널드 브라이언 ;100592;6;1945;1965;fighter_tactics;piloting;decentralized_execution;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+600021;로버트 밴 더 그래프 ;100593;5;1935;1965;nuclear_physics;electronics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+600022;알프레드 호블리질 클리포드 ;100594;6;1938;1970;mathematics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+600023;존 아치볼드 휠러 ;100595;7;1938;1970;nuclear_physics;nuclear_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+600024;루시어스 D 클레이 ;100596;7;1939;1950;centralized_execution;infantry_focus;large_unit_tactics;training;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+600025;레이먼드 G. 데이비스 ;100597;6;1950;1970;centralized_execution;small_unit_tactics;infantry_focus;training;small_taskforce_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+600026;반 T. 바풋 ;100598;5;1949;1970;small_unit_tactics;individual_courage;infantry_focus;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+600027;윌리엄 올랜도 다비 ;100599;6;1943;1970;small_unit_tactics;decentralized_execution;combined_arms_focus;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+600028;NCR ;100600;5;1942;1952;mathematics;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+600029;NCR ;100601;6;1952;1970;mathematics;technical_efficiency;electronics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+600030;TECO 전력 ;100602;6;1930;1970;industrial_engineering;chemistry;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x

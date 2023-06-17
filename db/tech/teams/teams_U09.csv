@@ -1,0 +1,35 @@
+U09;Name;Pic Name;Skill;Start Year;End Year;Speciality1;Speciality2;Speciality3;Speciality4;Speciality5;Speciality6;Speciality7;Speciality8;Speciality9;Speciality10;Speciality11;Speciality12;Speciality13;Speciality14;Speciality15;Speciality16;Speciality17;Speciality18;Speciality19;Speciality20;Speciality21;Speciality22;Speciality23;Speciality24;Speciality25;Speciality26;Speciality27;Speciality28;Speciality29;Speciality30;Speciality31;Speciality32;X
+860001;다임러 오스트리아 ;T600;5;1899;1970;management;vehicle_engineering;naval_engineering;aeronautics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X
+860002;히르텐베르거 ;T601;5;1930;1970;artillery;fighter_design;general_equipment;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X
+860003;핀치 ;T602;4;1930;1970;aeronautics;avionics;bomber_design;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X
+860004;슈타위어 ;T603;7;1927;1970;munitions;general_equipment;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X
+860005;알렉잔더 뢰어 ;T604;6;1930;1945;bomber_tactics;combined_arms_focus;training;piloting;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X
+860006;요한 쿠베나 ;T605;3;1930;1945;large_unit_tactics;centralized_execution;individual_courage;infantry_focus;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;X
+860007;율리우스 윌람 ;T606;4;1930;1942;fighter_tactics;centralized_execution;piloting;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X
+860008;로타르 렌둘리치 ;T607;5;1930;1945;small_unit_tactics;decentralized_execution;combined_arms_focus;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X
+860009;에르빈 슈뢰딩거 ;T608;6;1930;1960;nuclear_physics;mathematics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X
+860010;제국 방위성 ;T609;5;1945;1970;small_unit_tactics;centralized_execution;infantry_focus;fighter_tactics;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;X
+860011;빈 기술대학교 ;T610;4;1930;1970;mathematics;chemistry;mechanics;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X
+860012;슈코다 ;100674;7;1859;1970;industrial_engineering;technical_efficiency;artillery;mechanics;naval_artillery;;;;;;;;;;;;;;;;;;;;;;;;;;;;X
+860013;오스트리아 항공기 ;100024;5;1914;1970;vehicle_engineering;aeronautics;avionics;bomber_design;fighter_design;;;;;;;;;;;;;;;;;;;;;;;;;;;;X
+860014;트리에스테 기술회사 ;100025;7;1857;1970;carrier_design;naval_artillery;naval_engineering;submarine_design;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;X
+860015;군터 부르슈틴 ;100026;3;1911;1950;mathematics;mechanics;vehicle_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X
+860016;로렌츠 뵐러 ;100487;4;1911;1950;medicine;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X
+860017;제국 육군사관학교 ;100027;7;1865;1970;mountain_training;training;maneuver_tactics;centralized_execution;individual_courage;;;;;;;;;;;;;;;;;;;;;;;;;;;;X
+860018;호르티 미클로시 ;100505;4;1917;1945;large_taskforce_tactics;small_taskforce_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X
+860019;안톤 하우스 ;100488;7;1907;1917;large_taskforce_tactics;small_taskforce_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X
+860020;고드빈 브루모프스키 ;100028;4;1916;1936;fighter_tactics;bomber_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X
+860021;오스트리아 무기회사 ;100029;5;1869;1926;chemistry;general_equipment;munitions;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X
+860022;제국 해군사관학교 ;100030;6;1857;1970;naval_training;seamanship;marine_training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X
+860023;제국 뵐러스도르프 군수공장 ;100031;5;1895;1970;chemistry;artillery;general_equipment;munitions;naval_artillery;;;;;;;;;;;;;;;;;;;;;;;;;;;;X
+860024;제국 빈 기술대학교 ;100489;4;1890;1929;industrial_engineering;management;mathematics;aeronautics;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;X
+860025;제국 테레지아 군사학교 ;100032;5;1751;1970;mountain_training;training;maneuver_tactics;decentralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X
+860026;에밀 우젤라츠 ;100490;7;1912;1970;fighter_tactics;bomber_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X
+860027;게오르그 폰 트라프 ;100675;4;1915;1945;submarine_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X
+860028;테오도르 폰 카르만 ;100676;8;1915;1945;mathematics;aeronautics;avionics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X
+860029;건즈 ;100677;8;1885;1970;electronics;naval_engineering;aeronautics;avionics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X
+860030;제국 군용항공기 공장 ;100678;5;1892;1909;aeronautics;aircraft_testing;bomber_design;fighter_design;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X
+860031;제국 피샤멘트 항공기공장 ;100679;7;1910;1970;aeronautics;aircraft_testing;bomber_design;fighter_design;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X
+860032;페트로치 이슈트반 ;100680;6;1910;1945;aeronautics;aircraft_testing;bomber_design;fighter_design;piloting;;;;;;;;;;;;;;;;;;;;;;;;;;;;X
+860033;콘라드 폰 회첸도르프 ;100681;7;1888;1925;large_unit_tactics;large_unit_focus;infantry_focus;cavalry_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X
+860034;스베토자르 보로에비치 ;100682;5;1908;1920;small_unit_tactics;large_unit_focus;individual_courage;static_defense_tactics;infantry_focus;;;;;;;;;;;;;;;;;;;;;;;;;;;;X

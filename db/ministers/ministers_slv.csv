@@ -1,0 +1,64 @@
+SLV;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+525001;Head of State;에들러 폰 호스프다르스 ;1914;1921;1945;PA;Resigned Generalissimo;High;M545001;X
+525002;Head of Government;라디슬라우스 그루스 ;1933;1964;1999;PA;Political Protege;High;M545002;X
+525003;Foreign Minister;센 베르호닉 ;1933;1964;1999;PA;Great Compromiser;High;M545003;X
+525004;Minister of Armament;단코 유르셱 ;1933;1964;1999;PA;Military Entrepreneur;Medium;M545004;X
+525005;Minister of Security;밀란 레크세 ;1933;1964;1999;PA;Crime Fighter;Medium;M545005;X
+525006;Head of Military Intelligence;니코 크레펠 ;1933;1964;1999;PA;Dismal Enigma;Medium;M545006;X
+525007;Chief of Staff;티바도르 스툽카 ;1933;1964;1999;PA;School of Defence;Medium;M545007;X
+525008;Chief of Army;요셉 쾨베스 ;1933;1964;1999;PA;Elastic Defence Doctrine;Medium;M545008;X
+525009;Chief of Navy;프리드리히 훔베르스 ;1933;1964;1999;PA;Open Seas Doctrine;Medium;M545009;X
+525010;Chief of Air Force;구스타브 카사티 ;1933;1964;1999;PA;Vertical Envelopment Doctrine;Medium;M545010;X
+525012;Head of State;알레스 쥬판시치 ;1933;1964;1999;LE;Benevolent Gentleman;High;M545012;X
+525013;Head of Government;에밀 폰 브라세우어 ;1933;1964;1999;SC;Silent Workhorse;High;M545013;X
+525014;Head of Government;바톨로뮤 바츠크 ;1933;1964;1999;LE;Ambitious Union Boss;High;M545014;X
+525015;Foreign Minister;스베토 흐렌 ;1941;1964;1999;PA;Biased Intellectual;High;M545015;X
+525016;Foreign Minister;이즈토크 프레트너 ;1933;1964;1999;SC;Iron Fisted Brute;High;M545016;X
+525017;Foreign Minister;에드바르트 트루바 ;1933;1964;1999;LE;Ideological Crusader;High;M545017;X
+525018;Minister of Armament;지바딘 코다마스 ;1942;1964;1999;PA;laissez-faire capitalist;Medium;M545018;X
+525019;Minister of Armament;유리 오렌덱 ;1933;1964;1999;SC;Administrative Genius;Medium;M545019;X
+525020;Minister of Armament;가스파 소르크 ;1933;1964;1999;LE;Theoretical Scientist;Medium;M545020;X
+525021;Minister of Armament;토마즈 게르바스 ;1942;1964;1999;LE;Strategic Air Proponent;Medium;M545021;X
+525022;Minister of Security;카렐 누네 ;1933;1964;1999;SC;Prince of Terror;Medium;M545022;X
+525023;Minister of Security;휴고 리비치 ;1933;1964;1999;LE;Efficient Sociopath;Medium;M545023;X
+525024;Minister of Security;어반 프레리흐 ;1941;1964;1999;LE;Silent Lawyer;Medium;M545024;X
+525025;Head of Military Intelligence;로브로 미크라브치 ;1933;1964;1999;SC;Industrial Specialist;Medium;M545025;X
+525026;Head of Military Intelligence;프리모즈 예지크 ;1933;1964;1999;LE;Political Specialist;Medium;M545026;X
+525027;Head of Military Intelligence;빌젬 도나스 ;1942;1964;1999;LE;Technical Specialist;Medium;M545027;X
+525028;Chief of Staff;프란츠 폰 윰 ;1933;1964;1999;SC;School of Mass Combat;Medium;M545028;X
+525029;Chief of Staff;알렉산더 보르쉬 폰 아레나우 ;1933;1964;1999;LE;School of Psychology;Medium;M545029;X
+525030;Chief of Army;그레고어 랑 ;1933;1964;1999;SC;Static Defence Doctrine;Medium;M545030;X
+525031;Chief of Army;에른스트 폰 야콥스 ;1933;1964;1999;SC;Guns and Butter Doctrine;Medium;M545031;X
+525032;Chief of Navy;아서 단네커 ;1933;1964;1999;SC;Decisive Naval Battle Doctrine;Medium;M545032;X
+525033;Chief of Navy;렌 임페를 ;1933;1964;1999;LE;Indirect Approach Doctrine;Medium;M545033;X
+525034;Chief of Air Force;알베르토 폰 코돌리취 ;1933;1964;1999;SC;Army Aviation Doctrine;Medium;M545034;X
+525035;Chief of Air Force;프리드리히 마잘 ;1933;1964;1999;LE;Air Superiority Doctrine;Medium;M545035;X
+525036;Head of Government;레온 루프닉 ;1939;1954;1999;NS;Old General;Medium;8548;X
+525037;Head of Government;스탄코 마센 ;1944;1964;1999;FA;Silent Workhorse;High;8551;X
+525038;Head of State;레온 루프닉 ;1939;1954;1999;NS;Stern Imperialist;Medium;8548;X
+525039;Chief of Staff;레온 루프닉 ;1933;1954;1999;NS;School of Fire Support;Medium;8548;X
+525040;Chief of Staff;에른스트 페테링 ;1940;1964;1999;FA;School of Mass Combat;High;8549;X
+525041;Chief of Staff;부크 루프닉 ;1944;1964;1999;FA;School of Defence;High;8555;X
+525042;Chief of Staff;안톤 코잘 ;1941;1964;1999;FA;School of Manoeuvre;High;8556;X
+525043;Chief of Staff;프랑크 로즈만 ;1941;1964;1999;LWR;School of Mass Combat;Very high;8554;X
+525044;Chief of Army;프랑크 로즈만 ;1942;1964;1999;LWR;elastic defence doctrine;Very high;8554;X
+525045;Chief of Army;에른스트 페테링 ;1944;1964;1999;FA;Decisive Battle Doctrine;High;8549;X
+525046;Foreign Minister;리벤코 우르반니크 ;1939;1964;1999;NS;The Cloak N Dagger Schemer;High;8550;X
+525047;Foreign Minister;프랑코 로즈만 ;1945;1964;1999;LWR;General Staffer;Very high;8554;X
+525048;Foreign Minister;스탄코 마센 ;1936;1964;1999;FA;Biased Intellectual;High;8551;X
+525049;Minister of Security;리벤코 우르바니크 ;1941;1964;1999;NS;Prince of Terror;High;8550;X
+525050;Minister of Security;유로 아드레시치 ;1930;1964;1999;PA;Compassionate Gentleman;Very high;8552;X
+525051;Minister of Armament;요시프 플레멜 ;1936;1964;1999;ML;Theoretical Scientist;High;8553;X
+525052;Minister of Security;스탄코 마센 ;1940;1964;1999;FA;Silent Lawyer;High;8551;X
+525053;Minister of Security;안톤 코잘 ;1943;1964;1999;FA;Back Stabber;High;8556;X
+525054;Head of State;Anton Korosec;1907;1940;1941;PA;die-hard reformer;High;9930;X
+525055;Head of State;Miha Krek;1921;1969;1970;SC;insignificant layman;High;9931;X
+525056;Head of Government;Anton Korosec;1907;1940;1941;PA;Naive Optimist;High;9930;x
+525057;Head of Government;Miha Krek;1921;1969;1970;SC;silent workhorse;High;9931;x
+525058;Foreign Minister;Izidor Cankar;1913;1958;1959;SC;biased intellectual;High;9932;X
+525059;Minister of Armament;Andrej Gosar;1918;1958;1971;SC;Mixed economy;Medium;9933;X
+525060;Minister of Security;Andrej Gosar;1918;1958;1971;SC;compassionate gentleman;Medium;9933;X
+525061;Head of Military Intelligence;Franc Krenner;1914;1973;1974;PA;logistics specialist;Medium;9934;X
+525062;Chief of Staff;Franc Krenner;1914;1973;1974;PA;School of Defence;Medium;9934;X
+525063;Chief of Army;Franc Krenner;1914;1973;1974;PA;decisive battle doctrine;Medium;9934;X

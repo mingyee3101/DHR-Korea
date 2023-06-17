@@ -1,0 +1,246 @@
+U08;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+855001;Head of State;빌헬름 2세 ;1888;1933;1999;PA;Benevolent Puppet Kaiser;High;3451;X
+855002;Head of State;빌헬름 3세 ;1908;1933;1999;PA;Weary Stiffneck;High;3450;X
+855003;Head of Government;베른하르트 폰 뷜로우 ;1900;1930;1999;SC;Flamboyant Tough Guy;High;3430;X
+855004;Head of Government;테오발트 폰 베트만 홀베크 ;1909;1922;1999;SC;Naive Optimist;High;3438;X
+855005;Head of Government;게오르크 미하일리스 ;1917;1933;1999;PA;Happy Amateur;High;3439;X
+855006;Head of Government;게오르크 폰 헤르틀링 ;1917;1920;1999;SC;Backroom Backstabber;High;3437;X
+855007;Head of Government;막시밀리안 폰 바덴 ;1918;1930;1999;PA;Naive Optimist;High;3442;X
+855008;Foreign Minister;빌헬름 에두아르트 폰 쇼엔 ;1904;1914;1999;PA;Iron Fisted Brute;High;3417;X
+855009;Foreign Minister;알프레드 폰 키데를렌 배히터 ;1907;1917;1999;PA;General Staffer;High;3431;X
+855010;Foreign Minister;고틀리프 폰 야고우 ;1910;1920;1999;SC;Ideological Crusader;High;3418;X
+855011;Foreign Minister;아르투르 짐머만 ;1913;1923;1999;PA;Great Compromiser;High;3432;X
+855012;Foreign Minister;리하르트 폰 퀼만 ;1914;1924;1999;PA;Apologetic Clerk;High;3426;X
+855013;Foreign Minister;파울 폰 힌체 ;1915;1925;1999;SC;Biased Intellectual;High;3415;X
+855014;Foreign Minister;빌헬름 하인리히 졸프 ;1915;1925;1999;SC;The Cloak N Dagger Schemer;High;3421;X
+855015;Foreign Minister;아돌프 마샬 폰 비버슈타인 ;1902;1912;1999;PA;Iron Fisted Brute;High;3412;X
+855016;Foreign Minister;한스 폰 방엔하임 ;1905;1915;1999;PA;General Staffer;High;8393;X
+855017;Foreign Minister;파울 메테르니히 ;1906;1916;1999;SC;Ideological Crusader;High;8415;X
+855018;Foreign Minister;요한 하인리히 폰 베른스토프 ;1921;1931;1999;PA;Great Compromiser;High;8401;X
+855019;Foreign Minister;아돌프 게오르크 폰 말찬 ;1917;1927;1999;PA;Apologetic Clerk;High;8376;X
+855020;Foreign Minister;오토 비트펠트 ;1922;1925;1999;SC;Biased Intellectual;High;8413;X
+855021;Foreign Minister;율리우스 폰 발트하우젠 ;1922;1932;1999;SC;The Cloak N Dagger Schemer;High;8404;X
+855022;Foreign Minister;카를 폰 룩스부르크 ;1913;1917;1999;PA;Iron Fisted Brute;High;unknownminister;X
+855023;Foreign Minister;니콜라우스 폰 발비츠 ;1899;1909;1999;PA;General Staffer;High;unknownminister;X
+855024;Foreign Minister;프란츠 올스하우젠 ;1917;1927;1999;SC;Ideological Crusader;High;8383;X
+855025;Foreign Minister;아돌프 파울리 ;1914;1924;1999;PA;Great Compromiser;High;unknownminister;X
+855026;Foreign Minister;프리드리히 폰 켈러 ;1919;1928;1999;PA;Apologetic Clerk;High;8386;X
+855027;Foreign Minister;프란츠 폰 라이헤나우 ;1905;1915;1999;SC;Biased Intellectual;High;unknownminister;X
+855028;Foreign Minister;오이겐 뤼멜린 ;1923;1933;1999;SC;The Cloak N Dagger Schemer;High;unknownminister;X
+855029;Foreign Minister;울리히 폰 브로크도르프 란차우 ;1918;1928;1999;SC;Biased Intellectual;High;3420;X
+855030;Foreign Minister;콘스탄틴 폰 노이라트 ;1922;1932;1999;PA;respectable compromiser;High;8405;X
+855031;Foreign Minister;휴고 폰 라돌린 ;1907;1917;1999;SC;Ideological Crusader;High;8398;X
+855032;Foreign Minister;레오폴드 폰 회쉬 ;1923;1933;1999;PA;Great Compromiser;High;8407;X
+855033;Foreign Minister;헬무트 루시우스 폰 슈퇴튼 ;1917;1927;1999;PA;Apologetic Clerk;High;unknownminister;X
+855034;Foreign Minister;하인리히 폰 쉬르시키 ;1906;1916;1999;SC;Biased Intellectual;High;3424;X
+855035;Foreign Minister;에른스트 랑그베르트 폰 짐머른 ;1920;1930;1999;SC;The Cloak N Dagger Schemer;High;8381;X
+855036;Foreign Minister;프리드리히 슈타머 ;1920;1930;1999;PA;Iron Fisted Brute;High;8385;X
+855037;Minister of Armament;카를 폰 아이넴 ;1900;1914;1999;PA;Military Entrepreneur;High;1265;X
+855038;Minister of Armament;요시아스 폰 히어링겐 ;1906;1918;1999;PA;Infantry Proponent;High;1463;X
+855039;Minister of Armament;에리히 폰 팔켄하인 ;1910;1920;1999;SC;Military Entrepreneur;High;1262;X
+855040;Minister of Armament;아돌프 빌트 폰 호엔보른 ;1912;1921;1999;SC;Infantry Proponent;High;8156;X
+855041;Minister of Armament;헤르만 폰 슈타인 ;1913;1923;1999;SC;Infantry Proponent;High;1348;X
+855042;Minister of Armament;하인리히 쇼이쉬 ;1915;1924;1999;SC;Tank Proponent;High;8395;X
+855043;Minister of Armament;알프레드 폰 티르피츠 ;1867;1921;1999;FA;Battle Fleet Proponent;High;1454;X
+855044;Minister of Armament;에두아르트 폰 카펠레 ;1913;1923;1999;SC;Submarine Proponent;High;1301;X
+855045;Minister of Armament;파울 벤케 ;1915;1923;1999;SC;Battle Fleet Proponent;High;8414;X
+855046;Minister of Armament;에른스트 카를 아우구스트 클레멘스 폰 만 ;1915;1924;1999;SC;Submarine Proponent;High;7732;X
+855047;Minister of Armament;헤르만 폰 슈텡겔 ;1900;1913;1999;PA;Theoretical Scientist;High;unknownminister;X
+855048;Minister of Armament;라인홀트 폰 시다우 ;1905;1914;1999;PA;Resource Industrialist;High;unknownminister;X
+855049;Minister of Armament;아돌프 베르무트 ;1906;1917;1999;PA;Corrupt Kleptocrat;High;3460;X
+855050;Minister of Armament;헤르만 쿤 ;1909;1920;1999;PA;Administrative Genius;High;8397;X
+855051;Minister of Armament;카를 할퍼리히 ;1912;1921;1999;FA;laissez-faire capitalist;High;3458;X
+855052;Minister of Armament;지그프리드 폰 뢰데른 ;1913;1924;1999;FA;Theoretical Scientist;High;3459;X
+855053;Minister of Armament;루돌프 쉬반데르 ;1914;1922;1999;SC;Resource Industrialist;High;unknownminister;X
+855054;Minister of Armament;한스 카를 폰 슈타인 주 노르트 운트 오스트하임 ;1914;1924;1999;PA;laissez-faire capitalist;High;unknownminister;X
+855055;Minister of Security;테오발트 폰 베트만 홀베크 ;1904;1915;1999;SC;Compassionate Gentleman;High;3438;X
+855056;Minister of Security;클레멘스 폰 델브뤽 ;1906;1922;1999;FA;Man of the People;High;3478;X
+855057;Minister of Security;카를 할퍼리히 ;1913;1923;1999;FA;Efficient Sociopath;High;3458;X
+855058;Minister of Security;막스 발라프 ;1914;1925;1999;FA;Crime Fighter;High;3472;X
+855059;Minister of Security;프리드리히 폰 몰트케 ;1904;1915;1999;PA;Silent Lawyer;High;8387;X
+855060;Minister of Security;요한 폰 달비츠 ;1907;1919;1999;PA;Back Stabber;High;8402;X
+855061;Minister of Security;프리드리히 빌헬름 폰 뢰벨 ;1911;1922;1999;PA;Efficient Sociopath;High;8388;X
+855062;Minister of Security;빌헬름 아르놀트 드뤼스 ;1914;1923;1999;SC;Man of the People;High;8423;X
+855063;Minister of Security;틸로 폰 빌모프스키 ;1904;1925;1999;FA;Prince of Terror;High;8418;X
+855064;Minister of Security;카를 트림보른 ;1915;1921;1999;SC;Silent Lawyer;High;3475;X
+855065;Head of Military Intelligence;카를 브로스 ;1900;1915;1999;SC;Technical Specialist;High;unknownminister;X
+855066;Head of Military Intelligence;빌헬름 하이에 ;1907;1918;1999;SC;Logistics Specialist;High;8426;X
+855067;Head of Military Intelligence;발터 니콜라이 ;1910;1925;1999;PA;Political Specialist;High;3448;X
+855068;Head of Military Intelligence;알프레드 타프켄 ;1898;1919;1999;SC;Naval Intelligence Specialist;High;unknownminister;X
+855069;Head of Military Intelligence;발터 아이젠달 ;1911;1923;1999;PA;Dismal Enigma;High;8421;X
+855070;Head of Military Intelligence;파울 에베르트 ;1915;1925;1999;SC;Naval Intelligence Specialist;High;unknownminister;X
+855071;Head of Military Intelligence;프리드리히 겜프 ;1915;1925;1999;PA;Technical Specialist;High;8384;X
+855072;Chief of Staff;헬무트 폰 몰트케 ;1903;1917;1999;SC;School of Manoeuvre;High;1263;X
+855073;Chief of Staff;에리히 폰 팔켄하인 ;1911;1923;1999;SC;School of Defence;High;1262;X
+855074;Chief of Staff;파울 폰 힌덴부르크 ;1913;1925;1999;PA;Popular Military Leader;High;1467;X
+855075;Chief of Staff;한스 폰 젝트 ;1917;1927;1999;SC;School of Fire Support;High;1346;X
+855076;Chief of Staff;아우구스트 폰 마켄젠 ;1914;1925;1999;FA;School of Mass Combat;High;3483;X
+855077;Chief of Staff;콜마르 폰 데어 골츠 ;1907;1917;1999;PA;School of Defence;High;1443;X
+855078;Chief of Staff;헤르만 폰 아이히호른 ;1908;1919;1999;SC;School of Psychology;High;1257;X
+855079;Chief of Staff;카를 폰 뷜로우 ;1911;1922;1999;PA;School of Manoeuvre;High;1480;X
+855080;Chief of Army;헤르만 폰 슈타인 ;1903;1917;1999;SC;Decisive Battle Doctrine;High;1348;X
+855081;Chief of Army;아돌프 빌트 폰 호엔보른 ;1911;1923;1999;SC;Static Defence Doctrine;High;8156;X
+855083;Chief of Army;한스 폰 젝트 ;1917;1927;1999;SC;Armoured Spearhead Doctrine;High;1346;X
+855088;Chief of Army;에리히 루덴도르프 ;1914;1925;1999;FA;Guns and Butter Doctrine;High;3401;X
+855089;Chief of Army;빌헬름 그뢰너 ;1916;1925;1999;SC;elastic defence doctrine;High;3403;X
+855090;Chief of Navy;빌헬름 뷔쉬젤 ;1899;1914;1999;PA;Base Control Doctrine;High;unknownminister;X
+855091;Chief of Navy;프리드리히 폰 바우디신 ;1905;1915;1999;PA;Open Seas Doctrine;High;8153;X
+855092;Chief of Navy;막스 폰 피쉘 ;1906;1917;1999;SC;Decisive Naval Battle Doctrine;High;7950;X
+855093;Chief of Navy;아우구스트 폰 히어링겐 ;1908;1920;1999;PA;Power Projection Doctrine;High;8432;X
+855094;Chief of Navy;휴고 폰 폴 ;1910;1917;1999;PA;Indirect Approach Doctrine;High;3411;X
+855095;Chief of Navy;구스타프 바흐만 ;1912;1921;1999;SC;Base Control Doctrine;High;7931;X
+855096;Chief of Navy;헤닝 폰 홀첸도르프 ;1912;1920;1999;PA;Open Seas Doctrine;High;1466;X
+855097;Chief of Navy;라인하르트 쉐르 ;1915;1925;1999;SC;Decisive Naval Battle Doctrine;High;1275;X
+855098;Chief of Navy;아돌프 폰 트로타 ;1916;1925;1999;SC;Power Projection Doctrine;High;1351;X
+855099;Chief of Navy;안드레아스 미헬젠 ;1914;1925;1999;SC;Indirect Approach Doctrine;High;8171;X
+855100;Chief of Air Force;발터 폰 에버하르트 ;1913;1918;1999;PA;Naval Aviation Doctrine;High;8422;X
+855101;Chief of Air Force;리하르트 뢰테 ;1914;1919;1999;PA;Air Superiority Doctrine;High;unknownminister;X
+855102;Chief of Air Force;빌헬름 지크에르트 ;1914;1919;1999;PA;Army Aviation Doctrine;High;3490;X
+855103;Chief of Air Force;헤르만 폰 데어 리트 톰젠 ;1915;1925;1999;PA;vertical envelopment doctrine;High;1474;X
+855104;Chief of Air Force;에른스트 폰 회프너 ;1916;1923;1999;SC;Naval Aviation Doctrine;High;1325;X
+855105;Chief of Air Force;빌헬름 하엔넬트 ;1917;1925;1999;PA;Air Superiority Doctrine;High;unknownminister;X
+855106;Chief of Air Force;페터 슈트라서 ;1913;1919;1999;SC;Carpet Bombing Doctrine;High;1416;X
+855200;Head of State;집행위원회 ;1914;1932;1999;SD;Popular Figurehead;High;8420;X
+855201;Head of State;중앙협의회 ;1914;1932;1999;SL;Die-hard Reformer;High;8420;X
+855202;Head of State;프리드리히 에베르트 ;1914;1926;1999;SL;Benevolent Gentleman;High;3435;X
+855203;Head of Government;프리드리히 에베르트 ;1914;1926;1999;SL;Political Protege;High;3435;X
+855204;Head of Government;필립 샤이데만 ;1914;1933;1999;SL;Ambitious Union Boss;High;3444;X
+855205;Head of Government;구스타프 바우어 ;1914;1933;1999;SL;Political Protege;High;3443;X
+855206;Head of Government;헤르만 뮐러 ;1914;1933;1999;SL;Naive Optimist;High;3422;X
+855207;Head of Government;콘스탄틴 페렌바흐 ;1914;1927;1999;SC;Backroom Backstabber;High;3445;X
+855208;Head of Government;요제프 비르트 ;1914;1933;1999;SC;Silent Workhorse;High;3423;X
+855209;Head of Government;빌헬름 카를 요제프 쿠노 ;1914;1933;1999;SC;Happy Amateur;High;3446;X
+855210;Head of Government;구스타프 슈트레제만 ;1914;1930;1999;ML;Flamboyant Tough Guy;High;3433;X
+855211;Head of Government;빌헬름 마르크스 ;1914;1933;1999;SC;Corporate Suit;High;3447;X
+855212;Foreign Minister;휴고 하세 ;1914;1920;1999;SD;Ideological Crusader;High;3436;X
+855213;Foreign Minister;울리히 폰 브로크도르프 란차우 ;1914;1929;1999;SC;Biased Intellectual;High;3420;X
+855214;Foreign Minister;헤르만 뮐러 ;1919;1923;1999;SL;Iron Fisted Brute;High;3422;X
+855215;Foreign Minister;아돌프 쾨스터 ;1920;1923;1999;SL;General Staffer;High;3413;X
+855216;Foreign Minister;발터 시몬스 ;1920;1924;1999;SC;Ideological Crusader;High;3428;X
+855217;Foreign Minister;프리드리히 로젠 ;1921;1924;1999;SC;Great Compromiser;High;3414;X
+855218;Foreign Minister;요제프 비르트 ;1921;1925;1999;SC;Apologetic Clerk;High;3423;X
+855219;Foreign Minister;발터 라테나우 ;1922;1925;1999;ML;Biased Intellectual;High;3429;X
+855220;Foreign Minister;프레데릭 폰 로젠베르크 ;1922;1926;1999;SC;The Cloak N Dagger Schemer;High;3991;X
+855221;Foreign Minister;구스타프 슈트레제만 ;1923;1930;1999;ML;Ideological Crusader;High;3433;X
+855222;Minister of Armament;필립 샤이데만 ;1914;1925;1999;SL;Administrative Genius;High;3444;X
+855223;Minister of Armament;오이겐 쉬퍼 ;1914;1925;1999;ML;Submarine Proponent;High;3454;X
+855224;Minister of Armament;빈트샤이트 데른부르크 ;1919;1922;1999;ML;Military Entrepreneur;High;3453;X
+855225;Minister of Armament;마티아스 에르츠버거 ;1919;1922;1999;SC;laissez-faire capitalist;High;3465;X
+855226;Minister of Armament;요제프 비르트 ;1920;1923;1999;SC;Air Superiority Proponent;High;3423;X
+855227;Minister of Armament;안드레아스 헤르메스 ;1921;1924;1999;SC;Strategic Air Proponent;High;3457;X
+855228;Minister of Armament;루돌프 힐퍼딩 ;1923;1926;1999;SL;Administrative Genius;High;3466;X
+855229;Minister of Armament;한스 루터 ;1923;1927;1999;ML;Infantry Proponent;High;3455;X
+855230;Minister of Armament;아우구스트 뮐러 ;1914;1925;1999;SL;laissez-faire capitalist;High;unknownminister;X
+855231;Minister of Armament;루돌프 비셀 ;1914;1925;1999;SL;Air Superiority Proponent;High;8417;X
+855232;Minister of Armament;로베르트 슈미트 ;1919;1922;1999;SL;Strategic Air Proponent;High;8416;X
+855233;Minister of Armament;에른스트 숄츠 ;1920;1923;1999;ML;Administrative Genius;High;unknownminister;X
+855234;Minister of Armament;요한 베커 ;1922;1925;1999;ML;Corrupt Kleptocrat;High;8400;X
+855235;Minister of Armament;한스 폰 라우머 ;1923;1926;1999;ML;Resource Industrialist;High;unknownminister;X
+855236;Minister of Armament;요제프 쾨스 ;1923;1926;1999;SL;Battle Fleet Proponent;High;8403;X
+855237;Minister of Armament;에두아르트 함 ;1923;1926;1999;ML;Theoretical Scientist;High;8380;X
+855238;Minister of Armament;발터 라인하르트 ;1914;1925;1999;SC;Infantry Proponent;High;1478;X
+855239;Minister of Armament;구스타프 노스케 ;1919;1922;1999;SL;Military Entrepreneur;High;8391;X
+855240;Minister of Armament;오토 게슬러 ;1920;1923;1999;ML;Tank Proponent;High;8411;X
+855241;Minister of Security;프리드리히 에베르트 ;1914;1925;1999;SL;Compassionate Gentleman;High;3435;X
+855242;Minister of Security;휴고 프로이스 ;1914;1925;1999;ML;Man of the People;High;3470;X
+855243;Minister of Security;에두아르트 다비드 ;1919;1922;1999;SL;Prince of Terror;High;3467;X
+855244;Minister of Security;에리히 코흐 베저 ;1919;1924;1999;ML;Crime Fighter;High;3479;X
+855245;Minister of Security;게오르크 그라트나우어 ;1921;1924;1999;SL;Silent Lawyer;High;3468;X
+855246;Minister of Security;아돌프 쾨스터 ;1921;1925;1999;SL;Back Stabber;High;3413;X
+855247;Minister of Security;루돌프 외저 ;1922;1926;1999;ML;Efficient Sociopath;High;3993;X
+855248;Minister of Security;빌헬름 졸만 ;1923;1926;1999;SL;Compassionate Gentleman;High;3469;X
+855249;Minister of Security;카를 자레스 ;1923;1927;1999;ML;Man of the People;High;3992;X
+855250;Minister of Security;마틴 쉴레 ;1924;1928;1999;FA;Prince of Terror;High;8409;X
+855251;Head of Military Intelligence;마틴 브라우너 ;1914;1925;1999;SC;Dismal Enigma;High;unknownminister;X
+855252;Head of Military Intelligence;페르디난트 뵈머 ;1921;1925;1999;SC;Naval Intelligence Specialist;High;unknownminister;X
+855253;Head of Military Intelligence;레오 리델 ;1924;1925;1999;SC;Technical Specialist;High;unknownminister;X
+855254;Head of Military Intelligence;프리드리히 겜프 ;1921;1925;1999;SC;Logistics Specialist;High;8384;X
+855255;Chief of Staff;파울 폰 힌덴부르크 ;1914;1925;1999;SC;Popular Military Leader;High;1467;X
+855256;Chief of Staff;한스 폰 젝트 ;1914;1925;1999;SC;School of Fire Support;High;1346;X
+855257;Chief of Staff;빌헬름 하이에 ;1920;1925;1999;SC;School of Manoeuvre;High;8426;X
+855258;Chief of Staff;오토 하세 ;1923;1925;1999;SC;School of Mass Combat;High;8412;X
+855259;Chief of Army;빌헬름 그뢰너 ;1914;1925;1999;SC;Decisive Battle Doctrine;High;3403;X
+855260;Chief of Army;발터 라인하르트 ;1914;1925;1999;SC;Guns and Butter Doctrine;High;1478;X
+855261;Chief of Army;한스 폰 젝트 ;1920;1927;1999;SC;Armoured Spearhead Doctrine;High;1346;X
+855262;Chief of Navy;막시밀리안 로게 ;1914;1925;1999;SC;Base Control Doctrine;High;unknownminister;X
+855263;Chief of Navy;아돌프 폰 트로타 ;1914;1925;1999;SC;Open Seas Doctrine;High;1351;X
+855264;Chief of Navy;빌리엄 미헬리스 ;1920;1925;1999;SC;Decisive Naval Battle Doctrine;High;unknownminister;X
+855265;Chief of Navy;파울 벤케 ;1920;1925;1999;SC;Power Projection Doctrine;High;8414;X
+855266;Chief of Navy;한스 젠커 ;1924;1929;1999;SC;Indirect Approach Doctrine;High;8183;X
+855267;Chief of Air Force;헤르만 폰 데어 리트 톰젠 ;1915;1925;1999;SC;vertical envelopment doctrine;High;1474;X
+855268;Chief of Air Force;에른스트 폰 회프너 ;1914;1925;1999;SC;Naval Aviation Doctrine;High;1325;X
+855269;Chief of Air Force;빌헬름 하엔넬트 ;1918;1925;1999;SC;Air Superiority Doctrine;High;unknownminister;X
+855300;Head of State;에리히 루덴도르프 ;1914;1933;1999;FA;Autocratic Charmer;High;3401;X
+855301;Head of State;파울 폰 힌덴부르크 ;1914;1933;1999;PA;Popular Figurehead;High;1467;X
+855302;Head of State;아돌프 히틀러 ;1914;1933;1999;NS;Powerhungry Demagogue;High;3485;X
+855303;Head of State;빌헬름 2세 ;1914;1933;1999;PA;Benevolent Puppet Kaiser;High;3451;X
+855304;Head of State;빌헬름 3세 ;1914;1933;1999;PA;Weary Stiffneck;High;3450;X
+855305;Head of State;발터 폰 뤼트비츠 ;1914;1933;1999;FA;Barking Buffoon;High;1483;X
+855306;Head of Government;볼프강 카프 ;1914;1923;1999;FA;Happy Amateur;High;3482;X
+855307;Head of Government;구스타프 노스케 ;1914;1933;1999;SC;Silent Workhorse;High;8391;X
+855308;Head of Government;아돌프 히틀러 ;1914;1933;1999;NS;Flamboyant Tough Guy;High;3485;X
+855309;Head of Government;그레고르 슈트라서 ;1914;1933;1999;FA;Ambitious Union Boss;High;8390;X
+855310;Head of Government;발터 폰 뤼트비츠 ;1914;1933;1999;FA;Old General;High;1483;X
+855311;Foreign Minister;울리히 폰 하셀 ;1918;1933;1999;PA;General Staffer;High;8419;X
+855312;Foreign Minister;알브레히트 폰 그레페 ;1914;1933;1999;FA;The Cloak N Dagger Schemer;High;8377;X
+855313;Foreign Minister;프란츠 폰 라이헤나우 ;1914;1933;1999;PA;Biased Intellectual;High;unknownminister;X
+855314;Foreign Minister;하인리히 클라스 ;1914;1933;1999;FA;Ideological Crusader;High;8394;X
+855315;Minister of Armament;요한 알브레히트 주 메클렌부르크 ;1914;1921;1999;PA;Military Entrepreneur;High;8399;X
+855316;Minister of Armament;알프레드 후겐베르크 ;1914;1933;1999;PA;Corrupt Kleptocrat;High;8378;X
+855317;Minister of Armament;고트프리드 페더 ;1918;1933;1999;NS;Theoretical Scientist;High;8389;X
+855318;Minister of Armament;오스카 헤르크트 ;1914;1933;1999;FA;Air Superiority Proponent;High;8410;X
+855319;Minister of Armament;헤르만 디트리히 ;1914;1933;1999;FA;Strategic Air Proponent;High;8396;X
+855320;Minister of Armament;막스 뢰트거 ;1914;1924;1999;PA;Administrative Genius;High;unknownminister;X
+855321;Minister of Armament;휴고 슈티네스 ;1914;1925;1999;PA;laissez-faire capitalist;High;3464;X
+855322;Minister of Armament;에른스트 폰 브리스베르크 ;1914;1928;1999;FA;Resource Industrialist;High;8382;X
+855323;Minister of Armament;오토 폰 로소프 ;1914;1933;1999;PA;Infantry Proponent;High;3484;X
+855324;Minister of Armament;알프레드 폰 티르피츠 ;1914;1931;1999;FA;Battle Fleet Proponent;High;1454;X
+855325;Minister of Security;빌헬름 쿠베 ;1918;1933;1999;NS;Compassionate Gentleman;High;8427;X
+855326;Minister of Security;빌헬름 프릭 ;1918;1933;1999;FA;Ruthless Organizer;High;8425;X
+855327;Minister of Security;크리스티안 로트 ;1918;1933;1999;PA;Man of the People;High;8379;X
+855328;Minister of Security;한스 하인리히 람메르스 ;1918;1933;1999;NS;Silent Lawyer;High;8392;X
+855329;Minister of Security;쿠노 폰 베스타프 ;1914;1933;1999;FA;Back Stabber;High;8406;X
+855330;Minister of Security;트라우고트 폰 야고우 ;1914;1933;1999;PA;Crime Fighter;High;8154;X
+855331;Minister of Security;한스 폰 자이서 ;1914;1933;1999;PA;Efficient Sociopath;High;3487;X
+855332;Head of Military Intelligence;빌헬름 카나리스 ;1918;1933;1999;FA;Brilliant Spymaster;High;8424;X
+855333;Head of Military Intelligence;헤르만 에르하르트 ;1914;1933;1999;FA;Political Specialist;High;3481;X
+855334;Head of Military Intelligence;발터 니콜라이 ;1914;1933;1999;PA;Political Specialist;High;3448;X
+855335;Chief of Navy;알프레드 폰 티르피츠 ;1914;1931;1999;FA;Open Seas Doctrine;High;1454;X
+855336;Chief of Navy;마그누스 레베초프 ;1914;1933;1999;PA;Base Control Doctrine;High;1366;X
+855337;Chief of Navy;아돌프 폰 트로타 ;1914;1933;1999;FA;Decisive Naval Battle Doctrine;High;1351;X
+855338;Chief of Navy;막스 폰 그라포프 ;1914;1925;1999;PA;Power Projection Doctrine;High;8428;X
+855339;Chief of Staff;발터 폰 뤼트비츠 ;1914;1933;1999;FA;School of Manoeuvre;High;1483;X
+855340;Chief of Staff;뤼디거 폰 데어 골츠 ;1914;1933;1999;FA;School of Fire Support;High;1245;X
+855341;Chief of Staff;에리히 루덴도르프 ;1914;1933;1999;FA;School of Mass Combat;High;3401;X
+855342;Chief of Staff;파울 폰 힌덴부르크 ;1914;1933;1999;PA;Popular Military Leader;High;1467;X
+855343;Chief of Staff;오스카 폰 후티어 ;1914;1933;1999;PA;School of Psychology;High;1267;X
+855344;Chief of Army;아우구스트 폰 마켄젠 ;1914;1933;1999;FA;Armoured Spearhead Doctrine;High;3483;X
+855345;Chief of Army;파울 폰 레토프 포어베크 ;1914;1933;1999;FA;Guns and Butter Doctrine;High;1274;X
+855346;Chief of Army;루드비히 폰 에스토프 ;1914;1933;1999;FA;Decisive Battle Doctrine;High;8408;X
+855347;Chief of Army;부르크하르트 폰 오벤 ;1914;1933;1999;FA;Static Defence Doctrine;High;1372;X
+855348;Chief of Army;오토 폰 로소프 ;1914;1933;1999;PA;elastic defence doctrine;High;3484;X
+855349;Chief of Air Force;헤르만 폰 데어 리트 톰젠 ;1915;1933;1999;PA;vertical envelopment doctrine;High;1474;X
+855350;Chief of Air Force;에른스트 폰 회프너 ;1914;1933;1999;PA;Naval Aviation Doctrine;High;1325;X
+855351;Chief of Air Force;빌헬름 하엔넬트 ;1918;1933;1999;PA;Air Superiority Doctrine;High;unknownminister;X
+855352;Chief of Air Force;헤르만 괴링 ;1920;1933;1999;NS;The Iron Knight;High;1291;X
+855353;Minister of Security;카를 할퍼리히 ;1913;1925;1999;FA;Efficient Sociopath;High;3458;X
+855354;Minister of Security;막스 발라프 ;1914;1933;1999;FA;Crime Fighter;High;3472;X
+855355;Minister of Armament;카를 할퍼리히 ;1912;1925;1999;FA;laissez-faire capitalist;High;3458;X
+855356;Head of State;아이텔 프리드리히 폰 프로이센 ;1914;1933;1999;SC;weary stiffneck;High;8858;X
+855357;Foreign Minister;하리 클레멘스 울리히 폰 케슬러 ;1917;1933;1999;SL;biased intellectual;High;8859;X
+855358;Minister of Armament;햘마르 샤흐트 ;1920;1933;1999;SC;Reformer;High;8860;X
+855359;Minister of Armament;루돌프 하벤슈타인 ;1900;1923;1999;SC;Mixed economy;High;8861;X
+855360;Head of State;빌헬름 마르크스 ;1925;1933;1999;SC;Barking Buffoon;High;3447;X
+855361;Head of State;에른스트 텔만 ;1925;1933;1999;ST;Autocratic Charmer;High;3578;X
+855362;Head of Government;한스 루터 ;1925;1933;1999;ML;Naive Optimist;High;3455;X
+855363;Head of Government;하인리히 브뤼닝 ;1930;1933;1999;SC;Political Protege;High;unknownminister;X
+855364;Head of Government;프란츠 폰 파펜 ;1932;1964;1999;PA;Happy Amateur;High;unknownminister;X
+855365;Head of Government;쿠르트 폰 슐라이허 ;1932;1964;1999;PA;Backroom Backstabber;High;unknownminister;X
+855366;Minister of Armament;율리우스 쿠르티우스 ;1925;1933;1999;SC;laissez-faire capitalist;High;unknownminister;X
+855367;Minister of Security;빌헬름 퀴츠 ;1925;1933;1999;ML;Compassionate Gentleman;High;unknownminister;X
+855368;Minister of Security;칼 세베링 ;1925;1933;1999;SD;Back Stabber;High;unknownminister;X
+855369;Foreign Minister;율리우스 쿠르티우스 ;1930;1933;1999;SC;Great Compromiser;High;unknownminister;X
+855370;Minister of Security;요제프 비르트 ;1930;1933;1999;SC;Silent Lawyer;High;3423;X
+855371;Minister of Security;빌헬름 폰 가일 ;1932;1964;1999;PA;Prince of Terror;High;M15;X
+855372;Minister of Armament;요한 쉬베린 폰 크로지크 ;1932;1964;1999;NS;Resource Industrialist;Very High;M49;X
+855373;Minister of Security;프란츠 브라흐트 ;1932;1964;1999;SC;Crime Fighter;High;unknownminister;X

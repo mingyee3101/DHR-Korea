@@ -1,0 +1,29 @@
+ARG;Name;Pic Name;Skill;Start Year;End Year;Speciality1;Speciality2;Speciality3;Speciality4;Speciality5;Speciality6;Speciality7;Speciality8;Speciality9;Speciality10;Speciality11;Speciality12;Speciality13;Speciality14;Speciality15;Speciality16;Speciality17;Speciality18;Speciality19;Speciality20;Speciality21;Speciality22;Speciality23;Speciality24;Speciality25;Speciality26;Speciality27;Speciality28;Speciality29;Speciality30;Speciality31;Speciality32;x
+165001;AFNE ;T400;3;1900;1970;naval_engineering;electronics;naval_artillery;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+165002;알리안사 조선소 ;T401;3;1900;1970;naval_engineering;technical_efficiency;electronics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+165003;부에노스 아이레스 철도회사 ;T402;4;1900;1970;industrial_engineering;mechanics;electronics;general_equipment;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+165004;CAC ;T403;4;1900;1970;aeronautics;aircraft_testing;fighter_design;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+165005;에스테반 데 루카 병기창 ;T404;5;1900;1970;mechanics;artillery;general_equipment;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+165006;아르헨티나 군수 공장 ;T405;5;1941;1970;general_equipment;mechanics;munitions;artillery;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+165007;FMA ;T406;3;1900;1970;aeronautics;aircraft_testing;bomber_design;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+165008;Yacimientos Petroliferos Fiscales;100013;5;1922;1970;industrial_engineering;chemistry;technical_efficiency;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+165009;안토니오 파로디 ;T408;4;1930;1945;training;fighter_tactics;piloting;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+165010;아우구스틴 후스토 ;T409;2;1923;1938;large_unit_tactics;centralized_execution;infantry_focus;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+165011;아르헨티나 해군 ;T410;5;1900;1970;large_taskforce_tactics;centralized_execution;naval_training;seamanship;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+165012;프란시스코 벨레스 ;T411;4;1930;1941;small_unit_tactics;decentralized_execution;individual_courage;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+165013;아르헨티나 공군 학교 ;T412;4;1939;1970;piloting;bomber_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+165014;후안 페론 ;T413;4;1941;1960;large_unit_tactics;centralized_execution;combined_arms_focus;individual_courage;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+165015;페드로 카살 ;T414;4;1930;1946;large_taskforce_tactics;centralized_execution;naval_training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+165016;루이스 F. 레로아르 ;T415;7;1938;1944;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+165017;SOMISA ;T416;6;1947;1970;artillery;mechanics;general_equipment;munitions;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+165018;비야마리아 폭약 공장 ;T417;5;1937;1970;artillery;general_equipment;munitions;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+165019;원자력 발전 위원회 ;T418;4;1937;1970;mechanics;chemistry;technical_efficiency;management;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+165020;알프레도 바이시 ;T419;6;1943;1948;artillery;mechanics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+165021;쿠르트 탄크 ;T420;6;1947;1955;rocketry;aeronautics;avionics;aircraft_testing;fighter_design;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+165022;코르도바 대학교 ;T421;3;1900;1970;mathematics;chemistry;electronics;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+165023;아르헨티나 육군 학교 ;T422;3;1900;1970;mountain_training;small_unit_tactics;artillery;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+165024;분게 이 보르네 ;100009;5;1890;1970;industrial_engineering;mechanics;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+165025;시암 디 텔라 ;100010;6;1911;1970;industrial_engineering;mechanics;electronics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+165026;탄다노르 조선소 ;100011;4;1879;1970;naval_engineering;naval_artillery;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+165027;코모도로 리바다비아 석유 시추 ;100012;3;1907;1922;chemistry;mechanics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+165029;아르헨티나 육군 ;100014;5;1810;1970;general_equipment;artillery;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x

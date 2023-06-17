@@ -1,0 +1,197 @@
+RUS;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+515001;Head of State;안드레이 블라소프 ;1933;1964;1999;NS;Resigned Generalissimo;High;M4090;X
+515002;Head of State;알렉산드르 케렌스키 ;1933;1964;1999;SC;Die-hard Reformer;High;3030;X
+515003;Head of Government;표트르 브랑겔 ;1925;1930;1999;PA;Old General;High;3956;X
+515004;Head of Government;가롤드 그라프 ;1925;1964;1999;PA;silent workhorse;High;9314;X
+515005;Head of Government;알렉산더 폰 람페 ;1925;1967;1999;PA;old general;High;5628;X
+515006;Head of Government;콘스탄틴 로드자옙스키 ;1925;1964;1999;FA;Local tyrant;High;9311;X
+515007;Head of Government;안톤 데니킨 ;1925;1947;1999;PA;Old General;High;L500009;X
+515008;Head of Government;라브르 코르닐로프 ;1925;1933;1999;PA;Old General;High;L500046;X
+515009;Head of Government;니콜라이 압크셴체프 ;1925;1943;1999;SD;happy amateur;High;8902;X
+515010;Head of Government;파벨 밀류코프 ;1925;1943;1999;ML;silent workhorse;Very High;3054;X
+515011;Head of Government;게오르기 질렌코프 ;1933;1946;1999;FA;Silent Workhorse;High;M4081;X
+515012;Head of Government;안드레이 블라소프 ;1933;1964;1999;NS;old general;High;M4090;X
+515013;Foreign Minister;보리스 놀데 ;1925;1948;1999;SL;apologetic clerk;High;9204;X
+515014;Foreign Minister;세르게이 코틀랴렙스키 ;1925;1939;1999;SL;great compromiser;High;9199;X
+515015;Foreign Minister;모세 아졔모프 ;1925;1950;1999;SL;the cloak n dagger schemer;High;9207;X
+515016;Foreign Minister;예브게니 발라빈 ;1925;1964;1999;PA;general staffer;High;9310;X
+515017;Foreign Minister;가롤드 그라프 ;1925;1964;1999;PA;great compromiser;High;9314;X
+515018;Foreign Minister;안드레이 대공 ;1925;1956;1999;SC;biased intellectual;High;4451;X
+515019;Foreign Minister;콘스탄틴 로드자옙스키 ;1925;1964;1999;FA;iron fisted brute;High;9311;X
+515020;Foreign Minister;알렉산드르 가드 ;1925;1964;1999;SL;Great Compromiser;High;9322;X
+515021;Foreign Minister;콘스탄틴 보스코보이니크 ;1925;1964;1999;NS;ideological crusader;High;9312;X
+515022;Foreign Minister;니콜라이 압크셴체프 ;1925;1943;1999;SD;apologetic clerk;High;8902;X
+515023;Foreign Minister;표도르 보가치르축 ;1933;1964;1999;FA;Iron Fisted Brute;High;9193;X
+515024;Foreign Minister;안드레이 알렉산드로비치 공 ;1940;1980;1999;SC;the cloak n dagger schemer;High;9317;X
+515025;Minister of Armament;페트르 유레녜프 ;1925;1943;1999;SL;resource industrialist;High;9203;X
+515026;Minister of Armament;미하일 사바쉬니코프 ;1925;1943;1999;SL;laissez-faire capitalist;High;9197;X
+515027;Minister of Armament;블라디미르 베르나드스키 ;1925;1945;1999;SL;theoretical scientist;High;9200;X
+515028;Minister of Armament;니카노르 사비치 ;1925;1942;1999;SC;infantry proponent;High;9205;X
+515029;Minister of Armament;알렉세이 자예프 ;1925;1964;1999;SL;battle fleet proponent;High;5701;X
+515030;Minister of Armament;콘스탄틴 보스코보이니크 ;1925;1964;1999;NS;resource industrialist;High;9312;X
+515031;Minister of Armament;뱌체슬라프 바라노프 ;1925;1964;1999;SL;air superiority proponent;High;9319;X
+515032;Minister of Armament;미하일 멘드로프 ;1933;1964;1999;FA;tank proponent;Very High;3027;X
+515033;Minister of Armament;빅토르 말체프 ;1933;1964;1999;NS;air to ground proponent;High;9195;X
+515034;Minister of Armament;보리스 멘샤긴 ;1933;1964;1999;NS;resource industrialist;High;9196;X
+515035;Minister of Armament;세르게이 볼디레프 ;1933;1964;1999;NS;tank proponent;High;9208;X
+515036;Minister of Armament;세묜 비치코프 ;1940;1964;1999;FA;air superiority proponent;High;9316;X
+515037;Minister of Security;요시프 게젠 ;1925;1943;1999;SL;crime fighter;High;9202;X
+515038;Minister of Security;알렉산더 폰 람페 ;1925;1967;1999;PA;back stabber;High;5628;X
+515039;Minister of Security;콘스탄틴 보스코보이니크 ;1925;1964;1999;NS;crime fighter;High;9312;X
+515040;Minister of Security;니카노르 사비치 ;1925;1942;1999;SC;compassionate gentleman;High;9205;X
+515041;Minister of Security;빅토르 바이다라코프 ;1925;1964;1999;PA;Silent Lawyer;High;9320;X
+515042;Minister of Security;보리스 게르슌;1925;1959;1999;SL;crime fighter;High;9318;X
+515043;Minister of Security;펠릭스 유수포프 ;1925;1967;1999;PA;Back Stabber;Very High;M4112;X
+515044;Minister of Security;이라킬 체레텔리 ;1925;1959;1999;SL;Silent Lawyer;High;3088;X
+515045;Minister of Security;드미트리 자쿠트니 ;1930;1964;1999;NS;man of the people;High;9315;X
+515046;Minister of Security;블라디미르 말리쉬킨 ;1933;1964;1999;FA;Back Stabber;Very High;3026;X
+515047;Minister of Security;보리스 멘샤긴 ;1933;1964;1999;NS;silent lawyer;High;9196;X
+515048;Minister of Security;게오르기 질렌코프 ;1933;1946;1999;FA;prince of terror;High;M4081;X
+515049;Minister of Security;파벨 베어몬트 아발로프 ;1933;1964;1999;FA;Back Stabber;Medium;6379;X
+515050;Head of Military Intelligence;니카노르 사비치 ;1925;1942;1999;SC;technical specialist;High;9205;X
+515051;Head of Military Intelligence;콘스탄틴 로드자옙스키 ;1925;1964;1999;FA;political specialist;High;9311;X
+515052;Head of Military Intelligence;보리스 게르슌;1925;1959;1999;SL;political specialist;High;9318;X
+515053;Head of Military Intelligence;세르게이 부냐첸코 ;1930;1950;1999;NS;logistics specialist;High;9313;X
+515054;Head of Military Intelligence;미하일 멘드로프 ;1933;1964;1999;FA;Dismal Enigma;Very High;3027;X
+515055;Head of Military Intelligence;이반 블라고베셴스키 ;1933;1964;1999;NS;Naval Intelligence Specialist;High;9194;X
+515056;Head of Military Intelligence;블라디미르 말리쉬킨 ;1933;1964;1999;FA;dismal enigma;Very High;3026;X
+515057;Chief of Staff;브셰보로드 아가폐프 ;1925;1948;1999;PA;school of manoeuvre;High;9206;X
+515058;Chief of Staff;예브게니 발라빈 ;1925;1964;1999;PA;school of manoeuvre;High;9310;X
+515059;Chief of Staff;아르세니 굴레비치 ;1925;1947;1999;PA;school of defence;High;9209;X
+515060;Chief of Staff;블라디미르 빅토프스키 ;1925;1978;1999;SC;School of Psychology;High;5581;X
+515061;Chief of Staff;드미트리 자쿠트니 ;1930;1964;1999;NS;school of fire support;High;9315;X
+515062;Chief of Staff;미하일 스코로두모프 ;1930;1964;1999;FA;School of Fire Support;High;9321;X
+515063;Chief of Staff;표트르 크라스노프 ;1930;1964;1999;PA;School of Manoeuvre;Medium;6374;X
+515064;Chief of Staff;안드레이 쉬쿠로 ;1930;1964;1999;PA;School of Psychology;Medium;6372;X
+515065;Chief of Staff;미하일 멘드로프 ;1933;1964;1999;FA;School of Psychology;Very High;3027;X
+515066;Chief of Staff;표도르 트루킨 ;1933;1964;1999;NS;School of Mass Combat;High;M4125;X
+515067;Chief of Staff;안드레이 블라소프 ;1933;1964;1999;NS;School of Fire Support;High;M4090;X
+515068;Chief of Staff;미하일 보그다노프 ;1933;1964;1999;FA;school of manoeuvre;High;9191;X
+515069;Chief of Staff;시소이 보로딘 ;1933;1964;1999;FA;School of Mass Combat;High;9192;X
+515070;Chief of Staff;파벨 베어몬트 아발로프 ;1933;1964;1999;FA;School of Psychology;Medium;6379;X
+515071;Chief of Army;알렉산더 폰 람페 ;1925;1967;1999;PA;decisive battle doctrine;High;5628;X
+515072;Chief of Army;안드레이 대공 ;1925;1956;1999;SC;guns and butter doctrine;High;4451;X
+515073;Chief of Army;알렉세이 폰 부드베르크 ;1925;1945;1999;SC;static defence doctrine;High;5601;X 
+515074;Chief of Army;블라디미르 빅토프스키 ;1925;1978;1999;SC;Guns and Butter Doctrine;High;5581;X
+515075;Chief of Army;블라디미르 하르젭스키 ;1925;1964;1999;SC;Decisive Battle Doctrine;High;9325;X
+515076;Chief of Army;세르게이 부냐첸코 ;1930;1950;1999;NS;static defence doctrine;High;9313;X
+515077;Chief of Army;드미트리 자쿠트니 ;1930;1964;1999;NS;armoured spearhead doctrine;High;9315;X
+515078;Chief of Army;미하일 스코로두모프 ;1930;1964;1999;FA;Decisive Battle Doctrine;High;9321;X
+515079;Chief of Army;블라디미르 키슬리친 ;1930;1964;1999;SC;Decisive Battle Doctrine;Very high;6375;X
+515080;Chief of Army;안드레이 쉬쿠로 ;1930;1964;1999;PA;Decisive Battle Doctrine;Medium;6372;X
+515081;Chief of Army;시소이 보로딘 ;1933;1964;1999;FA;static defence doctrine;High;9192;X
+515082;Chief of Army;안드레이 블라소프 ;1933;1964;1999;NS;Elastic Defence Doctrine;Very High;M4090;X
+515083;Chief of Army;표도르 트루킨 ;1933;1964;1999;NS;elastic defence doctrine;High;M4125;X
+515084;Chief of Army;파벨 베어몬트 아발로프 ;1933;1964;1999;FA;Static Defence Doctrine;Medium;6379;X
+515085;Chief of Army;표트르 크라스노프 ;1939;1964;1999;PA;Guns and Butter Doctrine;Medium;6374;X
+515086;Chief of Navy;가롤드 그라프 ;1925;1964;1999;PA;indirect approach doctrine;High;9314;X
+515087;Chief of Navy;세르게이 예브도히모프 ;1925;1964;1999;PA;Open Seas Doctrine;High;9324;X
+515088;Chief of Navy;알렉세이 자예프 ;1925;1964;1999;SL;open seas doctrine;High;5701;X
+515089;Chief of Navy;알렉산드르 가드 ;1925;1964;1999;SL;Open Seas Doctrine;High;9322;X
+515090;Chief of Navy;이반 블라고베셴스키 ;1933;1964;1999;NS;BASE CONTROL DOCTRINE;High;9194;X
+515091;Chief of Air Force;뱌체슬라프 바라노프 ;1925;1964;1999;SL;army aviation doctrine;High;9319;X
+515092;Chief of Air Force;빅토르 말체프 ;1933;1964;1999;NS;Carpet Bombing Doctrine;High;9195;X
+515093;Chief of Air Force;세묜 비치코프 ;1940;1964;1999;FA;army aviation doctrine;High;9316;X
+515094;Chief of Air Force;안드레이 알렉산드로비치 공 ;1940;1980;1999;SC;vertical envelopment doctrine;High;9317;X
+515095;Head of State;니콜라이 2세 ;1915;1933;1999;ML;Despotic Autocrat;High;3045;X
+515096;Head of State;니콜라이 2세 ;1894;1933;1999;PA;Despotic Autocrat;High;3045;X
+515097;Head of State;게오르기 르보프 ;1915;1925;1999;ML;Die-hard Reformer;High;3067;X
+515098;Head of State;알렉산드르 케렌스키 ;1915;1933;1999;SD;Die-hard Reformer;High;3051;X
+515099;Head of State;키릴 1세 ;1918;1939;1999;PA;Autocratic Charmer;High;3025;X
+515100;Head of State;키릴 1세 ;1918;1939;1999;ML;Autocratic Charmer;High;3025;X
+515101;Head of State;니콜라이 3세 ;1915;1930;1999;PA;Popular Figurehead;High;4461;X
+515102;Head of State;니콜라이 3세 ;1915;1930;1999;ML;Popular Figurehead;High;4461;X
+515103;Head of State;블라디미르 3세 ;1938;1993;1999;PA;Weary Stiffneck;High;9906;X
+515104;Head of State;블라디미르 3세 ;1938;1993;1999;ML;Weary Stiffneck;High;9906;X
+515105;Head of Government;세르게이 비테 ;1903;1906;1999;PA;Silent Workhorse;Very High;9134;X
+515106;Head of Government;이반 고레미킨 ;1914;1919;1999;SC;Political Protege;Very High;3060;X
+515107;Head of Government;표트르 스톨리핀 ;1905;1911;1999;SC;Flamboyant Tough Guy;Very High;3063;X
+515108;Head of Government;블라디미르 코콥초프 ;1914;1943;1999;PA;Naive Optimist;High;3064;X
+515109;Head of Government;보리스 슈튀르메르 ;1915;1920;1999;PA;Political Protege;High;3056;X
+515110;Head of Government;알렉산드르 트레포프 ;1916;1930;1999;PA;Silent Workhorse;High;3065;X
+515111;Head of Government;니콜라이 골리친 ;1916;1925;1999;PA;Happy Amateur;High;3066;X
+515112;Head of Government;게오르기 르보프 ;1915;1925;1999;ML;Silent Workhorse;High;3067;X
+515113;Head of Government;알렉산드르 케렌스키 ;1915;1933;1999;SD;Ambitious Union Boss;High;3051;X
+515114;Foreign Minister;블라디미르 람스도르프 ;1900;1908;1999;SC;iron fisted brute;High;3072;X
+515115;Foreign Minister;알렉산더 이즈볼스키 ;1906;1920;1999;SC;general staffer;High;3039;X
+515116;Foreign Minister;세르게이 사조노프 ;1914;1933;1999;ML;Apologetic Clerk;Very High;8801;X
+515117;Foreign Minister;보리스 슈튀르메르 ;1916;1920;1999;PA;Iron Fisted Brute;High;3056;X
+515118;Foreign Minister;니콜라이 포크롭스키 ;1915;1933;1999;PA;Great Compromiser;High;3059;X
+515119;Foreign Minister;파벨 밀류코프 ;1914;1943;1999;ML;Ideological Crusader;Medium;3054;X
+515120;Foreign Minister;미하일 테레쉬첸코 ;1915;1956;1999;SL;Ideological Crusader;High;3058;X
+515121;Minister of Armament;이반 시포프 ;1900;1911;1999;SC;Mixed economy;High;3062;X
+515122;Minister of Armament;블라디미르 코콥초프 ;1901;1919;1999;SC;administrative genius;Very High;3064;X
+515123;Minister of Armament;표트르 바르크 ;1909;1921;1999;PA;laissez-faire capitalist;High;3076;X
+515124;Minister of Armament;미하일 테레쉬첸코 ;1914;1956;1999;SL;corrupt kleptocrat;High;3058;X
+515125;Minister of Armament;안드레이 신가레프 ;1914;1933;1999;SL;resource industrialist;High;3078;X
+515126;Minister of Armament;니콜라이 네크라소프 ;1914;1933;1999;SD;theoretical scientist;High;3080;X
+515127;Minister of Armament;미하일 베르나츠키 ;1914;1943;1999;SL;Industrial chemist;High;3079;X
+515128;Minister of Armament;알렉산더 코노발로프 ;1914;1949;1999;SL;Steel magnate;High;3073;X
+515129;Minister of Armament;세르게이 프로코포비치 ;1914;1955;1999;SD;Reformer;High;9201;X
+515130;Minister of Armament;알렉산더 로디거 ;1903;1911;1999;SC;military entrepreneur;High;3958;X
+515131;Minister of Armament;블라디미르 수호밀노프 ;1907;1917;1999;PA;infantry proponent;Very High;3040;X
+515132;Minister of Armament;알렉세이 폴리바노프 ;1913;1918;1999;PA;military entrepreneur;High;3077;X
+515133;Minister of Armament;드미트리 슈바예프 ;1914;1919;1999;SC;infantry proponent;High;6376;X
+515134;Minister of Armament;미하일 벨랴예프 ;1915;1919;1999;SC;military entrepreneur;High;9198;X
+515135;Minister of Armament;알렉산더 구츠코프 ;1914;1936;1999;ML;infantry proponent;High;3082;X
+515136;Minister of Armament;알렉산드르 케렌스키 ;1914;1970;1999;SD;military entrepreneur;Low;3051;X
+515137;Minister of Armament;알렉산더 베르코프스키 ;1914;1938;1999;SD;tank proponent;High;3081;X
+515138;Minister of Armament;드미트리 베르데레프스키 ;1914;1946;1999;SD;battle fleet proponent;High;3070;X
+515139;Minister of Armament;알렉세이 비릴레프 ;1903;1909;1999;SC;battle fleet proponent;High;3069;X
+515140;Minister of Armament;이반 디코프;1905;1911;1999;SC;submarine proponent;High;3075;X
+515141;Minister of Armament;스테판 보예보츠키 ;1907;1913;1999;SC;battle fleet proponent;High;3955;X
+515142;Minister of Armament;이반 그리고로비치 ;1909;1919;1999;SC;submarine proponent;High;9189;X
+515143;Minister of Security;표트르 두르노보 ;1903;1908;1999;SC;compassionate gentleman;High;4869;X
+515144;Minister of Security;표트르 스톨리핀 ;1904;1913;1999;PA;man of the people;High;3063;X
+515145;Minister of Security;알렉산드르 마카로프 ;1909;1914;1999;SC;prince of terror;Very High;3084;X
+515146;Minister of Security;니콜라이 마클라코프 ;1910;1917;1999;PA;crime fighter;Very High;3085;X
+515147;Minister of Security;니콜라이 시체르바토프 ;1913;1917;1999;PA;silent lawyer;High;3957;X
+515148;Minister of Security;알렉세이 흐보스토프 ;1913;1918;1999;PA;back stabber;High;3086;X
+515149;Minister of Security;보리스 슈튀르메르 ;1914;1918;1999;PA;efficient sociopath;High;3056;X
+515150;Minister of Security;알렉산드르 프로토포포프 ;1914;1919;1999;PA;crooked kleptocrat;High;3083;X
+515151;Minister of Security;게오르기 르보프 ;1914;1926;1999;ML;Media magnate;High;3067;X
+515152;Minister of Security;니콜라이 압크센테프 ;1914;1944;1999;SD;Health and safety;High;4974;X
+515153;Minister of Security;알렉세이 니키틴 ;1914;1940;1999;SD;Secret police chief;High;5904;X
+515154;Head of Military Intelligence;비탈리 첼레브롭스키 ;1899;1907;1999;SC;industrial specialist;High;unknownminister;X
+515155;Head of Military Intelligence;니콜라이 예르몰로프 ;1903;1908;1999;PA;political specialist;High;unknownminister;X
+515156;Head of Military Intelligence;미하일 아다바쉬 ;1904;1909;1999;PA;dismal enigma;High;6546;X
+515157;Head of Military Intelligence;니콜라이 몬케비츠 ;1906;1916;1999;SC;naval intelligence specialist;High;5920;X
+515158;Head of Military Intelligence;오스카 엔켈 ;1911;1916;1999;PA;technical specialist;High;8998;X
+515159;Head of Military Intelligence;니콜라이 라샤 ;1912;1918;1999;PA;logistics specialist;High;6100;X
+515160;Head of Military Intelligence;파벨 랴비코프 ;1915;1919;1999;SC;industrial specialist;High;6114;X
+515161;Chief of Staff;표도르 팔리친 ;1905;1909;1999;PA;school of fire support;High;6115;X
+515162;Chief of Staff;블라디미르 수호밀노프 ;1908;1910;1999;PA;school of manoeuvre;Very High;3040;X
+515163;Chief of Staff;알렉산더 미실라옙스키 ;1909;1910;1999;SC;school of defence;High;6116;X
+515164;Chief of Staff;알렉산더 게릉로스 ;1909;1912;1999;PA;school of psychology;High;6117;X
+515165;Chief of Staff;야코프 지린스키 ;1911;1915;1999;PA;school of mass combat;High;6118;X
+515166;Chief of Staff;미하일 벨랴예프 ;1914;1917;1999;PA;school of fire support;High;9198;X
+515167;Chief of Staff;표트르 아베르야노프 ;1916;1918;1999;PA;school of manoeuvre;High;6119;X
+515168;Chief of Staff;게오르기 로마노프스키;1917;1918;1999;SC;school of defence;High;8721;X
+515169;Chief of Staff;블라디미르 마루솁스키 ;1917;1918;1999;PA;school of psychology;High;6301;X
+515170;Chief of Staff;니콜라이 야누시케비치 ;1914;1916;1999;PA;school of mass combat;High;3049;X
+515171;Chief of Staff;Mikhail Alekseyev;1915;1918;1999;SC;commando doctrine staff;High;8732;X
+515172;Chief of Staff;바실리 구르코 ;1916;1918;1999;PA;school of fire support;Very High;3050;X
+515173;Chief of Staff;블라디슬라프 클렘봅스키 ;1917;1922;1999;PA;school of manoeuvre;High;6500;X
+515174;Chief of Staff;안톤 데니킨 ;1917;1948;1999;SC;school of defence;High;8696;X
+515175;Chief of Staff;알렉산드르 루콤스키 ;1917;1940;1999;PA;school of psychology;Very High;3953;X
+515176;Chief of Staff;니콜라이 두호닌 ;1917;1918;1999;ML;school of mass combat;Very High;3954;X
+515177;Chief of Staff;미하일 디테리치스 ;1917;1938;1999;ML;commando doctrine staff;High;8898;X
+515178;Chief of Staff;미하일 본치 브루예비치 ;1917;1957;1999;ML;school of fire support;High;6501;X
+515179;Chief of Army;니콜라이 로마노프 ;1914;1930;1999;PA;guns and butter doctrine;High;4461;X
+515180;Chief of Army;니콜라이 2세 ;1914;1919;1999;PA;armoured spearhead doctrine;Very High;3045;X
+515181;Chief of Army;Mikhail Alekseyev;1914;1919;1999;ML;decisive battle doctrine;High;8732;X
+515182;Chief of Army;알렉세이 브루실로프 ;1914;1937;1999;SL;static defence doctrine;High;3041;X
+515183;Chief of Army;라브르 코르닐로프 ;1915;1919;1999;ML;elastic defence doctrine;Low;4675;X
+515184;Chief of Army;알렉산드르 케렌스키 ;1916;1971;1999;SD;commando doctrine army;High;3051;X
+515185;Chief of Army;니콜라이 두호닌 ;1917;1918;1999;ML;Doctrine of autonomy;High;3954;X
+515186;Chief of Navy;레프 브루실로프 ;1904;1910;1999;PA;base control doctrine;High;6502;X
+515187;Chief of Navy;안드레이 에버하트 ;1906;1913;1999;SC;open seas doctrine;High;6503;X
+515188;Chief of Navy;알렉산더 리벤;1909;1914;1999;PA;decisive naval battle doctrine;High;6504;X
+515189;Chief of Navy;알렉산드르 루신 ;1912;1933;1999;PA;power projection doctrine;Very High;5218;X
+515190;Chief of Navy;미하일 케드로프 ;1915;1933;1999;ML;indirect approach doctrine;High;3047;X
+515191;Chief of Navy;알렉세이 카프니스트 ;1915;1919;1919;PA;base control doctrine;High;4551;X
+515192;Chief of Air Force;알렉산드르 코반코 ;1910;1920;1920;PA;carpet bombing doctrine;High;4687;X
+515193;Chief of Air Force;알렉산드르 미하일로비치 ;1914;1933;1933;PA;naval aviation doctrine;Very High;4449;X
+515194;Chief of Air Force;세르게이 울리아닌 ;1914;1922;1922;SC;air superiority doctrine;High;6505;X
+515195;Chief of Air Force;미하일 시시케비치 ;1910;1930;1999;SC;army aviation doctrine;High;6506;X
+515196;Chief of Air Force;뱌체슬라프 트카쳬프 ;1916;1945;1999;ML;carpet bombing doctrine;High;5464;X

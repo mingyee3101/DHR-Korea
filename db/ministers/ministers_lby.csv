@@ -1,0 +1,48 @@
+LBY;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+495001;Head of State;굴리엘모 나시 ;1933;1964;1999;FA;Ruthless Powermonger;High;L6108;X
+495002;Head of Government;이탈로 가리볼디 ;1933;1964;1999;FA;Old General;High;L6077;X
+495003;Foreign Minister;에토레 바스티코 ;1933;1964;1999;FA;General Staffer;High;L6021;X
+495004;Minister of Armament;자코모 아케르보 ;1933;1964;1999;FA;Military Entrepreneur;High;M3073;X
+495005;Minister of Security;움베르토 리치 ;1933;1964;1999;FA;Silent Lawyer;High;M3015;X
+495006;Head of Military Intelligence;조반니 메세 ;1933;1964;1999;PA;Logistics Specialist;Medium;L6102;X
+495007;Chief of Staff;조반니 메세 ;1933;1964;1999;PA;School of Psychology;Medium;L6102;X
+495008;Chief of Army;로렌초 달마조 ;1933;1964;1999;PA;Decisive Battle Doctrine;Medium;L6052;X
+495009;Chief of Navy;스테파노 디 라우렌티스 ;1933;1964;1999;PA;Base Control Doctrine;Medium;L6166;X
+495010;Chief of Air Force;아롤도 소프리티 ;1933;1964;1999;PA;Air Superiority Doctrine;Medium;L6235;X
+495011;Head of State;이드리스 1세 알 세누시 ;1939;1964;1999;ML;Popular Figurehead;High;M576011;X
+495012;Head of Government;덩컨 C. 커밍 ;1939;1964;1999;ML;Corporate Suit;High;M576012;X
+495013;Foreign Minister;레오나드 F. 메이후드 ;1939;1964;1999;ML;Apologetic Clerk;High;M576013;X
+495014;Foreign Minister;에릭 뷰이 드 캔돌 ;1942;1964;1999;ML;Great Compromiser;High;M576014;X
+495015;Foreign Minister;마흐무드 알 문타시르 ;1946;1964;1999;ML;Ideological Crusader;High;M576015;X
+495016;Minister of Armament;제임스 W.N. 하우 ;1939;1964;1999;ML;Resource Industrialist;High;M576016;X
+495017;Minister of Armament;우마르 만수르 키크히아 ;1944;1964;1999;ML;Air Superiority Proponent;High;M576017;X
+495018;Minister of Security;아흐마드 알 할리크위 ;1939;1964;1999;ML;Crooked Kleptocrat;High;M576018;X
+495019;Minister of Security;피터 B.E. 오클랜드 ;1943;1964;1999;ML;Efficient Sociopath;High;M576019;X
+495020;Minister of Security;무스타파 벤 할림 ;1946;1964;1999;ML;Compassionate Gentleman;High;M576020;X
+495021;Head of Military Intelligence;C.A. 모리스 ;1939;1964;1999;ML;Dismal Enigma;Medium;M576021;X
+495022;Head of Military Intelligence;압둘 쿠바르 ;1945;1964;1999;ML;Technical Specialist;Medium;M576022;X
+495023;Chief of Staff;조지 딜런 ;1939;1964;1999;ML;School of Manoeuvre;Medium;L1339;X
+495024;Chief of Staff;무함마드 사키질리 ;1945;1964;1999;ML;School of Fire Support;Medium;M576024;X
+495025;Chief of Army;G.B.T. 설로 ;1939;1964;1999;ML;Guns and Butter Doctrine;Medium;M576025;X
+495026;Chief of Army;무하마르 시디크 ;1946;1964;1999;ML;Elastic Defence Doctrine;Medium;M576026;X
+495027;Chief of Navy;B.C.S. 마틴 ;1939;1964;1999;ML;Indirect Approach Doctrine;Medium;L1370;X
+495028;Chief of Navy;H.R.H. 타헤르 크힘라니 ;1945;1964;1999;ML;Open Seas Doctrine;Medium;M576028;X
+495029;Chief of Air Force;리처드 페르시 ;1939;1964;1999;ML;Army Aviation Doctrine;Medium;L1468;X
+495030;Chief of Air Force;알리 알 움란 ;1945;1964;1999;ML;Carpet Bombing Doctrine;Medium;M576030;X
+495031;Head of State;아흐메드 샤리프 앗 세누시 ;1902;1917;1934;PA;Autocratic Charmer;Medium;6034;X
+495032;Head of Government;아흐메드 샤리프 앗 세누시 ;1902;1934;1999;PA;Smiling Oilman;Medium;6034;X
+495033;Foreign Minister;아흐메드 샤리프 앗 세누시 ;1902;1917;1934;PA;Ideological Crusader;Medium;6034;X
+495034;Minister of Armament;아흐메드 샤리프 앗 세누시 ;1902;1917;1934;PA;Military Entrepreneur;Medium;6034;X
+495035;Minister of Security;아흐메드 샤리프 앗 세누시 ;1902;1917;1934;PA;Man of the People;Medium;6034;X
+495036;Head of Military Intelligence;아흐메드 샤리프 앗 세누시 ;1902;1917;1934;PA;Logistics Specialist;Medium;6034;X
+495037;Head of State;무함마드 이드리스 알 세누시 ;1914;1984;1984;PA;Autocratic Charmer;Medium;6035;X
+495038;Head of Government;무함마드 이드리스 알 세누시 ;1914;1984;1984;PA;Smiling Oilman;Medium;6035;X
+495039;Foreign Minister;무함마드 이드리스 알 세누시 ;1914;1984;1984;PA;Ideological Crusader;Medium;6035;X
+495040;Minister of Armament;무함마드 이드리스 알 세누시 ;1914;1984;1984;PA;Military Entrepreneur;Medium;6035;X
+495041;Minister of Security;무함마드 이드리스 알 세누시 ;1914;1984;1984;PA;Man of the People;Medium;6035;X
+495042;Head of Military Intelligence;무함마드 이드리스 알 세누시 ;1914;1984;1984;PA;Logistics Specialist;Medium;6035;X
+495043;Chief of Staff;Abdurrahman Nafiz Gurman;1914;1933;1933;PA;School of Psychology;Medium;unknownminister;X
+495044;Chief of Army;Nuri Killigil;1914;1933;1933;PA;Elastic Defence Doctrine;Medium;3927;X
+495045;Chief of Army;Ishak Ferneli;1914;1933;1933;PA;Decisive Battle Doctrine;Medium;unknownminister;X
+495046;Chief of Army;Cafer al-Askeri;1914;1933;1933;PA;Guns and Butter Doctrine;Medium;984;X

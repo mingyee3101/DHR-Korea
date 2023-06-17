@@ -1,0 +1,16 @@
+PAK;Name;Pic Name;Skill;Start Year;End Year;Speciality1;Speciality2;Speciality3;Speciality4;Speciality5;Speciality6;Speciality7;Speciality8;Speciality9;Speciality10;Speciality11;Speciality12;Speciality13;Speciality14;Speciality15;Speciality16;Speciality17;Speciality18;Speciality19;Speciality20;Speciality21;Speciality22;Speciality23;Speciality24;Speciality25;Speciality26;Speciality27;Speciality28;Speciality29;Speciality30;Speciality31;Speciality32;x
+725001;카라치 조선공학공장 ;T12500;3;1900;1970;naval_engineering;naval_artillery;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+725002;군용차량 R&D ;T12501;5;1900;1970;mechanics;artillery;industrial_engineering;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+725003;파키스탄 항공업단지 ;T12502;4;1930;1970;aeronautics;avionics;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+725004;파키스탄 공작기계공장 ;T12503;4;1900;1970;mechanics;technical_efficiency;industrial_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+725005;파키스탄 조선소 ;T12504;4;1900;1970;naval_engineering;naval_artillery;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+725006;파키스탄 군수공장 ;T12505;4;1900;1970;general_equipment;artillery;munitions;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+725007;펀자브 대학교 ;T12506;2;1900;1970;management;mechanics;chemistry;mathematics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+725008;무함마드 아유브 칸 ;T12507;3;1930;1970;centralized_execution;large_unit_tactics;combined_arms_focus;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+725009;무함마드 야햐 칸 ;T12508;3;1930;1970;decentralized_execution;small_unit_tactics;combined_arms_focus;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+725010;하지 무함마드 시디크 초드리 ;T12509;5;1942;1970;small_taskforce_tactics;naval_training;decentralized_execution;centralized_execution;seamanship;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+725011;제임스 윌프레드 제포드 ;T12510;2;1930;1956;small_taskforce_tactics;naval_training;centralized_execution;seamanship;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+725012;존 탈보트 세비나크 홀 ;T12511;3;1930;1945;bomber_tactics;piloting;centralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+725013;아쉬가르 칸 ;T12512;6;1930;1970;fighter_tactics;training;piloting;decentralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+725014;파키스탄 해군사관학교 ;T12513;1;1956;1970;small_taskforce_tactics;centralized_execution;seamanship;naval_training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+725015;지휘참모대학 ;100268;4;1907;1970;training;centralized_execution;small_unit_tactics;infantry_focus;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x

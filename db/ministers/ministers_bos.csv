@@ -1,0 +1,52 @@
+BOS;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+570001;Head of State;알리 에펜디 아그노비치 ;1933;1964;1999;NS;Stern Imperialist;High;M546001;X
+570002;Head of Government;메흐메드 알가베고비치 ;1933;1948;1948;NS;Silent Workhorse;High;M546002;X
+570003;Foreign Minister;오스만 쿨레노비치 ;1933;1948;1948;NS;The Cloak N Dagger Schemer;High;M546003;X
+570004;Minister of Armament;네샤드 톱치치 ;1933;1946;1946;NS;Air to Ground Proponent;Medium;M546004;X
+570005;Minister of Security;모하메드 하지에펜디치 ;1933;1964;1999;NS;Crooked Kleptocrat;Medium;M546005;X
+570006;Head of Military Intelligence;이브라힘 페지치 ;1933;1957;1963;NS;Political Specialist;Medium;M546006;X
+570007;Chief of Staff;하키자 하드제치 ;1933;1954;1954;NS;School of Fire Support;Medium;M546007;X
+570008;Chief of Army;데시데리우스 함펠 ;1933;1964;1999;NS;Guns and Butter Doctrine;Medium;M546008;X
+570009;Chief of Navy;발터 킨젤 ;1933;1964;1999;NS;Decisive Naval Battle Doctrine;Medium;M546009;X
+570010;Chief of Air Force;슬라보미르 토미치 ;1933;1964;1999;NS;Vertical Envelopment Doctrine;Medium;L46061;X
+570011;Head of State;에사트 파샤 톱타니 ;1912;1914;1921;SC;Resigned Generalissimo;High;M546011;X
+570012;Head of State;미첼 요바노비치 ;1933;1964;1999;LWR;Barking Buffoon;High;M20056;X
+570013;Head of Government;오스만 줄피카파시치 ;1933;1964;1999;SC;Naive Optimist;High;M546013;X
+570014;Head of Government;알렉산다르 란코비치 ;1933;1966;1984;LWR;Political Protege;High;M20026;X
+570015;Foreign Minister;메흐메드 카페타노비치 ;1893;1902;1903;SC;Ideological Crusader;High;M546015;X
+570016;Foreign Minister;메흐메드 제말루딘 ;1913;1938;1939;SC;Apologetic Clerk;High;M546016;X
+570017;Foreign Minister;이보 류지치 ;1933;1964;1999;LWR;Iron Fisted Brute;High;M546017;X
+570018;Minister of Armament;아돌프 바그너 ;1941;1964;1999;NS;Battle Fleet Proponent;Medium;M546018;X
+570019;Minister of Armament;압둘라 트리분치치 ;1933;1964;1999;SC;Administrative Genius;Medium;M546019;X
+570020;Minister of Armament;알리 리바디치 ;1933;1964;1999;LWR;Infantry Proponent;Medium;M546020;X
+570021;Minister of Armament;니자즈 두다코비치 ;1941;1964;1999;LWR;Resource Industrialist;Medium;M546021;X
+570022;Minister of Security;루드비히 욀하펜 ;1941;1964;1999;NS;Crime Fighter;Medium;M546022;X
+570023;Minister of Security;술레이만 에펜디 케무라 ;1933;1964;1999;SC;Silent Lawyer;Medium;M546023;X
+570024;Minister of Security;세리프 베지치 ;1933;1964;1999;LWR;Efficient Sociopath;Medium;M546024;X
+570025;Minister of Security;페힘 에펜디 스파호 ;1915;1942;1943;LWR;Compassionate Gentleman;Medium;M546025;X
+570026;Head of Military Intelligence;오토 니폴트 ;1942;1964;1999;NS;Logistics Specialist;Medium;M546026;X
+570027;Head of Military Intelligence;해리스 메르다노비치 ;1941;1964;1999;NS;Industrial Specialist;Medium;M546027;X
+570028;Head of Military Intelligence;드라젠 수바치치 ;1933;1964;1999;SC;Technical Specialist;Medium;M546028;X
+570029;Head of Military Intelligence;에민 호지치 ;1933;1964;1999;LWR;Dismal Enigma;Medium;M546029;X
+570030;Chief of Staff;미호빌 부지치치 ;1933;1964;1999;SC;School of Defence;Medium;M546030;X
+570031;Chief of Staff;미하일로 루키치 ;1933;1964;1999;LWR;School of Mass Combat;Medium;L46020;X
+570032;Chief of Army;에사트 파샤 톱타니 ;1912;1914;1921;SC;Static Defence Doctrine;Medium;M546011;X
+570033;Chief of Army;드라자 미하일로비치 ;1933;1964;1999;LWR;Elastic Defence Doctrine;Medium;M20012;X
+570034;Chief of Navy;두로 자친 ;1933;1964;1999;SC;Indirect Approach Doctrine;High;L46044;X
+570035;Chief of Navy;요시프 브로즈 티토 ;1933;1964;1999;LWR;Base Control Doctrine;High;M20029;X
+570036;Chief of Air Force;브란코 나우모비치 ;1933;1964;1999;SC;Air Superiority Doctrine;Medium;L46056;X
+570037;Chief of Air Force;요시프 브로즈 티토 ;1933;1964;1999;LWR;Carpet Bombing Doctrine;Medium;M20028;X
+570038;Head of State;Smail aga Cemalovic;1906;1945;1999;SC;benevolent gentleman;High;2488;X
+570039;Head of Government;Mehmed Spaho;1911;1939;1940;SC;silent workhorse;Medium;3159;X
+570040;Foreign Minister;Safvet-beg Basagic;1910;1934;1935;SC;biased intellectual;High;9926;X
+570041;Minister of Armament;Mehmed Spaho;1911;1939;1940;SC;Administrative Genius;Medium;3159;X
+570042;Minister of Security;Serif Arnautovic;1909;1935;1936;SC;man of the people;Medium;unknownminister;X
+570043;Chief of Staff;Smail aga Cemalovic;1906;1945;1999;SC;school of defence;High;2488;X
+570044;Head of State;Duro Pucar;1922;1979;1980;LE;resigned generalissimo;High;9928;X
+570045;Head of Government;Duro Pucar;1922;1979;1980;LE;old general;High;9928;X
+570046;Minister of Armament;Vlado Segrt;1928;1991;1992;LE;military entrepreneur;Medium;9929;X
+570047;Minister of Security;Vojislav Kecmanovic;1933;1964;1999;LE;Health and safety;Medium;unknownminister;X
+570048;Head of Military Intelligence;Rodoljub Colakovic;1921;1983;1984;LE;logistics specialist;Medium;9927;X
+570049;Chief of Staff;Vlado Segrt;1928;1991;1992;LE;school of psychology;Medium;9929;X
+570050;Chief of Staff;Rodoljub Colakovic;1921;1983;1984;LE;school of mass combat;Medium;9927;X

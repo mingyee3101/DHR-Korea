@@ -1,0 +1,26 @@
+BRA;Name;Pic Name;Skill;Start Year;End Year;speciality1;speciality2;speciality3;Speciality4;Speciality5;Speciality6;Speciality7;Speciality8;Speciality9;Speciality10;Speciality11;Speciality12;Speciality13;Speciality14;Speciality15;Speciality16;Speciality17;Speciality18;Speciality19;Speciality20;Speciality21;Speciality22;Speciality23;Speciality24;Speciality25;Speciality26;Speciality27;Speciality28;Speciality29;Speciality30;Speciality31;Speciality32;x
+160001;카시우 무니스 ;T4400;4;1930;1970;aeronautics;fighter_design;mechanics;rocketry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+160002;CCNA ;T4401;5;1930;1970;aeronautics;bomber_design;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+160003;CCNC ;T4402;5;1930;1970;munitions;bomber_design;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+160004;브라질 국영 강철회사 ;T4403;5;1941;1970;industrial_engineering;general_equipment;mechanics;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+160005;브라질 광물생산 공사 ;T4404;4;1933;1970;industrial_engineering;management;mechanics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+160006;브라질 조선소 ;T4405;5;1900;1970;naval_engineering;technical_efficiency;naval_artillery;Marine_Training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+160007;IPT ;T4406;6;1933;1970;aeronautics;management;electronics;industrial_engineering;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+160008;엔히크 라즈 조직 ;T4407;6;1922;1970;industrial_engineering;management;chemistry;naval_engineering;naval_artillery;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+160009;이우리쿠 가스파르 두트라 ;T4408;4;1936;1952;large_unit_tactics;centralized_execution;combined_arms_focus;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+160010;주앙 지 모라이스 ;T4409;4;1937;1954;small_unit_tactics;decentralized_execution;combined_arms_focus;training;mountain_training;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+160011;아리스티드스 길롕 ;T4410;4;1935;1948;large_taskforce_tactics;centralized_execution;naval_training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+160012;브라질 해군 학교 ;100415;3;1911;1970;small_taskforce_tactics;decentralized_execution;naval_training;seamanship;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+160013;살가두 필룡 ;T4412;4;1930;1947;fighter_tactics;bomber_tactics;piloting;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+160014;이파미논다스 두스 산투스 ;T4413;4;1930;1954;fighter_tactics;decentralized_execution;training;piloting;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+160015;NMC ;T4414;5;1933;1970;mechanics;electronics;technical_efficiency;mathematics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+160016;코르데이루 지 파리아스 ;T4415;6;1940;1966;artillery;general_equipment;management;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+160017;네루 모라 ;T4416;6;1943;1964;fighter_tactics;bomber_tactics;training;piloting;centralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+160018;브라질 중앙 철도 ;100039;4;1860;1970;mechanics;general_equipment;electronics;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+160019;아굴랴스 네그라스 군사학교 ;100040;5;1811;1933;large_unit_tactics;small_unit_tactics;centralized_execution;decentralized_execution;combined_arms_focus;training;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+160020;마타라주 산업 ;100041;7;1890;1970;industrial_engineering;chemistry;mechanics;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+160021;바르가스 공장 ;100042;4;1902;1933;mechanics;technical_efficiency;munitions;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+160022;브라질 육군 병기창 ;100043;2;1890;1919;general_equipment;artillery;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+160023;푼다상 오즈왈두 크루스 ;100654;4;1900;1970;chemistry;medicine;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+160024;브라질 항공클럽 ;100486;1;1911;1933;fighter_tactics;bomber_tactics;training;piloting;centralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+160025;브라질 공군 학교 ;100662;5;1919;1933;fighter_tactics;bomber_tactics;training;piloting;centralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -1,0 +1,58 @@
+ENG;Name;Pic Name;Skill;Start Year;End Year;Speciality1;Speciality2;Speciality3;Speciality4;Speciality5;Speciality6;Speciality7;Speciality8;Speciality9;Speciality10;Speciality11;Speciality12;Speciality13;Speciality14;Speciality15;Speciality16;Speciality17;Speciality18;Speciality19;Speciality20;Speciality21;Speciality22;Speciality23;Speciality24;Speciality25;Speciality26;Speciality27;Speciality28;Speciality29;Speciality30;Speciality31;Speciality32;x
+10001;앨런 튜링 ;T300;9;1935;1953;mathematics;electronics;mechanics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10002;영국-페르시아 석유 회사 ;T301;9;1908;1970;industrial_engineering;chemistry;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10003;아브로 ;T302;7;1910;1970;bomber_design;aeronautics;avionics;technical_efficiency;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10004;캠멜 레어드 컴퍼니 ;T303;7;1828;1970;naval_engineering;submarine_design;general_equipment;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10005;드 하빌랜드 ;T304;7;1920;1970;bomber_design;aeronautics;avionics;munitions;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10006;엔필드 조병창 ;T305;7;1816;1970;mechanics;artillery;general_equipment;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10007;영국 전력 회사 ;T306;7;1918;1970;electronics;mechanics;industrial_engineering;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10008;하란드 앤드 울프 ;T307;8;1861;1970;naval_engineering;naval_artillery;carrier_design;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10009;호커 항공기 ;T308;7;1920;1970;fighter_design;aeronautics;mechanics;aircraft_testing;avionics;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10010;제임스 채드윅 ;T309;7;1932;1970;nuclear_physics;nuclear_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10011;존 브라운 컴퍼니 ;T310;6;1851;1970;naval_engineering;naval_artillery;technical_efficiency;electronics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10012;레이랜드 ;T311;8;1896;1970;mechanics;technical_efficiency;artillery;vehicle_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10013;로버트 왓슨-와트 ;T312;7;1933;1970;electronics;management;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10014;영국 왕립 소화기 공장 ;T313;6;1816;1970;mechanics;general_equipment;training;artillery;munitions;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10015;슈퍼마린 ;T314;6;1913;1930;fighter_design;aeronautics;general_equipment;avionics;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10016;벅스홀 ;T315;7;1907;1970;mechanics;vehicle_engineering;artillery;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10017;빅커스-암스트롱 ;T316;8;1927;1970;mechanics;vehicle_engineering;technical_efficiency;artillery;munitions;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10018;앨런 브룩 ;T317;6;1930;1963;centralized_execution;large_unit_tactics;combined_arms_focus;management;individual_courage;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10019;앤드루 커닝햄 ;T318;8;1932;1963;naval_training;large_taskforce_tactics;centralized_execution;seamanship;carrier_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10020;아서 해리스 ;T319;8;1941;1970;bomber_tactics;training;piloting;centralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10021;바실 리델하트 ;T320;8;1937;1940;decentralized_execution;small_unit_tactics;combined_arms_focus;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10022;찰스 포탈 ;T321;6;1935;1970;bomber_tactics;bomber_design;centralized_execution;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10023;더들리 클라크 ;100830;7;1940;1970;decentralized_execution;small_unit_tactics;airborne_training;Marine_Training;individual_courage;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10024;더들리 파운드 ;T323;6;1922;1943;large_taskforce_tactics;seamanship;naval_training;centralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10025;휴 다우딩 ;T324;8;1933;1942;fighter_tactics;training;piloting;decentralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10026;맥스 호튼 ;T325;6;1937;1951;small_taskforce_tactics;naval_training;decentralized_execution;centralized_execution;seamanship;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10027;퍼시 호바트 ;T326;6;1937;1957;combined_arms_focus;large_unit_tactics;centralized_execution;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10028;퍼시 노블 ;T327;5;1931;1955;small_taskforce_tactics;naval_training;centralized_execution;seamanship;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10029;트래퍼드 리 말러리 ;T328;6;1938;1970;fighter_tactics;training;piloting;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10030;프랭크 휘틀 ;T329;7;1937;1970;fighter_design;aeronautics;rocketry;avionics;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10031;조지 패짓 톰슨 ;T330;5;1930;1970;nuclear_physics;nuclear_engineering;chemistry;general_equipment;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10032;루이스 마운트배튼  ;T331;5;1955;1965;small_taskforce_tactics;naval_training;decentralized_execution;centralized_execution;seamanship;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10033;슈퍼마린 ;T314;8;1931;1970;fighter_design;aeronautics;general_equipment;avionics;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10034;소프위스 항공기 ;100093;8;1912;1920;aeronautics;mechanics;electronics;artillery;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10035;숏 브라더스 ;100094;5;1908;1970;aeronautics;mechanics;naval_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10036;핸들리 페이지 컴퍼니 ;100095;7;1909;1970;aeronautics;mechanics;chemistry;electronics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10037;찰스 하워드 포크스 ;100652;4;1914;1930;chemistry;training;industrial_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10038;윌리엄 비어드모어 컴퍼니 ;100096;7;1890;1970;naval_engineering;aeronautics;mechanics;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10039;해군 40호실 ;100653;9;1914;1970;mathematics;electronics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10040;알렉산더 플레밍 ;100097;8;1920;1970;chemistry;medicine;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10041;윌리엄 포스터 컴퍼니 ;100098;8;1915;1970;mechanics;artillery;electronics;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10042;마르코니 ;100376;8;1897;1970;industrial_engineering;mechanics;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10043;브리티시 웨스팅하우스 ;100377;8;1899;1919;industrial_engineering;mechanics;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10044;롤스-로이스 ;100378;7;1906;1970;industrial_engineering;mechanics;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10045;존 프렌치 ;100099;5;1912;1920;centralized_execution;large_unit_tactics;large_unit_focus;infantry_focus;cavalry_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10046;윌리엄 니콜슨 ;100379;5;1908;1912;centralized_execution;large_unit_tactics;individual_courage;cavalry_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10047;네빌 라이틀턴 ;100380;3;1904;1908;centralized_execution;individual_courage;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10048;프레드릭 로버츠 ;100381;5;1900;1904;centralized_execution;small_unit_tactics;individual_courage;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10049;가넷 워즐리 ;100382;5;1895;1900;infantry_focus;small_unit_tactics;individual_courage;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10050;헨리 롤린슨 ;100100;7;1916;1925;decentralized_execution;small_unit_tactics;combined_arms_focus;individual_courage;cavalry_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10057;더글라스 헤이그 ;100786;7;1915;1920;infantry_focus;large_unit_focus;static_defense_tactics;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10051;에드워드 매녹 ;100101;7;1915;1918;decentralized_execution;fighter_tactics;piloting;individual_courage;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10052;라노에 호커 ;100102;5;1914;1917;fighter_tactics;piloting;training;individual_courage;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10053;필립 풀러드 ;100103;4;1917;1930;fighter_tactics;piloting;training;individual_courage;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10054;존 피셔 ;100104;8;1890;1920;centralized_execution;large_taskforce_tactics;naval_training;seamanship;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10055;데이비드 베티 ;100105;6;1913;1927;centralized_execution;large_taskforce_tactics;small_taskforce_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10056;영국 왕립 해병대 ;100784;7;1755;1999;small_unit_tactics;marine_training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x

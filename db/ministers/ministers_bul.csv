@@ -1,0 +1,254 @@
+BUL;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+95001;Head of State;보리스 3세 ;1933;1964;1999;PA;Autocratic Charmer;High;M19001;X
+95002;Head of Government;게오르기 키오세이바노프 ;1933;1964;1999;PA;Backroom Backstabber;High;M19002;X
+95003;Foreign Minister;게오르기 키오세이바노프 ;1933;1964;1999;PA;Biased Intellectual;High;M19002;X
+95004;Minister of Armament;키릴 구네프 ;1933;1964;1999;PA;Administrative Genius;Medium;M19004;X
+95005;Minister of Security;게오르기 사포브 ;1933;1964;1999;PA;Crime Fighter;Low;M19005;X
+95006;Head of Military Intelligence;디미타르 페세프 ;1933;1964;1999;PA;Dismal Enigma;Medium;M19006;X
+95007;Chief of Staff;흐리스토 루코프 ;1933;1964;1999;PA;School of Defence;Low;M19007;X
+95008;Chief of Army;토도르 게오르기예프 ;1933;1964;1999;PA;Static Defence Doctrine;Medium;M19008;X
+95009;Chief of Navy;사바 이바노프 ;1933;1964;1999;PA;Open Seas Doctrine;Medium;M19009;X
+95010;Chief of Air Force;바실 보이데프 ;1933;1964;1999;PA;Air Superiority Doctrine;Medium;M19010;X
+95011;Head of State;키릴 데 프리슬라프 ;1943;1964;1999;PA;Stern Imperialist;High;M19042;X
+95012;Head of State;보리스 3세 ;1939;1964;1999;NS;Autocratic Charmer;High;M19001;X
+95013;Head of State;알렉산더르 챤코프 ;1943;1964;1999;NS;Barking Buffoon;High;M19021;X
+95014;Head of State;보리스 3세 ;1939;1964;1999;SC;Autocratic Charmer;High;M19001;X
+95015;Head of State;키릴 데 프라슬라프 ;1943;1964;1999;SC;Stern Imperialist;High;M19042;X
+95016;Head of State;니콜라 페트코프 ;1945;1964;1999;SC;Die-hard Reformer;High;M19047;X
+95017;Head of State;키릴 데 프라슬라프 ;1944;1964;1999;LWR;Stern Imperialist;High;M19042;X
+95019;Head of State;게오르기 디미트로프 ;1933;1964;1999;ST;Powerhungry Demagogue;High;M19032;X
+95020;Head of State;바실 콜라로프 ;1945;1964;1999;ST;Weary Stiffneck;High;M19031;X
+95021;Head of Government;보그단 필로프 ;1939;1964;1999;PA;Political Protege;High;M19024;X
+95022;Head of Government;도브리 보지로프 ;1943;1964;1999;PA;Corporate Suit;High;M19053;X
+95023;Head of Government;이반 바그리아노프 ;1944;1964;1999;PA;Old General;High;M19054;X
+95024;Head of Government;알렉산더르 챤코프 ;1939;1964;1999;NS;Backroom Backstabber;High;M19021;X
+95025;Head of Government;페트르 가브로브스키 ;1943;1964;1999;PA;Naive Optimist;High;M19022;X
+95026;Head of Government;콘스탄틴 무라비예프 ;1939;1964;1999;SC;Happy Amateur;High;M19012;X
+95027;Head of Government;니콜라 페트코프 ;1944;1964;1999;SC;Flamboyant Tough Guy;High;M19047;X
+95028;Head of Government;키몬 게오르기예프 ;1934;1964;1999;LWR;Naive Optimist;High;M19059;X
+95029;Head of Government;게오르기 디미트로프 ;1939;1964;1999;ST;Political Protege;High;M19032;X
+95030;Foreign Minister;이반 포포브 ;1939;1964;1999;PA;Biased Intellectual;Medium;M19061;X
+95031;Foreign Minister;알렉산데르 니콜라예프 ;1939;1964;1999;PA;Ideological Crusader;Medium;M19062;X
+95032;Foreign Minister;보그단 필로프 ;1942;1964;1999;PA;Biased Intellectual;Medium;M19024;X
+95033;Foreign Minister;디미타르 쉬시마노프 ;1943;1964;1999;PA;The Cloak N Dagger Schemer;Medium;M19064;X
+95034;Foreign Minister;이반 바그리아노프 ;1944;1964;1999;PA;Iron Fisted Brute;Medium;M19054;X
+95035;Foreign Minister;프리반 드라고노프 ;1944;1964;1999;FA;General Staffer;Medium;M19066;X
+95036;Foreign Minister;알렉산더르 챤코프 ;1939;1964;1999;FA;Ideological Crusader;Medium;M19021;X
+95037;Foreign Minister;아타나스 부로프 ;1939;1964;1999;SC;Great Compromiser;Low;M19068;X
+95038;Foreign Minister;게오르기 브라소프 ;1943;1964;1999;SC;Biased Intellectual;Low;M19069;X
+95039;Foreign Minister;콘스탄틴 무라비예프 ;1944;1964;1999;SC;Apologetic Clerk;Medium;M19012;X
+95040;Foreign Minister;니콜라 페트코프 ;1945;1964;1999;SC;The Cloak N Dagger Schemer;Medium;M19047;X
+95041;Foreign Minister;페트코 스타이노프 ;1944;1964;1999;LWR;Biased Intellectual;Medium;M19072;X
+95042;Foreign Minister;게오르기 쿠리셰프 ;1945;1964;1999;LWR;The Cloak N Dagger Schemer;Very High;M19073;X
+95043;Foreign Minister;바실 콜라로프 ;1939;1964;1999;ST;Ideological Crusader;High;M19031;X
+95044;Foreign Minister;게오르기 다미아노프 ;1944;1964;1999;ST;Iron Fisted Brute;Very High;M19075;X
+95045;Foreign Minister;키몬 게오르기예프 ;1945;1964;1999;LE;General Staffer;Medium;M19059;X
+95046;Minister of Armament;도브리 보지로프 ;1938;1964;1999;PA;Infantry Proponent;Medium;M19053;X
+95047;Minister of Armament;게오르기 사포브 ;1939;1964;1999;PA;Corrupt Kleptocrat;Low;M19005;X
+95048;Minister of Armament;사바 키로프 ;1941;1964;1999;PA;laissez-faire capitalist;Low;M19079;X
+95049;Minister of Armament;스탄코 니콜라도로프 ;1944;1964;1999;PA;Corrupt Kleptocrat;Low;M19080;X
+95050;Minister of Armament;보그단 필로프 ;1939;1964;1999;FA;Infantry Proponent;Medium;M19024;X
+95051;Minister of Armament;알렉산더르 게오르기노프 ;1933;1964;1999;SC;Resource Industrialist;Medium;M19014;X
+95052;Minister of Armament;아타나스 부로프 ;1943;1964;1999;SC;laissez-faire capitalist;Low;M19083;X
+95053;Minister of Armament;디미타르 사로프 ;1944;1964;1999;SC;Tank Proponent;Low;M19084;X
+95054;Minister of Armament;이반 가이디미트리프 ;1945;1964;1999;SC;Strategic Air Proponent;Low;M19085;X
+95055;Minister of Armament;페트코 스토야노프 ;1944;1964;1999;LWR;Theoretical Scientist;Low;M19086;X
+95056;Minister of Armament;스탄코 코라코프 ;1945;1964;1999;LWR;Administrative Genius;Medium;M19087;X
+95057;Minister of Armament;게오르기 디미트로프 ;1939;1964;1999;ST;Military Entrepreneur;Medium;M19032;X
+95058;Minister of Armament;이반 스테파노프 ;1944;1964;1999;LE;Planned economy proponent;Low;M19034;X
+95059;Minister of Armament;페트코 쿠닌 ;1945;1964;1999;ST;Air to Ground Proponent;High;M19090;X
+95060;Minister of Security;이반 크라스노브스키 ;1936;1964;1999;PA;Efficient Sociopath;Medium;M19091;X
+95061;Minister of Security;니콜라이 니콜라예프 ;1938;1964;1999;PA;Crime Fighter;Medium;M19092;X
+95062;Minister of Security;니콜라 네데프 ;1938;1964;1999;PA;Silent Lawyer;Medium;M19093;X
+95063;Minister of Security;두코 흐리스토프 ;1943;1964;1999;PA;Crooked Kleptocrat;Medium;M19094;X
+95064;Minister of Security;알렉산드르 스타니셰프 ;1944;1964;1999;PA;Prince of Terror;Medium;M19095;X
+95065;Minister of Security;디미타르 페세프 ;1939;1964;1999;FA;Compassionate Gentleman;Low;M19006;X
+95066;Minister of Security;페트르 가브로브스키 ;1943;1964;1999;FA;Back Stabber;Low;M19022;X
+95067;Minister of Security;알렉산더르 게르기노프 ;1933;1964;1999;SC;Silent Lawyer;Medium;M19014;X
+95068;Minister of Security;라이코 페키모프 ;1943;1964;1999;SC;Efficient Sociopath;Medium;M19099;X
+95069;Minister of Security;베르질 디모프 ;1944;1964;1999;SC;Man of the People;Medium;M19100;X
+95070;Minister of Security;니콜라 무사노프 ;1945;1964;1999;SC;Compassionate Gentleman;High;M19015;X
+95071;Minister of Security;게오르기 쿠리셰프 ;1944;1964;1999;LWR;Crime Fighter;Very High;M19073;X
+95072;Minister of Security;불코 셰르벤코프 ;1939;1964;1999;ST;Secret police chief;High;M19103;X
+95073;Minister of Security;안톤 유고프 ;1944;1964;1999;ST;Secret police chief;High;M19035;X
+95074;Head of Military Intelligence;키릴 구네프 ;1939;1964;1999;PA;Naval Intelligence Specialist;Medium;M19004;X
+95075;Head of Military Intelligence;스테판 노이코프 ;1943;1964;1999;PA;Political Specialist;Low;M19106;X
+95076;Head of Military Intelligence;사바 키로프 ;1944;1964;1999;PA;Industrial Specialist;Low;M19079;X
+95077;Head of Military Intelligence;키릴 스탄셰프 ;1939;1964;1999;FA;Dismal Enigma;Medium;M19026;X
+95078;Head of Military Intelligence;이반 로고사르스키 ;1944;1964;1999;NS;Logistics Specialist;Medium;M19109;X
+95079;Head of Military Intelligence;보리스 보탄 ;1939;1964;1999;SC;Naval Intelligence Specialist;Medium;M19110;X
+95080;Head of Military Intelligence;아타나스 부로프 ;1943;1964;1999;SC;Industrial Specialist;Medium;M19016;X
+95081;Head of Military Intelligence;게오르기 쿠리셰프 ;1944;1964;1999;LWR;Naval Intelligence Specialist;Very High;M19073;X
+95082;Head of Military Intelligence;트라이코 코스토프 ;1939;1964;1999;ST;Logistics Specialist;Medium;M19036;X
+95083;Head of Military Intelligence;민코 네이셰프 ;1945;1964;1999;ST;Political Specialist;Medium;M19114;X
+95084;Chief of Staff;데오도시 다스카로프 ;1939;1964;1999;PA;School of Defence;Medium;M19115;X
+95085;Chief of Staff;니콜라 미호프 ;1942;1964;1999;PA;School of Fire Support;Medium;M19116;X
+95086;Chief of Staff;루시 루셰프 ;1943;1964;1999;PA;School of Mass Combat;High;M19117;X
+95087;Chief of Staff;토도르 게오르기예프 ;1944;1964;1999;PA;School of Manoeuvre;Medium;M19008;X
+95088;Chief of Staff;이반 불코프 ;1939;1964;1999;FA;School of Defence;High;M19027;X
+95089;Chief of Staff;이반 마리노프 ;1939;1964;1999;SC;School of Manoeuvre;Very Low;M19017;X
+95090;Chief of Staff;게오르기 페쵸프 ;1943;1964;1999;SC;School of Defence;Medium;M19019;X
+95091;Chief of Staff;다므얀 벨셰프 ;1944;1964;1999;LWR;School of Psychology;Medium;M19122;X
+95092;Chief of Staff;흐리스토 미하일로프 ;1939;1964;1999;ST;School of Mass Combat;Medium;M19037;X
+95093;Chief of Staff;아셴 그레코프 ;1945;1964;1999;ST;School of Manoeuvre;Medium;M19124;X
+95094;Chief of Army;아이오단 폐프 ;1937;1964;1999;PA;Decisive Battle Doctrine;Medium;M19125;X
+95095;Chief of Army;니콜라 하지페코프 ;1939;1964;1999;PA;Static Defence Doctrine;Low;M19126;X
+95096;Chief of Army;바실 보이데프 ;1941;1964;1999;PA;Elastic Defence Doctrine;Medium;M19127;X
+95097;Chief of Army;콘스탄틴 루카쉬 ;1943;1964;1999;PA;Guns and Butter Doctrine;Medium;M19128;X
+95098;Chief of Army;키릴 스탄셰프 ;1944;1964;1999;PA;Armoured Spearhead Doctrine;Medium;M19026;X
+95099;Chief of Army;흐리스토 루코프 ;1939;1964;1999;FA;Static Defence Doctrine;High;M19007;X
+95100;Chief of Army;트리폰 트리포보프 ;1944;1964;1999;FA;Elastic Defence Doctrine;Medium;M19131;X
+95101;Chief of Army;이반 마리노프 ;1939;1964;1999;SC;Static Defence Doctrine;Low;M19017;X
+95102;Chief of Army;라이코 슬라브코프 ;1944;1964;1999;SC;Guns and Butter Doctrine;Medium;M19018;X
+95103;Chief of Army;미하일 민체프 ;1944;1964;1999;LWR;Guns and Butter Doctrine;Medium;M19134;X
+95104;Chief of Army;차브야코프 라도노프 ;1939;1964;1999;ST;Decisive Battle Doctrine;High;M19038;X
+95105;Chief of Army;이반 키노프 ;1944;1964;1999;ST;Armoured Spearhead Doctrine;Medium;M19136;X
+95106;Chief of Navy;이반 바리크르코프 ;1938;1964;1999;PA;Base Control Doctrine;High;M19137;X
+95107;Chief of Navy;아센 토셰프 ;1939;1964;1999;PA;Open Seas Doctrine;High;M19138;X
+95108;Chief of Navy;아타나스 사라파토프 ;1939;1964;1999;FA;Decisive Naval Battle Doctrine;Medium;M19029;X
+95109;Chief of Navy;라이코 바타노프 ;1944;1964;1999;LWR;Open Seas Doctrine;Medium;M19141;X
+95110;Chief of Navy;키릴 카라체프 ;1939;1964;1999;ST;Indirect Approach Doctrine;Medium;M19039;X
+95111;Chief of Navy;스테판 차네프 ;1945;1964;1999;ST;Decisive Naval Battle Doctrine;Very Low;M19143;X
+95112;Chief of Air Force;디미타르 아르야노프 ;1941;1964;1999;PA;Air Superiority Doctrine;Medium;M19145;X
+95113;Chief of Air Force;츄도미르 토플로돌스키;1939;1964;1999;FA;Vertical Envelopment Doctrine;Medium;M19030;X
+95114;Chief of Air Force;스토얀 스토야노프 ;1939;1964;1999;SL;Air Superiority Doctrine;Medium;M19020;X
+95115;Chief of Air Force;게오르기 드레니코프 ;1944;1964;1999;SC;Carpet Bombing Doctrine;Medium;M19148;X
+95116;Chief of Air Force;바실 빌코프 ;1944;1964;1999;LWR;Vertical Envelopment Doctrine;Medium;M19149;X
+95117;Chief of Air Force;자카리 자카하리예프 ;1939;1964;1999;ST;Vertical Envelopment Doctrine;Medium;M19150;X
+95118;Head of State;베르질 디모프 ;1945;1964;1999;PA;Insignificant Layman;High;M19100;X
+95119;Head of State;베르질 디모프 ;1947;1964;1999;SC;Insignificant Layman;High;M19100;X
+95120;Head of State;게오르기 쿠리셰프 ;1945;1964;1999;LWR;Popular Figurehead;Very High;M19073;X
+95121;Head of Government;베르질 디모프 ;1945;1964;1999;PA;Silent Workhorse;High;M19100;X
+95122;Head of Government;베르질 디모프 ;1947;1964;1999;SC;Silent Workhorse;High;M19100;X
+95123;Head of Government;게오르기 쿠리셰프 ;1946;1964;1999;LWR;Happy Amateur;Very High;M19073;X
+95124;Chief of Navy;게오르기 페쵸프 ;1933;1964;1999;SC;Base Control Doctrine;Medium;M19019;X
+95125;Foreign Minister;바실 콜라로프 ;1933;1964;1999;ST;Ideological Crusader;High;M19031;X
+95126;Chief of Army;챠코프 라이도노프 ;1933;1964;1999;ST;Decisive Battle Doctrine;High;M19038;X
+95127;Head of State;불코 셰르벤코프 ;1949;1964;1999;ST;Stern Imperialist;High;M19103;X
+95128;Head of Government;바실 콜라로프 ;1949;1964;1999;ST;Flamboyant Tough Guy;High;M19031;X
+95129;Head of Government;불코 셰르벤코프 ;1950;1964;1999;ST;Happy Amateur;High;M19103;X
+95130;Foreign Minister;블라디미르 포포모브 ;1949;1964;1999;ST;Iron Fisted Brute;High;M19159;X
+95131;Foreign Minister;민코 네이셰프 ;1950;1964;1999;ST;The Cloak N Dagger Schemer;High;M19114;X
+95132;Minister of Armament;게오르기 다므야노프 ;1946;1964;1999;ST;Tank Proponent;High;M19161;X
+95133;Minister of Armament;페트르 판셰브스키 ;1949;1964;1999;ST;Military Entrepreneur;High;M19162;X
+95134;Minister of Security;루시 흐리스토조프 ;1949;1964;1999;ST;Back Stabber;High;M19163;X
+95135;Minister of Security;게오르기 챤코프 ;1951;1964;1999;ST;Crooked Kleptocrat;High;M19164;X
+95136;Head of Military Intelligence;페트코 쿠닌 ;1950;1964;1999;ST;Industrial Specialist;Medium;M19165;X
+95137;Chief of Air Force;라둘 밀코프 ;1919;1933;1999;ML;Army Aviation Doctrine;Medium;2245;X
+95138;Chief of Air Force;바실 즐라타로프 ;1914;1933;1999;SC;Air Superiority Doctrine;Very High;2246;X
+95139;Chief of Army;클리멘트 보야지예프 ;1914;1933;1999;PA;Decisive Battle Doctrine;High;2247;X
+95140;Chief of Army;흐리스토 부르모프 ;1914;1933;1999;SC;static defence doctrine;Medium;2248;X
+95141;Chief of Army;흐리스토 부르모프 ;1918;1933;1999;ML;static defence doctrine;Medium;2248;X
+95142;Chief of Army;이반 루코프 ;1916;1933;1999;PA;static defence doctrine;High;2249;X
+95143;Chief of Army;스테판 네레조프 ;1914;1933;1999;LWR;elastic defence doctrine;Very Low;2250;X
+95144;Chief of Army;스테판 네레조프 ;1919;1933;1999;PA;elastic defence doctrine;Medium;2250;X
+95145;Chief of Army;니콜라 토팔지코프 ;1920;1933;1999;LWR;Guns and Butter Doctrine;Medium;3714;X
+95146;Chief of Army;블라디미르 스토야노프 ;1923;1933;1999;SL;decisive battle doctrine;Medium;3715;X
+95147;Chief of Army;미하일 사로프 ;1914;1933;1999;PA;Decisive Battle Doctrine;High;2251;X
+95148;Chief of Army;프라보슬라프 테네프 ;1914;1933;1999;SC;Guns and Butter Doctrine;Medium;2252;X
+95149;Chief of Army;콘스탄틴 조스토프 ;1915;1933;1999;PA;elastic defence doctrine;High;2253;X
+95150;Chief of Navy;라자르 드라고노프 ;1914;1933;1999;LWR;Open Seas Doctrine;High;2254;X
+95151;Chief of Navy;콘스탄틴 키르코프 ;1914;1933;1999;SC;Indirect Approach Doctrine;Medium;2255;X
+95152;Chief of Navy;라쉬코 세라피모프 ;1914;1933;1999;ML;Indirect Approach Doctrine;High;2256;X
+95153;Chief of Navy;사바 스테파노프 ;1923;1933;1999;PA;Open Seas Doctrine;High;3716;X
+95154;Chief of Staff;클리멘트 보야지예프 ;1915;1933;1999;SC;School of Fire Support;High;2247;X
+95155;Chief of Staff;클리멘트 보야지예프 ;1914;1915;1999;SC;School of Psychology;Medium;2247;X
+95156;Chief of Staff;흐리스토 부르모프 ;1918;1933;1999;ML;School of Mass Combat;High;2248;X
+95157;Chief of Staff;게오르기 디미트로프 ;1914;1933;1999;ST;School of Mass Combat;Very High;2257;X
+95158;Chief of Staff;이반 피셰프 ;1914;1933;1999;SC;School of Fire Support;Very Low;2258;X
+95159;Chief of Staff;이반 루코프 ;1916;1933;1999;SC;School of Mass Combat;High;2249;X
+95160;Chief of Staff;콘스탄틴 무라비예프 ;1923;1933;1999;SD;School of Mass Combat;Medium;2259;X
+95161;Chief of Staff;칼린 나이데노프 ;1915;1933;1999;PA;School of Defence;Very High;2260;X
+95162;Chief of Staff;스테판 네레조프 ;1919;1933;1999;SD;School of Psychology;High;2250;X
+95163;Chief of Staff;알렉산드르 디미트로프 ;1921;1933;1999;LWR;School of Psychology;High;3717;X
+95164;Chief of Staff;스테판 파프리코프 ;1899;1920;1999;SC;School of Fire Support;High;2261;X
+95165;Chief of Staff;미하일 사로프 ;1914;1933;1999;PA;School of Mass Combat;High;2251;X
+95166;Chief of Staff;사바 사로프 ;1914;1933;1999;SC;School of Psychology;Medium;2262;X
+95167;Chief of Staff;아타나스 나즐라모프 ;1914;1933;1999;SC;School of Psychology;High;234;X
+95168;Chief of Staff;니콜라 토팔지코프 ;1920;1933;1999;LWR;School of Psychology;High;3714;X
+95169;Chief of Staff;페타르 미디레프 ;1920;1933;1999;SC;School of Psychology;High;3718;X
+95170;Chief of Staff;라드코 디미트리예프 ;1914;1933;1999;SC;School of Manoeuvre;High;3719;X
+95171;Chief of Staff;비코 디코프 ;1914;1933;1999;SC;School of Mass Combat;High;3720;X
+95172;Chief of Staff;블라디미르 스토야노프 ;1923;1933;1999;SL;school of fire support;High;3715;X
+95173;Chief of Staff;이반 빌코프 ;1923;1933;1999;NS;School of Mass Combat;Very High;2263;X
+95174;Chief of Staff;니콜라 졔코프 ;1915;1933;1999;PA;School of Mass Combat;Very High;2264;X
+95175;Chief of Staff;콘스탄틴 조스토프 ;1915;1933;1999;SC;School of Fire Support;High;2253;X
+95176;Foreign Minister;스토얀 다네프 ;1914;1933;1999;ML;Apologetic Clerk;Very High;2265;X
+95177;Foreign Minister;니콜라 게나디예프 ;1914;1933;1999;ML;Apologetic Clerk;Very High;2266;X
+95178;Foreign Minister;이반 에브스트라티예프 게소프 ;1914;1933;1999;SC;Biased Intellectual;Very High;2267;X
+95179;Foreign Minister;흐리스토 칼포프 ;1923;1933;1999;PA;General Staffer;Very High;2268;X
+95180;Foreign Minister;바실 콜라로프 ;1914;1933;1999;ST;Ideological Crusader;Very High;2269;X
+95181;Foreign Minister;미하일 마자로프 ;1919;1933;1999;SC;Biased Intellectual;Very High;2270;X
+95182;Foreign Minister;알렉산다르 말리노프 ;1914;1933;1999;ML;Biased Intellectual;Very High;2271;X
+95183;Foreign Minister;스테판 파프리코프 ;1914;1933;1999;SC;General Staffer;Very High;2261;X
+95184;Foreign Minister;라코 페트로프 ;1914;1933;1999;ML;General Staffer;Very High;2272;X
+95185;Foreign Minister;바실 라도슬라보프 ;1914;1933;1999;ML;Ideological Crusader;Very High;2273;X
+95186;Foreign Minister;알렉산다르 스탐보리스키 ;1920;1933;1999;LWR;Great Compromiser;Very High;2274;X
+95187;Foreign Minister;디미타르 스탄코프 ;1914;1933;1999;ML;Apologetic Clerk;Very High;2275;X
+95188;Foreign Minister;테어도르 테어도로프 ;1918;1933;1999;SC;Great Compromiser;Very High;2276;X
+95189;Head of Government;디미타르 브라고예프 ;1914;1933;1999;ST;Ambitious Union Boss;High;2277;X
+95190;Head of Government;스토얀 다네프 ;1914;1933;1999;ML;Naive Optimist;High;2265;X
+95191;Head of Government;게오르기 디미트로프 ;1914;1933;1999;ST;Flamboyant Tough Guy;High;2257;X
+95192;Head of Government;이반 에브스트라티예프 게소프 ;1914;1933;1999;SC;Flamboyant Tough Guy;High;2267;X
+95193;Head of Government;페타르 구데프 ;1914;1933;1999;ML;Political Protege;High;2278;X
+95194;Head of Government;알렉산드르 말리노프 ;1914;1933;1999;SC;Silent Workhorse;High;2271;X
+95195;Head of Government;라코 페트로프 ;1914;1933;1999;ML;Old General;High;2272;X
+95196;Head of Government;바실 라도슬라보프 ;1914;1933;1999;ML;Flamboyant Tough Guy;High;2273;X
+95197;Head of Government;알렉산다르 스탐보리스키 ;1919;1933;1999;LWR;Silent Workhorse;High;2274;X
+95198;Head of Government;디미타르 스탄코프 ;1914;1933;1999;SC;Political Protege;High;2275;X
+95199;Head of Government;테어도르 테어도로프 ;1918;1933;1999;SC;Naive Optimist;High;2276;X
+95200;Head of Government;알렉산더르 챤코프 ;1923;1933;1999;PA;Flamboyant Tough Guy;High;2279;X
+95201;Head of Military Intelligence;스테판 노이코프 ;1914;1933;1999;SC;Logistics Specialist;Medium;2280;X
+95202;Head of Military Intelligence;아타나스 바체프 ;1914;1933;1999;PA;Political Specialist;Medium;2281;X
+95203;Head of State;디미타르 브라고예프 ;1914;1933;1999;ST;Pig-Headed Isolationist;High;2277;X
+95204;Head of State;게오르기 디미트로프 ;1924;1933;1999;ST;Ruthless Powermonger;High;2257;X
+95205;Head of State;페르디난트 1세 ;1914;1933;1999;PA;Stern Imperialist;High;2282;X
+95206;Head of State;알렉산더르 스탐보리스키 ;1923;1933;1999;LWR;Ruthless Powermonger;High;2274;X
+95207;Head of State;알렉산더르 챤코프 ;1923;1933;1999;PA;Barking Buffoon;High;2279;X
+95208;Minister of Armament;디미타르 브라고예프 ;1914;1933;1999;ST;Resource Industrialist;High;2277;X
+95209;Minister of Armament;스토얀 다네프 ;1918;1933;1999;ML;Resource Industrialist;High;2265;X
+95210;Minister of Armament;라이코 다스카로프 ;1920;1933;1999;LWR;Military Entrepreneur;High;2283;X
+95211;Minister of Armament;게오르기 디미트로프 ;1914;1933;1999;ST;Military Entrepreneur;High;2257;X
+95212;Minister of Armament;이반 에브스트라티예프 게소프 ;1914;1933;1999;SC;Administrative Genius;High;2267;X
+95213;Minister of Armament;토도르 이반코프 ;1914;1933;1999;ML;Laissez-Faire Capitalist;High;2284;X
+95214;Minister of Armament;안드레이 타셰프 라프셰프 ;1914;1933;1999;ML;Laissez-Faire Capitalist;High;2285;X
+95215;Minister of Armament;이반 사라바셰프 ;1914;1933;1999;SC;Theoretical Scientist;High;2286;X
+95216;Minister of Armament;테어도어 테오도로프 ;1914;1933;1999;SC;Resource Industrialist;High;2276;X
+95217;Minister of Armament;페타르 토도로프 ;1923;1935;1999;PA;Resource Industrialist;High;2287;X
+95218;Minister of Armament;디미타르 톤셰프 ;1914;1933;1999;ML;Resource Industrialist;High;2288;X
+95219;Minister of Armament;마르코 투라코프 ;1920;1933;1999;LWR;Corrupt Kleptocrat;High;2289;X
+95220;Minister of Armament;페타르 야네프 ;1923;1933;1999;LWR;Resource Industrialist;High;2290;X
+95221;Minister of Security;라이코 다스카로프 ;1922;1933;1999;LWR;Silent Lawyer;High;2283;X
+95222;Minister of Security;알렉산더르 디미트로프 ;1919;1933;1999;LWR;Silent Lawyer;High;2291;X
+95223;Minister of Security;니콜라 게나디예프 ;1914;1933;1999;ML;Silent Lawyer;High;2266;X
+95224;Minister of Security;페타르 구데프 ;1914;1933;1999;ML;Crime Fighter;High;2278;X
+95225;Minister of Security;바실 콜라로프 ;1914;1933;1999;ST;Silent Lawyer;High;2269;X
+95226;Minister of Security;알렉산다르 류스카노프 ;1902;1933;1999;ML;Silent Lawyer;High;2292;X
+95227;Minister of Security;미하일 마자로프 ;1914;1933;1999;SC;Silent Lawyer;High;2270;X
+95228;Minister of Security;니콜라 무사노프 ;1914;1933;1999;ML;Silent Lawyer;High;2293;X
+95229;Minister of Security;알렉산다르 오보프 ;1923;1933;1999;LWR;Silent Lawyer;High;2294;X
+95230;Minister of Security;크리스토 파츄코프 ;1919;1933;1999;SD;Man of the People;High;2295;X
+95231;Minister of Security;라코 페트로프 ;1914;1933;1999;ML;Silent Lawyer;High;2272;X
+95232;Minister of Security;흐리스토 포포브 ;1914;1933;1999;ML;Silent Lawyer;High;2296;X
+95233;Minister of Security;알렉산다르 라도로프 ;1914;1933;1999;LWR;Silent Lawyer;High;2297;X
+95234;Minister of Security;바실 라도슬라보프 ;1914;1933;1999;ML;Prince of Terror;Very High;2273;X
+95235;Minister of Security;이반 루셰프 ;1923;1933;1999;PA;Crime Fighter;High;2298;X
+95236;Minister of Security;크리스토 스토야노프 ;1923;1933;1999;LWR;Silent Lawyer;High;2299;X
+95237;Minister of Security;콘스탄틴 토모프 ;1921;1933;1999;LWR;Silent Lawyer;High;2300;X
+95238;Chief of Army;니콜라 졔코프 ;1914;1933;1999;PA;Decisive Battle Doctrine;Very High;2264;X
+95239;Chief of Staff;프라보슬라프 테네프 ;1914;1933;1999;SC;School of Fire Support;High;2252;X
+95240;Head of State;보리스 3세 ;1914;1933;1999;SC;Autocratic Charmer;High;8657;X
+95241;Head of Government;Nikola Mushanov;1931;1964;1999;SC;Silent Workhorse;High;M19015;X
+95242;Foreign Minister;Nikola Mushanov;1931;1964;1999;SC;Biased Intellectual;High;M19015;X
+95243;Foreign Minister;Sava Kirov;1941;1964;1999;PA;Biased Intellectual;Low;M19079;X
+95244;Minister of Armament;Stefan Stefanov;1931;1964;1999;SC;Planned economy proponent;High;9922;X
+95245;Foreign Minister;Kimon Georgiev;1934;1964;1999;LWR;General Staffer;Medium;M19059;X
+95246;Minister of Security;Petar Midilev;1934;1964;1999;SC;Man of the People;High;3718;X
+95247;Head of Government;Pencho Zlatev;1935;1964;1999;PA;Old General;High;9661;X
+95248;Foreign Minister;Konstantin Batolov;1935;1939;1999;SC;Apologetic Clerk;High;9662;X
+95249;Minister of Armament;Mihail Kalenderov;1935;1964;1999;SC;Resource Industrialist;High;9663;X
+95250;Minister of Security;Krum Kolev;1935;1964;1999;SC;Efficient Sociopath;Medium;9664;X
+95251;Head of Government;Andrey Toshev;1935;1964;1999;SC;Silent Workhorse;Medium;9665;X
+95252;Minister of Armament;Marko Ryaskov;1935;1964;1999;SC;laissez-faire capitalist;Medium;9666;X
+95253;Minister of Security;Rashko Atanasov;1935;1945;1999;SC;Prince of Terror;Medium;9667;X
+95254;Minister of Armament;Stoycho Moshanov;1935;1964;1999;SC;Resource Industrialist;Medium;9668;X

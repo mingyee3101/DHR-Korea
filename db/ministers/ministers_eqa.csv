@@ -1,0 +1,32 @@
+EQA;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+640001;Head of State;리샤르 브루노 ;1933;1964;1999;SL;Benevolent Gentleman;High;M534003;X
+640002;Head of Government;바르텔레미 보강다 ;1933;1964;1999;SL;Naive Optimist;High;M535002;X
+640003;Foreign Minister;막스 드 마송 ;1933;1964;1999;SL;Apologetic Clerk;High;M535003;X
+640004;Minister of Armament;앙드레 라트리유 ;1933;1964;1999;SL;Theoretical Scientist;Medium;M533024;X
+640005;Minister of Security;에밀 포소즈 ;1933;1964;1999;SL;Efficient Sociopath;Medium;M535005;X
+640006;Head of Military Intelligence;장 V.L.J. 샬베 ;1933;1964;1999;SL;Industrial Specialist;Medium;M535006;X
+640007;Chief of Staff;피에르 드 생마르 ;1933;1964;1999;SL;School of Fire Support;Medium;M535007;X
+640008;Chief of Army;피에르 드 생마르 ;1933;1964;1999;SL;Armoured Spearhead Doctrine;Medium;M535007;X
+640009;Chief of Navy;앙리 소토 ;1933;1964;1999;SL;Open Seas Doctrine;Medium;M535009;X
+640010;Chief of Air Force;제임스 드니 ;1933;1964;1999;SL;Air Superiority Doctrine;Medium;M535010;X
+640011;Head of State;막스 드 마송 ;1933;1964;1999;SL;Powerhungry Demagogue;High;M535003;X
+640012;Head of State;피에르 드 생마르 ;1939;1964;1999;SL;Resigned Generalissimo;High;M535007;X
+640013;Head of State;앙드레 라트리유 ;1942;1964;1999;SL;Stern Imperialist;High;M533024;X
+640014;Head of State;앙리 소토 ;1942;1964;1999;SL;Autocratic Charmer;High;M535009;X
+640015;Head of State;장 V.L.J. 샬베 ;1946;1964;1999;SL;Autocratic Charmer;High;M535006;X
+640016;Head of State;다비드 다코 ;1933;1964;1999;SC;Barking Buffoon;High;M535016;X
+640017;Head of Government;장 베델 보카사 ;1933;1964;1999;SC;Old General;High;M535017;X
+640018;Foreign Minister;폴 아페르 ;1942;1964;1999;SL;General Staffer;High;M535018;X
+640019;Foreign Minister;마르셀 보미탕데 ;1933;1964;1999;SC;The Cloak N Dagger Schemer;High;M535019;X
+640020;Minister of Armament;애이메 르페르 ;1942;1964;1999;SL;Administrative Genius;Medium;M535020;X
+640021;Minister of Armament;마르셀뤼스 브리앙데 ;1933;1964;1999;SC;Resource Industrialist;Medium;M535021;X
+640022;Minister of Security;펠릭스 르클레르 ;1941;1964;1999;SL;Silent Lawyer;Medium;M535022;X
+640023;Minister of Security;알베르 이도후 ;1933;1964;1999;SC;Back Stabber;Medium;M535023;X
+640024;Head of Military Intelligence;에드몽 마장디 ;1943;1964;1999;SL;Logistics Specialist;Medium;M535024;X
+640025;Head of Military Intelligence;폴 아페르 ;1933;1964;1999;SC;Political Specialist;Medium;M535018;X
+640026;Chief of Staff;도미니크 코세요 ;1933;1964;1999;SC;School of Defence;Medium;M535026;X
+640027;Chief of Army;장 베델 보카사 ;1933;1964;1999;SC;Guns and Butter Doctrine;Medium;M535017;X
+640028;Chief of Navy;일레트 망가르드 ;1933;1964;1999;SC;Base Control Doctrine;Medium;M535028;X
+640029;Chief of Air Force;에르네스트 프뤼보 ;1942;1964;1999;SL;Army Aviation Doctrine;Medium;M535029;X
+640030;Chief of Air Force;엠마뉘엘 바장드르 ;1933;1964;1999;SC;Naval Aviation Doctrine;Medium;M535030;X

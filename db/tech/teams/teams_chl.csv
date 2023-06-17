@@ -1,0 +1,27 @@
+CHL;Name;Pic Name;Skill;Start Year;End Year;Speciality1;Speciality2;Speciality3;Speciality4;Speciality5;Speciality6;Speciality7;Speciality8;Speciality9;Speciality10;Speciality11;Speciality12;Speciality13;Speciality14;Speciality15;Speciality16;Speciality17;Speciality18;Speciality19;Speciality20;Speciality21;Speciality22;Speciality23;Speciality24;Speciality25;Speciality26;Speciality27;Speciality28;Speciality29;Speciality30;Speciality31;Speciality32;x
+210001;아구아 산타 철도 ;T5100;3;1900;1950;industrial_engineering;mechanics;electronics;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+210002;윌리엄슨 밸푸어 컴퍼니 ;T5101;3;1900;1970;industrial_engineering;general_equipment;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+210003;캠벨 오트람 & 시아 ;T5102;3;1900;1970;artillery;munitions;general_equipment;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+210004;CORFO ;T5104;4;1939;1970;industrial_engineering;general_equipment;management;technical_efficiency;electronics;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+210005;ENDESA ;T5105;2;1943;1970;electronics;mechanics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+210006;칠레 육군학교 ;T5106;4;1817;1970;combined_arms_focus;small_unit_tactics;general_equipment;artillery;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+210007;안데스 건설회사 ;T5107;4;1896;1970;industrial_engineering;mechanics;electronics;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+210008;안토파가스타 볼리비아 철도 ;T5100;4;1890;1970;industrial_engineering;mechanics;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+210009;카를로스 데 라 모테 ;T5109;3;1927;1932;large_taskforce_tactics;naval_training;centralized_execution;seamanship;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+210010;프란시스코 오레고 ;T5110;4;1938;1946;large_taskforce_tactics;naval_training;centralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+210011;디에고 아라세나 ;T5111;3;1938;1960;fighter_tactics;piloting;centralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+210012;마르마두케 그로베 ;T5112;5;1937;1960;fighter_tactics;piloting;decentralized_execution;bomber_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+210013;노보아 푸엔테스 ;T5113;3;1930;1942;centralized_execution;large_unit_tactics;individual_courage;infantry_focus;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+210014;카를로스 푸엔테스 라베 ;T5114;4;1938;1960;combined_arms_focus;small_unit_tactics;decentralized_execution;training;mountain_training;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+210015;칠레 육군 ;100670;3;1890;1970;general_equipment;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+210016;로타 & 코로넬 컴퍼니 ;T5103;4;1905;1920;industrial_engineering;technical_efficiency;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+210017;칠레 광산회사 ;T5103;4;1921;1932;industrial_engineering;technical_efficiency;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+210018;칠레 로타 석탄회사 ;T5103;4;1933;1963;industrial_engineering;technical_efficiency;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+210019;칠레 군사학교 ;100671;2;1886;1970;centralized_execution;infantry_focus;individual_courage;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+210020;칠레 해군학교 ;100667;4;1868;1970;seamanship;small_taskforce_tactics;large_taskforce_tactics;mathematics;naval_training;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+210021;마누엘 아발로스 프라도 ;100668;4;1913;1919;piloting;fighter_tactics;bomber_tactics;individual_courage;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+210022;칠레 공군 ;100666;3;1920;1970;piloting;fighter_tactics;bomber_tactics;individual_courage;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+210023;호세 산체스 베사 ;100669;3;1910;1925;avionics;fighter_design;bomber_design;aircraft_testing;aeronautics;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+210024;푼타 아레나스 조선소 ;100672;4;1896;1960;submarine_design;naval_artillery;naval_engineering;mathematics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+210025;발파라이소 조선소 ;100673;2;1817;1960;carrier_design;naval_artillery;naval_engineering;mechanics;electronics;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+210026;칠레 해군 ;100783;3;1933;1970;large_taskforce_tactics;naval_training;centralized_execution;seamanship;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

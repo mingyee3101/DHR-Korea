@@ -1,0 +1,139 @@
+LIT;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+140001;Head of State;안타나스 스메토나 ;1918;1944;1999;FA;Weary Stiffneck;High;M28001;X
+140002;Head of Government;유오자스 투벨리스 ;1929;1964;1999;FA;Political Protege;High;M28002;X
+140003;Foreign Minister;스타시스 로조라이티스 ;1933;1964;1999;FA;Ideological Crusader;Medium;M28003;X
+140004;Minister of Armament;발데마라스 비타우타스 ;1933;1964;1999;FA;Military Entrepreneur;Medium;M28004;X
+140005;Minister of Security;안타나스 스메토나 ;1933;1964;1999;FA;Compassionate Gentleman;Medium;M28001;X
+140006;Head of Military Intelligence;도바스 자우니우스 ;1933;1964;1999;FA;Political Specialist;Medium;M28006;X
+140007;Chief of Staff;요나스 갈비디스 ;1933;1964;1999;FA;School of Defence;Medium;M28007;X
+140008;Chief of Army;스타시스 라스티키스 ;1933;1964;1999;FA;Elastic Defence Doctrine;Medium;M28008;X
+140009;Chief of Navy;가르니스 디르만타스 ;1933;1964;1999;FA;Open Seas Doctrine;Medium;M28009;X
+140010;Chief of Air Force;안타나스 구스타이티스 ;1933;1964;1999;FA;Army Aviation Doctrine;Medium;M28010;X
+140011;Head of State;아우구스티나스 볼데마라스 ;1933;1964;1999;NS;Powerhungry Demagogue;High;M28031;X
+140012;Head of State;카지스 스키르파 ;1940;1964;1999;NS;Insignificant Layman;High;M28032;X
+140013;Head of State;테오도르 폰 렌텔른 ;1941;1964;1999;NS;Resigned Generalissimo;High;M28033;X
+140014;Head of State;안타나스 메르키스 ;1940;1964;1999;PA;Benevolent Gentleman;High;M28035;X
+140015;Head of State;요나스 제마이티스 ;1945;1964;1999;PA;Autocratic Charmer;High;M28036;X
+140016;Head of State;유표자스 마시우스나스 ;1933;1964;1999;SC;Benevolent Gentleman;High;M28011;X
+140017;Head of State;유오자스 암브라제비치우스 ;1941;1964;1999;SC;Insignificant Layman;High;M28020;X
+140018;Head of State;아나톨리유스 카이리스 ;1945;1964;1999;SC;Die-hard Reformer;High;M28019;X
+140019;Head of State;유스타스 팔레츠키스 ;1938;1964;1999;ST;Insignificant Layman;High;M28021;X
+140020;Head of State;안타나스 스니에츠쿠스 ;1945;1964;1999;ST;Die-hard Reformer;High;M28041;X
+140021;Head of Government;프란치스키스 미시우나스 ;1938;1964;1999;NS;Happy Amateur;High;M28042;X
+140022;Head of Government;페트라스 쿠빌뉴나스 ;1940;1964;1999;NS;Silent Workhorse;High;M28043;X
+140023;Head of Government;블라다스 미로나스 ;1938;1964;1999;FA;Naive Optimist;High;M28044;X
+140024;Head of Government;요나스 체르니우스 ;1939;1964;1999;FA;Ambitious Union Boss;High;M28014;X
+140025;Head of Government;안타나스 메르키스 ;1939;1964;1999;FA;Smiling Oilman;High;M28035;X
+140026;Head of Government;도바스 자우니우스 ;1940;1964;1999;PA;Happy Amateur;High;M28006;X
+140027;Head of Government;카시미라스 질렌스키엔;1945;1964;1999;PA;Flamboyant Tough Guy;High;M28048;X
+140028;Head of Government;리나스 브로도브스키스 ;1938;1964;1999;SC;Backroom Backstabber;High;M28015;X
+140029;Head of Government;유오자스 암브라제비치우스 ;1941;1964;1999;SC;Corporate Suit;High;M28020;X
+140030;Head of Government;스타시스 로조라이티스 ;1945;1964;1999;SC;Happy Amateur;High;M28003;X
+140031;Head of Government;유스타스 팔레츠키스 ;1938;1964;1999;ST;Smiling Oilman;High;M28021;X
+140032;Head of Government;빈차스 크레베 ;1940;1964;1999;ST;Political Protege;High;M28053;X
+140033;Head of Government;안타나스 스니에츠쿠스 ;1945;1964;1999;ST;Old Admiral;High;M28041;X
+140034;Foreign Minister;페트라스 도마르카스 ;1938;1964;1999;NS;Biased Intellectual;Medium;M28055;X
+140035;Foreign Minister;아주올라스 쿠사트 ;1940;1964;1999;NS;Apologetic Clerk;Medium;M28056;X
+140036;Foreign Minister;페트라스 쿠빌뉴나스 ;1941;1964;1999;NS;Ideological Crusader;Medium;M28043;X
+140037;Foreign Minister;유오자스 우르브시스 ;1938;1964;1999;FA;Ideological Crusader;Medium;M28058;X
+140038;Foreign Minister;에른스타스 갈바나우스카스 ;1940;1964;1999;PA;Apologetic Clerk;Medium;M28059;X
+140039;Foreign Minister;안타나스 메르키스 ;1941;1964;1999;PA;Ideological Crusader;Medium;M28035;X
+140040;Foreign Minister;카롤리스 비네비츠 ;1945;1964;1999;PA;Iron Fisted Brute;Medium;M28061;X
+140041;Foreign Minister;기에드리우스 그리가스 ;1938;1964;1999;SC;Biased Intellectual;Medium;M28062;X
+140042;Foreign Minister;요나스 발리오카이티스 ;1940;1964;1999;SC;Great Compromiser;Medium;M28063;X
+140043;Foreign Minister;스타시스 로조라이티스 ;1945;1964;1999;SC;Apologetic Clerk;Medium;M28003;X
+140044;Foreign Minister;유스타스 팔레츠키스 ;1938;1964;1999;ST;Ideological Crusader;Medium;M28021;X
+140045;Foreign Minister;빈차스 크레베 ;1940;1964;1999;ST;Biased Intellectual;Medium;M28053;X
+140046;Foreign Minister;카롤리스 디드질루스 ;1941;1964;1999;ST;The Cloak N Dagger Schemer;Medium;M28067;X
+140047;Foreign Minister;메치슬로바스 겔드빌라스 ;1945;1964;1999;ST;Apologetic Clerk;Medium;M28024;X
+140048;Minister of Armament;아우구스티나스 볼데마라스 ;1938;1964;1999;NS;Resource Industrialist;Medium;M28031;X
+140049;Minister of Armament;비센타스 라토자이테 ;1940;1964;1999;NS;Strategic Air Proponent;Medium;M28070;X
+140050;Minister of Armament;페트라스 플레아비치우스 ;1941;1964;1999;NS;Military Entrepreneur;Medium;M28071;X
+140051;Minister of Armament;블라다스 유르구티스 ;1938;1964;1999;FA;Resource Industrialist;Medium;M28072;X
+140052;Minister of Armament;안타나스 스메토나 ;1939;1964;1999;FA;Air to Ground Proponent;Medium;M28001;X
+140053;Minister of Armament;요나스 체르니우스 ;1940;1964;1999;PA;Battle Fleet Proponent;Medium;M28014;X
+140054;Minister of Armament;아라스 아브루티스 ;1945;1964;1999;PA;Administrative Genius;Medium;M28075;X
+140055;Minister of Armament;유오자스 푸리츠키스 ;1938;1964;1999;SC;Administrative Genius;Medium;M28076;X
+140056;Minister of Armament;레오나스 비스트라스 ;1941;1964;1999;SC;laissez-faire capitalist;Medium;M28077;X
+140057;Minister of Armament;긴타레 클룸비테 ;1945;1964;1999;SC;Corrupt Kleptocrat;Medium;M28078;X
+140058;Minister of Armament;비타우타스 마르티나이티스 ;1938;1964;1999;ST;Submarine Proponent;Medium;M28079;X
+140059;Minister of Armament;메치슬로바스 겔드빌라스 ;1940;1964;1999;ST;Theoretical Scientist;Medium;M28024;X
+140060;Minister of Armament;이치카스 메스쿠파스 ;1941;1964;1999;ST;Corrupt Kleptocrat;Medium;M28081;X
+140061;Minister of Armament;안토나스 산르키에네 ;1945;1964;1999;ST;Air to Sea Proponent;Medium;M28082;X
+140062;Minister of Security;카지스 스키르파 ;1938;1964;1999;NS;Prince of Terror;Medium;M28032;X
+140063;Minister of Security;빌헬름 쿠베 ;1941;1964;1999;NS;Man of the People;Medium;M28084;X
+140064;Minister of Security;미콜라스 슬레제비치우스 ;1938;1964;1999;FA;Prince of Terror;Medium;M28085;X
+140065;Minister of Security;블라다스 미로나스 ;1939;1964;1999;FA;Efficient Sociopath;High;M28044;X
+140066;Minister of Security;발데마라스 비타우타스 ;1939;1964;1999;FA;Crime Fighter;Medium;M28004;X
+140067;Minister of Security;유르기스 빈텔레슈이트 ;1940;1964;1999;PA;Crooked Kleptocrat;Medium;M28088;X
+140068;Minister of Security;요나스 엔드라시우스 ;1941;1964;1999;PA;Back Stabber;Medium;M28089;X
+140069;Minister of Security;미치슬로바스 레이니스 ;1945;1964;1999;PA;Efficient Sociopath;Medium;M28090;X
+140070;Minister of Security;프라나스 도비다이티스 ;1938;1964;1999;SC;Silent Lawyer;Medium;M28091;X
+140071;Minister of Security;리나스 브로도브스키스 ;1940;1964;1999;SC;Efficient Sociopath;Medium;M28015;X
+140072;Minister of Security;미콜라스 필리파비치우스 ;1945;1964;1999;SC;Compassionate Gentleman;Medium;M28093;X
+140073;Minister of Security;도마스 로치우스 ;1938;1964;1999;ST;Efficient Sociopath;Medium;M28094;X
+140074;Minister of Security;포빌라스 파카르클리스 ;1940;1964;1999;ST;Silent Lawyer;Medium;M28025;X
+140075;Minister of Security;안타나스 스니에츠쿠스 ;1941;1964;1999;ST;Crime Fighter;Medium;M28041;X
+140076;Minister of Security;유오자스 쿠프친카스 ;1945;1964;1999;ST;Compassionate Gentleman;Medium;M28097;X
+140077;Minister of Security;유르기스 텔레츠카스 ;1946;1964;1999;ST;Prince of Terror;Medium;M28098;X
+140078;Head of Military Intelligence;프란치스키스 미시우나스 ;1938;1964;1999;NS;Logistics Specialist;Medium;M28042;X
+140079;Head of Military Intelligence;테오도르 폰 렌텔른 ;1941;1964;1999;NS;Dismal Enigma;High;M28033;X
+140080;Head of Military Intelligence;유오자스 투벨리스 ;1938;1964;1999;FA;Logistics Specialist;Medium;M28002;X
+140081;Head of Military Intelligence;유오자스 발타키스 ;1939;1964;1999;FA;Political Specialist;Medium;M28102;X
+140082;Head of Military Intelligence;프란치스쿠스 이빈스키스 ;1939;1964;1999;PA;Logistics Specialist;High;M28103;X
+140083;Head of Military Intelligence;카시미라스 질렌스키엔;1941;1964;1999;PA;Industrial Specialist;High;M28048;X
+140084;Head of Military Intelligence;유오자스 알사우스카스 ;1945;1964;1999;PA;Naval Intelligence Specialist;High;M28105;X
+140085;Head of Military Intelligence;유표자스 마시우스나스 ;1938;1964;1999;SC;Political Specialist;Medium;M28011;X
+140086;Head of Military Intelligence;유르기스 사울리스 ;1941;1964;1999;SC;Technical Specialist;Medium;M28107;X
+140087;Head of Military Intelligence;아타나스 체포니스 ;1945;1964;1999;SC;Dismal Enigma;Medium;M28108;X
+140088;Head of Military Intelligence;비첸타스 레스키엔 ;1938;1964;1999;ST;Industrial Specialist;Medium;M28109;X
+140089;Head of Military Intelligence;비타우타스 암브라자스 ;1940;1964;1999;ST;Political Specialist;Medium;M28110;X
+140090;Head of Military Intelligence;하이마스 아이제나스 ;1941;1964;1999;ST;Dismal Enigma;Medium;M28111;X
+140091;Head of Military Intelligence;프라나스 지베르타스 ;1945;1964;1999;ST;Technical Specialist;Medium;M28026;X
+140092;Chief of Staff;페트라스 쿠빌뉴나스 ;1938;1964;1999;NS;School of Mass Combat;Medium;M28043;X
+140093;Chief of Staff;요나스 체르니우스 ;1933;1964;1999;FA;School of Manoeuvre;High;M28014;X
+140094;Chief of Staff;스타시스 라스티키스 ;1938;1964;1999;FA;School of Fire Support;Medium;M28008;X
+140095;Chief of Staff;요나스 제마이티스 ;1945;1964;1999;PA;School of Psychology;High;M28036;X
+140096;Chief of Staff;유오자 바르즈다 ;1938;1964;1999;SC;School of Psychology;Medium;M28017;X
+140097;Chief of Staff;아줄로라스 야쿠스 ;1945;1964;1999;SC;School of Mass Combat;Medium;M28119;X
+140098;Chief of Staff;안타나스 스니에츠쿠스 ;1938;1964;1999;ST;School of Fire Support;Medium;M28027;X
+140099;Chief of Staff;알렉산드라스 구제비치우스 ;1941;1964;1999;ST;School of Defence;Medium;M28030;X
+140100;Chief of Army;알비나스 체파스 ;1938;1964;1999;NS;Armoured Spearhead Doctrine;Medium;M28122;X
+140101;Chief of Army;페트라스 플레아비치우스 ;1941;1964;1999;NS;Elastic Defence Doctrine;Medium;M28071;X
+140102;Chief of Army;요나스 갈비디스 ;1938;1964;1999;FA;Static Defence Doctrine;Medium;M28007;X
+140103;Chief of Army;게드리비우스 팔리오니스 ;1945;1964;1999;PA;Decisive Battle Doctrine;Medium;M28126;X
+140104;Chief of Army;카지스 무스테이키스 ;1938;1964;1999;SC;Guns and Butter Doctrine;Medium;M28125;X
+140105;Chief of Army;아나톨리유스 카이리스 ;1940;1964;1999;SC;Static Defence Doctrine;High;M28019;X
+140106;Chief of Army;아돌파스 라마나수카스 ;1945;1964;1999;SC;Elastic Defence Doctrine;Medium;M28018;X
+140107;Chief of Army;안타나스 스니에츠쿠스 ;1938;1964;1999;ST;Armoured Spearhead Doctrine;Medium;M28027;X
+140108;Chief of Army;유르기스 텔레츠카스 ;1941;1964;1999;ST;Guns and Butter Doctrine;Medium;M28098;X
+140109;Chief of Navy;아주올라스 쿠사트 ;1938;1964;1999;NS;Power Projection Doctrine;Medium;M28056;X
+140110;Chief of Navy;유르기스 사울리스 ;1938;1964;1999;SC;Indirect Approach Doctrine;Medium;M28107;X
+140111;Chief of Navy;아나톨리유스 카이리스 ;1941;1964;1999;SC;Base Control Doctrine;Medium;M28019;X
+140112;Chief of Navy;블라다스 카르벨리스 ;1938;1964;1999;ST;Indirect Approach Doctrine;Medium;M28029;X
+140113;Chief of Navy;메치슬로바스 겔드빌라스 ;1941;1964;1999;ST;Base Control Doctrine;Medium;M28024;X
+140114;Chief of Air Force;카지스 스키르파 ;1938;1964;1999;NS;Army Aviation Doctrine;Medium;M28032;X
+140115;Chief of Air Force;유오자스 암브라제비치우스 ;1938;1964;1999;SC;Carpet Bombing Doctrine;Medium;M28020;X
+140116;Chief of Air Force;미콜라스 필리파비치우스 ;1945;1964;1999;SC;Air Superiority Doctrine;Medium;M28093;X
+140117;Chief of Air Force;알렉산드라스 구제비치우스 ;1938;1964;1999;ST;Vertical Envelopment Doctrine;Medium;M28030;X
+140118;Chief of Air Force;유오자스 바우카르스카스 ;1945;1964;1999;ST;Army Aviation Doctrine;Medium;M28145;X
+140119;Head of State;민다우가스 2세 ;1914;1933;1999;PA;Popular Figurehead;Medium;2824;X
+140120;Head of State;카지스 그리니우스 ;1920;1964;1999;LE;benevolent gentleman;High;6950;X
+140121;Head of Government;알렉산드라스 스툴긴스키스 ;1920;1964;1999;LE;naive optimist;High;6951;X
+140122;Head of Government;안타나스 스메토나 ;1914;1945;1960;PA;flamboyant tough guy;Medium;M28001;X
+140123;Foreign Minister;아우구스티나스 볼데마라스 ;1914;1943;1969;PA;ideological crusader;Medium;M28031;X
+140124;Foreign Minister;유르기스 사울리스 ;1914;1949;1949;PA;biased intellectual;Medium;M28107;X
+140125;Foreign Minister;유오자스 푸리츠키스 ;1914;1935;1935;PA;great compromiser;Medium;M28076;X
+140126;Minister of Armament;Martynas Ycas;1914;1942;1942;PA;resource industrialist;Medium;9244;X
+140127;Minister of Armament;요나스 발리오카이티스 ;1914;1945;1945;PA;Construction magnate;Medium;M28063;X
+140128;Minister of Security;알렉산드라스 스툴긴스키스 ;1914;1970;1970;PA;crime fighter;Medium;6951;X
+140129;Minister of Security;Eliziejus Draugelis;1914;1982;1982;PA;Health and safety;Medium;9245;X
+140130;Minister of Security;Saliamonas Banaitis;1914;1934;1934;PA;Media magnate;Medium;9246;X
+140131;Head of Military Intelligence;안타나스 메르키스 ;1914;1956;1963;PA;logistics specialist;Medium;M28035;X
+140132;Chief of Staff;Silvestras Zukauskas;1914;1938;1938;PA;school of defence;Medium;896;X
+140133;Chief of Staff;Mykolas Velykis;1914;1956;1956;PA;school of fire support;Medium;898;X
+140134;Chief of Army;Jonas Variakojis;1914;1964;1964;PA;decisive battle doctrine;Medium;9247;X
+140135;Chief of Army;Stasys Nastopka;1914;1932;1940;PA;static defence doctrine;Medium;9248;X
+140136;Chief of Army;Kazys Ladiga;1914;1922;1969;PA;static defence doctrine;Medium;9249;X
+140137;Chief of Army;Maksimas Katche;1914;1932;1934;PA;decisive battle doctrine;Medium;9250;X

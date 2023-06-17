@@ -1,0 +1,205 @@
+U03;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+830001;Head of State;알베르 르브룅 ;1914;1940;1999;SL;Barking Buffoon;Medium;3871;X
+830002;Head of Government;알베르 사로 ;1914;1940;1999;SL;Happy Amateur;Medium;5900;X
+830003;Foreign Minister;루이 마르티 ;1914;1933;1999;SL;the cloak n dagger schemer;Medium;7887;X
+830004;Minister of Armament;알베르 사로 ;1914;1940;1999;SL;Balanced budget economy;Medium;5900;X
+830005;Minister of Security;알베르 사로 ;1914;1940;1999;SL;Man of the People;Medium;5900;X
+830006;Head of Military Intelligence;루이 마르티 ;1914;1940;1999;SL;Political Specialist;Medium;7887;X
+830007;Chief of Staff;레옹 귀스타브 롬바르 ;1914;1932;1999;SL;School of Defence;Medium;unknownminister;X
+830008;Chief of Army;레옹 귀스타브 롬바르 ;1914;1932;1999;SL;Guns and Butter Doctrine;Medium;unknownminister;X
+830009;Chief of Navy;알베르 마리 위제 ;1914;1918;1999;SL;Open Seas Doctrine;Medium;unknownminister;X
+830010;Chief of Air Force;에르네스트 로우므 ;1914;1941;1999;SL;Army Aviation Doctrine;Medium;7888;X
+830011;Head of State;모리스 마우노리 ;1914;1925;1999;SL;Benevolent Gentleman;Medium;7889;X
+830012;Head of State;모리스 레노 ;1914;1927;1999;SL;Benevolent Gentleman;Medium;7890;X
+830013;Head of State;가스통 두메르게 ;1914;1937;1999;SL;Benevolent Gentleman;Medium;7891;X
+830014;Head of State;앙드레 마지노 ;1917;1932;1999;SL;Resigned Generalissimo;Medium;7892;X
+830015;Head of State;르네 베스나르 ;1917;1940;1999;SL;Insignificant Layman;Medium;7893;X
+830016;Head of State;앙리 시몬 ;1917;1920;1999;SL;Benevolent Gentleman;Medium;unknownminister;X
+830017;Head of State;알베르 사로 ;1920;1940;1999;SL;Resigned Generalissimo;Medium;5900;X
+830018;Head of State;장 파브리 ;1924;1940;1999;SL;Resigned Generalissimo;Medium;7894;X
+830019;Head of State;에두아르 달라디에 ;1924;1958;1999;SD;Popular Figurehead;Medium;M2037;X
+830020;Head of State;오를리 앙드레 에세 ;1925;1928;1999;SL;Insignificant Layman;Medium;unknownminister;X
+830021;Head of State;레옹 페리에 ;1925;1940;1999;SL;Benevolent Gentleman;Medium;7895;X
+830022;Head of State;아드리앙 다리아크 ;1925;1940;1999;SD;Insignificant Layman;Medium;7896;X
+830023;Head of State;프랑수아 피에트리 ;1929;1940;1999;SL;Stern Imperialist;Medium;7897;X
+830024;Head of State;루시앙 라무레 ;1930;1940;1999;SL;Benevolent Gentleman;Medium;7898;X
+830025;Head of State;테오도르 스테그 ;1930;1940;1999;SD;Popular Figurehead;Medium;7899;X
+830026;Head of State;폴 레노 ;1931;1940;1999;SL;Benevolent Gentleman;Medium;M2038;X
+830027;Head of State;루이 샤프델렌 ;1932;1940;1999;SL;Insignificant Layman;Medium;7900;X
+830028;Head of State;알베르 달리미에 ;1933;1940;1999;SD;Insignificant Layman;Medium;7901;X
+830029;Head of State;앙리 드 주브넬 ;1934;1940;1999;SD;Insignificant Layman;Medium;M57017;X
+830030;Head of State;피에르 라발 ;1934;1945;1999;SC;Powerhungry Demagogue;Medium;M2040;X
+830031;Head of State;루이 롤랭 ;1934;1952;1999;SL;Benevolent Gentleman;Medium;7902;X
+830032;Head of State;자크 스테른 ;1933;1949;1999;SL;Insignificant Layman;Medium;7903;X
+830033;Head of State;모리스 모테 ;1933;1968;1999;SD;Benevolent Gentleman;Medium;7904;X
+830034;Head of State;조르주 망델 ;1938;1944;1999;SL;Benevolent Gentleman;Medium;7905;X
+830035;Head of State;알베르 리비에르 ;1940;1953;1999;SD;Insignificant Layman;Medium;7906;X
+830036;Head of State;앙리 르므리 ;1940;1964;1999;PA;Stern Imperialist;Medium;7907;X
+830037;Head of State;샤를 플라통 ;1940;1942;1999;PA;Resigned Generalissimo;Medium;7908;X
+830038;Head of State;쥘 브르비 ;1942;1964;1999;PA;Resigned Generalissimo;Medium;M542010;X
+830039;Head of State;앙리 블레오 ;1943;1962;1999;PA;Resigned Generalissimo;Medium;7909;X
+830040;Head of State;폴 코스트 플로레 ;1947;1964;1999;SD;Benevolent Gentleman;Medium;7910;X
+830041;Head of State;장 르투르노 ;1949;1964;1999;SL;Insignificant Layman;Medium;unknownminister;X
+830042;Head of Government;주스트 반 보옌오벤 ;1914;1918;1999;SL;Old General;Medium;6894;X
+830043;Head of Government;에르네스트 로우므 ;1915;1941;1999;SL;Silent Workhorse;Medium;7888;X
+830044;Head of Government;장 외젠 샤를 ;1916;1917;1999;SL;Happy Amateur;Medium;unknownminister;X
+830045;Head of Government;모리스 몽기요 ;1919;1928;1999;SL;Happy Amateur;Medium;unknownminister;X
+830046;Head of Government;모리스 롱 ;1920;1923;1999;SD;Corporate Suit;Medium;7911;X
+830047;Head of Government;프랑수아 모리스 보두앵 ;1922;1923;1999;SL;Happy Amateur;Medium;unknownminister;X
+830048;Head of Government;마르샬 앙리 메를랭 ;1922;1925;1999;SL;Political Protege;Medium;unknownminister;X
+830049;Head of Government;알레산드르 클로드 바레느 ;1925;1933;1999;SL;Naive Optimist;Medium;7912;X
+830050;Head of Government;피에르 앙투안 파스키에 ;1928;1934;1999;SL;Old Admiral;Medium;M542009;X
+830051;Head of Government;외젠 르네 로뱅 ;1934;1964;1999;SL;Flamboyant Tough Guy;High;M542002;X
+830052;Head of Government;쥘 브르비 ;1933;1964;1999;SC;old airmarshal;High;M542010;X
+830053;Head of Government;조르주 카트로 ;1939;1964;1999;SL;Old General;High;L24029;X
+830054;Head of Government;장 드쿠 ;1940;1964;1999;PA;Naive Optimist;High;M542006;X
+830055;Head of Government;아드리앙 A.M. 로크 ;1940;1964;1999;SL;Old General;High;M540007;X
+830056;Head of Government;루이 A.M. 브레시 ;1941;1964;1999;SL;Ambitious Union Boss;High;M540006;X
+830057;Head of Government;조르주 티에리 다르젠리외 ;1945;1964;1999;SL;Old Admiral;High;L24173;X
+830058;Head of Government;에밀 보예르 ;1947;1964;1999;SL;Corporate Suit;High;M542017;X
+830059;Head of Government;레옹 피뇽 ;1948;1964;1999;SL;Naive Optimist;Medium;7913;X
+830060;Head of Government;장 마리 라트르 드 타시니 ;1950;1952;1999;SL;Old General;Medium;5903;X
+830061;Foreign Minister;알레산드르 클로드 바레느 ;1925;1933;1999;SL;Apologetic Clerk;Medium;7912;X
+830062;Foreign Minister;아실 클라라크 ;1933;1964;1999;SL;Ideological Crusader;Medium;7914;X
+830063;Foreign Minister;피에르 브로소레트 ;1933;1944;1999;SD;Iron Fisted Brute;High;M540023;X
+830064;Foreign Minister;레오넬 드 무스티에 ;1933;1964;1999;SC;Apologetic Clerk;High;M541024;X
+830065;Foreign Minister;루이 조프르 ;1938;1964;1999;SL;Great Compromiser;High;M542020;X
+830066;Foreign Minister;조르주 카트로 ;1939;1964;1999;SL;General Staffer;Medium;L24029;X
+830067;Foreign Minister;레온스 조르 ;1940;1964;1999;SL;General Staffer;High;M542021;X
+830068;Foreign Minister;장 상트니 ;1945;1964;1999;SL;Great Compromiser;Medium;7915;X
+830069;Foreign Minister;레옹 피뇽 ;1946;1964;1999;SL;Apologetic Clerk;Medium;7913;X
+830070;Foreign Minister;지노비 페시코프 ;1946;1964;1999;SL;General Staffer;Medium;7916;X
+830071;Foreign Minister;에밀 보예르 ;1947;1964;1999;SL;the cloak n dagger schemer;Medium;M542017;X
+830072;Foreign Minister;장 마리 라트르 드 타시니 ;1950;1952;1999;SL;General Staffer;Medium;5903;X
+830073;Minister of Armament;레옹 귀스타브 롬바르 ;1914;1932;1999;SL;Military Entrepreneur;Medium;unknownminister;X
+830074;Minister of Armament;주스트 반 보옌오벤 ;1914;1918;1999;SL;Administrative Genius;Medium;6894;X
+830075;Minister of Armament;에르네스트 로우므 ;1915;1941;1999;SL;Resource Industrialist;Medium;7888;X
+830076;Minister of Armament;알레산드르 클로드 바레느 ;1925;1933;1999;SL;Theoretical Scientist;Medium;7912;X
+830077;Minister of Armament;에드가르 드 라미나 ;1928;1940;1999;SL;Military Entrepreneur;Medium;7873;X
+830078;Minister of Armament;폴 보두앵 ;1930;1945;1999;SC;laissez-faire capitalist;Medium;7917;X
+830079;Minister of Armament;루이 칸 ;1935;1964;1999;SL;Battle Fleet Proponent;Medium;L24163;X
+830080;Minister of Armament;아메데 두아용 ;1933;1964;1999;SC;Air Superiority Proponent;Medium;M541030;X
+830081;Minister of Armament;자크 무셀 블레소 ;1933;1964;1999;SL;Resource Industrialist;Medium;M540004;X
+830082;Minister of Armament;쥘 미라키올르 ;1933;1964;1999;ST;Infantry Proponent;Medium;M540026;X
+830083;Minister of Armament;페르낭 고셰르 ;1938;1945;1999;SL;Military Entrepreneur;Medium;unknownminister;X
+830084;Minister of Armament;레옹 마르티노 드플라 ;1942;1964;1999;SL;Tank Proponent;Medium;M540024;X
+830085;Minister of Armament;피에르 프네 ;1942;1964;1999;SL;Military Entrepreneur;Medium;M541028;X
+830086;Minister of Armament;피에르 르포쇼 ;1943;1964;1999;SL;Administrative Genius;Medium;M542026;X
+830087;Minister of Armament;마르셀 알레산드리 ;1945;1955;1999;SL;Military Entrepreneur;Medium;9292;X
+830088;Minister of Armament;르클레르 드 오트클로크 ;1945;1947;1999;SL;Military Entrepreneur;Medium;L24116;X
+830089;Minister of Armament;미셸 볼로 ;1946;1964;1999;SL;Infantry Proponent;Medium;unknownminister;X
+830090;Minister of Security;레온 소니 ;1914;1945;1999;SL;Prince of Terror;Medium;7918;X
+830091;Minister of Security;모리스 조제프 라 갈랭 ;1914;1945;1999;SL;Compassionate Gentleman;Medium;unknownminister;X
+830092;Minister of Security;폴 블란샤르 드 라 브로스 ;1914;1944;1999;SL;Prince of Terror;Medium;unknownminister;X
+830093;Minister of Security;쥘 모리스 구르베이 ;1914;1916;1999;SL;Prince of Terror;Medium;unknownminister;X
+830094;Minister of Security;쥘 보스크 ;1914;1933;1999;SL;Prince of Terror;Medium;unknownminister;X
+830095;Minister of Security;루이 마르티 ;1915;1940;1999;SL;Back Stabber;Medium;7887;X
+830096;Minister of Security;모리스 롱 ;1920;1923;1999;SD;Silent Lawyer;Medium;7911;X
+830097;Minister of Security;모리스 코냐크 ;1921;1945;1999;SL;Prince of Terror;Medium;unknownminister;X
+830098;Minister of Security;피에르 앙투안 파스키에 ;1921;1934;1999;SL;Efficient Sociopath;Medium;M542009;X
+830099;Minister of Security;알레산드르 클로드 바레느 ;1925;1933;1999;SD;Man of the People;Medium;7912;X
+830100;Minister of Security;레옹 E. 티보도 ;1933;1964;1999;SL;Man of the People;High;M541002;X
+830101;Minister of Security;폴 졸리 ;1933;1964;1999;SC;Back Stabber;Medium;M541036;X
+830102;Minister of Security;외젠 H.R. 외트로프 ;1933;1964;1999;SL;Efficient Sociopath;High;M540002;X
+830103;Minister of Security;자크 르노뱅 ;1933;1964;1999;SL;Compassionate Gentleman;Medium;M540005;X
+830104;Minister of Security;프랑수아 헤켄로트 ;1938;1964;1999;SL;Man of the People;Medium;unknownminister;X
+830105;Minister of Security;르네 라콤브 ;1940;1964;1999;SL;Man of the People;Medium;M541034;X
+830106;Minister of Security;장 데르 ;1940;1945;1999;SL;Man of the People;Medium;7919;X
+830107;Minister of Security;자크 르콩트 브와네 ;1942;1964;1999;SL;Back Stabber;Medium;M540027;X
+830108;Minister of Security;피에르 루이 드레퓌스 ;1942;1964;1999;SL;Compassionate Gentleman;Medium;M542031;X
+830109;Minister of Security;프랑수아 포레 ;1943;1964;1999;PA;Compassionate Gentleman;Medium;M541038;X
+830110;Minister of Security;조르주 A.L. 고티에 ;1943;1964;1999;SL;Efficient Sociopath;High;M541007;X
+830111;Minister of Security;장 드 레몽 ;1945;1951;1999;SL;Prince of Terror;Medium;7920;X
+830112;Minister of Security;레옹 피뇽 ;1945;1964;1999;SL;Back Stabber;Medium;7913;X
+830113;Minister of Security;레몽 드랑게 ;1945;1964;1999;SL;Efficient Sociopath;Medium;7921;X
+830114;Minister of Security;장 사시 ;1945;1964;1999;SL;Efficient Sociopath;Medium;7922;X
+830115;Minister of Security;피에르 므스메르 ;1946;1964;1999;SL;Compassionate Gentleman;Medium;7923;X
+830116;Minister of Security;에밀 보예르 ;1947;1964;1999;SL;Prince of Terror;Medium;M542017;X
+830117;Minister of Security;앙드레 로베르 ;1947;1964;1999;SL;Man of the People;Medium;unknownminister;X
+830118;Minister of Security;로렌스 라비 ;1951;1964;1999;SL;Compassionate Gentleman;Medium;unknownminister;X
+830119;Minister of Security;마르셀 사마르셀리 ;1952;1964;1999;SL;Silent Lawyer;Medium;7924;X
+830120;Head of Military Intelligence;레온 소니 ;1914;1945;1999;SL;Political Specialist;Medium;7918;X
+830121;Head of Military Intelligence;루이 A.M. 브레시 ;1933;1964;1999;SL;Dismal Enigma;Medium;M540006;X
+830122;Head of Military Intelligence;장 드쿠 ;1933;1964;1999;PA;Logistics Specialist;Medium;M542006;X
+830123;Head of Military Intelligence;장 데르 ;1940;1945;1999;SL;Logistics Specialist;Medium;7919;X
+830124;Head of Military Intelligence;에밀 보예르 ;1941;1964;1999;SL;Political Specialist;Medium;M542017;X
+830125;Head of Military Intelligence;루이 메레 ;1942;1964;1999;SL;Logistics Specialist;Medium;M540030;X
+830126;Head of Military Intelligence;로제르 블레조 ;1943;1964;1999;SL;Logistics Specialist;Medium;7883;X
+830127;Head of Military Intelligence;피에르 레르 ;1943;1964;1999;SL;Naval Intelligence Specialist;Medium;M542037;X
+830128;Head of Military Intelligence;앙드레 드와브랭 파시 ;1944;1964;1999;SL;Technical Specialist;Medium;7925;X
+830129;Head of Military Intelligence;장 상트니 ;1945;1964;1999;SL;Industrial Specialist;Medium;7915;X
+830130;Head of Military Intelligence;장 사시 ;1945;1964;1999;SD;Dismal Enigma;Medium;7922;X
+830131;Head of Military Intelligence;아드리앵 고이베 ;1951;1964;1999;SL;Naval Intelligence Specialist;Medium;7926;X
+830132;Chief of Staff;주스트 반 보옌오벤 ;1914;1918;1999;SL;School of Psychology;Medium;6894;X
+830133;Chief of Staff;조르주 카트로 ;1914;1964;1999;SL;School of Manoeuvre;Medium;L24029;X
+830134;Chief of Staff;폴 르 정띠옴므 ;1919;1937;1999;SL;School of Fire Support;Medium;L24108;X
+830135;Chief of Staff;가스통 비요트 ;1930;1940;1999;SL;School of Defence;Medium;7882;X
+830136;Chief of Staff;베르나르 베르디에 ;1932;1945;1999;SL;School of Defence;Medium;unknownminister;X
+830137;Chief of Staff;조르주 A.L. 고티에 ;1933;1964;1999;SL;School of Defence;Medium;M541007;X
+830138;Chief of Staff;아드리앙 A.M. 로크 ;1933;1964;1999;SL;School of Defence;Medium;M540007;X
+830139;Chief of Staff;쥘 앙투안 뷔레 ;1935;1941;1999;SL;School of Defence;Medium;9842;X
+830140;Chief of Staff;모리스 마르탱 ;1938;1964;1999;SL;School of Defence;Medium;unknownminister;X
+830141;Chief of Staff;마르셀 알레산드리 ;1939;1955;1999;SL;School of Defence;Medium;9292;X
+830142;Chief of Staff;레온스 조르 ;1940;1964;1999;SL;School of Fire Support;Medium;M542021;X
+830143;Chief of Staff;외젠 모르당 ;1940;1945;1999;SL;School of Manoeuvre;Medium;9293;X
+830144;Chief of Staff;로제르 시노 ;1942;1964;1999;SL;School of Mass Combat;Medium;M540033;X
+830145;Chief of Staff;카미유 사바티에 ;1942;1955;1999;SL;School of Psychology;Medium;9294;X
+830146;Chief of Staff;마르셀 카르펜티에 ;1943;1964;1999;SL;School of Defence;Medium;7875;X
+830147;Chief of Staff;로제르 블레조 ;1943;1964;1999;SL;School of Manoeuvre;Medium;7883;X
+830148;Chief of Staff;아돌프 베지네 ;1945;1967;1999;SL;School of Manoeuvre;Medium;L540026;X
+830149;Chief of Staff;피에르 레르 ;1945;1964;1999;SL;School of Fire Support;Medium;M542037;X
+830150;Chief of Staff;레몽 아페르 ;1945;1964;1999;SL;Stubborn Disciplinarian;Medium;7872;X
+830151;Chief of Staff;피에르 므스메르 ;1946;1964;1999;SL;School of Fire Support;Medium;7923;X
+830152;Chief of Staff;장 마리 라트르 드 타시니 ;1950;1952;1999;SL;School of Mass Combat;Medium;5903;X
+830153;Chief of Staff;폴 엘리 ;1954;1964;1999;SL;School of Fire Support;Medium;L24069;X
+830154;Chief of Army;주스트 반 보옌오벤 ;1914;1918;1999;SL;Guns and Butter Doctrine;Medium;6894;X
+830155;Chief of Army;폴 르 정띠옴므 ;1919;1937;1999;SL;Guns and Butter Doctrine;Medium;L24108;X
+830156;Chief of Army;가스통 비요트 ;1930;1940;1999;SL;Guns and Butter Doctrine;Medium;7882;X
+830157;Chief of Army;베르나르 베르디에 ;1932;1945;1999;SL;Guns and Butter Doctrine;Medium;unknownminister;X
+830158;Chief of Army;쥘 앙투안 뷔레 ;1935;1941;1999;SL;Guns and Butter Doctrine;Medium;9842;X
+830159;Chief of Army;모리스 드 루사크 ;1933;1964;1999;SL;Static Defence Doctrine;Medium;M541008;X
+830160;Chief of Army;기 드 보아르느 ;1933;1964;1999;SL;Static Defence Doctrine;Medium;M542008;X
+830161;Chief of Army;모리스 마르탱 ;1938;1964;1999;SL;Static Defence Doctrine;Medium;unknownminister;X
+830162;Chief of Army;마르셀 알레산드리 ;1939;1955;1999;SL;Static Defence Doctrine;Medium;9292;X
+830163;Chief of Army;외젠 모르당 ;1940;1945;1999;SL;Elastic Defence Doctrine;Medium;9293;X
+830164;Chief of Army;장 드쿠 ;1941;1964;1999;PA;Decisive Battle Doctrine;Medium;M542006;X
+830165;Chief of Army;에밀 라폰 ;1941;1964;1999;SL;Elastic Defence Doctrine;Medium;M541048;X
+830166;Chief of Army;카미유 사바티에 ;1942;1955;1999;SL;Guns and Butter Doctrine;Medium;9294;X
+830167;Chief of Army;앙리 아들린느 ;1943;1964;1999;SL;Elastic Defence Doctrine;Medium;M540036;X
+830168;Chief of Army;로제르 블레조 ;1943;1964;1999;SL;Elastic Defence Doctrine;Medium;7883;X
+830169;Chief of Army;마르셀 카르펜티에 ;1949;1964;1999;SL;Guns and Butter Doctrine;Medium;7875;X
+830170;Chief of Army;장 마리 라트르 드 타시니 ;1950;1952;1999;SL;Armoured Spearhead Doctrine;Medium;5903;X
+830171;Chief of Army;루이 디오 ;1951;1969;1999;SL;Armoured Spearhead Doctrine;Medium;7868;X
+830172;Chief of Army;폴 엘리 ;1954;1964;1999;SL;Elastic Defence Doctrine;Medium;L24069;X
+830173;Chief of Navy;알베르 사로 ;1914;1940;1999;SL;Base Control Doctrine;Medium;5900;X
+830174;Chief of Navy;조제프 엠마뉘엘 프로쇼 ;1923;1929;1999;SL;Power Projection Doctrine;Medium;7939;X
+830175;Chief of Navy;피에르 앙투안 파스키에 ;1928;1934;1999;SL;Decisive Naval Battle Doctrine;Medium;M542009;X
+830176;Chief of Navy;앙리 블레오 ;1932;1962;1999;SL;Indirect Approach Doctrine;Medium;7909;X
+830177;Chief of Navy;레옹 E. 티보도 ;1933;1940;1999;SL;Indirect Approach Doctrine;Medium;M541002;X
+830178;Chief of Navy;루이 칸 ;1935;1940;1999;SL;Base Control Doctrine;Medium;L24163;X
+830179;Chief of Navy;앙드레 파투 ;1933;1970;1999;SC;Decisive Naval Battle Doctrine;Medium;M541053;X
+830180;Chief of Navy;장 드쿠 ;1939;1964;1999;PA;Decisive Naval Battle Doctrine;Medium;M542006;X
+830181;Chief of Navy;프랑수아 조베르 ;1940;1946;1999;SL;Base Control Doctrine;Medium;7869;X
+830182;Chief of Navy;피에르 레르 ;1942;1964;1999;SL;Base Control Doctrine;Medium;M542037;X
+830183;Chief of Navy;모리스 베이루 ;1943;1964;1999;SL;Base Control Doctrine;Medium;M540039;X
+830184;Chief of Navy;자크 트로이 드 프레보 ;1943;1964;1999;SL;Open Seas Doctrine;Medium;M541052;X
+830185;Chief of Navy;조르주 티에리 다르젠리외 ;1944;1964;1999;SL;Open Seas Doctrine;Medium;L24173;X
+830186;Chief of Navy;필리프 오보아노 ;1945;1964;1999;SL;Open Seas Doctrine;Medium;L24147;X
+830187;Chief of Navy;에밀 보예르 ;1947;1964;1999;SL;Base Control Doctrine;Medium;M542017;X
+830188;Chief of Navy;폴 오르톨리 ;1949;1964;1999;SL;Base Control Doctrine;Medium;L24228;X
+830189;Chief of Navy;장 마리 케르빌 ;1954;1964;1999;SL;Indirect Approach Doctrine;Medium;7865;X
+830190;Chief of Navy;조르주 카바니에 ;1954;1964;1999;SL;Open Seas Doctrine;Medium;L24227;X
+830191;Chief of Air Force;쥘 브르비 ;1933;1964;1999;SC;Army Aviation Doctrine;Medium;M542010;X
+830192;Chief of Air Force;조르주 A.L. 고티에 ;1933;1964;1999;SL;Vertical Envelopment Doctrine;Medium;M541007;X
+830193;Chief of Air Force;자크 수플레 ;1933;1964;1999;SC;Naval Aviation Doctrine;Medium;M541057;X
+830194;Chief of Air Force;프레드리크 르 랑그 ;1933;1964;1999;PA;Vertical Envelopment Doctrine;Medium;M542054;X
+830195;Chief of Air Force;피에르 포야드 ;1940;1964;1999;SL;Air Superiority Doctrine;Medium;7870;X
+830196;Chief of Air Force;피에르 드 메스몽 ;1942;1964;1999;SL;Carpet Bombing Doctrine;Medium;M540042;X
+830197;Chief of Air Force;미셀 부디에 ;1942;1964;1999;SL;Naval Aviation Doctrine;Medium;M542053;X
+830198;Chief of Air Force;조제프 트리고 ;1942;1964;1999;SL;Army Aviation Doctrine;Medium;M541056;X
+830199;Chief of Air Force;페르나르 퓌시 ;1946;1964;1999;SL;Air Superiority Doctrine;Medium;7928;X
+830200;Chief of Air Force;자크 파리 드 보야디에르 ;1950;1964;1999;SL;Carpet Bombing Doctrine;Medium;7927;X
+830201;Chief of Air Force;올리비에 마사르 ;1953;1964;1999;SL;Army Aviation Doctrine;Medium;7871;X
+830202;Head of State;주스트 반 보옌오벤 ;1914;1918;1999;SL;Barking Buffoon;Medium;6894;X
+830203;Head of State;장 드쿠 ;1940;1964;1999;PA;Local tyrant2;High;M542006;X

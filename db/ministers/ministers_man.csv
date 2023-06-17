@@ -1,0 +1,74 @@
+MAN;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+235001;Head of State;푸이 ;1933;1964;1999;FA;Popular Figurehead;High;2829;X
+235002;Head of Government;장징후이 ;1933;1964;1999;FA;Happy Amateur;High;2830;X
+235003;Foreign Minister;장징후이 ;1933;1964;1999;FA;Iron Fisted Brute;Medium;2830;X
+235004;Minister of Armament;리사오컹 ;1933;1964;1999;FA;Military Entrepreneur;Medium;M58004;X
+235005;Minister of Security;친추한 ;1933;1964;1999;FA;Back Stabber;Medium;M58005;X
+235006;Head of Military Intelligence;가와시마 요시코 ;1933;1964;1999;FA;Political Specialist;Medium;M58006;X
+235007;Chief of Staff;츠싱 ;1933;1964;1999;FA;School of Defence;Medium;M58007;X
+235008;Chief of Army;츠싱 ;1933;1964;1999;FA;Static Defence Doctrine;Medium;M58007;X
+235009;Chief of Navy;세르게이 라밀체프 ;1933;1964;1999;FA;Indirect Approach Doctrine;Medium;M58009;X
+235010;Chief of Air Force;요코야마 마사유키 ;1933;1964;1999;FA;Vertical Envelopment Doctrine;Medium;M58010;X
+235011;Head of State;푸이 ;1941;1964;1999;NS;Popular Figurehead;High;2829;X
+235012;Head of State;푸이 ;1945;1964;1999;PA;Popular Figurehead;High;2829;X
+235013;Head of Government;리우청퍼우 ;1937;1964;1999;FA;Naive Optimist;High;M58014;X
+235014;Head of Government;웨이청천 ;1938;1964;1999;FA;Old General;High;M58015;X
+235015;Head of Government;아다치 미네이치로 ;1941;1964;1999;NS;Silent Workhorse;High;M58016;X
+235016;Head of Government;마쓰야마 신지로 ;1943;1964;1999;NS;Happy Amateur;High;M58017;X
+235017;Head of Government;니토베 이나조 ;1944;1964;1999;NS;old airmarshal;High;M58018;X
+235018;Head of Government;로청 ;1945;1964;1999;PA;Happy Amateur;High;M58019;X
+235019;Head of Government;차오신추 ;1946;1964;1999;PA;Political Protege;High;M58020;X
+235020;Foreign Minister;짜이윈성 ;1937;1964;1999;FA;Ideological Crusader;Medium;M58021;X
+235021;Foreign Minister;페이쭈예어 ;1938;1964;1999;FA;Great Compromiser;Medium;M58022;X
+235022;Foreign Minister;이이다 구스오 ;1941;1964;1999;NS;Iron Fisted Brute;Medium;M58023;X
+235023;Foreign Minister;나가이 마쓰조 ;1943;1964;1999;NS;Ideological Crusader;Medium;M58024;X
+235024;Foreign Minister;리사오컹 ;1944;1964;1999;NS;Biased Intellectual;Medium;M58004;X
+235025;Foreign Minister;황후이란 ;1945;1964;1999;PA;The Cloak N Dagger Schemer;Very Low;M58026;X
+235026;Foreign Minister;푸이 ;1946;1964;1999;PA;Great Compromiser;Very High;2829;X
+235027;Minister of Armament;리우청퍼우 ;1937;1964;1999;FA;Battle Fleet Proponent;Medium;M58014;X
+235028;Minister of Armament;이시구로 시로 ;1938;1964;1999;FA;Submarine Proponent;Medium;M58029;X
+235029;Minister of Armament;쓰시마 주이치 ;1941;1964;1999;NS;laissez-faire capitalist;Medium;M58030;X
+235030;Minister of Armament;이시이 기키주로 ;1943;1964;1999;NS;Strategic Air Proponent;Medium;M58031;X
+235031;Minister of Armament;메가타 도시로 ;1944;1964;1999;NS;Air to Ground Proponent;Medium;M58032;X
+235032;Minister of Armament;V. K. 웰링턴 쿠 ;1945;1964;1999;PA;Corrupt Kleptocrat;Very Low;M58033;X
+235033;Minister of Armament;로짱인 ;1946;1964;1999;PA;Administrative Genius;Very High;M58034;X
+235034;Minister of Security;서우머청 ;1938;1964;1999;FA;Crime Fighter;Medium;M58036;X
+235035;Minister of Security;아다치 미네이치로 ;1941;1964;1999;NS;Prince of Terror;Low;M58016;X
+235036;Minister of Security;하야시 곤스케 ;1943;1964;1999;NS;Crime Fighter;Low;M58038;X
+235037;Minister of Security;니토베 이나조 ;1944;1964;1999;NS;Efficient Sociopath;Low;M58018;X
+235038;Minister of Security;탕짜이퍼우 ;1945;1964;1999;PA;Crooked Kleptocrat;Very Low;M58040;X
+235039;Minister of Security;차오추우 ;1946;1964;1999;PA;Man of the People;Very High;M58041;X
+235040;Head of Military Intelligence;왕충후이 ;1937;1964;1999;FA;Naval Intelligence Specialist;Medium;M58042;X
+235041;Head of Military Intelligence;웨이청천 ;1938;1964;1999;FA;Dismal Enigma;High;M58015;X
+235042;Head of Military Intelligence;사이토 히로시 ;1941;1964;1999;NS;Logistics Specialist;High;M58044;X
+235043;Head of Military Intelligence;마쓰야마 신지로 ;1943;1964;1999;NS;Industrial Specialist;Medium;M58017;X
+235044;Head of Military Intelligence;후카이 에이고 ;1944;1964;1999;NS;Dismal Enigma;Medium;M58046;X
+235045;Head of Military Intelligence;란팡메이 ;1945;1964;1999;PA;Naval Intelligence Specialist;Very Low;M58047;X
+235046;Head of Military Intelligence;창수러어 ;1946;1964;1999;PA;Industrial Specialist;Very High;M58048;X
+235047;Chief of Staff;싱스리언 ;1937;1964;1999;FA;School of Psychology;Medium;M58049;X
+235048;Chief of Staff;가와시마 요시코 ;1938;1964;1999;FA;School of Mass Combat;Medium;M58006;X
+235049;Chief of Staff;나카지마 게사고 ;1941;1964;1999;NS;School of Defence;Medium;M58051;X
+235050;Chief of Staff;이소가이 료지 ;1943;1964;1999;NS;School of Psychology;Medium;M58052;X
+235051;Chief of Staff;이고르 체렌코프 ;1945;1964;1999;PA;School of Defence;Very Low;M58053;X
+235052;Chief of Staff;차오추항 ;1946;1964;1999;PA;School of Mass Combat;Very High;M58054;X
+235053;Chief of Army;싱스리언;1937;1964;1999;FA;Elastic Defence Doctrine;Medium;M58049;X
+235054;Chief of Army;가와시마 요시코 ;1938;1964;1999;FA;Guns and Butter Doctrine;Medium;M58006;X
+235055;Chief of Army;나카지마 게사고 ;1941;1964;1999;NS;Elastic Defence Doctrine;Medium;M58051;X
+235056;Chief of Army;이소가이 료지 ;1943;1964;1999;NS;Guns and Butter Doctrine;Medium;M58052;X
+235057;Chief of Army;맨프레드 본 체르웰렌 ;1945;1964;1999;PA;Armoured Spearhead Doctrine;Very Low;M58059;X
+235058;Chief of Army;푸이 ;1946;1964;1999;PA;Guns and Butter Doctrine;Very High;2829;X
+235059;Chief of Navy;지즈 호소노야 ;1937;1964;1999;FA;Decisive Naval Battle Doctrine;Medium;M58061;X
+235060;Chief of Navy;인쭤츠언 ;1938;1964;1999;FA;Base Control Doctrine;Medium;M58062;X
+235061;Chief of Navy;오카 게이준 ;1941;1964;1999;NS;Indirect Approach Doctrine;Medium;M58063;X
+235062;Chief of Navy;오다 유로즈 ;1943;1964;1999;NS;Base Control Doctrine;Medium;M58064;X
+235063;Chief of Navy;가도노 조쿠로 ;1944;1964;1999;NS;Power Projection Doctrine;Medium;M58065;X
+235064;Chief of Navy;타이츠춰 ;1945;1964;1999;PA;Power Projection Doctrine;Very Low;M58066;X
+235065;Chief of Navy;차오신추 ;1946;1964;1999;PA;Open Seas Doctrine;Very High;M58020;X
+235066;Chief of Air Force;이소노 유조 ;1937;1964;1999;FA;Air Superiority Doctrine;Medium;M58068;X
+235067;Chief of Air Force;나카지마 신지 ;1938;1964;1999;FA;Naval Aviation Doctrine;Medium;M58069;X
+235068;Chief of Air Force;미야자키 아키라 ;1941;1964;1999;NS;Army Aviation Doctrine;Medium;M58070;X
+235069;Chief of Air Force;이토 노부미 ;1943;1964;1999;NS;Carpet Bombing Doctrine;Medium;M58071;X
+235070;Chief of Air Force;가도노 조쿠로 ;1944;1964;1999;NS;Air Superiority Doctrine;Medium;M58065;X
+235071;Chief of Air Force;로청 ;1945;1964;1999;PA;Naval Aviation Doctrine;Very Low;M58019;X
+235072;Chief of Air Force;짜오핑선 ;1946;1964;1999;PA;Army Aviation Doctrine;Very High;M58074;X

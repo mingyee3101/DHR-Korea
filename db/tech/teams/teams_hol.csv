@@ -1,0 +1,23 @@
+HOL;Name;Pic Name;Skill;Start Year;End Year;Speciality1;Speciality2;Speciality3;Speciality4;Speciality5;Speciality6;Speciality7;Speciality8;Speciality9;Speciality10;Speciality11;Speciality12;Speciality13;Speciality14;Speciality15;Speciality16;Speciality17;Speciality18;Speciality19;Speciality20;Speciality21;Speciality22;Speciality23;Speciality24;Speciality25;Speciality26;Speciality27;Speciality28;Speciality29;Speciality30;Speciality31;Speciality32;x
+15001;헴브뤼흐 야포 공장 ;T2300;4;1890;1970;artillery;munitions;general_equipment;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+15002;DAF ;T2301;5;1900;1970;mechanics;munitions;artillery;vehicle_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+15003;포커르 ;T2302;6;1919;1970;bomber_design;aeronautics;aircraft_testing;avionics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+15004;HIH 시데리위스 ;T2303;5;1920;1970;mechanics;artillery;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+15005;네덜란드 왕립 학회 ;T2304;4;1888;1970;naval_engineering;electronics;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+15006;콜호번 ;T2305;5;1926;1956;aeronautics;fighter_design;general_equipment;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+15007;NSM 암스테르담 ;T2306;6;1900;1970;naval_engineering;naval_artillery;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+15008;더치 셸 ;T2307;7;1890;1970;industrial_engineering;chemistry;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+15009;빌톤-페이노르트 ;T2308;6;1929;1970;naval_engineering;electronics;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+15010;네덜란드 왕립 육군 ;T2309;4;1900;1940;infantry_focus;centralized_execution;small_unit_tactics;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+15011;요하네스 퓌르스트너르 ;T2310;4;1930;1962;large_taskforce_tactics;naval_training;seamanship;small_taskforce_tactics;centralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+15012;네덜란드 왕립 공군 ;T2311;4;1930;1940;fighter_tactics;centralized_execution;piloting;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+15013;페트뤼스 베스트 ;T2312;3;1937;1951;bomber_tactics;piloting;centralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+15014;헨리 빙켈만 ;T2313;4;1931;1946;decentralized_execution;small_unit_tactics;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+15015;필립스 ;100157;7;1936;1970;electronics;mathematics;technical_efficiency;nuclear_physics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+15016;필립스 ;100158;6;1891;1935;electronics;general_equipment;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+15017;프리츠 제르니커 ;T2316;6;1915;1966;electronics;chemistry;mathematics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+15018;스피커르-트롬펜뷔르흐 ;100395;4;1880;1929;aeronautics;mechanics;artillery;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+15019;DSM ;100159;5;1902;1970;mechanics;general_equipment;chemistry;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+15020;암스테르담 조선소 ;100160;6;1890;1970;naval_engineering;naval_artillery;mechanics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+15021;네덜란드 왕립 군사 학교 ;100396;4;1890;1970;centralized_execution;small_unit_tactics;infantry_focus;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+15022;네덜란드 왕립 해군 학교 ;100397;4;1890;1970;small_taskforce_tactics;submarine_tactics;naval_training;seamanship;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x

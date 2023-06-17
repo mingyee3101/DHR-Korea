@@ -1,0 +1,125 @@
+FLA;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+650001;Head of State;스타프 더 클레르크 ;1933;1964;1999;NS;Powerhungry Demagogue;NA;M15033;X
+650002;Head of Government;스타프 더 클레르크 ;1933;1964;1999;NS;Flamboyant Tough Guy;NA;M15033;X
+650003;Foreign Minister;스타프 더 클레르크 ;1933;1964;1999;NS;Biased Intellectual;Very High;M15033;X
+650004;Minister of Armament;헨드릭 더 만 ;1933;1964;1999;PA;Administrative Genius;Very High;M15056;X
+650005;Minister of Security;아위휘스터 더 스흐레이베르 ;1933;1964;1999;NS;Man of the People;Very High;unknownminister;X
+650006;Head of Military Intelligence;레이몬트 톨레나러 ;1933;1964;1999;NS;Dismal Enigma;Very High;M15082;X
+650007;Chief of Staff;예프 프랑수아 ;1933;1964;1999;NS;School of Mass Combat;Very High;M15015;X
+650008;Chief of Army;예프 프랑수아 ;1933;1964;1999;NS;Decisive Battle Doctrine;Very High;M15015;X
+650009;Chief of Navy;에른스트 융커만 ;1933;1964;1999;NS;Open Seas Doctrine;Very High;M510009;X
+650010;Chief of Air Force;오트프리트 사틀러르 ;1933;1964;1999;NS;Air Superiority Doctrine;Very High;M510010;X
+650011;Chief of Air Force;에허르트 레이더르 ;1940;1964;1999;NS;Vertical Envelopment Doctrine;Very High;M510061;X
+650012;Chief of Air Force;콘라트 스헬롱 ;1942;1964;1999;NS;Army Aviation Doctrine;Very High;L510007;X
+650013;Chief of Army;에허르트 레이더르 ;1940;1964;1999;NS;Elastic Defence Doctrine;Very High;M510061;X
+650014;Chief of Army;G.H. 폰 크라우스하르 ;1940;1964;1999;NS;Guns and Butter Doctrine;Very High;M510084;X
+650015;Chief of Army;호틀로프 베르허르 ;1940;1964;1999;NS;Guns and Butter Doctrine;Very High;M510027;X
+650016;Chief of Army;한스 알버르트 폰 레토브 ;1940;1964;1999;NS;Decisive Battle Doctrine;Very High;M510088;X
+650017;Chief of Army;콘라트 스헬롱 ;1942;1964;1999;NS;Armoured Spearhead Doctrine;Very High;L510007;X
+650018;Chief of Army;뤼신 레이케부르 ;1941;1964;1999;NS;Static Defence Doctrine;Very High;M510065;X
+650019;Chief of Army;라프 판 휠서 ;1942;1964;1999;NS;Guns and Butter Doctrine;Very High;M510078;X
+650020;Chief of Army;오스카르 미흐이엘스 ;1933;1964;1999;NS;Decisive Battle Doctrine;Very High;M15017;X
+650021;Chief of Navy;에허르트 레이더르 ;1940;1964;1999;NS;Base Control Doctrine;Very High;M510061;X
+650022;Chief of Staff;에허르트 레이더르 ;1940;1964;1999;NS;School of Manoeuvre;Very High;M510061;X
+650023;Chief of Staff;G.H. 폰 크라우스하르 ;1940;1964;1999;NS;School of Fire Support;Very High;M510084;X
+650024;Chief of Staff;호틀로프 베르허르 ;1940;1964;1999;NS;School of Psychology;Very High;M510027;X
+650025;Chief of Staff;뤼신 레이케부르 ;1941;1964;1999;NS;School of Defence;Very High;M510065;X
+650026;Chief of Staff;라프 판 휠서 ;1942;1964;1999;NS;School of Manoeuvre;Very High;M510078;X
+650027;Chief of Staff;로버르트 페르벨런 ;1940;1964;1999;NS;School of Psychology;Very High;M510081;X
+650028;Chief of Staff;세라프 트리오 ;1940;1964;1999;NS;School of Fire Support;Very High;M510073;X
+650029;Foreign Minister;아우휘스트 보름스 ;1933;1964;1999;FA;Biased Intellectual;Very High;M510025;X
+650030;Foreign Minister;시릴 페르스하버 ;1933;1964;1999;FA;Great Compromiser;Very High;M510083;X
+650031;Foreign Minister;E. 판 덴 회벌 ;1941;1964;1999;NS;Ideological Crusader;Very High;M510077;X
+650032;Foreign Minister;프란스 달스 ;1938;1964;1999;FA;Ideological Crusader;Very High;M510035;X
+650033;Foreign Minister;호틀로프 베르허르 ;1940;1964;1999;NS;General Staffer;Very High;M510027;X
+650034;Foreign Minister;헨드릭 J. 엘리아스 ;1942;1964;1999;FA;Biased Intellectual;Very High;M15039;X
+650035;Foreign Minister;예프 반 더 비엘 ;1938;1964;1999;NS;Iron Fisted Brute;Very High;M15011;X
+650036;Foreign Minister;예롬 뢰리단 ;1937;1964;1999;NS;Ideological Crusader;Very High;M510058;X
+650037;Foreign Minister;카렐 람브리흐츠 ;1939;1964;1999;NS;Great Compromiser;Very High;M510049;X
+650038;Foreign Minister;오딜 담 ;1940;1964;1999;NS;The Cloak N Dagger Schemer;Very High;M510037;X
+650039;Foreign Minister;폴 르 르와 ;1942;1964;1999;FA;Biased Intellectual;Very High;M510054;X
+650040;Foreign Minister;레이몬트 스펠레이르스 ;1938;1964;1999;FA;Biased Intellectual;Very High;M510072;X
+650041;Foreign Minister;발터르 람파르트 ;1941;1964;1999;NS;General Staffer;Very High;M510052;X
+650042;Head of Government;알렉산더 폰 팔켄하우젠 ;1940;1964;1999;NS;Silent Workhorse;Very High;M510086;X
+650043;Head of Government;아우휘스트 보름스 ;1933;1964;1999;FA;Silent Workhorse;Very High;M510025;X
+650044;Head of Government;리카르트 스휠저 ;1940;1964;1999;NS;Flamboyant Tough Guy;Very High;M510070;X
+650045;Head of Government;프란스 달스 ;1938;1964;1999;FA;Flamboyant Tough Guy;Very High;M510035;X
+650046;Head of Government;호틀로프 베르허르 ;1940;1964;1999;NS;Old General;Very High;M510027;X
+650047;Head of Government;헨드릭 J. 엘리아스 ;1942;1964;1999;FA;Political Protege;NA;M15039;X
+650048;Head of Government;예프 반 더 비엘 ;1940;1964;1999;NS;Backroom Backstabber;NA;M15011;X
+650049;Head of Government;예롬 뢰리단 ;1937;1964;1999;NS;Ambitious Union Boss;Very High;M510058;X
+650050;Head of Government;뤼신 레이케부르 ;1941;1964;1999;NS;Happy Amateur;Very High;M510065;X
+650051;Head of Government;피에 베인달러 ;1937;1964;1999;FA;Naive Optimist;Very High;M510091;X
+650052;Head of Government;R. 클라이스 ;1941;1964;1999;NS;Political Protege;Very High;M510033;X
+650053;Head of Military Intelligence;A. 더 본트리더르 ;1933;1964;1999;FA;Political Specialist;Very High;M510039;X
+650054;Head of Military Intelligence;에드하르 레헴브러 ;1940;1964;1999;NS;Technical Specialist;Very High;M510056;X
+650055;Head of Military Intelligence;요스 헨스컨스 ;1939;1964;1999;NS;Logistics Specialist;Very High;M510044;X
+650056;Head of Military Intelligence;카렐 람브리흐츠 ;1939;1964;1999;NS;Industrial Specialist;Very High;M510049;X
+650057;Head of Military Intelligence;R. 클라이스 ;1941;1964;1999;NS;Political Specialist;Very High;M510033;X
+650058;Head of Military Intelligence;리카르트 융클라우스 ;1941;1964;1999;NS;Dismal Enigma;Very High;M510047;X
+650059;Head of Military Intelligence;로버르트 페르벨런 ;1940;1964;1999;NS;Technical Specialist;Very High;M510081;X
+650060;Head of Military Intelligence;세라프 트리오 ;1940;1964;1999;NS;Logistics Specialist;Very High;M510073;X
+650061;Head of State;알렉산더 폰 팔켄하우젠 ;1940;1964;1999;NS;Resigned Generalissimo;Very High;M510086;X
+650062;Head of State;리카르트 스휠저 ;1940;1964;1999;NS;Barking Buffoon;Very High;M510070;X
+650063;Head of State;호틀로프 베르허르 ;1940;1964;1999;NS;Powerhungry Demagogue;Very High;M510027;X
+650064;Head of State;헨드릭 J. 엘리아스 ;1942;1964;1999;FA;Stern Imperialist;NA;M15039;X
+650065;Head of State;예프 반 더 비엘 ;1940;1964;1999;NS;Powerhungry Demagogue;NA;M15011;X
+650066;Minister of Armament;알폰스 바흐텔라르 ;1942;1964;1999;NS;Infantry Proponent;Very High;M510089;X
+650067;Minister of Armament;에드하르트 델보 ;1933;1964;1999;NS;Resource Industrialist;Very High;M510042;X
+650068;Minister of Armament;프리츠 얀 헨드릭스 ;1939;1964;1999;FA;Administrative Genius;Very High;M510043;X
+650069;Minister of Armament;아위휘스터 더 스흐레이베르 ;1937;1964;1999;NS;Resource Industrialist;Very High;unknownminister;X
+650070;Minister of Armament;예프 반 더 비엘 ;1940;1964;1999;NS;Military Entrepreneur;Very High;M15011;X
+650071;Minister of Armament;요리스 파소터 ;1933;1964;1999;NS;Military Entrepreneur;Very High;M15057;X
+650072;Minister of Armament;요스 헨스컨스 ;1939;1964;1999;NS;Infantry Proponent;Very High;M510044;X
+650073;Minister of Armament;마르설 마나르츠 ;1940;1964;1999;FA;Resource Industrialist;Very High;M510060;X
+650074;Minister of Armament;피에 베인달러 ;1937;1964;1999;FA;laissez-faire capitalist;Very High;M510091;X
+650075;Minister of Armament;빅토르 레이만스 ;1938;1964;1999;FA;laissez-faire capitalist;Very High;M510055;X
+650076;Minister of Armament;빅토르 마티스 ;1933;1964;1999;NS;Military Entrepreneur;Very High;M15058;X
+650077;Minister of Security;A. 더 본트리더르 ;1933;1964;1999;FA;Silent Lawyer;Very High;M510039;X
+650078;Minister of Security;알폰스 헤르턴 ;1940;1964;1999;NS;Efficient Sociopath;Very High;M510046;X
+650079;Minister of Security;알폰스 바흐텔라르 ;1942;1964;1999;NS;Efficient Sociopath;Very High;M510089;X
+650080;Minister of Security;에드하르 레헴브러 ;1940;1964;1999;NS;Prince of Terror;Very High;M510056;X
+650081;Minister of Security;호틀로프 베르허르 ;1940;1964;1999;NS;Prince of Terror;Very High;M510027;X
+650082;Minister of Security;헨드릭 J. 엘리아스 ;1942;1964;1999;FA;Silent Lawyer;Very High;M15039;X
+650083;Minister of Security;J. 더 메이어르 ;1933;1964;1999;NS;Man of the People;Very High;M510041;X
+650084;Minister of Security;요리스 판 스테인란트 ;1940;1964;1999;NS;Prince of Terror;Very High;M510080;X
+650085;Minister of Security;카렐 람브리흐츠 ;1939;1964;1999;NS;Compassionate Gentleman;Very High;M510049;X
+650086;Minister of Security;오딜 담 ;1940;1964;1999;NS;Crime Fighter;Very High;M510037;X
+650087;Minister of Security;레이몬트 톨레나러 ;1939;1964;1999;NS;Prince of Terror;Very High;M15082;X
+650088;Minister of Security;리카르트 융클라우스 ;1941;1964;1999;NS;Efficient Sociopath;Very High;M510047;X
+650089;Minister of Security;세라프 트리오 ;1940;1964;1999;NS;Man of the People;Very High;M510073;X
+650090;Minister of Security;발터르 람파르트 ;1941;1964;1999;NS;Crime Fighter;Very High;M510052;X
+650091;Head of State;레오폴 3세 ;1933;1964;1999;SC;Benevolent Gentleman;Very High;M15001;X
+650092;Head of Government;벨프란스 반 카우에르트 ;1933;1964;1999;SC;Naive Optimist;Very High;M15132;X
+650093;Foreign Minister;벨프란스 반 카우에르트 ;1933;1964;1999;SC;Ideological Crusader;Very High;M15132;X
+650094;Head of State;레오폴 3세 ;1933;1964;1999;PA;Benevolent Gentleman;Very High;M15001;X
+650095;Head of Government;스타프 더 클레르크 ;1933;1964;1999;PA;Flamboyant Tough Guy;Very High;M15033;X
+650096;Foreign Minister;스타프 더 클레르크 ;1933;1964;1999;PA;Biased Intellectual;Very High;M15033;X
+650097;Foreign Minister;아우휘스트 보름스 ;1933;1964;1999;FA;Ideological Crusader;Very High;M510099;X
+650098;Foreign Minister;클레먼스 더 란츠헤이르 ;1933;1964;1999;SC;Ideological Crusader;Very High;M510100;X
+650099;Head of State;카밀르어 휘스만스 ;1933;1964;1999;SD;Benevolent Gentleman;Very High;M15038;X
+650100;Head of Government;카밀르어 휘스만스 ;1933;1964;1999;SD;Happy Amateur;NA;M15038;X
+650101;Head of Government;아힐르어 반 아커르 ;1939;1964;1999;SD;Corporate Suit;NA;M15041;X
+650102;Minister of Armament;헨드릭 더 만 ;1933;1964;1999;SL;Administrative Genius;Very High;M15056;X
+650103;Minister of Armament;프란츠 드 보겔 ;1945;1964;1999;ML;Laissez-Faire Capitalist;Very High;M15067;X
+650104;Minister of Armament;알베르트 더 블레스하우버르 ;1946;1964;1999;SC;Resource Industrialist;Very High;M15069;X
+650105;Minister of Security;알베르트 얀선 ;1933;1964;1999;SC;Compassionate Gentleman;Very High;M15071;X
+650106;Minister of Security;파울 헤이만스 ;1933;1964;1999;SL;Compassionate Gentleman;Very High;M15073;X
+650107;Minister of Security;아돌퍼 반 흘라베커 ;1945;1964;1999;SC;Man of the People;Very High;M15086;X
+650108;Minister of Security;폴 스튀리에 ;1947;1964;1999;SC;Man of the People;Very High;M15090;X
+650109;Head of Military Intelligence;헤르만 보스 ;1944;1964;1999;SD;Political Specialist;Very High;M15099;X
+650110;Head of Military Intelligence;피에 베르멜런 ;1947;1964;1999;SC;Technical Specialist;Very High;M15102;X
+650111;Chief of Staff;오스카르 미흐이엘스 ;1940;1964;1999;SC;School of Mass Combat;Very High;M15107;X
+650112;Chief of Army;트라오윌 반 오베르스트라이턴 ;1938;1964;1999;SC;Guns and Butter Doctrine;Very High;M15110;X
+650113;Minister of Armament;에드몬트 뤼번스 ;1933;1964;1999;SC;Resource Industrialist;Very High;M15124;X
+650114;Minister of Armament;알베르 바우테르 ;1939;1964;1999;SD;Military Entrepreneur;Very High;M15125;X
+650115;Minister of Armament;라우이스 프란크 ;1933;1964;1999;SC;Resource Industrialist;Very High;M15128;X
+650116;Minister of Armament;헨드리크 헤이만 ;1933;1964;1999;SC;Air to Ground Proponent;Very High;M15129;X
+650117;Minister of Armament;마우리스 리펀스 ;1933;1964;1999;ML;Resource Industrialist;Very High;M15130;X
+650118;Minister of Security;필리프 반 이사커르 ;1933;1964;1999;SC;Crime Fighter;Very High;M15131;X
+650119;Minister of Armament;키리엘 반 오베르베흐 ;1937;1964;1999;SC;Theoretical Scientist;High;M15137;X
+650120;Minister of Armament;휘스타아프 사프 ;1933;1964;1999;SC;Military Entrepreneur;High;M15140;X
+650121;Chief of Navy;G. 팀메르만스 ;1933;1964;1999;SC;Indirect Approach Doctrine;Very High;M15009;X
+650122;Chief of Air Force;L.F.E. 바우테르스;1933;1964;1999;SC;Vertical Envelopment Doctrine;Very High;M15010;X
+650123;Chief of Staff;레오 길리스 ;1949;1964;1999;NS;School of Manoeuvre;medium;6069;x

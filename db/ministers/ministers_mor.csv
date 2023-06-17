@@ -1,0 +1,47 @@
+MOR;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+505001;Head of State;무함마드 5세 ;1933;1964;1999;SC;Powerhungry Demagogue;High;M531001;X
+505002;Head of Government;마르셀 페이루통 ;1933;1964;1999;SC;Ambitious Union Boss;High;M530005;X
+505003;Foreign Minister;아흐메드 벨라프레지 ;1933;1964;1999;SC;Biased Intellectual;High;M531003;X
+505004;Minister of Armament;에밀 위그 ;1933;1964;1999;SC;Military Entrepreneur;Medium;M531004;X
+505005;Minister of Security;프랑시스 루이 클로종 ;1933;1964;1999;SC;Back Stabber;Medium;M531005;X
+505006;Head of Military Intelligence;르네 카생 ;1933;1964;1999;SC;Dismal Enigma;Medium;M531006;X
+505007;Chief of Staff;테오필 라 기옝 ;1933;1964;1999;SC;School of Manoeuvre;Medium;M531007;X
+505008;Chief of Army;알베르 기욤 ;1933;1964;1999;SC;Decisive Battle Doctrine;Medium;M531008;X
+505009;Chief of Navy;조르주 카바니에 ;1933;1964;1999;SC;Decisive Naval Battle Doctrine;Medium;M531009;X
+505010;Chief of Air Force;에두아르 코르닝리온 ;1933;1964;1999;SC;Army Aviation Doctrine;Medium;M531010;X
+505011;Head of State;알랄 엘 파시 ;1933;1964;1999;LWR;Weary Stiffneck;High;M531011;X
+505012;Head of Government;샤를 노그 ;1933;1964;1999;SC;Old General;High;L24124;X
+505013;Head of Government;가브리엘 푸오 ;1943;1964;1999;SC;Silent Workhorse;High;M528008;X
+505014;Head of Government;에릭 라본느 ;1946;1964;1999;SC;Naive Optimist;High;M531014;X
+505015;Head of Government;알랄 엘 파시 ;1933;1964;1999;LWR;Flamboyant Tough Guy;High;M531011;X
+505016;Head of Government;메흐디 빈 바르카 ;1946;1964;1999;LWR;Smiling Oilman;High;M531016;X
+505017;Foreign Minister;압달라 이브라힘 ;1943;1964;1999;SC;The Cloak N Dagger Schemer;High;M531017;X
+505018;Foreign Minister;사나 마디하 ;1933;1964;1999;LWR;The Cloak N Dagger Schemer;High;M531018;X
+505019;Foreign Minister;메흐디 빈 바르카 ;1944;1964;1999;LWR;Apologetic Clerk;High;M531016;X
+505020;Minister of Armament;에릭 라본느 ;1943;1964;1999;SC;Resource Industrialist;Medium;M531014;X
+505021;Minister of Armament;메흐디 빈 바르카 ;1945;1964;1999;SC;Air Superiority Proponent;Medium;M531016;X
+505022;Minister of Armament;르네 카생 ;1933;1964;1999;LWR;Air to Ground Proponent;Medium;M531022;X
+505023;Minister of Security;에두아르 코르닝리온 ;1942;1964;1999;SC;Compassionate Gentleman;Medium;M531023;X
+505024;Minister of Security;무함마드 오프키르 ;1946;1964;1999;SC;Efficient Sociopath;Medium;M531024;X
+505025;Minister of Security;음바라크 베카르 ;1933;1964;1999;LWR;Prince of Terror;Medium;M531025;X
+505026;Head of Military Intelligence;알랄 엘 파시 ;1942;1964;1999;SC;Political Specialist;Medium;M531011;X
+505027;Head of Military Intelligence;음바라크 베카르 ;1946;1964;1999;SC;Industrial Specialist;Medium;M531025;X
+505028;Head of Military Intelligence;아흐메드 들리미 ;1933;1964;1999;LWR;Logistics Specialist;Medium;M531028;X
+505029;Chief of Staff;자크 드 라 부야디에르 ;1942;1964;1999;SC;School of Mass Combat;Medium;M531029;X
+505030;Chief of Staff;마흐푸드 가르바우이 ;1945;1964;1999;SC;School of Psychology;Medium;M531030;X
+505031;Chief of Staff;이슬렘 하지라 ;1933;1964;1999;LWR;School of Mass Combat;Medium;M531031;X
+505032;Chief of Staff;마흐푸드 가르바우이 ;1945;1964;1999;LWR;School of Psychology;Medium;M531030;X
+505033;Chief of Army;조르주 장페랭 ;1942;1964;1999;SC;Armoured Spearhead Doctrine;Medium;M531033;X
+505034;Chief of Army;압달라 은미치 ;1945;1964;1999;SC;Static Defence Doctrine;Medium;M531034;X
+505035;Chief of Army;이슬렘 하지라 ;1933;1964;1999;LWR;Elastic Defence Doctrine;Medium;M531031;X
+505036;Chief of Army;압달라 은미치 ;1944;1964;1999;LWR;Static Defence Doctrine;Medium;M531034;X
+505037;Chief of Navy;자멜 압델무넴 ;1945;1964;1999;SC;Power Projection Doctrine;Medium;M531037;X
+505038;Chief of Navy;르네 카생 ;1933;1964;1999;LWR;Base Control Doctrine;Medium;M531022;X
+505039;Chief of Navy;자멜 압델무넴 ;1945;1964;1999;LWR;Power Projection Doctrine;Medium;M531037;X
+505040;Chief of Air Force;크리스티앙 마르텔 ;1942;1964;1999;SC;Air Superiority Doctrine;Medium;M531040;X
+505041;Chief of Air Force;파우지 주마나 ;1945;1964;1999;SC;Vertical Envelopment Doctrine;Medium;M531041;X
+505042;Chief of Air Force;아흐메드 들리미 ;1933;1964;1999;LWR;Carpet Bombing Doctrine;Medium;M531028;X
+505043;Chief of Air Force;파우지 주마나 ;1945;1964;1999;LWR;Vertical Envelopment Doctrine;Medium;M531041;X
+505044;Head of Government;시디 무함마드 ;1914;1933;1999;PA;Political Protege;Medium;unknownminister;X
+505045;Head of State;유세프 빈 하산 ;1914;1933;1999;PA;Popular Figurehead;Medium;2863;X

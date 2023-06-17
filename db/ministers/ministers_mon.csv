@@ -1,0 +1,117 @@
+MON;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+300001;Head of State;아난딘 아마르 ;1933;1964;1999;LE;Weary Stiffneck;High;M94001;X
+300002;Head of Government;도기자빙 루브산샤라 ;1933;1964;1999;LE;Happy Amateur;High;M94002;X
+300003;Foreign Minister;펠지디인 겐덴 ;1933;1964;1999;LE;Great Compromiser;Very High;M94003;X
+300004;Minister of Armament;잠빈 리훔베 ;1933;1964;1999;LE;Military Entrepreneur;Very High;M94004;X
+300005;Minister of Security;잠트상그링 담딘수렌 ;1933;1964;1999;LE;Efficient Sociopath;Very High;M94005;X
+300006;Head of Military Intelligence;허를러깅 처이발상 ;1933;1964;1999;LE;Logistics Specialist;Very High;M94006;X
+300007;Chief of Staff;치미드 ;1933;1964;1999;LE;School of Psychology;Very High;M94007;X
+300008;Chief of Army;치미드 ;1933;1964;1999;LE;Elastic Defence Doctrine;Very High;M94007;X
+300009;Chief of Navy;V.G. 피르셀로프 ;1933;1964;1999;LE;Open Seas Doctrine;Medium;M94009;X
+300010;Chief of Air Force;울란후 ;1933;1964;1999;LE;Army Aviation Doctrine;Medium;M94010;X
+300011;Head of State;윤둔왕쿠그 ;1937;1964;1999;PA;Resigned Generalissimo;High;M94011;X
+300012;Head of State;바이윈티 ;1937;1964;1999;SD;Benevolent Gentleman;High;M94021;X
+300013;Head of State;단스라빌레깅 도그삼 ;1937;1964;1999;LWR;Insignificant Layman;High;M94025;X
+300014;Head of State;곰그치그링 붐트센드 ;1940;1964;1999;ST;Powerhungry Demagogue;High;M94034;X
+300015;Head of State;부마 첸데 ;1946;1964;1999;ST;Ruthless Powermonger;High;M94035;X
+300016;Head of Government;데므치그돈로브 ;1937;1964;1999;PA;Political Protege;High;M94012;X
+300017;Head of Government;바이윈티 ;1937;1964;1999;SD;Happy Amateur;High;M94021;X
+300018;Head of Government;다이시잉 담바 ;1937;1964;1999;LWR;Smiling Oilman;High;M94038;X
+300019;Head of Government;허를러깅 처이발상 ;1938;1964;1999;LWR;Old General;High;M94006;X
+300020;Head of Government;허를러깅 처이발상 ;1940;1964;1999;ST;Old General;High;M94006;X
+300021;Head of Government;줌자깅 체덴발 ;1942;1964;1999;ST;Corporate Suit;High;M94041;X
+300022;Foreign Minister;데므치그돈로브 ;1937;1964;1999;PA;General Staffer;Very Low;M94012;X
+300023;Foreign Minister;쳉구발 바드라츠 ;1937;1964;1999;SD;Apologetic Clerk;Medium;M94023;X
+300024;Foreign Minister;도기자빙 루브산샤라 ;1937;1964;1999;LE;Iron Fisted Brute;High;M94002;X
+300025;Foreign Minister;반자르자빙 바산자브 ;1937;1964;1999;LWR;Biased Intellectual;High;M94045;X
+300026;Foreign Minister;다이시잉 담바 ;1938;1964;1999;LWR;The Cloak N Dagger Schemer;High;M94038;X
+300027;Foreign Minister;마르셀 로젠베르크 ;1940;1964;1999;ST;Biased Intellectual;Very High;M94047;X
+300028;Foreign Minister;줌자깅 체덴발 ;1941;1964;1999;ST;Iron Fisted Brute;Very High;M94041;X
+300029;Foreign Minister;허를러깅 처이발상 ;1944;1964;1999;ST;General Staffer;Very High;M94049;X
+300030;Minister of Armament;체벨소드놈 ;1937;1964;1999;PA;Military Entrepreneur;Very High;M94014;X
+300031;Minister of Armament;쳉구발 바드라츠 ;1937;1964;1999;LE;Air to Ground Proponent;Medium;M94023;X
+300032;Minister of Armament;체벨소드놈 ;1937;1964;1999;LWR;Military Entrepreneur;Very High;M94014;X
+300033;Minister of Armament;잘벵그링 세레테르 ;1938;1964;1999;LWR;Theoretical Scientist;Medium;M94024;X
+300034;Minister of Armament;바투르 ;1940;1964;1999;ST;Air to Sea Proponent;Medium;M94055;X
+300035;Minister of Armament;허를러깅 처이발상 ;1942;1964;1999;ST;Resource Industrialist;Very High;M94006;X
+300036;Minister of Armament;잠스랑깅 삼부 ;1944;1964;1999;ST;laissez-faire capitalist;High;M94057;X
+300037;Minister of Armament;곰그치그링 붐트센드 ;1946;1964;1999;ST;Military Entrepreneur;Very High;M94034;X
+300038;Minister of Armament;수흐바타링 얀지마 ;1947;1964;1999;ST;Administrative Genius;Medium;M94020;X
+300039;Minister of Security;부얀만두 ;1937;1964;1999;PA;Prince of Terror;Low;M94015;X
+300040;Minister of Security;다그바 ;1937;1964;1999;LE;Prince of Terror;Low;M94028;X
+300041;Minister of Security;단스라빌레깅 도그삼 ;1937;1964;1999;LWR;Compassionate Gentleman;Medium;M94025;X
+300042;Minister of Security;부얀메 ;1938;1964;1999;LWR;Silent Lawyer;Very Low;M94064;X
+300043;Minister of Security;다시두로브 ;1940;1964;1999;ST;Crooked Kleptocrat;High;M94065;X
+300044;Minister of Security;잠스랑깅 삼부 ;1942;1964;1999;ST;Back Stabber;High;M94057;X
+300045;Minister of Security;알렉산드라 콜론타이 ;1944;1964;1999;ST;Man of the People;Low;M94067;X
+300046;Minister of Security;니암부 ;1946;1964;1999;ST;Crime Fighter;High;M94068;X
+300047;Head of Military Intelligence;이친호를루 ;1937;1964;1999;PA;Logistics Specialist;Medium;M94016;X
+300048;Head of Military Intelligence;도기자빙 루브산샤라 ;1937;1964;1999;SD;Logistics Specialist;Low;M94002;X
+300049;Head of Military Intelligence;도르기자빙 루브산삼부 ;1937;1964;1999;LE;Political Specialist;Medium;M94071;X
+300050;Head of Military Intelligence;이친호를루 ;1937;1964;1999;LWR;Logistics Specialist;Medium;M94016;X
+300051;Head of Military Intelligence;다시냠 ;1938;1964;1999;LWR;Logistics Specialist;Medium;M94073;X
+300052;Head of Military Intelligence;니암부 ;1940;1964;1999;ST;Industrial Specialist;High;M94068;X
+300053;Head of Military Intelligence;다시도르지 ;1942;1964;1999;ST;Political Specialist;High;M94075;X
+300054;Head of Military Intelligence;다셰제베그 ;1944;1964;1999;ST;Logistics Specialist;High;M94076;X
+300055;Head of Military Intelligence;부얀메 ;1946;1964;1999;ST;Naval Intelligence Specialist;Very High;M94064;X
+300056;Chief of Staff;리서우신 ;1937;1964;1999;PA;School of Mass Combat;Medium;M94017;X
+300057;Chief of Staff;바이윈티 ;1937;1964;1999;SD;School of Defence;Medium;M94021;X
+300058;Chief of Staff;허를러깅 처이발상 ;1937;1964;1999;LWR;School of Manoeuvre;Very High;M94081;X
+300059;Chief of Staff;올지트리깅 바드라크 ;1938;1964;1999;LWR;School of Defence;Very High;M94082;X
+300060;Chief of Staff;부마 첸데 ;1940;1964;1999;ST;School of Defence;Very High;M94035;X
+300061;Chief of Army;리서우신 ;1937;1964;1999;PA;Guns and Butter Doctrine;Medium;M94017;X
+300062;Chief of Army;다그바 ;1937;1964;1999;SD;Guns and Butter Doctrine;Medium;M94028;X
+300063;Chief of Army;올지트리깅 바드라크 ;1937;1964;1999;LWR;Static Defence Doctrine;Very High;M94082;X
+300064;Chief of Army;허를러깅 처이발상 ;1938;1964;1999;LWR;Guns and Butter Doctrine;Very High;M94049;X
+300065;Chief of Navy;윤둔왕쿠그 ;1937;1964;1999;PA;Open Seas Doctrine;Medium;M94011;X
+300066;Chief of Navy;하이다브 ;1937;1964;1999;LE;Power Projection Doctrine;Medium;M94093;X
+300067;Chief of Navy;간바타르 ;1937;1964;1999;LWR;Base Control Doctrine;Medium;M94029;X
+300068;Chief of Navy;곰그치그링 붐트센드 ;1940;1964;1999;ST;Base Control Doctrine;Very High;M94034;X
+300069;Chief of Navy;다시도르지 ;1942;1964;1999;ST;Indirect Approach Doctrine;High;M94075;X
+300070;Chief of Air Force;수흐바타링 얀지마 ;1937;1964;1999;PA;Naval Aviation Doctrine;Medium;M94020;X
+300071;Chief of Air Force;하이다브 ;1937;1964;1999;LE;Naval Aviation Doctrine;Medium;M94093;X
+300072;Chief of Air Force;간바타르 ;1937;1964;1999;LWR;Vertical Envelopment Doctrine;Medium;M94029;X
+300073;Chief of Air Force;수흐바타링 얀지마 ;1940;1964;1999;ST;Naval Aviation Doctrine;Medium;M94020;X
+300074;Chief of Air Force;곰그치그링 붐트센드 ;1942;1964;1999;ST;Vertical Envelopment Doctrine;Very High;M94034;X
+300075;Chief of Air Force;부얀메 ;1944;1964;1999;ST;Carpet Bombing Doctrine;Very High;M94064;X
+300076;Chief of Army;자 라마 담비잔스탄 ;1914;1933;1999;PA;Guns and Butter Doctrine;Medium;2852;X
+300077;Chief of Army;카탄바타르 마그사르자브 ;1914;1933;1999;PA;elastic defence doctrine;Medium;unknownminister;X
+300078;Chief of Army;수크헤 바토르 ;1920;1933;1999;ST;Decisive Battle Doctrine;Very High;2853;X
+300079;Chief of Army;로만 폰 운게른 슈테른베르크 ;1920;1933;1999;PA;Decisive Battle Doctrine;Very High;2854;X
+300080;Chief of Army;카탄바타르 마그사르자브 ;1922;1933;1999;ST;elastic defence doctrine;Medium;unknownminister;X
+300081;Chief of Army;호를로잉 초이발산 ;1923;1933;1999;ST;Decisive Battle Doctrine;Very High;2855;X
+300082;Chief of Staff;자 라마 담비잔스탄 ;1914;1933;1999;PA;School of Mass Combat;Medium;2852;X
+300083;Chief of Staff;카탄바타르 마그사르자브 ;1914;1933;1999;PA;school of defence;Medium;unknownminister;X
+300084;Chief of Staff;수크헤 바토르 ;1920;1933;1999;ST;School of Mass Combat;Very High;2853;X
+300085;Chief of Staff;로만 폰 운게른 슈테른베르크 ;1920;1933;1999;PA;School of Manoeuvre;Very High;2854;X
+300086;Chief of Staff;호를로잉 초이발산 ;1923;1933;1999;ST;School of Psychology;Very High;2855;X
+300087;Foreign Minister;체렌치미트 ;1914;1933;1999;PA;Great Compromiser;Very High;unknownminister;X
+300088;Foreign Minister;투그 오치링 남난수렌 ;1914;1933;1999;PA;Biased Intellectual;Very High;2856;X
+300089;Foreign Minister;만라이바타르 담딘수렌 ;1914;1933;1999;PA;General Staffer;Very High;unknownminister;X
+300090;Foreign Minister;다 라마 라브단 ;1914;1933;1999;PA;Great Compromiser;Very High;unknownminister;X
+300091;Foreign Minister;다 라마 샨자브 바담도르지 ;1915;1933;1999;PA;Great Compromiser;Very High;2857;X
+300092;Foreign Minister;카탄 바타르 마크사르자브 ;1919;1933;1999;PA;iron fisted brute;Very High;unknownminister;X
+300093;Foreign Minister;소도밍 담딘바자르 ;1919;1933;1999;PA;Biased Intellectual;Very High;2858;X
+300094;Foreign Minister;도그소밍 부두 ;1920;1933;1999;ST;General Staffer;Very High;2859;X
+300095;Foreign Minister;페르디난드 오센도프스키 ;1920;1933;1999;PA;Ideological Crusader;Very High;2860;X
+300096;Foreign Minister;발링글린 체렌도르지 ;1914;1933;1999;ST;Biased Intellectual;Very High;2861;X
+300097;Head of Government;투그 오치링 남난수렌 ;1912;1933;1999;PA;Silent Workhorse;Very High;2856;X
+300098;Head of Government;다 라마 샨자브 바담도르지 ;1915;1933;1999;PA;Silent Workhorse;Very High;2857;X
+300099;Head of Government;카탄 바타르 마크사르자브 ;1919;1933;1999;PA;Backroom Backstabber;Very High;unknownminister;X
+300100;Head of Government;도그소밍 부두 ;1920;1933;1999;ST;Old General;Very High;2859;X
+300101;Head of Government;로만 폰 운게른 슈테른베르크 ;1920;1933;1999;PA;Happy Amateur;Very High;2854;X
+300102;Head of Government;소도밍 담딘바자르 ;1920;1933;1999;PA;Silent Workhorse;Very High;2858;X
+300103;Head of Government;소드노밍 담딘바자르 ;1922;1933;1999;ST;Silent Workhorse;Very High;2858;X
+300104;Head of Government;발링글린 체렌도르지 ;1923;1933;1999;ST;Happy Amateur;Very High;2861;X
+300105;Head of Military Intelligence;자 라마 담비잔스탄 ;1914;1933;1999;PA;Dismal Enigma;Very High;2852;X
+300106;Head of Military Intelligence;카탄바타르 마그사르자브 ;1914;1933;1999;PA;Logistics Specialist;Very High;unknownminister;X
+300107;Head of Military Intelligence;수크헤 바토르 ;1920;1933;1999;ST;Dismal Enigma;Very High;2853;X
+300108;Head of Military Intelligence;페르디난드 오센도프스키 ;1920;1933;1999;PA;Dismal Enigma;Very High;2860;X
+300109;Head of Military Intelligence;호를로깅 단드잔 ;1922;1933;1999;ST;Logistics Specialist;Very High;unknownminister;X
+300110;Head of State;복드 칸 ;1914;1933;1999;PA;Stern Imperialist;Very High;2862;X
+300111;Head of State;복드 칸 ;1920;1933;1999;ST;Weary Stiffneck;Very High;2862;X
+300112;Head of State;발링글린 체렌도르지 ;1924;1933;1999;ST;Weary Stiffneck;Very High;2861;X
+300113;Head of State;나반도르진 자담바 ;1924;1933;1999;ST;Weary Stiffneck;Very High;unknownminister;X
+300114;Minister of Security;복드 칸 ;1914;1933;1999;PA;Man of the People;Very High;2862;X
+300115;Minister of Security;소드노밍 담딘바자르 ;1914;1933;1999;PA;Crime Fighter;Very High;2858;X

@@ -1,0 +1,64 @@
+UCH;Name;Pic Name;Skill;Start Year;End Year;Speciality1;Speciality2;Speciality3;Speciality4;Speciality5;Speciality6;Speciality7;Speciality8;Speciality9;Speciality10;Speciality11;Speciality12;Speciality13;Speciality14;Speciality15;Speciality16;Speciality17;Speciality18;Speciality19;Speciality20;Speciality21;Speciality22;Speciality23;Speciality24;Speciality25;Speciality26;Speciality27;Speciality28;Speciality29;Speciality30;Speciality31;Speciality32;x
+1325001;밍송 항만공학회사 ;100779;1;1865;1999;naval_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325002;한양 병기창 ;100770;2;1894;1945;munitions;artillery;general_equipment;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325003;중싱 석탄회사 ;100771;2;1878;1939;industrial_engineering;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325004;중싱 석탄회사 ;100771;4;1939;1999;industrial_engineering;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325005;장난 항만공학회사 ;100772;2;1905;1999;naval_artillery;naval_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325006;장난 병기창 ;100773;4;1865;1999;training;mechanics;munitions;artillery;general_equipment;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325007;장안 공업소 ;T1015;3;1862;1999;artillery;mechanics;general_equipment;vehicle_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325008;용리 화학 ;100774;4;1934;1949;industrial_engineering;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325009;난징 화학기업 ;100774;6;1949;1999;industrial_engineering;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325010;다구 조선소 ;T8804;2;1880;1999;naval_engineering;naval_artillery;electronics;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325011;텐진 벨기에 전차회사 ;T8807;3;1906;1933;mechanics;electronics;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325012;텐진 벨기에 전차회사 ;T8807;4;1933;1976;mechanics;electronics;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325013;직예 산업국 ;T8808;1;1904;1921;industrial_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325014;직예 산업국 ;T8808;2;1921;1928;industrial_engineering;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325015;텐진 산업국 ;T8808;3;1928;1999;industrial_engineering;technical_efficiency;electronics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325016;우페이푸 ;100364;4;1902;1940;combined_arms_focus;small_unit_tactics;centralized_execution;decentralized_execution;training;infantry_focus;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325017;위안스카이 ;100060;2;1885;1934;small_unit_tactics;decentralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325018;홍콩 전자회사 ;100747;1;1902;1910;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325019;홍콩 트램회사 ;100747;2;1910;1922;management;industrial_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325020;홍콩 전기회사 ;100747;3;1922;1999;electronics;industrial_engineering;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325021;상하이 국제 트램회사 ;100748;4;1908;1970;electronics;industrial_engineering;management;mechanics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325022;돤치루이 ;100758;2;1898;1936;small_unit_tactics;centralized_execution;training;infantry_focus;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325023;베이징대학교 ;100742;2;1898;1928;mathematics;industrial_engineering;mechanics;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325024;베이징대학교 ;100742;3;1928;1945;mathematics;industrial_engineering;mechanics;management;electronics;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325025;베이징대학교 ;100742;4;1945;1999;mathematics;industrial_engineering;mechanics;management;electronics;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325026;수도 일반학교 ;100756;3;1912;1923;mathematics;training;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325027;베이징 일반대학교 ;100756;4;1923;1954;mathematics;training;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325028;베이징 일반대학교 ;100756;6;1954;1999;mathematics;training;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325029;칭화대학교 ;100743;3;1911;1928;mathematics;industrial_engineering;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325030;칭화대학교 ;100743;4;1928;1937;mathematics;industrial_engineering;technical_efficiency;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325031;칭화대학교 ;100743;5;1937;1999;mathematics;industrial_engineering;technical_efficiency;chemistry;electronics;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325032;칭화대학교 ;100744;3;1911;1960;mathematics;industrial_engineering;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325033;칭화대학교 ;100744;4;1911;1999;mathematics;industrial_engineering;technical_efficiency;chemistry;electronics;avionics;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325034;칭화 핵물리연구소 ;100743;7;1911;1999;avionics;rocketry;nuclear_engineering;nuclear_physics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325035;칭화대학교 ;100743;6;1911;1999;chemistry;nuclear_engineering;nuclear_physics;industrial_engineering;mathematics;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325036;난카이대학교 ;100745;4;1919;1945;mathematics;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325037;난카이대학교 ;100745;6;1945;1999;mathematics;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325038;남서대학교 연합 ;100746;6;1911;1999;mathematics;industrial_engineering;mechanics;management;electronics;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325039;베이징 의학학교 ;100757;2;1906;1945;medicine;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325040;베이징 의학학교 ;100757;4;1945;1999;medicine;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325041;직례 군 기초학교 ;100718;1;1905;1926;training;small_unit_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325042;산시 연구학교 ;100759;1;1902;1918;mathematics;chemistry;industrial_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325043;산시 연구소 ;100759;2;1918;1931;mathematics;chemistry;technical_efficiency;industrial_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325044;산시대학교 ;100759;3;1931;1999;mathematics;chemistry;management;technical_efficiency;industrial_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325045;베이양 군사국 ;100760;2;1903;1999;training;small_unit_tactics;munitions;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325046;보병준비학교 ;T8803;2;1906;1999;training;individual_courage;infantry_focus;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325047;바오딩 군관 학교 ;T8803;2;1906;1999;training;decentralized_execution;centralized_execution;mountain_training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325048;바오딩 군사학교 ;T8803;1;1912;1999;training;large_unit_tactics;centralized_execution;individual_courage;cavalry_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325049;바오딩 군사학교 ;T8803;3;1912;1999;training;large_unit_tactics;centralized_execution;individual_courage;decentralized_execution;mountain_training;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325050;잔텐유 ;100749;4;1861;1920;mechanics;industrial_engineering;management;mathematics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325100;타이위안 병기창 ;T8801;3;1912;1999;artillery;general_equipment;training;mechanics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325200;산장 일반대학교 ;100761;1;1902;1906;mathematics;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325201;량장 일반대학교 ;100761;2;1906;1915;mathematics;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325202;난징 고등보통학교 ;100761;2;1915;1921;mathematics;management;industrial_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325203;남서대학교 ;100761;3;1921;1928;mathematics;management;industrial_engineering;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325204;국립 중앙대학교 ;100761;4;1928;1945;mathematics;management;medicine;chemistry;electronics;mechanics;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325205;난징대학교 ;100763;1;1894;1910;mathematics;medicine;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325206;난징대학교 ;100763;2;1910;1952;mathematics;medicine;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325207;난징대학교 ;100761;5;1952;1999;mathematics;management;medicine;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325208;난징 일반대학교 ;100762;6;1952;1984;mathematics;training;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325209;난징 일반대학교 ;100762;7;1984;1999;mathematics;training;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325210;국립 기술연구소 ;100753;6;1952;1988;electronics;chemistry;industrial_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1325211;남서대학교 ;100753;6;1988;1999;electronics;chemistry;industrial_engineering;mathematics;mechanics;;;;;;;;;;;;;;;;;;;;;;;;;;;;x

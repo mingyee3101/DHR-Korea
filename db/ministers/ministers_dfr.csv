@@ -1,0 +1,79 @@
+DFR;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+630001;Head of State;테오도르 호이스 ;1933;1964;1999;SC;Insignificant Layman;High;M38;X
+630002;Head of Government;콘라드 아데나워 ;1933;1964;1999;SC;Corporate Suit;High;M50;X
+630003;Foreign Minister;콘라드 아데나워 ;1933;1964;1999;SC;Great Compromiser;Very High;M50;X
+630004;Minister of Armament;프란츠 에첼 ;1933;1964;1999;SC;Infantry Proponent;Medium;M506004;X
+630005;Minister of Security;로베르트 레어 ;1933;1964;1999;SC;Man of the People;Medium;M506005;X
+630006;Head of Military Intelligence;테오도르 블랑크 ;1933;1964;1999;SC;Political Specialist;Medium;M506006;X
+630007;Chief of Staff;오스카 한센 ;1933;1964;1999;SC;School of Manoeuvre;Medium;L118;X
+630008;Chief of Army;한스 슈파이델 ;1933;1964;1999;SC;Armoured Spearhead Doctrine;Medium;L506191;X
+630009;Chief of Navy;헤르만 무츠 ;1933;1964;1999;SC;Indirect Approach Doctrine;Medium;L506297;X
+630010;Chief of Air Force;알프레드 뷜로비우스 ;1933;1964;1999;SC;Air Superiority Doctrine;Medium;L431;X
+630011;Head of Government;쿠르트 슈마허 ;1933;1964;1999;SD;Ambitious Union Boss;High;M506011;X
+630012;Head of Government;프란츠 블뤼허 ;1933;1964;1999;ML;Political Protege;High;M506012;X
+630013;Foreign Minister;하인리히 폰 브렌타노 ;1933;1964;1999;SC;Ideological Crusader;Very High;M506013;X
+630014;Foreign Minister;에리히 올렌하우어 ;1933;1964;1999;SD;Iron Fisted Brute;Very High;M506014;X
+630015;Foreign Minister;토마스 델러 ;1933;1964;1999;ML;Apologetic Clerk;Very High;M506015;X
+630016;Minister of Armament;프리츠 쉐퍼 ;1933;1964;1999;SC;laissez-faire capitalist;Very High;M103;X
+630017;Minister of Armament;루드비히 에르하르트 ;1933;1964;1999;SC;Mixed economy;Very High;M104;X
+630018;Minister of Armament;하인리히 빌헬름 코프 ;1933;1964;1999;SD;Resource Industrialist;Very High;M506018;X
+630019;Minister of Armament;하인츠 슈타크 ;1933;1964;1999;ML;Theoretical Scientist;Very High;M506019;X
+630020;Minister of Security;카를 아르놀트 ;1933;1964;1999;SC;Crime Fighter;High;M129;X
+630021;Minister of Security;구스타프 하이네만 ;1933;1964;1999;SC;Silent Lawyer;High;M130;X
+630022;Minister of Security;게르하르트 슈뢰더 ;1933;1964;1999;SC;Back Stabber;High;M506022;X
+630023;Minister of Security;게오르크 아우구스트 진 ;1933;1964;1999;SD;Prince of Terror;High;M506023;X
+630024;Minister of Security;라인홀트 마이어 ;1933;1964;1999;ML;Compassionate Gentleman;High;M506024;X
+630025;Head of Military Intelligence;한스 에하르트 ;1933;1964;1999;SC;Logistics Specialist;High;M149;X
+630026;Head of Military Intelligence;라인하르트 겔렌 ;1933;1964;1999;ML;Dismal Enigma;High;M506026;X
+630027;Head of Military Intelligence;프란츠 요제프 슈트라우스 ;1933;1964;1999;SC;Industrial Specialist;High;M506027;X
+630028;Head of Military Intelligence;오이겐 게르슈텐마이어 ;1933;1964;1999;SD;Technical Specialist;High;M506028;X
+630029;Head of Military Intelligence;한스 자이델 ;1933;1964;1999;ML;Naval Intelligence Specialist;High;M506029;X
+630030;Chief of Staff;한스 슈파이델 ;1933;1964;1999;SD;School of Fire Support;Medium;L506191;X
+630031;Chief of Staff;요제프 캄후버 ;1933;1964;1999;ML;School of Psychology;Medium;L448;X
+630032;Chief of Army;오스카 한센 ;1933;1964;1999;SD;Decisive Battle Doctrine;Medium;L118;X
+630033;Chief of Army;카를 하인리히 뤼브케 ;1933;1964;1999;ML;Guns and Butter Doctrine;Medium;M506033;X
+630034;Chief of Navy;콘라드 팟지크 ;1933;1964;1999;SD;Decisive Naval Battle Doctrine;Medium;L506300;X
+630035;Chief of Navy;에리히 쾰러 ;1933;1964;1999;ML;Base Control Doctrine;Medium;M506035;X
+630036;Chief of Air Force;프란츠 요제프 슈트라우스 ;1933;1964;1999;SC;Vertical Envelopment Doctrine;Medium;M506027;X
+630037;Chief of Air Force;요제프 캄후버 ;1933;1964;1999;SD;Army Aviation Doctrine;Medium;L448;X
+630038;Chief of Air Force;헤르만 엘러스 ;1933;1964;1999;ML;Naval Aviation Doctrine;Medium;M506038;X
+630039;Minister of Armament;테오도르 블랑크 ;1951;1964;1999;SC;Military Entrepreneur;Very High;M506039;X
+630040;Minister of Security;로베르트 레어 ;1950;1964;1999;SC;Man of the People;High;M506040;X
+630041;Head of State;카를 하인리히 뤼브케 ;1959;1964;1999;SC;Weary Stiffneck;High;M506033;X
+630042;Head of Government;루드비히 에르하르트 ;1963;1964;1999;SC;Flamboyant Tough Guy;High;M104;X
+630043;Head of Government;에리히 올렌하우어 ;1952;1964;1999;SD;Political Protege;High;M506014;X
+630044;Head of Government;빌리 브란트 ;1957;1964;1999;SD;Naive Optimist;High;M506044;X
+630045;Foreign Minister;게르하르트 슈뢰더 ;1961;1964;1999;SC;Biased Intellectual;Very High;M506022;X
+630046;Foreign Minister;빌리 브란트 ;1957;1964;1999;SD;Great Compromiser;Very High;M506044;X
+630047;Minister of Armament;프란츠 요제프 슈트라우스 ;1956;1964;1999;SC;Resource Industrialist;Very High;M506027;X
+630048;Minister of Armament;카이 우베 폰 하셀 ;1961;1964;1999;SC;Theoretical Scientist;Very High;M506048;X
+630049;Minister of Security;헤르만 회첼 ;1961;1964;1999;SC;Crime Fighter;High;M506049;X
+630050;Minister of Security;에발트 부허 ;1957;1964;1999;SL;Efficient Sociopath;High;M506050;X
+630051;Head of State;테오도르 호이스 ;1933;1964;1999;SD;Insignificant Layman;High;M38;X
+630052;Head of State;카를 하인리히 뤼브케 ;1959;1964;1999;SD;Weary Stiffneck;High;M506033;X
+630053;Chief of Air Force;요하네스 슈타인호프 ;1955;1964;1999;SC;Carpet Bombing Doctrine;Very High;6099;x
+630054;Chief of Staff;오토 스콜체니 ;1947;1964;1999;PA;School of Psychology;medium;L528;x
+630055;Head of Government;알렉산더 안드라에 ;1948;1964;1999;FA;Old AirMarshal;medium;6101;x
+630056;Head of State;발두르 폰 쉬라흐 ;1945;1964;1999;FA;Autocratic Charmer;medium;6102;x 
+630057;Chief of Air Force;한스 울리히 루델 ;1950;1964;1999;FA;Air Superiority Doctrine;High;L464;x
+630058;Head of State;카를 되니츠 ;1945;1964;1999;PA;Stern Imperialist;High;M32;x
+630059;Head of Government;카를 되니츠 ;1945;1964;1999;PA;Old Admiral;High;M32;x
+630060;Chief of Navy;카를 되니츠 ;1945;1964;1999;PA;Indirect Approach Doctrine;High;M32;x
+630061;Minister of Armament;카를 되니츠 ;1944;1964;1999;PA;Submarine Proponent;High;M32;x
+630062;Chief of Air Force;아돌프 갈란트 ;1946;1964;1999;PA;Air Superiority Doctrine;High;L437;x
+630063;Chief of Air Force;알베르트 케셀링 ;1945;1964;1999;PA;vertical Envelopment Doctrine;High;M207;x
+630064;Minister of Armament;알베르트 슈페어 ;1945;1964;1999;PA;Genius organizer;High;2645;x
+630065;Minister of Security;아르투르 악스만 ;1945;1964;1999;PA;Man of the People;High;6103;x
+630066;Head of Military Intelligence;발두르 쉬라흐 ;1945;1964;1999;FA;Logistics Specialist;High;6102;x
+630067;Minister of Security;오토 에론스트 레머 ;1947;1964;1999;NS;Prince of Terror;High;6017;x
+630068;Chief of Navy;에리히 토프 ;1958;1964;1999;ML;Indirect Approach Doctrine;High;603;x
+630069;Minister of Security;아돌프 폰 타덴 ;1950;1964;1999;NS;Back Stabber;High;6104;x
+630070;Minister of Security;오토 에론스르 레머 ;1947;1964;1999;NS;Prince of Terror;High;6017;x
+630071;Chief of Staff;핫소 폰 만토이펠 ;1947;1964;1999;PA;School of Manoeuvre;High;6105;x
+630072;Chief of Staff;하인츠 귄터 구데리안 ;1954;1964;1999;PA;School of Mass Combat;High;6106;x
+630073;Chief of Staff;하인츠 귄터 구데리안 ;1954;1964;1999;SC;School of Mass Combat;High;6106;x
+630074;Chief of Staff;안톤 데틀레프 폰 플라토 ;1954;1964;1999;PA;School of Fire Support;Medium;6107;x 
+630075;Minister of Security;한스 글롭케 ;1953;1964;1999;PA;Efficient Sociopath;High;6108;x
+630076;Minister of Security;한스 글롭케 ;1953;1964;1999;SC;Efficient Sociopath;High;6108;x
+630077;Chief of Navy;아우구스트 틸레 ;1946;1964;1999;PA;Decisive Naval Battle Doctrine;High;L419;x 

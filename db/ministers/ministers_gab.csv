@@ -1,0 +1,55 @@
+GAB;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+655001;Head of State;루이 봉뱅 ;1931;1964;1999;SL;Powerhungry Demagogue;High;M536001;X
+655002;Head of Government;프랑수아 레스트 ;1933;1964;1999;SL;Political Protege;High;M536002;X
+655003;Foreign Minister;빅토르 발렝탱 스미스 ;1933;1964;1999;SL;Great Compromiser;High;M536003;X
+655004;Minister of Armament;조르주 피에르 마송 ;1933;1964;1999;SL;Administrative Genius;Medium;M536004;X
+655005;Minister of Security;조르주 파리소 ;1933;1964;1999;SL;Silent Lawyer;Medium;M536005;X
+655006;Head of Military Intelligence;샤를 A.M. 아시에르 ;1933;1964;1999;SL;Naval Intelligence Specialist;Medium;M536006;X
+655007;Chief of Staff;앙드레 파랑 ;1933;1964;1999;SL;School of Fire Support;Medium;L533014;X
+655008;Chief of Army;펠릭스 에부 ;1933;1964;1999;SL;Decisive Battle Doctrine;Medium;M536008;X
+655009;Chief of Navy;프랑수아 레스트 ;1933;1964;1999;SL;Base Control Doctrine;Medium;M536002;X
+655010;Chief of Air Force;앙드레 파랑 ;1933;1964;1999;SL;Army Aviation Doctrine;Medium;L533014;X
+655011;Head of State;조르주 파리소 ;1937;1964;1999;SL;Weary Stiffneck;High;M536005;X
+655012;Head of State;조르주 피에르 마송 ;1938;1964;1999;SL;Pig-headed Isolationist;High;M536004;X
+655013;Head of State;앙드레 파랑 ;1940;1964;1999;SL;Resigned Generalissimo;High;L533014;X
+655014;Head of State;빅토르 발렝탱 스미스 ;1941;1964;1999;SL;Benevolent Gentleman;High;M536003;X
+655015;Head of State;모리스 아시에르 드 퐁피냥 ;1942;1964;1999;SL;Benevolent Gentleman;High;M536006;X
+655016;Head of State;폴 뷔욤 ;1943;1964;1999;SL;Insignificant Layman;High;M536016;X
+655017;Head of State;롤랑 프레 ;1944;1964;1999;SL;Barking Buffoon;High;M536017;X
+655018;Head of State;누마 사둘 ;1946;1964;1999;SL;Die-hard Reformer;High;M536018;X
+655019;Head of State;레옹 가브리엘 음바 ;1933;1964;1999;LWR;Autocratic Charmer;High;M536019;X
+655020;Head of State;장 바티스트 로베르 ;1933;1964;1999;PA;Barking Buffoon;High;M536020;X
+655021;Head of Government;피에르 부아송 ;1939;1964;1999;SL;Flamboyant Tough Guy;High;M536021;X
+655022;Head of Government;펠릭스 에부 ;1940;1964;1999;SL;Old Admiral;High;M536008;X
+655023;Head of Government;앙드레 바야르델 ;1944;1964;1999;SL;Ambitious Union Boss;High;M536023;X
+655024;Head of Government;퓔베르 율루 ;1933;1964;1999;LWR;Happy Amateur;High;M536024;X
+655025;Head of Government;장 바티스트 로베르 ;1933;1964;1999;PA;Flamboyant Tough Guy;High;M536020;X
+655026;Foreign Minister;알베르 코앙 ;1940;1964;1999;SL;The Cloak N Dagger Schemer;High;M536026;X
+655027;Foreign Minister;모리스 페리오 ;1943;1964;1999;SL;Apologetic Clerk;High;M536027;X
+655028;Foreign Minister;파스칼 리수바 ;1933;1964;1999;LWR;Ideological Crusader;High;M536028;X
+655029;Foreign Minister;프랑수아 레스트 ;1933;1964;1999;PA;General Staffer;High;M536002;X
+655030;Minister of Armament;앙드레 바야르델 ;1941;1964;1999;SL;Submarine Proponent;Medium;M536023;X
+655031;Minister of Armament;가스통 플로베르 ;1943;1964;1999;SL;Air Superiority Proponent;Medium;M536031;X
+655032;Minister of Armament;알퐁스 마상바 드바 ;1933;1964;1999;LWR;Corrupt Kleptocrat;Medium;M536032;X
+655033;Minister of Armament;알베르 코앙 ;1933;1964;1999;PA;laissez-faire capitalist;Medium;M536026;X
+655034;Minister of Security;피에르 부아송 ;1938;1964;1999;SL;Prince of Terror;Medium;M536021;X
+655035;Minister of Security;누마 사둘 ;1944;1964;1999;SL;Man of the People;Medium;M536018;X
+655036;Minister of Security;응콜라 음보모 ;1933;1964;1999;LWR;Efficient Sociopath;Medium;M536036;X
+655037;Minister of Security;가스통 플로베르 ;1933;1964;1999;PA;Back Stabber;Medium;M536031;X
+655038;Head of Military Intelligence;폴 뷔욤 ;1941;1964;1999;SL;Political Specialist;Medium;M536016;X
+655039;Head of Military Intelligence;모리스 카우자 ;1944;1964;1999;SL;Industrial Specialist;Medium;M536039;X
+655040;Head of Military Intelligence;다비드 무세다 ;1933;1964;1999;LWR;Logistics Specialist;Medium;M536040;X
+655041;Head of Military Intelligence;피에르 부아송 ;1933;1964;1999;PA;Dismal Enigma;Medium;M536021;X
+655042;Chief of Staff;레이몽 들라쥐 ;1941;1964;1999;SL;School of Psychology;Medium;M536042;X
+655043;Chief of Staff;샤를 마앙고 ;1933;1964;1999;LWR;School of Manoeuvre;Medium;M536043;X
+655044;Chief of Staff;프랑수아 레스트 ;1933;1964;1999;PA;School of Psychology;Medium;M536002;X
+655045;Chief of Army;라파엘 폴리오 ;1944;1964;1999;SL;Guns and Butter Doctrine;Medium;M536045;X
+655046;Chief of Army;퓔베르 율루 ;1933;1964;1999;LWR;Static Defence Doctrine;Medium;M536046;X
+655047;Chief of Army;장 륄리에르 ;1933;1964;1999;PA;Armoured Spearhead Doctrine;Medium;M536047;X
+655048;Chief of Navy;모리스 아시에르 드 퐁피냥 ;1944;1964;1999;SL;Power Projection Doctrine;Medium;M536006;X
+655049;Chief of Navy;펠릭스 에부 ;1933;1964;1999;LWR;Open Seas Doctrine;Medium;M536008;X
+655050;Chief of Navy;모리스 카우자 ;1933;1964;1999;PA;Decisive Naval Battle Doctrine;Medium;M536039;X
+655051;Chief of Air Force;롤랑 프레 ;1941;1964;1999;SL;Air Superiority Doctrine;Medium;M536017;X
+655052;Chief of Air Force;펠릭스 에부 ;1933;1964;1999;LWR;Vertical Envelopment Doctrine;Medium;M536008;X
+655053;Chief of Air Force;자크 앙드리외 ;1933;1964;1999;PA;Naval Aviation Doctrine;Medium;M536053;X

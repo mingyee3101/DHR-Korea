@@ -1,0 +1,43 @@
+SPA;Name;Pic Name;Skill;Start Year;End Year;Speciality1;Speciality2;Speciality3;Speciality4;Speciality5;Speciality6;Speciality7;Speciality8;Speciality9;Speciality10;Speciality11;Speciality12;Speciality13;Speciality14;Speciality15;Speciality16;Speciality17;Speciality18;Speciality19;Speciality20;Speciality21;Speciality22;Speciality23;Speciality24;Speciality25;Speciality26;Speciality27;Speciality28;Speciality29;Speciality30;Speciality31;Speciality32;x
+35001;CASA ;T3100;3;1930;1970;aeronautics;bomber_design;avionics;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+35002;CROS ;T3101;2;1936;1970;chemistry;management;industrial_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+35003;마리아 데 아레일사 ;T3102;3;1930;1970;management;mathematics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+35004;에스페란사 & 운세타 ;100106;4;1926;1953;artillery;general_equipment;munitions;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+35005;트루비아 병기창 ;100319;4;1794;1970;mechanics;artillery;vehicle_engineering;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+35006;페롤 야포 제조소 ;T3105;4;1930;1970;mechanics;artillery;munitions;training;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+35007;후안 로페스 솔레르 ;100320;4;1930;1970;mathematics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+35008;프란시스코 프랑코 ;T3108;4;1930;1970;infantry_focus;large_unit_tactics;centralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+35009;가르시아 발리뇨 ;100844;5;1930;1970;decentralized_execution;small_unit_tactics;mountain_training;infantry_focus;individual_courage;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+35010;사리아 화학 연구소 ;100321;4;1930;1970;chemistry;nuclear_physics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+35011;가르시아 모라토 ;T3111;5;1930;1939;training;fighter_tactics;piloting;centralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+35012;이스파노 아비아시온 ;100696;4;1939;1970;aeronautics;fighter_design;avionics;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+35013;에스파냐 조선회사 ;100322;5;1909;1969;naval_engineering;naval_artillery;electronics;carrier_design;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+35014;세르베라 발데라마 ;T3115;4;1930;1970;naval_training;small_taskforce_tactics;seamanship;decentralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+35015;알프레도 킨더란 ;T3116;3;1930;1946;training;bomber_tactics;piloting;decentralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+35016;에스파냐 석유회사 ;100323;4;1930;1970;chemistry;industrial_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+35017;앙헬 살라스 라라사발 ;100324;4;1939;1970;training;fighter_tactics;piloting;centralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+35018;에두아르도 곤살레스 ;100609;4;1944;1960;bomber_tactics;piloting;centralized_execution;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+35019;에스페란사 & 운세타 ;100106;4;1908;1926;general_equipment;munitions;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+35020;오비에도 병기창 ;100328;4;1856;1970;artillery;mechanics;vehicle_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+35021;호세 마리아 차콘 ;100687;4;1900;1922;large_taskforce_tactics;small_taskforce_tactics;decentralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+35022;에브로 화학 연구소 ;100326;4;1905;1916;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+35023;사리아 화학 연구소 ;100326;4;1916;1970;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+35024;레오나르도 토레스 ;100462;6;1893;1935;mechanics;industrial_engineering;management;mathematics;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+35025;후안 데 라 시에르바 ;100501;7;1918;1935;aircraft_testing;aeronautics;avionics;fighter_design;bomber_design;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+35026;페드로 비베스 비크 ;100688;5;1898;1915;piloting;fighter_tactics;bomber_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+35027;오라시오 에체바리에타 ;100463;4;1917;1952;naval_engineering;naval_artillery;submarine_design;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+35028;발레리아노 베일레르 ;100464;4;1900;1913;large_unit_tactics;large_unit_focus;static_defense_tactics;infantry_focus;maneuver_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+35029;다마소 베렝게르 ;100327;3;1913;1930;large_unit_tactics;large_unit_focus;static_defense_tactics;infantry_focus;maneuver_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+35030;해군 군사학교 ;100329;5;1913;1943;naval_training;seamanship;marine_training;centralized_execution;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+35031;후안 바우티스타 아스나르 ;100465;5;1922;1933;large_taskforce_tactics;small_taskforce_tactics;decentralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+35032;쿠아트로 비엔토스 항공학교 ;100330;1;1911;1932;piloting;training;individual_courage;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+35033;알프레도 킨더란 ;100466;4;1913;1930;fighter_tactics;bomber_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+35034;육군 공병학교 ;100689;6;1833;1931;technical_efficiency;mechanics;aeronautics;aircraft_testing;artillery;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+35035;카탈로니아 항공학교 ;100690;3;1916;1932;piloting;fighter_tactics;bomber_tactics;training;individual_courage;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+35036;톨레도 육군학교 ;100691;4;1850;1932;mountain_training;training;maneuver_tactics;individual_courage;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+35037;마테오 가르시아 ;100692;3;1915;1932;submarine_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+35038;에스파냐 일반육군학교 ;100693;5;1882;1932;centralized_execution;decentralized_execution;small_unit_tactics;individual_courage;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+35039;에스파냐 기병학교 ;100694;4;1852;1932;cavalry_tactics;small_unit_tactics;training;individual_courage;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+35040;산티아고 라몬 ;100695;8;1875;1932;medicine;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+35041;이스파노-수이사 ;100323;5;1904;1939;aeronautics;vehicle_engineering;mechanics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+35042;에스파냐 산업공학학교 ;100697;3;1907;1970;mechanics;industrial_engineering;management;technical_efficiency;electronics;;;;;;;;;;;;;;;;;;;;;;;;;;;;

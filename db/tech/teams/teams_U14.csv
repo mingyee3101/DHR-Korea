@@ -1,0 +1,16 @@
+U14;Name;Pic Name;Skill;Start Year;End Year;Speciality1;Speciality2;Speciality3;Speciality4;Speciality5;Speciality6;Speciality7;Speciality8;Speciality9;Speciality10;Speciality11;Speciality12;Speciality13;Speciality14;Speciality15;Speciality16;Speciality17;Speciality18;Speciality19;Speciality20;Speciality21;Speciality22;Speciality23;Speciality24;Speciality25;Speciality26;Speciality27;Speciality28;Speciality29;Speciality30;Speciality31;Speciality32;x
+885001;이탈리아 무기 노동조합 ;T1801;4;1900;1970;training;general_equipment;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+885002;연합 군수 조합 ;T1802;5;1900;1970;aeronautics;general_equipment;artillery;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+885003;리구리아 조선 조합 ;T1804;4;1900;1970;naval_engineering;naval_artillery;electronics;mechanics;artillery;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+885004;리우니티 인민조선소 ;T1805;5;1900;1970;naval_engineering;technical_efficiency;naval_artillery;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+885005;이탈리아 항공연구 조합 ;100176;6;1900;1970;aeronautics;electronics;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+885006;브루노 데 피네티 ;T1803;5;1939;1970;mathematics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+885007;아르투로 크로코 ;T1800;5;1930;1970;rocketry;mathematics;aeronautics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+885008;이탈리아 항공 노동조합 ;100174;3;1900;1970;aeronautics;electronics;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+885009;FIAT 노동조합 ;T1808;5;1900;1970;mechanics;artillery;management;electronics;aeronautics;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+885010;란차 노동조합 ;100177;4;1900;1970;mechanics;industrial_engineering;general_equipment;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+885011;이탈리아 인민해군학교 ;100361;3;1900;1970;large_taskforce_tactics;naval_training;seamanship;centralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+885012;이탈리아 인민공군학교 ;100362;5;1900;1970;bomber_tactics;centralized_execution;piloting;fighter_tactics;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+885013;이탈리아 인민육군학교 ;100363;4;1900;1970;small_unit_tactics;decentralized_execution;combined_arms_focus;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+885014;몬테카티니 노동조합 ;T1820;4;1900;1970;chemistry;industrial_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+885015;줄리오 나타 ;T1821;6;1930;1970;chemistry;management;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x

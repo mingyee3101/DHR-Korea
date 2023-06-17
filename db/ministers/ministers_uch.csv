@@ -1,0 +1,98 @@
+UCH;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+1325100;Head of State;À§¾È½ºÄ«ÀÌ ;1885;1916;1932;PA;Yuan Shikai_1;High;9466;X
+1325101;Head of Government;½¹½Ã¸µ ;1897;1915;1937;PA;Corporate Suit;High;9467;X
+1325102;Foreign Minister;¼ø¹Ù¿ÀÄ¡ ;1900;1928;1928;PA;Great Compromiser;High;9468;X
+1325103;Minister of Armament;½¹½Ã¸µ ;1897;1915;1937;PA;Resource Industrialist;Medium;9467;X
+1325104;Head of Military Intelligence;Àú¿ìÂêÄ¡ ;1896;1923;1923;PA;Technical Specialist;Medium;9469;X
+1325105;Minister of Security;ÁÖÄ¡Ã¾ ;1909;1933;1957;PA;Prince of Terror;Medium;9470;X
+1325106;Chief of Staff;µÃÄ¡·çÀÌ ;1898;1926;1936;PA;School of Mass Combat;Medium;9471;X
+1325107;Chief of Army;µÃÄ¡·çÀÌ ;1898;1926;1936;PA;Decisive Battle Doctrine;Medium;9471;X
+1325108;Chief of Navy;·ù±¤½¹ ;1894;1927;1927;PA;Open Seas Doctrine;Medium;9472;X
+1325109;Chief of Air Force;µÃÄ¡·çÀÌ ;1898;1926;1936;PA;Army Aviation Doctrine;Medium;9471;X
+1325110;Minister of Armament;ÀåÁö¾È ;1909;1926;1926;SC;Reformer;Medium;9473;X
+1325111;Minister of Security;·®Ä¡Â÷¿À ;1895;1918;1918;ML;Man of the People;Medium;9462;X
+1325112;Head of Government;¼ø¹Ù¿ÀÄ¡ ;1900;1928;1928;PA;Silent Workhorse;High;9468;X
+1325113;Minister of Security;ÀåÁß¼§ ;1914;1933;1962;PA;Silent Lawyer;Medium;9474;X
+1325114;Head of Government;¼ö½ºÃ¢ ;1905;1922;1939;PA;Political Protege;Very High;9475;X
+1325115;Minister of Armament;Àú¿ìÂêÄ¡ ;1896;1923;1923;PA;Infantry Proponent;Very High;9469;X
+1325116;Minister of Armament;Àú¿ì¼­¿ì½Ã ;1916;1933;1947;PA;Corrupt Kleptocrat;Very High;9476;X
+1325117;Foreign Minister;·çÁ¤¼§ ;1893;1922;1922;PA;Biased Intellectual;High;9477;X
+1325118;Chief of Staff;¿Õ½ºÀü ;1894;1930;1930;PA;School of Defence;Medium;9478;X
+1325119;Chief of Army;¿Õ½ºÀü ;1894;1930;1930;PA;Static Defence Doctrine;High;9478;X
+1325120;Head of Government;µÃÄ¡·çÀÌ ;1898;1926;1936;PA;Flamboyant Tough Guy;Very High;9471;X
+1325121;Minister of Security;¿ÕÀÌÅÁ ;1907;1931;1948;PA;Crime Fighter;Low;9479;X
+1325122;Minister of Armament;Áø¹æÇÎ ;1916;1933;1933;PA;Resource Industrialist;Medium;9480;X
+1325123;Head of Military Intelligence;µÃÄ¡·çÀÌ ;1898;1926;1936;PA;Political Specialist;High;9471;X
+1325200;Head of State;¸®À§¾ÈÈË ;1910;1924;1924;PA;Insignificant Layman;High;9483;X
+1325201;Minister of Security;¼ö½ºÀ× ;1902;1926;1948;PA;Silent Lawyer;Medium;9484;X
+1325202;Minister of Armament;ÃµÁøÅ¸¿À ;1912;1935;1939;PA;Corrupt Kleptocrat;Low;9485;X
+1325203;Foreign Minister;ÅÁ»ç¿ÀÀÌ ;1912;1924;1924;SC;Ideological Crusader;Medium;9486;X
+1325204;Minister of Armament;Àå±Å°£ ;1906;1951;1951;PA;Laissez-faire Capitalist;High;9487;X
+1325205;Head of Government;¿ìÆÃÆÎ ;1896;1922;1922;SC;Naive Optimist;High;9488;X
+1325206;Minister of Security;ÆÇÀ§¾È·Ë ;1917;1927;1927;PA;Compassionate Gentleman;Medium;9489;X
+1325207;Minister of Armament;¸®Â¡½Ã ;1901;1917;1917;PA;Military Entrepreneur;Medium;9490;X
+1325208;Foreign Minister;¿ìÆÃÆÎ ;1896;1922;1922;SC;Biased Intellectual;High;9488;X
+1325209;Chief of Staff;Àå½ºÀ§ ;1917;1918;1918;PA;School of Psychology;High;9491;X
+1325210;Chief of Army;Àå½ºÀ§ ;1917;1918;1918;PA;Guns and Butter Doctrine;Medium;9491;X
+1325211;Minister of Security;Àå¾ß¿ÀÂÄ ;1914;1938;1938;PA;Silent Lawyer;Medium;9492;X
+1325212;Minister of Armament;±¸Áß½´ ;1917;1949;1949;PA;Resource Industrialist;Medium;9493;X
+1325213;Chief of Navy;»çÀüºù ;1881;1934;1934;PA;Indirect Approach Doctrine;Medium;9494;X
+1325214;Minister of Armament;¸®¼±µÖ ;1891;1934;1934;PA;Resource Industrialist;Medium;9495;X
+1325215;Head of State;Æã±ÅÀå ;1903;1919;1919;PA;Resigned Generalissimo;High;9496;X
+1325216;Minister of Security;ÅÁÈ­·î ;1917;1918;1918;PA;Prince of Terror;Medium;9497;X
+1325217;Minister of Armament;·®Ä¡Â÷¿À ;1895;1918;1918;ML;Laissez-faire Capitalist;Medium;9462;X
+1325218;Head of Government;¿Õ½ºÀü ;1894;1930;1930;PA;Old General;Very High;9478;X
+1325219;Minister of Security;Ã¾³Õ¼ø ;1903;1920;1920;PA;Crime Fighter;Low;9498;X
+1325220;Minister of Armament;¿ÕÄ¿¹Î ;1907;1945;1945;PA;Corrupt Kleptocrat;Low;9499;X
+1325221;Minister of Armament;Â÷¿À·ç¸° ;1913;1920;1920;PA;Administrative Genius;Medium;9500;X
+1325222;Chief of Staff;µÃÁî±¸ÀÌ ;1912;1920;1925;PA;School of Manoeuvre;High;9482;X
+1325223;Chief of Army;µÃÁî±¸ÀÌ ;1912;1920;1925;PA;Decisive Battle Doctrine;Medium;9482;X
+1325224;Head of State;¼ö½ºÃ¢ ;1905;1922;1939;PA;Weary Stiffneck;High;9475;X
+1325225;Head of Government;Ã¾³Õ¼ø ;1903;1920;1920;PA;Corporate Suit;High;9498;X
+1325226;Minister of Armament;±Ã½ÃÀÜ ;1912;1926;1926;PA;Laissez-faire Capitalist;Medium;9501;X
+1325227;Chief of Staff;ÁøÀ©Æã ;1902;1921;1921;PA;School of Mass Combat;Medium;9502;X
+1325228;Chief of Army;ÁøÀ©Æã ;1902;1921;1921;PA;Decisive Battle Doctrine;Medium;9502;X
+1325229;Minister of Security;ÁÖ¼± ;1912;1944;1944;PA;Crime Fighter;Low;9503;X
+1325230;Head of Government;ÁøÀ©Æã ;1902;1921;1921;PA;Old General;Very High;9502;X
+1325231;Minister of Armament;¸®½ÃÇÏ¿À ;1919;1949;1949;PA;Resource Industrialist;Medium;9504;X
+1325232;Minister of Security;Åã¿ø·Ê ;1885;1922;1922;PA;Silent Lawyer;Medium;9505;X
+1325233;Minister of Security;ÀåÂêÅº ;1919;1920;1933;PA;Man of the People;Medium;9506;X
+1325234;Foreign Minister;¿ºÈÄÀÌÄª ;1907;1949;1949;PA;Apologetic Clerk;High;9507;X
+1325235;Head of Government;¼ö½ºÃ¢ ;1910;1926;1926;PA;Political Protege;Very High;9508;X
+1325300;Head of Government;·®½ºÀÌ ;1902;1931;1931;PA;Naive Optimist;High;9481;X
+1325301;Minister of Security;°¡¿À¸µ¿şÀÌ ;1910;1940;1940;PA;Compassionate Gentleman;Low;9521;X
+1325302;Minister of Armament;ÀåÈÄ ;1904;1938;1938;PA;Resource Industrialist;Medium;9522;X
+1325303;Chief of Staff;¹Ù¿À±¸ÀÌÄª ;1913;1929;1929;PA;School of Psychology;High;9523;X
+1325304;Chief of Army;¹Ù¿À±¸ÀÌÄª ;1913;1929;1929;PA;Static Defence Doctrine;High;9523;X
+1325305;Chief of Navy;¸®µù½Å ;1886;1930;1930;PA;Decisive Naval Battle Doctrine;High;9464;X
+1325306;Head of State;°¡¿À¸µ¿şÀÌ ;1910;1926;1940;PA;Weary Stiffneck;High;9521;X
+1325307;Head of Government;¿ÕÃæÈÄÀÌ ;1905;1949;1949;PA;Naive Optimist;High;9524;X
+1325308;Foreign Minister;±¸¿şÀÌÁØ ;1912;1957;1957;SC;Great Compromiser;High;9525;X
+1325309;Chief of Staff;Àå»ç¿ÀÂÄ ;1903;1929;1929;PA;School of Psychology;High;9526;X
+1325310;Chief of Army;Àå»ç¿ÀÂÄ ;1903;1929;1929;PA;Decisive Battle Doctrine;Medium;9526;X
+1325311;Head of Government;¿Õ´Ù½Ã¾î ;1901;1930;1930;PA;Silent Workhorse;High;9527;X
+1325312;Head of Government;¿ºÈÄÀÌÄª ;1907;1949;1949;PA;Happy Amateur;High;9507;X
+1325313;Minister of Security;Åº¿ºÄ«ÀÌ ;1907;1931;1931;SC;Man of the People;Medium;9528;X
+1325314;Chief of Staff;¿ìÆäÀÌÇª ;1902;1927;1940;PA;School of Manoeuvre;High;9529;X
+1325315;Chief of Army;¿ìÆäÀÌÇª ;1902;1927;1940;PA;Wu_Peifu;Medium;9529;X
+1325316;Minister of Armament;°¡¿À¸µ¿şÀÌ ;1910;1926;1940;PA;Resource Industrialist;Medium;9521;X
+1325317;Head of Government;Àå»ç¿ÀÂÄ ;1903;1929;1929;PA;Old General;Very High;9526;X
+1325318;Foreign Minister;½ºÀÚ¿ÀÁö ;1893;1937;1937;PA;Great Compromiser;High;9530;X
+1325319;Head of State;Â÷¿ÀÄï ;1885;1925;1925;PA;Cao_Kun;High;9531;X
+1325320;Head of Government;°¡¿À¸µ¿şÀÌ ;1910;1926;1940;PA;Political Protege;Very High;9521;X
+1325321;Chief of Staff;¿ÕÅº ;1911;1924;1924;PA;School of Mass Combat;Medium;9532;X
+1325322;Chief of Army;¿ÕÅº ;1911;1924;1924;PA;Guns and Butter Doctrine;Medium;9532;X
+1325323;Chief of Air Force;¿ìÆäÀÌÇª ;1902;1927;1940;PA;Army Aviation Doctrine;Medium;9529;X
+1325324;Chief of Staff;·çÁø ;1912;1925;1925;PA;School of Defence;Medium;9533;X
+1325325;Chief of Army;·çÁø ;1912;1925;1925;PA;Static Defence Doctrine;High;9533;X
+1325326;Head of Government;±¸¿şÀÌÁØ ;1912;1957;1957;SC;Naive Optimist;High;9525;X
+1325327;Minister of Armament;°¡¿À¾ğÈË ;1912;1925;1925;PA;Resource Industrialist;Medium;9534;X
+1325328;Head of State;¾§ÃÓÆÎ ;1901;1931;1936;PA;Autocratic Charmer;Medium;9536;X
+1325329;Chief of Army;¾§ÃÓÆÎ ;1901;1931;1936;PA;Decisive Battle Doctrine;Low;9536;X
+1325330;Minister of Armament;·ù¾ğÀ§¾È ;1895;1924;1948;PA;Military Entrepreneur;Medium;9537;X
+1325331;Minister of Armament;¿ìÀ§¸° ;1895;1925;1925;PA;Battle Fleet Proponent;High;9538;X
+1325332;Minister of Armament;ÀåÀ×È­ ;1918;1926;1944;PA;Administrative Genius;Medium;9539;X
+1325333;Minister of Security;µ¢½ÃÇã¿ì ;1917;1926;1965;PA;Prince of Terror;Medium;9540;X
+1325334;Chief of Navy;¿ìÀ§¸° ;1895;1925;1925;PA;Open Seas Doctrine;Medium;9538;X
+1325335;Chief of Air Force;¿ÕÃ»ºó ;1913;1925;1937;PA;Carpet Bombing Doctrine;Medium;9541;X
+1325400;Head of State;µÃÄ¡·çÀÌ ;1898;1926;1936;PA;Insignificant Layman;High;9471;X

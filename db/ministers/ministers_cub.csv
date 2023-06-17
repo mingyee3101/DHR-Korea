@@ -1,0 +1,117 @@
+CUB;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+85001;Head of State;호세 바르네트 ;1933;1964;1999;ML;Insignificant Layman;High;M33001;X
+85002;Head of Government;미겔 고메스 ;1933;1964;1999;ML;Naive Optimist;High;M33002;X
+85003;Foreign Minister;호세 바르네트 ;1933;1964;1999;ML;Iron Fisted Brute;Medium;M33001;X
+85004;Minister of Armament;카를로스 프리오 ;1933;1964;1999;ML;Administrative Genius;Low;M33004;X
+85005;Minister of Security;세르히오 카르보 ;1933;1964;1999;ML;Compassionate Gentleman;Medium;M33005;X
+85006;Head of Military Intelligence;마누엘 페라라 ;1933;1964;1999;ML;Dismal Enigma;Medium;M33006;X
+85007;Chief of Staff;훌리오 상길리 ;1933;1964;1999;ML;School of Defence;Medium;M33007;X
+85008;Chief of Army;살바도르 카스트로 ;1933;1964;1999;ML;Elastic Defence Doctrine;Medium;M33008;X
+85009;Chief of Navy;로드리고 A. 푸엔테스 ;1933;1964;1999;ML;Open Seas Doctrine;Medium;M33009;X
+85010;Chief of Air Force;도밍고 R. 델 토로 ;1933;1964;1999;ML;Army Aviation Doctrine;High;M33010;X
+85011;Head of State;미겔 고메스 ;1933;1964;1999;ML;Benevolent Gentleman;High;M33002;X
+85012;Head of State;헤라르도 마차도 ;1925;1939;1999;ML;Die-hard Reformer;High;M33032;X
+85013;Head of State;페데리코 라레도 브루 ;1933;1964;1999;SD;Insignificant Layman;High;M33014;X
+85014;Head of State;풀헨시오 바티스타 ;1940;1964;1999;SC;Resigned Generalissimo;High;M33034;X
+85015;Head of State;라몬 그라우 산 마르틴 ;1944;1964;1999;PA;Popular Figurehead;High;M33011;X
+85016;Head of State;후안 마르티네스 비예이라 ;1933;1964;1999;LWR;Powerhungry Demagogue;High;M33021;X
+85017;Head of State;카를로스 프리오 ;1944;1964;1999;LWR;Popular Figurehead;High;M33004;X
+85018;Head of Government;헤라르도 마차도 ;1925;1939;1999;ML;Silent Workhorse;High;M33032;X
+85019;Head of Government;에두아르도 치바스 ;1940;1964;1999;ML;Political Protege;High;M33013;X
+85020;Head of Government;에우헤니오 카스트로 ;1944;1964;1999;ML;Corporate Suit;High;M33040;X
+85021;Head of Government;풀헨시오 바티스타 ;1933;1964;1999;SD;Old General;High;M33034;X
+85022;Head of Government;카를로스 멘디에타 ;1933;1960;1999;SC;Flamboyant Tough Guy;High;M33042;X
+85023;Head of Government;풀헨시오 바티스타 ;1944;1964;1999;PA;Old General;High;M33034;X
+85024;Head of Government;안토니오 G. 올메스 ;1933;1964;1999;LWR;Naive Optimist;High;M33022;X
+85025;Head of Government;호세 이리사리 ;1941;1964;1999;LWR;Political Protege;High;M33023;X
+85026;Foreign Minister;호르헤 루이스 에차르테 ;1933;1964;1999;ML;The Cloak N Dagger Schemer;High;M33046;X
+85027;Foreign Minister;에두아르도 치바스 ;1940;1964;1999;ML;Biased Intellectual;High;M33013;X
+85028;Foreign Minister;카를로스 멘디에타 ;1944;1964;1999;ML;Iron Fisted Brute;Medium;M33042;X
+85029;Foreign Minister;호세 마누엘 코르티나 ;1933;1964;1999;SD;The Cloak N Dagger Schemer;Medium;M33049;X
+85030;Foreign Minister;후안 레모스 이 루비오 ;1937;1964;1999;SD;General Staffer;Medium;M33050;X
+85031;Foreign Minister;미겔 캄파 ;1939;1964;1999;SD;Ideological Crusader;Medium;M33051;X
+85032;Foreign Minister;호세 마누엘 코르티나 ;1940;1964;1999;SC;The Cloak N Dagger Schemer;Medium;M33049;X
+85033;Foreign Minister;호세 아구스틴 마르티네스 ;1942;1964;1999;SC;Biased Intellectual;Medium;M33053;X
+85034;Foreign Minister;E. 산티아고 산토베니오 ;1943;1964;1999;SC;Iron Fisted Brute;Medium;M33054;X
+85035;Foreign Minister;호르헤 마냐크 ;1944;1964;1999;SC;Apologetic Clerk;Medium;M33055;X
+85036;Foreign Minister;구스타보 루비오 ;1945;1964;1999;PA;Iron Fisted Brute;Medium;M33057;X
+85037;Foreign Minister;알베르토 알바레스 ;1946;1964;1999;PA;Great Compromiser;Medium;M33058;X
+85038;Foreign Minister;호세 이리사리 ;1933;1964;1999;LWR;Biased Intellectual;Very Low;M33023;X
+85039;Foreign Minister;카를로스 프리오 ;1944;1964;1999;LWR;Great Compromiser;Medium;M33004;X
+85040;Minister of Armament;에세키엘 엔세나트 ;1933;1964;1999;ML;Administrative Genius;Medium;M33061;X
+85041;Minister of Armament;미겔 고메스 ;1940;1964;1999;ML;laissez-faire capitalist;Medium;M33002;X
+85042;Minister of Armament;에두아르도 치바스 ;1944;1964;1999;ML;Theoretical Scientist;Low;M33013;X
+85043;Minister of Armament;풀헨시오 바티스타 ;1933;1964;1999;SD;Corrupt Kleptocrat;Medium;M33034;X
+85044;Minister of Armament;호세 오를란도 페레르 ;1937;1964;1999;SD;Battle Fleet Proponent;Medium;M33065;X
+85045;Minister of Armament;포르피리오 프란카 ;1940;1964;1999;SC;Corrupt Kleptocrat;Medium;M33066;X
+85046;Minister of Armament;페데리코 L. 브루 ;1941;1964;1999;SC;Infantry Proponent;Low;M33014;X
+85047;Minister of Armament;A. 데 아게로 ;1943;1964;1999;SC;Air to Ground Proponent;Medium;M33068;X
+85048;Minister of Armament;마누엘 페라라 ;1944;1964;1999;PA;Corrupt Kleptocrat;Medium;M33006;X
+85049;Minister of Armament;알베르토 오파릴 ;1946;1964;1999;PA;Administrative Genius;Medium;M33070;X
+85050;Minister of Armament;카를로스 프리오 ;1933;1964;1999;LWR;Administrative Genius;High;M33004;X
+85051;Minister of Armament;후안 마르티네스 비에이라 ;1940;1964;1999;LWR;Submarine Proponent;Medium;M33021;X
+85052;Minister of Armament;미겔 캄파 ;1944;1964;1999;LWR;Air to Ground Proponent;Medium;M33051;X
+85053;Minister of Security;에우헤니오 카스트로 ;1933;1964;1999;ML;Crooked Kleptocrat;Medium;M33040;X
+85054;Minister of Security;헤라르도 마차도 ;1933;1939;1999;ML;Efficient Sociopath;Medium;M33032;X
+85055;Minister of Security;카를로스 에비아 ;1944;1964;1999;ML;Crime Fighter;High;M33015;X
+85056;Minister of Security;P. 데 헤수스 ;1933;1964;1999;SD;Back Stabber;Medium;M33077;X
+85057;Minister of Security;A. 오데로 이 가르시아 ;1939;1964;1999;SD;Compassionate Gentleman;Medium;M33078;X
+85058;Minister of Security;포르피리오 프란카 ;1940;1964;1999;SC;Crooked Kleptocrat;Medium;M33066;X
+85059;Minister of Security;C. 데 라 토리엔테 ;1942;1964;1999;SC;Man of the People;Medium;M33080;X
+85060;Minister of Security;기예르모 포르텔라 ;1943;1964;1999;SC;Back Stabber;Medium;M33081;X
+85061;Minister of Security;풀헨시오 바티스타 ;1944;1964;1999;PA;Crooked Kleptocrat;High;M33034;X
+85062;Minister of Security;안토니오 데 부스타멘테 ;1946;1964;1999;PA;Crime Fighter;Medium;M33083;X
+85063;Minister of Security;산달리오 훈코 ;1933;1964;1999;LWR;Prince of Terror;Very Low;M33025;X
+85064;Minister of Security;가브리엘 데 라 캄파 ;1944;1964;1999;LWR;Man of the People;Low;M33085;X
+85065;Head of Military Intelligence;호세 바르네트 ;1933;1964;1999;ML;Political Specialist;Medium;M33001;X
+85066;Head of Military Intelligence;후안 발데스 일라리오 ;1940;1964;1999;ML;Logistics Specialist;Medium;M33016;X
+85067;Head of Military Intelligence;라파엘 마르티네스 ;1944;1964;1999;ML;Dismal Enigma;Medium;M33088;X
+85068;Head of Military Intelligence;라몬 산 마르틴 ;1933;1964;1999;SD;Political Specialist;Low;M33011;X
+85069;Head of Military Intelligence;카를로스 에비아 ;1938;1964;1999;SD;Industrial Specialist;Low;M33015;X
+85070;Head of Military Intelligence;포르피리오 프란카 ;1940;1964;1999;SC;Dismal Enigma;Medium;M33066;X
+85071;Head of Military Intelligence;페데리코 라레도 브루 ;1944;1964;1999;PA;Technical Specialist;Medium;M33014;X
+85072;Head of Military Intelligence;후안 발데스 일라리오 ;1946;1964;1999;PA;Logistics Specialist;Medium;M33016;X
+85073;Head of Military Intelligence;안토니오 G. 올메스 ;1933;1964;1999;LWR;Dismal Enigma;Very Low;M33022;X
+85074;Head of Military Intelligence;피델 카스트로 ;1944;1964;1999;LWR;Political Specialist;Very Low;M33095;X
+85075;Chief of Staff;풀헨시오 바티스타 ;1933;1964;1999;SC;School of Mass Combat;Undying;M33097;X
+85076;Chief of Staff;후안 블라스 에르난데스 ;1933;1964;1999;LWR;School of Manoeuvre;Medium;M33027;X
+85077;Chief of Staff;피델 카스트로 ;1944;1964;1999;LWR;School of Mass Combat;Very Low;M33095;X
+85078;Chief of Army;풀헨시오 바티스타 ;1933;1964;1999;SC;Decisive Battle Doctrine;Undying;M33097;X
+85079;Chief of Army;후안 블라스 에르난데스 ;1933;1964;1999;LWR;Elastic Defence Doctrine;Medium;M33027;X
+85080;Chief of Army;라울 카스트로 ;1944;1964;1999;LWR;Static Defence Doctrine;Medium;M33107;X
+85081;Chief of Navy;앙헬 곤살레스 ;1933;1964;1999;SC;Open Seas Doctrine;Medium;M33109;X
+85082;Chief of Navy;산달리오 훈코 ;1933;1964;1999;LWR;Open Seas Doctrine;Medium;M33025;X
+85083;Chief of Air Force;엔리케 C. 롤라스 ;1933;1964;1999;ML;Naval Aviation Doctrine;Medium;M33020;X
+85084;Chief of Air Force;세르히오 카르보 ;1944;1964;1999;ML;Vertical Envelopment Doctrine;Medium;M33005;X
+85085;Chief of Air Force;팔라에스 메넨데스 ;1944;1964;1999;PA;Air Superiority Doctrine;High;M33118;X
+85086;Chief of Air Force;알바로 P. 킨타나 ;1933;1964;1999;LWR;Air Superiority Doctrine;High;M33030;X
+85087;Head of Military Intelligence;가브리엘 데 라 캄파 ;1941;1964;1999;LWR;Technical Specialist;Low;M33085;X
+85088;Head of Government;라울 로페스 이 카스티요 ;1947;1964;1999;SC;Happy Amateur;High;M33121;X
+85089;Head of Government;마누엘 데 바로나 ;1948;1964;1999;SC;Flamboyant Tough Guy;High;M33122;X
+85090;Head of Government;펠릭스 란치스 산체스 ;1950;1964;1999;SC;Political Protege;High;M33123;X
+85091;Head of Government;오스카르 이 로페스 ;1951;1964;1999;SC;Naive Optimist;High;M33124;X
+85092;Foreign Minister;카를로스 프리오 소카레스 ;1947;1964;1999;SC;Ideological Crusader;Medium;M33125;X
+85093;Minister of Security;안드레스 페레스 차우몬트 ;1951;1964;1999;SC;Prince of Terror;Medium;M33126;X
+85094;Foreign Minister;파블로 데스베르니네 ;1914;1933;1999;ML;Ideological Crusader;High;unknownminister;X
+85095;Foreign Minister;라파엘 몬테로 ;1921;1933;1999;SL;Great Compromiser;High;unknownminister;X
+85096;Foreign Minister;카를로스 데 세스페데소 ;1921;1933;1999;SL;Biased Intellectual;High;unknownminister;X
+85097;Head of Government;알프레도 사야스 ;1914;1933;1999;ML;Backroom Backstabber;Very High;2372;X
+85098;Head of Government;마리오 G. 메노칼 ;1913;1933;1999;ML;Backroom Backstabber;Very High;2373;X
+85099;Head of Government;호세 미겔 고메스 ;1914;1933;1999;ML;Flamboyant Tough Guy;Very High;unknownminister;X
+85100;Head of Military Intelligence;호세 야누사 라몬 ;1914;1933;1999;ML;political specialist;Very High;unknownminister;X
+85101;Head of Military Intelligence;마리오 마르티네스 ;1921;1933;1999;SL;Technical Specialist;Very High;unknownminister;X
+85102;Head of Military Intelligence;루이스 메넨데스 ;1921;1933;1999;SL;Dismal Enigma;Very High;unknownminister;X
+85103;Head of State;알프레도 사야스 ;1914;1933;1999;ML;Stern Imperialist;Very High;2372;X
+85104;Head of State;마리오 G. 메노칼 ;1913;1933;1999;ML;Autocratic Charmer;Very High;2373;X
+85105;Head of State;호세 미겔 고메스 ;1914;1933;1999;ML;Resigned Generalissimo;Very High;unknownminister;X
+85106;Minister of Security;아우렐리오 에비아 ;1914;1933;1999;ML;Crime Fighter;High;unknownminister;X
+85107;Minister of Security;리카르도 란시스 ;1921;1933;1999;SL;Prince of Terror;High;unknownminister;X
+85108;Minister of Security;피델 카스트로 ;1958;1964;1999;LWR;Back Stabber;low;6075;x
+85109;Head of Government;피델 카스트로 ;1959;1964;1999;LWR;Flamboyant Tough Guy;low;6075;x
+85110;Chief of Staff;에르네스토 '체' 게바라 ;1956;1964;1999;LE;school of psychology;medium;6076;x
+85111;Foreign Minister;에르네스토 '체' 게바라 ;1959;1964;1999;LE;Biased Intellectual;medium;6076;x
+85112;Head of Military Intelligence;에르네스토 '체' 게바라 ;1960;1964;1999;LE;Political Specialist;medium;6076;x
+85113;Head of State;라몬 그라우 산 마르틴 ;1933;1935;1999;SC;Popular Figurehead;High;M33011;X
+85114;Head of Government;라몬 그라우 산 마르틴 ;1933;1935;1999;SC;Happy Amateur;High;M33011;X
+85115;Head of State;카를로스 멘디에타 ;1933;1960;1999;SC;Insignificant Layman;High;M33042;X

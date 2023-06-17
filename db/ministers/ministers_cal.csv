@@ -1,0 +1,40 @@
+CAL;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+575001;Head of State;프랭크 핀레이 메리엄 ;1933;1964;1999;PA;Die-hard Reformer;High;M572001;X
+575002;Head of Government;컬버트 레비 올슨 ;1933;1964;1999;PA;Smiling Oilman;High;M572002;X
+575003;Foreign Minister;프랭크 E. 호먼 ;1933;1964;1999;PA;Great Compromiser;High;M572003;X
+575004;Minister of Armament;앤젤로 로시 ;1933;1964;1999;PA;Corrupt Kleptocrat;Medium;M572004;X
+575005;Minister of Security;패트릭 J. 퀸 ;1933;1964;1999;PA;Crooked Kleptocrat;Medium;M572005;X
+575006;Head of Military Intelligence;퍼시 벤버 ;1933;1964;1999;PA;Naval Intelligence Specialist;Medium;M572006;X
+575007;Chief of Staff;허버트 R. 템플 ;1933;1964;1999;PA;School of Mass Combat;Medium;M572007;X
+575008;Chief of Army;진 D. 제임스 ;1933;1964;1999;PA;Decisive Battle Doctrine;Medium;M572008;X
+575009;Chief of Navy;조지프 리브스 ;1933;1964;1999;PA;Power Projection Doctrine;Medium;L60458;X
+575010;Chief of Air Force;리로이 리고윅 ;1933;1964;1999;PA;Vertical Envelopment Doctrine;Medium;M572010;X
+575011;Foreign Minister;프랭크 L. 쇼 ;1938;1964;1999;PA;Apologetic Clerk;High;M572011;X
+575012;Foreign Minister;데이비드 프레스콧 버로우스 ;1940;1964;1999;PA;General Staffer;High;M572012;X
+575013;Foreign Minister;얼 워렌 ;1944;1964;1999;PA;Ideological Crusader;High;M572013;X
+575014;Minister of Armament;플레쳐 보런 ;1939;1964;1999;PA;Resource Industrialist;Medium;M572014;X
+575015;Minister of Armament;헨리 파운틴 애셔스트 ;1940;1964;1999;PA;Submarine Proponent;Medium;M572015;X
+575016;Minister of Armament;할리 녹스 ;1942;1964;1999;PA;Administrative Genius;Medium;M572016;X
+575017;Minister of Armament;뉴웰 스튜어트 ;1944;1964;1999;PA;Air to Sea Proponent;Medium;M572017;X
+575018;Minister of Security;톰 몽크 ;1939;1964;1999;PA;Prince of Terror;Medium;M572018;X
+575019;Minister of Security;스튜어트 유달 ;1941;1964;1999;PA;Compassionate Gentleman;Medium;M572019;X
+575020;Minister of Security;존 도크웨일러 ;1941;1964;1999;PA;Crime Fighter;Medium;M572020;X
+575021;Minister of Security;로저 디어본 래펌 ;1944;1964;1999;PA;Silent Lawyer;Medium;M572021;X
+575022;Head of Military Intelligence;아서 D. 퍼거슨 ;1938;1964;1999;PA;Dismal Enigma;Medium;M572022;X
+575023;Head of Military Intelligence;더글라스 무어 ;1939;1964;1999;PA;Technical Specialist;Medium;M572023;X
+575024;Head of Military Intelligence;아서 C. 퍼거슨 ;1942;1964;1999;PA;Industrial Specialist;Medium;M572024;X
+575025;Head of Military Intelligence;로널드 레이건 ;1946;1964;1999;PA;Political Specialist;Medium;M572025;X
+575026;Chief of Staff;존 J. 하트네트 ;1942;1964;1999;PA;School of Psychology;Medium;M572026;X
+575027;Chief of Army;레이몬드 C. 번 ;1943;1964;1999;PA;Elastic Defence Doctrine;Medium;M572027;X
+575028;Chief of Navy;M. H. 도먼 ;1945;1964;1999;PA;Decisive Naval Battle Doctrine;Medium;M572028;X
+575029;Chief of Air Force;로널드 E. 슈프먼 ;1941;1964;1999;PA;Air Superiority Doctrine;Medium;M572029;X
+575030;Chief of Air Force;제임스 해롤드 둘리틀 ;1938;1964;1999;ML;Army Aviation Doctrine;High;8576;X
+575031;Chief of Army;제임스 해롤드 둘리틀 ;1941;1964;1999;ML;Static Defence Doctrine;High;8576;X
+575032;Chief of Army;조지 스미스 패튼 ;1936;1958;1999;SC;Armoured Spearhead Doctrine;High;8577;X
+575033;Chief of Staff;조지 스미스 패튼 ;1936;1958;1999;SC;School of Manoeuvre;High;8577;X
+575034;Chief of Staff;로버트 A. 매클레어 ;1941;1957;1999;ML;School of Psychology;High;8579;X
+575035;Chief of Staff;로버트 맥나마라 ;1949;1964;1999;ML;School of Defence;High;8580;X
+575036;Head of Government;리처드 M. 닉슨 ;1948;1970;1999;FA;Backroom Backstabber;Medium;8578;X
+575037;Minister of Armament;제임스 해롤드 둘리틀 ;1940;1964;1999;ML;Air Superiority Proponent;High;8576;X
+575038;Minister of Security;리처드 M. 닉슨 ;1946;1970;1999;FA;Efficient Sociopath;Medium;8578;X
+575039;Minister of Security;로버트 맥나마라 ;1948;1964;1999;ML;Crime Fighter;High;8580;X

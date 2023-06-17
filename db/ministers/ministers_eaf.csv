@@ -1,0 +1,52 @@
+EAF;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+635001;Head of State;필립 유언 미첼 ;1933;1964;1999;ML;Die-hard Reformer;High;M550001;X
+635002;Head of Government;존 하손 홀 ;1933;1964;1999;ML;Flamboyant Tough Guy;High;M550002;X
+635003;Foreign Minister;로버트 브룩 포팸 ;1933;1964;1999;ML;General Staffer;High;L1051;X
+635004;Minister of Armament;헨리 멍크 매이슨 ;1933;1964;1999;ML;Battle Fleet Proponent;Medium;M550004;X
+635005;Minister of Security;해롤드 맥마이클 ;1933;1964;1999;ML;Efficient Sociopath;Medium;M550005;X
+635006;Head of Military Intelligence;마크 영 ;1933;1964;1999;ML;Industrial Specialist;Medium;M550006;X
+635007;Chief of Staff;헨리 던데스 스티븐슨 ;1933;1964;1999;ML;School of Defence;Medium;M550007;X
+635008;Chief of Army;로버트 브룩 포팸 ;1933;1964;1999;ML;Decisive Battle Doctrine;Medium;L1051;X
+635009;Chief of Navy;윌리엄 데니스 배터쉴 ;1933;1964;1999;ML;Open Seas Doctrine;Medium;M550009;X
+635010;Chief of Air Force;찰스 파커하슨 던데스 ;1933;1964;1999;ML;Air Superiority Doctrine;Medium;M550010;X
+635011;Head of State;사이드 칼리파 이븐 카룹 ;1933;1964;1999;PA;Powerhungry Demagogue;High;M550011;X
+635012;Head of State;에드워드 무테사 3세 ;1933;1964;1999;SD;Popular Figurehead;High;M550012;X
+635013;Head of State;줄리어스 니에레레 ;1933;1964;1999;LWR;Pig-headed Isolationist;High;M550013;X
+635014;Head of Government;조슬린 에롤 ;1933;1964;1999;PA;Naive Optimist;High;M1051;X
+635015;Head of Government;조모 케냐타 ;1933;1964;1999;SD;Silent Workhorse;High;M550015;X
+635016;Head of Government;아폴로 밀튼 오보테 ;1933;1964;1999;LWR;Happy Amateur;High;M550016;X
+635017;Foreign Minister;피오 개머 핀토 ;1933;1964;1999;PA;Great Compromiser;High;M550017;X
+635018;Foreign Minister;헨리 G. 필링 ;1941;1964;1999;ML;Iron Fisted Brute;High;M550018;X
+635019;Foreign Minister;케테르네 이프루 ;1933;1964;1999;SD;Biased Intellectual;High;M550019;X
+635020;Foreign Minister;조지프 무룸비 ;1933;1964;1999;LWR;The Cloak N Dagger Schemer;High;M550020;X
+635021;Minister of Armament;알렉시우스 드 래츨로 ;1933;1964;1999;PA;Infantry Proponent;Medium;M550021;X
+635022;Minister of Armament;찬드라칸트 메흐타 ;1942;1964;1999;PA;laissez-faire capitalist;Medium;M550022;X
+635023;Minister of Armament;찰스 파커하슨 던데스 ;1940;1964;1999;ML;Air Superiority Proponent;Medium;M550010;X
+635024;Minister of Armament;로널드 응갈라 ;1933;1964;1999;SD;Tank Proponent;Medium;M550024;X
+635025;Minister of Armament;나시르다스 메흐타 ;1942;1964;1999;SD;Resource Industrialist;Medium;M550025;X
+635026;Minister of Armament;드라비 카나파투야 ;1933;1964;1999;LWR;Theoretical Scientist;Medium;M550026;X
+635027;Minister of Security;마칸 싱 ;1933;1964;1999;PA;Crooked Kleptocrat;Medium;M550027;X
+635028;Minister of Security;아이드 딜라일 ;1942;1964;1999;PA;Back Stabber;Medium;M550028;X
+635029;Minister of Security;빈센트 공칼베스 글렌데이 ;1940;1964;1999;ML;Crime Fighter;Medium;M550029;X
+635030;Minister of Security;베네딕토 키와누카 ;1933;1964;1999;SD;Man of the People;Medium;M550030;X
+635031;Minister of Security;데단 키마시 ;1933;1964;1999;LWR;Prince of Terror;Medium;M550031;X
+635032;Head of Military Intelligence;찰스 위더스푼 ;1933;1964;1999;PA;Logistics Specialist;Medium;M550032;X
+635033;Head of Military Intelligence;타르시시우스 응가가레쿰차 ;1933;1964;1999;SD;Naval Intelligence Specialist;Medium;M550033;X
+635034;Head of Military Intelligence;어니스트 헤밍웨이 ;1943;1964;1999;SD;Dismal Enigma;Medium;M550034;X
+635035;Head of Military Intelligence;라시드 카와와 ;1933;1964;1999;LWR;Technical Specialist;Medium;M550035;X
+635036;Chief of Staff;리처드 카버 ;1933;1964;1999;PA;School of Manoeuvre;Medium;L1069;X
+635037;Chief of Staff;제레미 J. 피어슨 ;1941;1964;1999;ML;School of Psychology;Medium;M550037;X
+635038;Chief of Staff;에드워드 무테사 ;1933;1964;1999;SD;School of Mass Combat;Medium;M550038;X
+635039;Chief of Staff;헨리 주마라 ;1933;1964;1999;LWR;School of Fire Support;Medium;M550039;X
+635040;Chief of Army;피터 밀스 ;1933;1964;1999;PA;Guns and Butter Doctrine;Medium;M550040;X
+635041;Chief of Army;헨리 G. 필링 ;1941;1964;1999;ML;Static Defence Doctrine;Medium;M550018;X
+635042;Chief of Army;옹게리 보기타 ;1933;1964;1999;SD;Armoured Spearhead Doctrine;Medium;M550042;X
+635043;Chief of Army;주마 다타위 ;1933;1964;1999;LWR;Elastic Defence Doctrine;Medium;M550043;X
+635044;Chief of Navy;다우디 차와 ;1933;1964;1999;PA;Indirect Approach Doctrine;Medium;M550044;X
+635045;Chief of Navy;나시루딘 메흐타 ;1933;1964;1999;SD;Power Projection Doctrine;Medium;M550045;X
+635046;Chief of Navy;에드워드 몬트포드 ;1933;1964;1999;LWR;Decisive Naval Battle Doctrine;Medium;M550046;X
+635047;Chief of Air Force;마칸 싱 ;1933;1964;1999;PA;Naval Aviation Doctrine;Medium;M550027;X
+635048;Chief of Air Force;제임스 하우 돕슨 ;1941;1964;1999;ML;Army Aviation Doctrine;Medium;M550048;X
+635049;Chief of Air Force;나시르다스 메흐타 ;1933;1964;1999;SD;Carpet Bombing Doctrine;Medium;M550025;X
+635050;Chief of Air Force;에드워드 몬트포드 ;1933;1964;1999;LWR;Vertical Envelopment Doctrine;Medium;M550046;X

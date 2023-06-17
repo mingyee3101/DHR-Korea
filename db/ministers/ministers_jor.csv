@@ -1,0 +1,45 @@
+JOR;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+370001;Head of State;압둘라 1세 ;1933;1964;1999;SC;Autocratic Charmer;High;M556001;X
+370002;Head of Government;타우피크 아불 후다 ;1933;1964;1999;SC;Naive Optimist;High;M556002;X
+370003;Foreign Minister;사미르 알 리파이 ;1933;1964;1999;SC;Apologetic Clerk;High;M556003;X
+370004;Minister of Armament;오마르 파샤 마타르 ;1933;1964;1999;SC;laissez-faire capitalist;Medium;M556004;X
+370005;Minister of Security;헨리 콕스 ;1933;1964;1999;SC;Man of the People;Medium;M556005;X
+370006;Head of Military Intelligence;퍼시 콕스 ;1933;1964;1999;SC;Logistics Specialist;Medium;M556006;X
+370007;Chief of Staff;퍼시 콕스 ;1933;1964;1999;SC;School of Manoeuvre;Medium;M556006;X
+370008;Chief of Army;압둘라 1세 ;1933;1964;1999;SC;Decisive Battle Doctrine;Medium;M556008;X
+370009;Chief of Navy;C.G.T. 로이드 엘포드 ;1933;1964;1999;SC;Decisive Naval Battle Doctrine;Medium;L1367;X
+370010;Chief of Air Force;알렉 세트 커크브라이드 ;1933;1964;1999;SC;Army Aviation Doctrine;Medium;L1454;X
+370011;Head of State;탈랄 1세 ;1951;1964;1999;ML;Benevolent Gentleman;High;M556011;X
+370012;Head of State;나이프 알 하세미 ;1933;1964;1999;PA;Resigned Generalissimo;High;M556012;X
+370013;Head of Government;이스마엘 베이 가스피랄리 ;1933;1964;1999;SD;Silent Workhorse;High;M556013;X
+370014;Head of Government;후사인 아 히자즈 ;1933;1964;1999;PA;Smiling Oilman;High;M556014;X
+370015;Foreign Minister;사이드 알 무프티 ;1933;1964;1999;SD;Great Compromiser;High;M556015;X
+370016;Foreign Minister;이브라힘 파샤 하솀 ;1933;1964;1999;PA;Biased Intellectual;High;M556016;X
+370017;Minister of Armament;아흐마드 콰드리 ;1933;1964;1999;SD;Military Entrepreneur;Medium;M556017;X
+370018;Minister of Armament;술레이만 알 나불시 ;1933;1964;1999;PA;Infantry Proponent;Medium;M556018;X
+370019;Minister of Security;알렉 세트 커크브라이드 ;1939;1964;1999;SC;Efficient Sociopath;Medium;L1454;X
+370020;Minister of Security;아위니 압둘 하디 ;1945;1964;1999;SC;Silent Lawyer;Medium;M556020;X
+370021;Minister of Security;제이콥 도벌 페니 ;1933;1964;1999;SD;Back Stabber;Medium;M556021;X
+370022;Minister of Security;무하마드 알 수레이키 ;1942;1964;1999;SD;Compassionate Gentleman;Medium;M556022;X
+370023;Minister of Security;샤케르 벤 자이드 ;1933;1964;1999;PA;Crime Fighter;Medium;M556023;X
+370024;Head of Military Intelligence;존 배것 글루브 ;1941;1964;1999;SC;Dismal Enigma;Medium;M556024;X
+370025;Head of Military Intelligence;루스툼 하이다르 ;1933;1964;1999;SD;Political Specialist;Medium;M556025;X
+370026;Head of Military Intelligence;샤디 알 하킴 ;1933;1964;1999;PA;Industrial Specialist;Medium;M556026;X
+370027;Chief of Staff;존 E. 오스프리 ;1941;1964;1999;SC;School of Psychology;Medium;M556027;X
+370028;Chief of Staff;하다드 알 왈리 ;1933;1964;1999;SD;School of Mass Combat;Medium;M556028;X
+370029;Chief of Staff;요슈아 압델 아흐티 ;1933;1964;1999;PA;School of Defence;Medium;M556029;X
+370030;Chief of Army;존 배것 글루브 ;1944;1964;1999;SC;Elastic Defence Doctrine;Medium;M556024;X
+370031;Chief of Army;나이르 알 자파르 ;1933;1964;1999;SD;Guns and Butter Doctrine;Medium;M556031;X
+370032;Chief of Army;압둘라 메치트 파샤 ;1933;1964;1999;PA;Static Defence Doctrine;Medium;M556032;X
+370033;Chief of Navy;가디 압드 엘 자바 ;1933;1964;1999;SD;Power Projection Doctrine;Medium;M556033;X
+370034;Chief of Navy;히바 압드 엘 아디르 ;1933;1964;1999;PA;Indirect Approach Doctrine;Medium;M556034;X
+370035;Chief of Air Force;사미 알 아피즈 ;1933;1964;1999;SD;Vertical Envelopment Doctrine;Medium;M556035;X
+370036;Chief of Air Force;에스마엘 알 칼리크 ;1933;1964;1999;PA;Carpet Bombing Doctrine;Medium;M556036;X
+370037;Head of State;후세인 1세 ;1952;1964;1999;SC;Die-hard Reformer;High;M556037;X
+370038;Head of Government;이브라힘 하심 ;1933;1964;1999;SC;Happy Amateur;High;M556038;X
+370039;Head of Government;사미르 알 리파이 ;1944;1964;1999;SC;Silent Workhorse;High;M556003;X
+370040;Head of Government;사이드 알 무프티 ;1950;1964;1999;SC;Political Protege;High;M556015;X
+370041;Head of Government;파우지 알 물키 ;1953;1964;1999;SC;Smiling Oilman;High;M556041;X
+370042;Chief of Army;하비스 알 마잘리 ;1956;1964;1999;ML;Armoured Spearhead Doctrine;Very High;6079;x 
+370043;Chief of Staff;하비스 알 마잘리 ;1948;1964;1999;ML;School of Manoeuvre;Very High;6079;x 

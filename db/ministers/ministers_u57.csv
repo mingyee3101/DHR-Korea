@@ -1,0 +1,44 @@
+U57;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+1100001;Head of State;베누스티아노 카란사 ;1913;1930;1999;ML;Popular Figurehead;Medium;8359;X
+1100002;Head of Government;베누스티아노 카란사 ;1913;1930;1999;ML;Political Protege;Medium;8359;X
+1100003;Foreign Minister;프란시스코 에스쿠데로 ;1913;1928;1999;SL;Iron Fisted Brute;Medium;2851;X
+1100004;Foreign Minister;이시드로 파벨라 알파로 ;1913;1930;1999;ML;Ideological Crusader;Medium;7225;X
+1100005;Foreign Minister;헤수스 아쿠냐 ;1916;1930;1999;ML;Apologetic Clerk;Medium;7230;X
+1100006;Foreign Minister;칸디도 아게일라 ;1916;1930;1999;ML;General Staffer;Medium;923;X
+1100007;Foreign Minister;알폰소 시예르 ;1916;1930;1999;ML;The Cloak N Dagger Schemer;Medium;unknownminister;X
+1100008;Foreign Minister;에르노스토 가르사 ;1917;1930;1999;ML;Great Compromiser;Medium;unknownminister;X
+1100009;Foreign Minister;살바도르 디에고 ;1919;1930;1999;ML;Great Compromiser;Medium;unknownminister;X
+1100010;Foreign Minister;일라리오 메디나 ;1919;1930;1999;ML;Apologetic Clerk;Medium;6647;X
+1100011;Foreign Minister;후안 산체스 아스코나 ;1920;1930;1999;ML;Biased Intellectual;Medium;7259;X
+1100012;Minister of Armament;프란시스코 에스쿠데로 ;1913;1928;1999;SL;Administrative Genius;Medium;2851;X
+1100013;Minister of Armament;파스토르 루아익스 ;1914;1930;1999;ML;laissez-faire capitalist;Medium;8323;X
+1100014;Minister of Armament;알베르토 호세 파니 ;1917;1930;1999;SD;Corrupt Kleptocrat;Medium;903;X
+1100015;Minister of Armament;플루타르코 엘리아스 ;1919;1930;1999;SD;Military Entrepreneur;Medium;8326;X
+1100016;Minister of Security;라파엘 수바란 카프마니 ;1913;1930;1999;SD;Compassionate Gentleman;Medium;8333;X
+1100017;Minister of Security;아돌포 데 라 우에르타 ;1915;1930;1999;SL;Crime Fighter;Medium;901;X
+1100018;Minister of Security;마누엘 아기르 베르란가 ;1917;1930;1999;ML;Efficient Sociopath;Medium;7271;X
+1100019;Chief of Staff;에두아르도 아이 ;1914;1930;1999;ML;School of Manoeuvre;Medium;937;X
+1100020;Chief of Staff;하신토 블라스 트레비뇨 ;1914;1930;1999;SL;School of Defence;Medium;7227;X
+1100021;Chief of Staff;이그나시오 L. 페스케이라 ;1914;1930;1999;ML;School of Psychology;Medium;7223;X
+1100022;Chief of Staff;알바로 오브레곤 ;1916;1928;1999;SD;School of Mass Combat;Medium;8366;X
+1100023;Chief of Staff;헤수스 아구스틴 카스트로 ;1917;1930;1999;ML;School of Fire Support;Medium;7231;X
+1100024;Chief of Staff;후안 호세 리오스 ;1918;1930;1999;ML;School of Manoeuvre;Medium;7257;X
+1100025;Chief of Staff;프란시스코 L. 우르키소 ;1920;1930;1999;ML;School of Defence;Medium;unknownminister;X
+1100026;Chief of Army;에두아르도 아이 ;1914;1930;1999;ML;Armoured Spearhead Doctrine;Medium;937;X
+1100027;Chief of Army;하신토 블라스 트레비뇨 ;1914;1930;1999;SL;Decisive Battle Doctrine;Medium;7227;X
+1100028;Chief of Army;이그나시오 L. 페스케이라 ;1914;1930;1999;ML;Static Defence Doctrine;Medium;7223;X
+1100029;Chief of Army;알바로 오브레곤 ;1916;1928;1999;SD;elastic defence doctrine;Medium;8366;X
+1100030;Chief of Army;헤수스 아구스틴 카스트로 ;1917;1930;1999;ML;Guns and Butter Doctrine;Medium;7231;X
+1100031;Chief of Army;후안 호세 리오스 ;1918;1930;1999;ML;Armoured Spearhead Doctrine;Medium;7257;X
+1100032;Chief of Army;프란시스코 L. 우르키소 ;1920;1930;1999;ML;Decisive Battle Doctrine;Medium;unknownminister;X
+1100033;Chief of Navy;에두아르도 아이 ;1914;1930;1999;ML;Open Seas Doctrine;Medium;937;X
+1100034;Chief of Navy;하신토 블라스 트레비뇨 ;1914;1930;1999;SL;Decisive Naval Battle Doctrine;Medium;7227;X
+1100035;Chief of Navy;이그나시오 L. 페스케이라 ;1914;1930;1999;ML;Power Projection Doctrine;Medium;7223;X
+1100036;Chief of Navy;알바로 오브레곤 ;1916;1928;1999;SD;Indirect Approach Doctrine;Medium;8366;X
+1100037;Chief of Navy;헤수스 아구스틴 카스트로 ;1917;1930;1999;ML;Base Control Doctrine;Medium;7231;X
+1100038;Chief of Navy;후안 호세 리오스 ;1918;1930;1999;ML;Open Seas Doctrine;Medium;7257;X
+1100039;Chief of Navy;프란시스코 L. 우르키소 ;1920;1930;1999;ML;Decisive Naval Battle Doctrine;Medium;unknownminister;X
+1100040;Chief of Air Force;알베르토 살리나스 카란사 ;1914;1930;1999;ML;Army Aviation Doctrine;Medium;904;X
+1100041;Head of Military Intelligence;에두아르도 아이 ;1913;1930;1999;ML;Naval Intelligence Specialist;Medium;937;X
+1100042;Head of Military Intelligence;알바로 오브레곤 ;1913;1930;1999;SD;Technical Specialist;Medium;8366;X
+1100043;Head of Military Intelligence;하신토 블라스 트레비뇨 ;1913;1928;1999;SL;Logistics Specialist;Medium;7227;X

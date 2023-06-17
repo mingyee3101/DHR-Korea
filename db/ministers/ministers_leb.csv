@@ -1,0 +1,82 @@
+LEB;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+375001;Head of State;에밀 에데 ;1933;1964;1999;SL;Pig-headed Isolationist;High;M529001;X
+375002;Head of Government;아유브 타베트 ;1933;1964;1999;SL;Old General;High;M529002;X
+375003;Foreign Minister;압달라 아레프 알 야피 ;1940;1964;1999;SL;General Staffer;High;M529003;X
+375004;Minister of Armament;알프레드 나차체 ;1933;1964;1999;SL;Air to Ground Proponent;Medium;M529004;X
+375005;Minister of Security;할레드 체하브 ;1940;1964;1999;SL;Prince of Terror;Medium;M529005;X
+375006;Head of Military Intelligence;카이레딘 알 아흐다브 ;1933;1964;1999;SL;Technical Specialist;Medium;M529006;X
+375007;Chief of Staff;아드리앙 펠티에 ;1933;1964;1999;SL;School of Manoeuvre;Medium;M529007;X
+375008;Chief of Army;알프레드 카조 ;1933;1964;1999;SL;Decisive Battle Doctrine;Medium;M529008;X
+375009;Chief of Navy;아실 페레티 ;1933;1964;1999;SL;Power Projection Doctrine;Medium;M529009;X
+375010;Chief of Air Force;앙리 술라 ;1933;1964;1999;SL;Naval Aviation Doctrine;Medium;M529010;X
+375011;Head of State;알프레드 나차체 ;1940;1964;1999;SC;Autocratic Charmer;High;M529004;X
+375012;Head of State;사데르 알 문라 ;1943;1964;1999;SL;Ruthless Powermonger;High;M529012;X
+375013;Head of State;바차라 알 코우리 ;1933;1964;1999;SC;Barking Buffoon;High;M529013;X
+375014;Head of State;샤를 데바스 ;1933;1964;1999;PA;Die-hard Reformer;High;M529014;X
+375015;Head of Government;카이레딘 알 아흐다브 ;1937;1964;1999;SL;Naive Optimist;High;M529006;X
+375016;Head of Government;할레드 체하브 ;1940;1964;1999;ML;Political Protege;High;M529005;X
+375017;Head of Government;압달라 아레프 알 야피 ;1938;1964;1999;ML;Old Admiral;High;M529003;X
+375018;Head of Government;압둘라 바이움 ;1933;1964;1999;SL;Silent Workhorse;High;M529018;X
+375019;Head of Government;알프레드 나차체 ;1941;1964;1999;SL;Ambitious Union Boss;High;M529004;X
+375020;Head of Government;아흐메드 다우드 ;1941;1964;1999;SL;Corporate Suit;High;M529020;X
+375021;Head of Government;사미 앗 솔흐 ;1942;1964;1999;SL;Happy Amateur;High;M529021;X
+375022;Head of Government;페트로 트라드 ;1943;1964;1999;SL;Smiling Oilman;High;M529022;X
+375023;Head of Government;리아드 앗 솔흐 ;1943;1964;1999;SC;Silent Workhorse;High;M529023;X
+375024;Head of Government;압둘 하미드 카라미 ;1945;1964;1999;SC;Flamboyant Tough Guy;High;M529024;X
+375025;Head of Government;사미 앗 솔흐 ;1945;1964;1999;SC;Corporate Suit;High;M529021;X
+375026;Head of Government;사데르 알 문라 ;1946;1964;1999;SC;Naive Optimist;High;M529012;X
+375027;Head of Government;리아드 앗 솔흐 ;1946;1964;1999;SC;Backroom Backstabber;High;M529023;X
+375028;Head of Government;하비브 바샤 엘 사에드 ;1933;1964;1999;PA;Political Protege;High;M529028;X
+375029;Foreign Minister;압델크림 알 카타비 ;1941;1964;1999;SL;The Cloak N Dagger Schemer;High;M529029;X
+375030;Foreign Minister;사미 앗 솔흐 ;1946;1964;1999;SL;Ideological Crusader;High;M529021;X
+375031;Foreign Minister;압둘라 바이움 ;1933;1964;1999;SC;Apologetic Clerk;High;M529018;X
+375032;Foreign Minister;자크 보멜 ;1940;1964;1999;SC;Iron Fisted Brute;High;M529032;X
+375033;Foreign Minister;마지드 아르셀레인 ;1944;1964;1999;SC;The Cloak N Dagger Schemer;High;M529033;X
+375034;Foreign Minister;에밀 에데 ;1933;1964;1999;PA;Ideological Crusader;High;M529001;X
+375035;Minister of Armament;리아드 앗 솔흐 ;1940;1964;1999;SL;Administrative Genius;Medium;M529023;X
+375036;Minister of Armament;라얀 카디 ;1944;1964;1999;SL;Tank Proponent;Medium;M529036;X
+375037;Minister of Armament;할레드 체하브 ;1940;1964;1999;SC;Corrupt Kleptocrat;Medium;M529005;X
+375038;Minister of Armament;아흐메드 다우드 ;1939;1964;1999;SC;Infantry Proponent;Medium;M529020;X
+375039;Minister of Armament;나심 마즈달라니 ;1945;1964;1999;SC;Resource Industrialist;Medium;M529039;X
+375040;Minister of Armament;카이레딘 알 아흐다브 ;1933;1964;1999;PA;laissez-faire capitalist;Medium;M529006;X
+375041;Minister of Security;압둘 하미드 카라미 ;1939;1964;1999;SL;Man of the People;Medium;M529024;X
+375042;Minister of Security;나심 마즈달라니 ;1944;1964;1999;SL;Compassionate Gentleman;Medium;M529039;X
+375043;Minister of Security;카이레딘 알 아흐다브 ;1933;1964;1999;SC;Crime Fighter;Medium;M529006;X
+375044;Minister of Security;카말 줌블라트 ;1940;1964;1999;SC;Back Stabber;Medium;M529044;X
+375045;Minister of Security;슬리마네 나오파이 ;1945;1964;1999;SC;Efficient Sociopath;Medium;M529045;X
+375046;Minister of Security;아유브 타베트 ;1933;1964;1999;PA;Compassionate Gentleman;Medium;M529002;X
+375047;Head of Military Intelligence;바트리아크 알 아모우시 ;1940;1964;1999;SL;Dismal Enigma;Medium;M529047;X
+375048;Head of Military Intelligence;파디 이브라힘 ;1945;1964;1999;SL;Political Specialist;Medium;M529048;X
+375049;Head of Military Intelligence;아유브 타베트 ;1933;1964;1999;SC;Industrial Specialist;Medium;M529002;X
+375050;Head of Military Intelligence;슬리마네 나오파이 ;1943;1964;1999;SC;Logistics Specialist;Medium;M529045;X
+375051;Head of Military Intelligence;사데르 알 문라 ;1933;1964;1999;PA;Dismal Enigma;Medium;M529012;X
+375052;Chief of Staff;앙투안 하브 ;1944;1964;1999;SL;School of Mass Combat;Medium;M529052;X
+375053;Chief of Staff;이스칸데르 가넴 ;1940;1964;1999;SC;School of Defence;Medium;M529053;X
+375054;Chief of Staff;니콜라스 루미나초프 ;1933;1964;1999;PA;School of Psychology;Medium;M529054;X
+375055;Chief of Army;자밀 라후드 ;1944;1964;1999;SL;Armoured Spearhead Doctrine;Medium;M529055;X
+375056;Chief of Army;푸아드 체하브 ;1940;1964;1999;SC;Guns and Butter Doctrine;Medium;M529056;X
+375057;Chief of Army;라시라시 아잠 ;1933;1964;1999;PA;Elastic Defence Doctrine;Medium;M529057;X
+375058;Chief of Navy;루이 피네 ;1941;1964;1999;SL;Indirect Approach Doctrine;Medium;M529058;X
+375059;Chief of Navy;나빌 자드 ;1943;1964;1999;SC;Open Seas Doctrine;Medium;M529059;X
+375060;Chief of Navy;압달라 아레프 알 야피 ;1940;1964;1999;PA;Decisive Naval Battle Doctrine;Medium;M529003;X
+375061;Chief of Air Force;슬리마네 나오파이 ;1944;1964;1999;SL;Air Superiority Doctrine;Medium;M529045;X
+375062;Chief of Air Force;에밀 부스타니 ;1940;1964;1999;SC;Air Superiority Doctrine;Medium;M529062;X
+375063;Chief of Air Force;페트로 트라드 ;1933;1964;1999;PA;Army Aviation Doctrine;Medium;M529022;X
+375064;Head of Government;앙리 덴츠 ;1933;1964;1999;PA;Old General;High;9887;X
+375065;Head of Military Intelligence;앙리 덴츠 ;1933;1964;1999;PA;Logistics Specialist;High;9887;X
+375066;Chief of Staff;앙리 덴츠 ;1933;1964;1999;PA;School of Defence;High;9887;X
+375067;Foreign Minister;하미드 파란지야 ;1938;1964;1999;PA;Iron Fisted Brute;Medium;M529067;X
+375068;Minister of Armament;카밀 샤문 ;1938;1964;1999;PA;laissez-faire capitalist;Medium;M529068;X
+375069;Head of Military Intelligence;아흐마드 알 후사이니 ;1938;1964;1999;PA;Dismal Enigma;Medium;M529069;X
+375070;Head of State;카미유 차몬 ;1952;1964;1999;SC;Powerhungry Demagogue;High;M529070;X
+375071;Head of Government;하산 알 오웨이니 ;1951;1964;1999;SC;Happy Amateur;High;M529071;X
+375072;Head of Government;나짐 알 아카리 ;1952;1964;1999;SC;Smiling Oilman;High;M529072;X
+375073;Head of Government;사에브 살람 ;1952;1964;1999;ML;Naive Optimist;High;M529073;X
+375074;Foreign Minister;푸아드 체하브 ;1950;1964;1999;SC;General Staffer;High;M529056;X
+375075;Minister of Security;윌리엄 아미네 하위 ;1937;1964;1999;FA;Prince of Terror;High;8557;X
+375076;Chief of Staff;윌리엄 아미네 하위 ;1941;1964;1999;FA;School of Mass Combat;High;8557;X
+375077;Foreign Minister;피에르 게마엘 ;1943;1964;1999;FA;Ideological Crusader;Medium;8558;X
+375078;Head of Government;피에르 게마엘 ;1935;1964;1999;FA;Naive Optimist;High;8558;X
+375079;Foreign Minister;샤를 엘루 ;1937;1964;1999;FA;Great Compromiser;High;8559;X
+375080;Head of State;샤를 엘루 ;1958;1964;1999;PA;Autocratic Charmer;High;8559;X

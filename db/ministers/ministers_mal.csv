@@ -1,0 +1,50 @@
+MAL;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+695001;Head of State;마르셀 드 코페 ;1933;1964;1999;SL;Popular Figurehead;High;M538014;X
+695002;Head of Government;오스왈드 뒤랑 ;1933;1964;1999;SL;Ambitious Union Boss;High;M533026;X
+695003;Foreign Minister;페르디낭 J.L. 루기에 ;1933;1964;1999;SL;Iron Fisted Brute;High;M539003;X
+695004;Minister of Armament;피에르 부아송 ;1933;1964;1999;SL;Theoretical Scientist;Medium;M534010;X
+695005;Minister of Security;마르탱 카일라 ;1933;1964;1999;SL;Compassionate Gentleman;Medium;M539005;X
+695006;Head of Military Intelligence;크리스티앙 라이그레 ;1933;1964;1999;SL;Logistics Specialist;Medium;M539006;X
+695007;Chief of Staff;피에르 샤를 쿠르나리 ;1933;1964;1999;SL;School of Fire Support;Medium;M534004;X
+695008;Chief of Army;장 루이 베이리에 ;1933;1964;1999;SL;Guns and Butter Doctrine;Medium;M539008;X
+695009;Chief of Navy;피에르 폰샤르디에 ;1933;1964;1999;SL;Open Seas Doctrine;Medium;M539009;X
+695010;Chief of Air Force;앙리 투르테 ;1933;1964;1999;SL;Vertical Envelopment Doctrine;Medium;M539010;X
+695011;Head of State;레옹 카일라 ;1938;1964;1999;SL;Resigned Generalissimo;High;M538001;X
+695012;Head of State;피에르 부아송 ;1940;1964;1999;SL;Powerhungry Demagogue;High;M534010;X
+695013;Head of State;피에르 샤를 쿠르나리 ;1943;1964;1999;SL;Insignificant Layman;High;M534004;X
+695014;Head of State;르네 V.M. 바르테 ;1946;1964;1999;SL;Pig-headed Isolationist;High;M539014;X
+695015;Head of State;마르탱 카일라 ;1933;1964;1999;PA;Benevolent Gentleman;High;M539005;X
+695016;Head of State;레오폴 세다르 셍고르 ;1933;1964;1999;LWR;Die-hard Reformer;High;M539016;X
+695017;Head of Government;장 루이 베이리에 ;1938;1964;1999;SL;Naive Optimist;High;M539008;X
+695018;Head of Government;크리스티앙 라이그레 ;1944;1964;1999;SL;Political Protege;High;M539006;X
+695019;Head of Government;앙리 드 모뒤 ;1945;1964;1999;SL;Corporate Suit;High;M533025;X
+695020;Head of Government;페르디낭 J.L. 루기에 ;1933;1964;1999;PA;Backroom Backstabber;High;M539003;X
+695021;Head of Government;모크타르 올드 다다 ;1933;1964;1999;LWR;Silent Workhorse;High;M539021;X
+695022;Foreign Minister;장 드산티 ;1938;1964;1999;SL;Biased Intellectual;High;M539022;X
+695023;Foreign Minister;오귀스트 칼벨 ;1942;1964;1999;SL;Apologetic Clerk;High;M539023;X
+695024;Foreign Minister;장 루이 베이리에 ;1933;1964;1999;PA;General Staffer;High;M539008;X
+695025;Foreign Minister;모비도 케이타 ;1933;1964;1999;LWR;Apologetic Clerk;High;M539025;X
+695026;Minister of Armament;모리스 기요도 ;1939;1964;1999;SL;Tank Proponent;Medium;M539026;X
+695027;Minister of Armament;레오폴 세다르 셍고르 ;1943;1964;1999;SL;Administrative Genius;Medium;M539016;X
+695028;Minister of Armament;크리스티앙 라이그레 ;1933;1964;1999;PA;Air Superiority Proponent;Medium;M539006;X
+695029;Minister of Armament;마마두 디아 ;1933;1964;1999;LWR;Battle Fleet Proponent;Medium;M539029;X
+695030;Minister of Security;장 클루에 ;1942;1964;1999;SL;Prince of Terror;Medium;M539030;X
+695031;Minister of Security;폴 리베이르 ;1945;1964;1999;SL;Efficient Sociopath;Medium;M539031;X
+695032;Minister of Security;오스왈드 뒤랑 ;1933;1964;1999;PA;Back Stabber;Medium;M533026;X
+695033;Minister of Security;필리 다보 시소코 ;1943;1964;1999;PA;Crime Fighter;Medium;M539033;X
+695034;Minister of Security;마마두 코나테 ;1933;1964;1999;LWR;Prince of Terror;Medium;M539034;X
+695035;Head of Military Intelligence;르네 V.M. 바르테 ;1943;1964;1999;SL;Political Specialist;Medium;M539014;X
+695036;Head of Military Intelligence;마르탱 카일라 ;1933;1964;1999;PA;Dismal Enigma;Medium;M539005;X
+695037;Head of Military Intelligence;우아 케이타 ;1933;1964;1999;LWR;Industrial Specialist;Medium;M539037;X
+695038;Chief of Staff;폴 모게 ;1943;1964;1999;SL;School of Psychology;Medium;M539038;X
+695039;Chief of Staff;레옹 카일라 ;1933;1964;1999;PA;School of Defence;Medium;M538001;X
+695040;Chief of Staff;압달라 수마레 ;1933;1964;1999;LWR;School of Fire Support;Medium;M539040;X
+695041;Chief of Army;애메 테세이르 ;1942;1964;1999;SL;Decisive Battle Doctrine;Medium;M539041;X
+695042;Chief of Army;앙리 베르디에 ;1933;1964;1999;PA;Static Defence Doctrine;Medium;M539042;X
+695043;Chief of Army;앙리 롤 탕귀 ;1933;1964;1999;LWR;Decisive Battle Doctrine;Medium;M539043;X
+695044;Chief of Navy;장 드산티 ;1933;1964;1999;PA;Indirect Approach Doctrine;Medium;M539022;X
+695045;Chief of Navy;우스멘 이브라힘 살 ;1933;1964;1999;LWR;Decisive Naval Battle Doctrine;Medium;M539045;X
+695046;Chief of Air Force;이브 모리에 ;1942;1964;1999;SL;Army Aviation Doctrine;Medium;M539046;X
+695047;Chief of Air Force;오귀스트 칼벨 ;1933;1964;1999;PA;Naval Aviation Doctrine;Medium;M539023;X
+695048;Chief of Air Force;오마르 오세이누 ;1933;1964;1999;LWR;Air Superiority Doctrine;Medium;M539048;X

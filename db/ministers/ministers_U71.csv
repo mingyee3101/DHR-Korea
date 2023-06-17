@@ -1,0 +1,52 @@
+U71;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+1170001;Chief of Air Force;존 랭카스터 파커 ;1933;1964;1999;SL;Army Aviation Doctrine;high;unknownminister;X
+1170002;Chief of Air Force;조지 커리 ;1934;1964;1999;SC;Air Superiority Doctrine;high;8645;X
+1170003;Chief of Army;윌리엄 존 잉글리시 ;1934;1964;1999;ML;Static Defence Doctrine;high;8639;X
+1170004;Chief of Army;허버트 딕슨 ;1934;1964;1999;SC;Decisive Battle Doctrine;high;unknownminister;X
+1170005;Chief of Army;노먼 스트롱 ;1933;1964;1999;SC;Static Defence Doctrine;high;8636;X
+1170006;Chief of Army;로버트 블레어 ;1942;1964;1999;SC;elastic defence doctrine;High;8591;X
+1170007;Chief of Navy;에드워드 빙엄 ;1934;1964;1999;SC;Power Projection Doctrine;high;8644;X
+1170008;Chief of Navy;에드워드 아치데일 ;1934;1964;1999;ML;Decisive Naval Battle Doctrine;high;unknownminister;X
+1170009;Chief of Navy;윌리엄 그랜트 ;1933;1964;1999;SC;Base Control Doctrine;high;8638;X
+1170010;Chief of Staff;바질 브루크 ;1933;1964;1999;SC;School of Psychology;high;8640;X
+1170011;Chief of Staff;로버트 블레어 ;1939;1964;1999;SC;School of Fire Support;High;8591;X
+1170012;Foreign Minister;제임스 크레이그 ;1933;1964;1999;SC;Ideological Crusader;high;8642;X
+1170013;Foreign Minister;해리 미즐리 ;1934;1964;1999;SL;Ideological Crusader;high;unknownminister;X
+1170014;Foreign Minister;윌리엄 조이스 ;1935;1964;1999;NS;Ideological Crusader;Very High;M1013;X
+1170015;Head of Government;제임스 크레이그 ;1933;1964;1999;SC;Flamboyant Tough Guy;high;8642;X
+1170016;Head of Government;리처드 번 ;1933;1964;1999;PA;Political Protege;high;8635;X
+1170017;Head of Government;잭 비티 ;1934;1964;1999;SD;Silent Workhorse;high;unknownminister;X
+1170018;Head of Military Intelligence;로버트 블레어 ;1943;1964;1999;SC;Dismal Enigma;high;8591;X
+1170019;Head of Military Intelligence;로버트 제임스 맥모디 ;1934;1964;1999;ML;Logistics Specialist;high;unknownminister;X
+1170020;Head of Military Intelligence;바질 브루크 ;1933;1964;1999;SC;Logistics Specialist;high;8640;X
+1170021;Head of Military Intelligence;허버트 딕슨 ;1934;1964;1999;SC;Logistics Specialist;high;unknownminister;X
+1170022;Head of Military Intelligence;존 윌리엄 닉슨 ;1934;1964;1999;PA;Political Specialist;high;unknownminister;X
+1170023;Head of State;제임스 해밀턴 ;1933;1964;1999;SC;Popular Figurehead;high;8641;X
+1170024;Head of State;토마스 딕슨 ;1934;1964;1999;SC;Insignificant Layman;high;8637;X
+1170025;Head of State;토마스 J. 캠벨 ;1933;1964;1999;PA;Die-hard Reformer;high;8633;X
+1170026;Head of State;잭 비티 ;1934;1964;1999;SD;Insignificant Layman;high;8631;X
+1170027;Head of State;윌리엄 조이스 ;1934;1964;1999;NS;barking buffoon;Very High;M1013;X
+1170028;Minister of Armament;존 밀러 앤드루스 ;1933;1964;1999;SC;laissez-faire capitalist;high;8643;X
+1170029;Minister of Armament;에드워드 아치데일 ;1934;1964;1999;SC;Resource Industrialist;high;unknownminister;X
+1170030;Minister of Armament;해리 미즐리 ;1933;1964;1999;SL;Administrative Genius;high;8647;X
+1170031;Minister of Armament;바질 브루크 ;1934;1964;1999;SC;Administrative Genius;high;8640;X
+1170032;Minister of Armament;조셉 라머 ;1934;1964;1999;SL;Theoretical Scientist;high;8634;X
+1170033;Minister of Armament;윌리엄 그랜트 ;1934;1964;1999;SC;Battle Fleet Proponent;high;8638;X
+1170034;Minister of Security;도슨 베이츠 ;1933;1964;1999;SC;Man of the People;high;8646;X
+1170035;Minister of Security;조셉 데이비슨 ;1934;1964;1999;SC;Efficient Sociopath;high;8630;X
+1170036;Minister of Security;바질 브루크 ;1934;1964;1999;SC;Crime Fighter;high;8640;X
+1170037;Minister of Security;윌리엄 무어 ;1934;1964;1999;ML;Silent Lawyer;high;8632;X
+1170038;Minister of Security;제임스 앤드루스 ;1934;1964;1999;SC;Silent Lawyer;high;unknownminister;X
+1170039;Minister of Security;알렉산더 로빈슨 ;1934;1964;1999;SC;Prince of Terror;high;8629;X
+1170040;Minister of Security;존 윌리엄 닉슨 ;1933;1964;1999;PA;Prince of Terror;high;unknownminister;X
+1170041;Minister of Security;찰스 위컴 ;1933;1964;1999;SC;Crime Fighter;high;unknownminister;X
+1170042;Head of State;좌파 인사 ;1933;1964;1999;LE;Undistinguished Suit;Very High;unknownminister;X
+1170043;Head of Government;좌파 인사 ;1933;1964;1999;LE;Undistinguished Suit;Very High;unknownminister;X
+1170044;Foreign Minister;좌파 인사 ;1933;1964;1999;LE;Undistinguished Suit;Very High;unknownminister;X
+1170045;Minister of Armament;좌파 인사 ;1933;1964;1999;LE;Undistinguished Suit;Very High;unknownminister;X
+1170046;Minister of Security;좌파 인사 ;1933;1964;1999;LE;Undistinguished Suit;Very High;unknownminister;X
+1170047;Head of Military Intelligence;좌파 인사 ;1933;1964;1999;LE;Undistinguished Suit;Very High;unknownminister;X
+1170048;Chief of Staff;좌파 인사 ;1933;1964;1999;LE;Undistinguished Suit;Very High;unknownminister;X
+1170049;Chief of Army;좌파 인사 ;1933;1964;1999;LE;Undistinguished Suit;Very High;unknownminister;X
+1170050;Chief of Navy;좌파 인사 ;1933;1964;1999;LE;Undistinguished Suit;Very High;unknownminister;X
+1170051;Chief of Air Force;좌파 인사 ;1933;1964;1999;LE;Undistinguished Suit;Very High;unknownminister;X

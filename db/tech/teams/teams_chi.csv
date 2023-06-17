@@ -1,0 +1,134 @@
+CHI;Name;Pic Name;Skill;Start Year;End Year;Speciality1;Speciality2;Speciality3;Speciality4;Speciality5;Speciality6;Speciality7;Speciality8;Speciality9;Speciality10;Speciality11;Speciality12;Speciality13;Speciality14;Speciality15;Speciality16;Speciality17;Speciality18;Speciality19;Speciality20;Speciality21;Speciality22;Speciality23;Speciality24;Speciality25;Speciality26;Speciality27;Speciality28;Speciality29;Speciality30;Speciality31;Speciality32;x
+55001;CAMCO ;T1000;2;1920;1970;aeronautics;fighter_design;general_equipment;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55002;중국 자동차 회사 ;100775;3;1939;1999;aeronautics;fighter_design;mechanics;aircraft_testing;vehicle_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55003;한양 병기창 ;100770;2;1894;1945;munitions;artillery;general_equipment;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55005;알렉산더 폰 팔켄하우젠 ;T1005;4;1930;1948;large_unit_tactics;infantry_focus;centralized_execution;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55006;장제스 ;100764;3;1912;1976;large_unit_tactics;infantry_focus;individual_courage;combined_arms_focus;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55007;클레어 체노 ;T1007;4;1970;1970;fighter_tactics;bomber_tactics;piloting;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55008;중화민국 공군 ;T1008;2;1920;1970;fighter_tactics;centralized_execution;piloting;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55009;중화민국 해군 ;T1009;2;1920;1970;small_taskforce_tactics;naval_training;seamanship;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55010;장난 항만공학회사 ;100772;2;1905;1999;naval_artillery;naval_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55014;중국 국영 항공기 회사 ;T1014;2;1930;1970;aeronautics;bomber_design;general_equipment;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55015;장안 공업소 ;T1015;3;1862;1999;artillery;mechanics;general_equipment;vehicle_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55016;용리 화학 ;100774;4;1934;1949;industrial_engineering;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55017;난징 화학기업 ;100774;6;1949;1999;industrial_engineering;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55018;중국중앙은행 ;100778;2;1924;1999;technical_efficiency;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55020;CSIST ;T1426;5;1950;1970;rocketry;aeronautics;avionics;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55022;천청 ;100626;3;1942;1964;centralized_execution;combined_arms_focus;small_unit_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55023;14th Airforce;100792;6;1970;1970;aircraft_testing;fighter_tactics;bomber_tactics;piloting;aeronautics;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55024;Joseph Stilwell;100793;5;1946;1946;training;management;general_equipment;decentralized_execution;infantry_focus;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55025;Luftwaffe Beraterschaft ;100794;6;1970;1970;combined_arms_focus;fighter_tactics;bomber_tactics;piloting;centralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55100;장난 병기창 ;100773;4;1865;1999;training;mechanics;munitions;artillery;general_equipment;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55101;황푸 군관 학교 ;100750;3;1924;1931;training;large_unit_tactics;infantry_focus;individual_courage;centralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55102;황푸 군관 학교 ;100750;4;1931;1945;training;large_unit_tactics;infantry_focus;individual_courage;centralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55103;황푸 군관 학교 ;100750;5;1945;1999;training;large_unit_tactics;infantry_focus;individual_courage;centralized_execution;combined_arms_focus;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55104;산장 일반대학교 ;100761;1;1902;1906;mathematics;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55105;량장 일반대학교 ;100761;2;1906;1915;mathematics;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55106;난징 고등보통학교 ;100761;2;1915;1921;mathematics;management;industrial_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55107;남서대학교 ;100761;3;1921;1928;mathematics;management;industrial_engineering;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55108;국립 중앙대학교 ;100761;4;1928;1945;mathematics;management;medicine;chemistry;electronics;mechanics;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55109;난징대학교 ;100763;1;1894;1910;mathematics;medicine;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55110;난징대학교 ;100763;2;1910;1952;mathematics;medicine;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55111;난징대학교 ;100761;5;1952;1999;mathematics;management;medicine;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55112;난징 일반대학교 ;100762;6;1952;1984;mathematics;training;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55113;난징 일반대학교 ;100762;7;1984;1999;mathematics;training;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55114;중국 과학회 ;100752;2;1918;1928;mathematics;chemistry;medicine;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55115;중국 한림원 ;T1012;3;1928;1946;mathematics;chemistry;electronics;medicine;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55116;중국 한림원 ;T1012;4;1946;1999;mathematics;chemistry;electronics;avionics;nuclear_physics;medicine;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55117;중국 한림원 ;T1012;6;1928;1999;mathematics;chemistry;electronics;avionics;nuclear_physics;medicine;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55118;중국 한림원 ;T1012;7;1928;1999;mathematics;chemistry;electronics;avionics;nuclear_physics;medicine;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55119;국립 기술연구소 ;100753;6;1952;1988;electronics;chemistry;industrial_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55120;남서대학교 ;100753;6;1988;1999;electronics;chemistry;industrial_engineering;mathematics;mechanics;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55121;황푸 조선소 ;100751;1;1924;1945;naval_engineering;naval_training;submarine_design;naval_artillery;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55122;황푸 조선소 ;100751;2;1945;1999;naval_engineering;naval_training;submarine_design;naval_artillery;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55123;황푸 해군 학교 ;100727;2;1911;1940;small_taskforce_tactics;seamanship;naval_training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55124;왕징웨이 ;100765;2;1905;1958;individual_courage;training;management;combined_arms_focus;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55125;National Resource Commission;100776;4;1932;1999;industrial_engineering;management;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55126;카이핑 석탄 광산 ;T1004;3;1877;1898;industrial_engineering;management;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55127;카이핑 석탄 광산 ;T1004;1;1898;1912;industrial_engineering;management;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55128;Kailan Mining Administration;T1004;2;1912;1999;industrial_engineering;management;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55200;밍송 항만공학회사 ;100779;1;1865;1999;naval_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55201;중싱 석탄회사 ;100771;2;1878;1939;industrial_engineering;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55202;중싱 석탄회사 ;100771;4;1939;1999;industrial_engineering;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55203;다구 조선소 ;T8804;2;1880;1999;naval_engineering;naval_artillery;electronics;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55204;텐진 벨기에 전차회사 ;T8807;3;1906;1933;mechanics;electronics;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55205;텐진 벨기에 전차회사 ;T8807;4;1933;1976;mechanics;electronics;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55206;직례 산업국 ;T8808;1;1904;1921;industrial_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55207;직례 산업국 ;T8808;2;1921;1928;industrial_engineering;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55208;텐진 산업국 ;T8808;3;1928;1999;industrial_engineering;technical_efficiency;electronics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55209;Electric Traction Company of Hong Kong;100747;1;1902;1910;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55210;Hong Kong Tramways Ltd;100747;2;1910;1922;management;industrial_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55211;Hong Kong Electric Co. Ltd;100747;3;1922;1999;electronics;industrial_engineering;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55212;상하이 국제 트램회사 ;100748;4;1908;1970;electronics;industrial_engineering;management;mechanics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55213;베이징대학교 ;100742;2;1898;1928;mathematics;industrial_engineering;mechanics;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55214;베이징대학교 ;100742;3;1928;1945;mathematics;industrial_engineering;mechanics;management;electronics;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55215;베이징대학교 ;100742;4;1945;1999;mathematics;industrial_engineering;mechanics;management;electronics;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55216;수도 일반학교 ;100756;3;1912;1923;mathematics;training;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55217;베이징 일반대학교 ;100756;4;1923;1954;mathematics;training;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55218;베이징 일반대학교 ;100756;6;1954;1999;mathematics;training;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55219;칭화대학교 ;100743;3;1911;1928;mathematics;industrial_engineering;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55220;칭화대학교 ;100743;4;1928;1937;mathematics;industrial_engineering;technical_efficiency;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55221;칭화대학교 ;100743;5;1937;1999;mathematics;industrial_engineering;technical_efficiency;chemistry;electronics;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55222;칭화대학교 ;100744;3;1911;1960;mathematics;industrial_engineering;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55223;칭화대학교 ;100744;4;1911;1999;mathematics;industrial_engineering;technical_efficiency;chemistry;electronics;avionics;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55224;칭화 핵물리연구소 ;100743;7;1911;1999;avionics;rocketry;nuclear_engineering;nuclear_physics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55225;칭화대학교 ;100743;6;1911;1999;chemistry;nuclear_engineering;nuclear_physics;industrial_engineering;mathematics;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55226;난카이대학교 ;100745;4;1919;1945;mathematics;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55227;난카이대학교 ;100745;6;1945;1999;mathematics;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55228;남서대학교 연합 ;100746;6;1911;1999;mathematics;industrial_engineering;mechanics;management;electronics;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55229;베이징 의학학교 ;100757;2;1906;1945;medicine;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55230;베이징 의학학교 ;100757;4;1945;1999;medicine;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55231;직례 군 기초학교 ;100718;1;1905;1926;training;small_unit_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55232;산시 연구학교 ;100759;1;1902;1918;mathematics;chemistry;industrial_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55233;산시 연구소 ;100759;2;1918;1931;mathematics;chemistry;technical_efficiency;industrial_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55234;산시대학교 ;100759;3;1931;1999;mathematics;chemistry;management;technical_efficiency;industrial_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55235;보병준비학교 ;T8803;2;1906;1999;training;individual_courage;infantry_focus;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55236;바오딩 군관 학교 ;T8803;2;1906;1999;training;decentralized_execution;centralized_execution;mountain_training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55237;바오딩 군사학교 ;T8803;1;1912;1999;training;large_unit_tactics;centralized_execution;individual_courage;cavalry_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55238;바오딩 군사학교 ;T8803;3;1912;1999;training;large_unit_tactics;centralized_execution;individual_courage;decentralized_execution;mountain_training;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55300;타이위안 병기창 ;T8801;3;1912;1999;artillery;general_equipment;training;mechanics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55400;광시 군 기본학교 ;100718;1;1907;1918;training;small_unit_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55401;광시 군 기본학교 ;100718;2;1918;1928;training;small_unit_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55402;광시대학교 ;100719;1;1928;1936;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55403;광시대학교 ;100719;2;1936;1939;chemistry;medicine;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55404;광시대학교 ;100719;4;1939;1949;mathematics;industrial_engineering;chemistry;medicine;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55405;광시대학교 ;100719;5;1949;1999;mathematics;industrial_engineering;mechanics;electronics;chemistry;medicine;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55406;광시 항공학교 ;100720;2;1934;1999;aeronautics;training;piloting;mechanics;bomber_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55407;광시 군관예비학교  ;100721;1;1900;1923;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55500;광둥 병기창 ;100723;2;1900;1999;mechanics;artillery;general_equipment;munitions;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55501;광저우 조선소 ;T8702;2;1881;1999;naval_engineering;naval_artillery;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55502;쑨중산 연구소 ;100726;3;1924;1999;mechanics;chemistry;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55503;광둥 해양학교;100727;1;1882;1911;small_taskforce_tactics;seamanship;naval_training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55504;광한 철도 회사 ;100728;1;1936;1999;industrial_engineering;mechanics;general_equipment;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55505;광저우 디젤엔진 공장 ;100729;1;1911;1928;mechanics;general_equipment;vehicle_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55506;광저우 디젤엔진 공장 ;100729;2;1928;1936;mechanics;general_equipment;vehicle_engineering;electronics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55507;광저우 디젤엔진 공장 ;100729;4;1936;1999;mechanics;general_equipment;vehicle_engineering;electronics;industrial_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55508;샤오관 항공기 공장 ;100730;1;1936;1945;aeronautics;general_equipment;aircraft_testing;bomber_design;avionics;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55509;동샨 항공기 공장 ;100731;1;1928;1933;aeronautics;general_equipment;aircraft_testing;fighter_design;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55510;윈난 군사학교 ;100732;1;1907;1916;training;small_unit_tactics;infantry_focus;individual_courage;centralized_execution;general_equipment;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55511;윈난 군사학교 ;100732;2;1916;1928;training;small_unit_tactics;infantry_focus;individual_courage;centralized_execution;general_equipment;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55512;윈난 군사학교 ;100732;3;1928;1945;training;small_unit_tactics;infantry_focus;individual_courage;centralized_execution;general_equipment;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55513;윈난 군사학교 ;100732;4;1945;1999;training;small_unit_tactics;infantry_focus;individual_courage;centralized_execution;general_equipment;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55514;남서대학교 ;100733;1;1906;1926;mathematics;chemistry;medicine;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55515;남서대학교 ;100733;2;1926;1945;mathematics;chemistry;medicine;industrial_engineering;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55516;남서대학교 ;100733;4;1945;1999;mathematics;chemistry;medicine;industrial_engineering;mechanics;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55517;동루대학교 ;100734;1;1922;1934;chemistry;management;medicine;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55518;윈난대학교 ;100734;2;1934;1937;chemistry;management;medicine;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55519;윈난대학교 ;100734;3;1937;1947;mathematics;chemistry;management;medicine;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55520;윈난대학교 ;100734;4;1947;1999;mathematics;chemistry;management;medicine;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55521;장우 군관 학교 ;100735;2;1909;1928;mountain_training;small_unit_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55522;윈난 주석회사 ;100736;2;1883;1928;management;industrial_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55523;윈난 주석회사 ;100736;3;1928;1999;management;industrial_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55524;북윈난 광학전기 ;100737;1;1936;1999;general_equipment;electronics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55525;운월 철도회사 ;100738;1;1904;1999;mechanics;management;industrial_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55526;롱윈 ;100739;2;1930;1999;centralized_execution;combined_arms_focus;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55527;루한 ;100740;2;1930;1999;fighter_tactics;bomber_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55528;윈난 병기회사 ;100394;1;1900;1928;mechanics;artillery;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55529;윈난 병기회사 ;100394;2;1928;1945;mechanics;artillery;chemistry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55530;윈난 병기회사 ;100394;3;1945;1999;mechanics;artillery;chemistry;general_equipment;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55531;샤오관 항공기 공장 ;100730;1;1936;1945;aeronautics;general_equipment;aircraft_testing;bomber_design;avionics;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55532;량진산 ;100741;2;1933;1977;management;industrial_engineering;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55533;탕지야오 ;100065;2;1909;1928;large_unit_tactics;infantry_focus;individual_courage;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55534;차이어 ;100767;4;1900;1917;large_unit_tactics;infantry_focus;individual_courage;training;decentralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55535;중앙 기계공업소 ;100777;3;1930;1970;industrial_engineering;mechanics;general_equipment;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55536;제53 병기창 ;100768;3;1941;1999;mechanics;munitions;artillery;general_equipment;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x

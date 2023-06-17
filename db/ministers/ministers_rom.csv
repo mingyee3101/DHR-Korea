@@ -1,0 +1,219 @@
+ROM;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+110001;Head of State;카롤 2세 ;1933;1964;1999;SC;Benevolent Gentleman;High;M22001;X
+110002;Head of Government;게오르게 타타레스쿠 ;1919;1964;1999;SC;Silent Workhorse;High;M22002;X
+110003;Foreign Minister;니콜라에 티툴레스쿠 ;1912;1964;1999;SC;Great Compromiser;Medium;M22003;X
+110004;Minister of Armament;콘스탄틴 I.C. 브라티아누 ;1933;1964;1999;SC;Resource Industrialist;High;M22004;X
+110005;Minister of Security;이스트라테 미체스쿠 ;1918;1964;1999;SC;Silent Lawyer;Medium;M22005;X
+110006;Head of Military Intelligence;미하일 모루조브 ;1917;1964;1999;SC;Logistics Specialist;Very High;M22006;X
+110007;Chief of Staff;이온 안토네스쿠 ;1933;1964;1999;SC;School of Psychology;High;M22007;X
+110008;Chief of Army;마린 체아우수 ;1933;1964;1999;SC;Static Defence Doctrine;Low;M22008;X
+110009;Chief of Navy;니콜라에 카란피르 ;1933;1964;1999;SC;Decisive Naval Battle Doctrine;Low;M22009;X
+110010;Chief of Air Force;단테 비잔테 ;1933;1964;1999;SC;Air Superiority Doctrine;Medium;M22010;X
+110011;Head of State;카롤 2세 ;1933;1964;1999;SL;Benevolent Gentleman;High;M22001;X
+110012;Head of State;카롤 2세 ;1933;1964;1999;PA;Benevolent Gentleman;High;M22001;X
+110013;Head of State;미하이 1세 ;1927;1964;1999;SC;Insignificant Layman;High;M22011;X
+110014;Head of State;미하이 1세 ;1927;1964;1999;PA;Insignificant Layman;High;M22011;X
+110016;Head of State;코르넬리우 코드레아누 ;1933;1964;1999;NS;Powerhungry Demagogue;High;2985;X
+110018;Head of State;호리아 시마 ;1939;1964;1999;NS;Insignificant Layman;High;M22054;X
+110017;Head of State;루크레티우 파트라스카누 ;1931;1964;1999;LE;Die-hard Reformer;High;2986;X
+110015;Head of State;콘스탄틴 I. 파르혼 ;1933;1964;1999;ST;Powerhungry Demagogue;High;M22038;X
+110019;Head of Government;옥타비안 고가 ;1938;1964;1999;SL;Happy Amateur;High;M22041;X
+110020;Head of Government;미론 크리스테아 ;1938;1939;1999;PA;naive optimist;High;M22042;X
+110021;Head of Government;아르만드 칼리네스쿠 ;1939;1964;1999;SL;Smiling Oilman;High;M22043;X
+110022;Head of Government;게오르게 아르게세아누 ;1939;1964;1999;SL;Silent Workhorse;High;M22044;X
+110023;Head of Government;콘스탄틴 아르게토이아누 ;1939;1964;1999;SL;Political Protege;High;M22045;X
+110024;Head of Government;이온 기그르투 ;1940;1964;1999;SL;Corporate Suit;High;M22047;X
+110025;Head of Government;이온 안토네스쿠 ;1940;1964;1999;PA;Old General;High;M22007;X
+110026;Head of Government;콘스탄틴 사나테스쿠 ;1944;1964;1999;PA;Old General;High;M22049;X
+110027;Head of Government;니콜라에 라데스쿠 ;1944;1964;1999;SC;Happy Amateur;High;M22050;X
+110031;Head of Government;이울리우 마니우 ;1928;1964;1999;SD;Naive Optimist;High;M22055;X
+110032;Head of Government;콘스탄틴 I.C. 브라티아누 ;1933;1950;1999;SC;Corporate Suit;High;M22004;X
+110030;Head of Government;호리아 시마 ;1938;1964;1999;NS;Political Protege;High;M22054;X
+110028;Head of Government;페트루 그로자 ;1933;1958;1999;ST;Backroom Backstabber;High;M22022;X
+110029;Head of Government;게오르게 게오르기우 데지 ;1930;1964;1999;ST;Political Protege;High;M22052;X
+110046;Head of Government;루크레티우 파트라스카누 ;1931;1964;1999;LE;Naive Optimist;High;2986;X
+110033;Foreign Minister;이온 안토네스쿠 ;1924;1964;1999;SC;General Staffer;Medium;M22007;X
+110034;Foreign Minister;이스트라테 미체스쿠 ;1918;1964;1999;SL;Great Compromiser;Medium;M22005;X
+110035;Foreign Minister;게오르게 타타레스쿠 ;1919;1964;1999;SC;Iron Fisted Brute;Medium;M22002;X
+110036;Foreign Minister;니콜라에 페트레스쿠 콤넨 ;1938;1964;1999;PA;Apologetic Clerk;Medium;M22070;X
+110037;Foreign Minister;그리고레 가펜쿠 ;1939;1964;1999;SL;Biased Intellectual;Low;M22071;X
+110038;Foreign Minister;이온 기그르투 ;1940;1964;1999;SC;Ideological Crusader;Medium;M22047;X
+110039;Foreign Minister;콘스탄틴 아르게토이아누 ;1939;1964;1999;SC;General Staffer;Medium;M22045;X
+110040;Foreign Minister;미하일 마노일레스쿠 ;1940;1964;1999;SL;Apologetic Clerk;Medium;M22074;X
+110041;Foreign Minister;미하일 스투르드자 ;1940;1964;1999;FA;Ideological Crusader;Medium;M22013;X
+110042;Foreign Minister;이온 안토네스쿠 ;1924;1933;1999;PA;General Staffer;Medium;M22007;X
+110043;Foreign Minister;미하이 안토네스쿠 ;1940;1964;1999;PA;The Cloak N Dagger Schemer;Low;M22077;X
+110044;Foreign Minister;그리고레 니쿨레스코 부제스티 ;1944;1964;1999;PA;Apologetic Clerk;Medium;M22078;X
+110045;Foreign Minister;콘스탄틴 비소이아누 ;1944;1964;1999;SC;The Cloak N Dagger Schemer;Medium;M22079;X
+110048;Foreign Minister;호리아 시마 ;1933;1964;1999;NS;Ideological Crusader;Low;M22054;X
+110049;Foreign Minister;루크레티우 파트라스카누 ;1931;1964;1999;LE;Great Compromiser;Low;2986;X
+110050;Foreign Minister;이울리우 호수 ;1938;1964;1999;SD;Great Compromiser;Medium;M22084;X
+110051;Foreign Minister;조르제스 오프레스쿠 ;1938;1964;1999;SD;Biased Intellectual;Medium;M22086;X
+110047;Foreign Minister;아나 파우케르 ;1920;1933;1999;ST;Ideological Crusader;Very High;M22023;X
+110052;Minister of Armament;비르질 마드제아루 ;1929;1964;1999;SL;Balanced budget economy;Medium;M22087;X
+110053;Minister of Armament;카이우스 브레디체아누 ;1938;1964;1999;PA;laissez-faire capitalist;High;M22088;X
+110055;Minister of Armament;이울리우 마니우 ;1939;1964;1999;SC;Administrative Genius;Medium;M22055;X
+110056;Minister of Armament;콘스탄틴 안토니아데 ;1940;1964;1999;SL;laissez-faire capitalist;Low;M22092;X
+110057;Minister of Armament;게오르게 포토페아누 ;1940;1964;1999;PA;Military Entrepreneur;High;M22093;X
+110058;Minister of Armament;게오르게 도브레 ;1942;1964;1999;FA;Infantry Proponent;High;M22094;X
+110059;Minister of Armament;니콜라에 스토에네스쿠 ;1941;1964;1999;PA;Tank Proponent;Medium;M22095;X
+110060;Minister of Armament;미하일 라코비트자 ;1944;1964;1999;SC;Infantry Proponent;High;M22096;X
+110061;Minister of Armament;콘스탄틴 파파나체 ;1943;1964;1999;NS;Administrative Genius;Low;M22014;X
+110062;Minister of Armament;바실레 루카 ;1924;1933;1999;ST;Planned economy proponent;High;M22024;X
+110063;Minister of Armament;페트레 투테아 ;1933;1964;1999;NS;Administrative Genius;Medium;unknownminister;X
+110064;Minister of Security;아르만드 칼리네스쿠 ;1937;1964;1999;SL;Prince of Terror;High;M22043;X
+110065;Minister of Security;체사레 바이다 보이에보드 ;1938;1964;1999;PA;Crime Fighter;Medium;M22100;X
+110066;Minister of Security;이온 미할라케 ;1939;1964;1999;SL;Man of the People;Low;M22101;X
+110067;Minister of Security;알렉산데르 쿠자 ;1939;1964;1999;SD;Prince of Terror;Medium;M22102;X
+110068;Minister of Security;바실레 고르디스 ;1940;1964;1999;SL;Man of the People;Medium;M22104;X
+110069;Minister of Security;이스트라테 미체스쿠 ;1918;1933;1999;PA;Crime Fighter;Medium;M22005;X
+110070;Minister of Security;다비드 포페스쿠 ;1940;1964;1999;FA;Prince of Terror;Medium;M22106;X
+110071;Minister of Security;이온 보이테아누 ;1944;1964;1999;PA;Man of the People;Medium;M22107;X
+110072;Minister of Security;니콜라에 라데스쿠 ;1944;1964;1999;SC;Compassionate Gentleman;High;M22050;X
+110073;Minister of Security;아우렐 알데아 ;1944;1964;1999;SC;Back Stabber;Medium;M22109;X
+110074;Minister of Security;호리아 시마 ;1940;1964;1999;NS;Efficient Sociopath;High;M22054;X
+110075;Minister of Security;이온 페트로비체스쿠 ;1943;1964;1999;NS;Efficient Sociopath;Low;M22015;X
+110076;Minister of Security;테오하리 조르제스쿠 ;1929;1964;1999;ST;Back Stabber;High;M22025;X
+110077;Minister of Security;콘스탄틴 I. 가네 ;1933;1964;1999;NS;Efficient Sociopath;Medium;2987;X
+110078;Head of Military Intelligence;헬레네 바카레스코 ;1938;1964;1999;SL;Dismal Enigma;Medium;M22113;X
+110079;Head of Military Intelligence;니콜라에 스토에네스쿠 ;1938;1964;1999;PA;Political Specialist;Medium;M22095;X
+110080;Head of Military Intelligence;니콜라에 티툴레스쿠 ;1912;1941;1999;SL;Industrial Specialist;Medium;M22115;X
+110081;Head of Military Intelligence;게오르게 사보이아 ;1939;1964;1999;SC;Logistics Specialist;Low;M22117;X
+110082;Head of Military Intelligence;이오시프 이아코비치 ;1940;1964;1999;FA;Logistics Specialist;Very High;M22118;X
+110083;Head of Military Intelligence;페트레 안토네스쿠 ;1941;1964;1999;FA;Dismal Enigma;Very High;M22119;X
+110084;Head of Military Intelligence;에우겐 크리스테스쿠 ;1943;1964;1999;NS;Dismal Enigma;Very High;M22016;X
+110085;Head of Military Intelligence;데메트레 얀코비치 ;1945;1964;1999;ST;Political Specialist;Medium;M22026;X
+110086;Head of Military Intelligence;세르게이 니콜라우 ;1930;1964;1999;ST;Technical Specialist;High;M22122;X
+110087;Chief of Staff;미하일 라코비트자 ;1938;1964;1999;SL;School of Manoeuvre;High;M22096;X
+110088;Chief of Staff;플로레아 테네스쿠 ;1938;1964;1999;PA;School of Defence;Low;M22124;X
+110089;Chief of Staff;이오안 일쿠수 ;1939;1964;1999;SL;School of Defence;Medium;M22125;X
+110090;Chief of Staff;콘스탄틴 판타지 ;1939;1964;1999;SC;School of Defence;High;M22126;X
+110091;Chief of Staff;이온 안토네스쿠 ;1933;1946;1999;FA;School of Mass Combat;High;M22012;X
+110092;Chief of Staff;라두 코르네 ;1943;1964;1999;FA;School of Manoeuvre;High;M22128;X
+110093;Chief of Staff;콘스탄틴 사나테스쿠 ;1944;1964;1999;PA;School of Fire Support;High;M22049;X
+110094;Chief of Staff;게오르게 시나이아 이오네스쿠 ;1944;1964;1999;SC;School of Defence;Medium;M22130;X
+110095;Chief of Staff;미하일 라스카르 ;1913;1933;1999;LE;School of Mass Combat;Very High;M22027;X
+110096;Chief of Staff;플라톤 키르노아가 ;1933;1964;1999;NS;School of Psychology;High;M22132;X
+110097;Chief of Staff;게오르게 아르게세아누 ;1940;1964;1999;NS;School of Fire Support;Medium;M22133;X
+110099;Chief of Army;코스틴 이오나스쿠 ;1938;1964;1999;SL;Static Defence Doctrine;High;M22135;X
+110100;Chief of Army;게오르게 미하일 ;1938;1964;1999;PA;Decisive Battle Doctrine;Medium;M22136;X
+110101;Chief of Army;게오르게 타타레스쿠 ;1919;1964;1999;SC;Guns and Butter Doctrine;Medium;M22138;X
+110102;Chief of Army;일리에 스테플레아 ;1940;1964;1999;FA;Guns and Butter Doctrine;High;M22139;X
+110103;Chief of Army;콘스탄틴 사나테스쿠 ;1944;1964;1999;PA;Elastic Defence Doctrine;High;M22049;X
+110104;Chief of Army;니콜라에 라데스쿠 ;1944;1964;1999;SC;Decisive Battle Doctrine;High;M22050;X
+110105;Chief of Army;다미안 라스쿠 ;1945;1964;1999;ST;Armoured Spearhead Doctrine;Medium;M22028;X
+110106;Chief of Army;알렉산드루 이오아니티우 ;1938;1964;1999;NS;Armoured Spearhead Doctrine;Medium;M22018;X
+110107;Chief of Navy;호리아 마첼라리우 ;1938;1964;1999;PA;Indirect Approach Doctrine;High;M22019;X
+110108;Chief of Navy;이오안 조르제스쿠 ;1943;1964;1999;FA;Indirect Approach Doctrine;Medium;M22150;X
+110109;Chief of Navy;니콜라에 소바 ;1944;1964;1999;PA;Base Control Doctrine;High;M22151;X
+110110;Chief of Navy;실바니아 대공 니콜라이 ;1944;1964;1999;SC;Open Seas Doctrine;High;M22152;X
+110111;Chief of Navy;게오르게 일리에스카 ;1945;1964;1999;ST;Power Projection Doctrine;Medium;M22029;X
+110112;Chief of Air Force;게오르게 지에네스쿠 ;1938;1964;1999;PA;Army Aviation Doctrine;High;9298;X
+110113;Chief of Air Force;에르밀 게오르기우 ;1940;1964;1999;FA;Air Superiority Doctrine;Medium;M22158;X
+110114;Chief of Air Force;파울 테오도레스쿠 ;1944;1964;1999;PA;Carpet Bombing Doctrine;Medium;M22159;X
+110115;Chief of Air Force;게오르게 바실리우 ;1944;1964;1999;SC;Naval Aviation Doctrine;Low;M22160;X
+110116;Chief of Air Force;에마노일 이오네스쿠 ;1945;1964;1999;ST;Army Aviation Doctrine;High;M22030;X
+110117;Head of State;페트루 그로자 ;1933;1958;1999;ST;Powerhungry Demagogue;High;M22022;X
+110118;Foreign Minister;시미온 부기치 ;1933;1964;1999;ST;Apologetic Clerk;Very High;M22163;X
+110119;Chief of Army;콘스탄틴 프레잔 ;1917;1943;1999;PA;static defence doctrine;High;2988;X
+110120;Chief of Army;페르디난드 1세 ;1914;1927;1999;PA;Decisive Battle Doctrine;High;2989;X
+110121;Chief of Army;알렉산드루 아베레스쿠 ;1914;1938;1999;PA;static defence doctrine;High;2990;X
+110122;Chief of Army;카롤 1세 ;1914;1915;1915;PA;Decisive Battle Doctrine;High;2991;X
+110123;Chief of Navy;니콜라에 네그루 ;1917;1933;1999;PA;Decisive Naval Battle Doctrine;Low;2992;X
+110124;Chief of Navy;콘스탄틴 발레스쿠 ;1918;1933;1999;PA;Open Seas Doctrine;Low;2993;X
+110125;Chief of Navy;콘스탄틴 니쿨레스쿠 리제아 ;1920;1933;1999;PA;Base Control Doctrine;Low;2994;X
+110126;Chief of Staff;알렉산드루 아베레스쿠 ;1914;1933;1999;PA;school of defence;High;2990;X
+110127;Chief of Staff;바실리에 조투 ;1914;1933;1999;PA;School of Mass Combat;High;2995;X
+110128;Chief of Staff;콘스탄틴 크리스테스쿠 ;1914;1933;1999;PA;School of Mass Combat;High;2996;X
+110129;Chief of Staff;콘스탄틴 프레잔 ;1916;1933;1999;PA;School of Mass Combat;High;2988;X
+110130;Chief of Staff;드미트루 일레스쿠 ;1916;1933;1999;PA;school of defence;High;2997;X
+110131;Chief of Army;알렉산드루 고르스키 ;1923;1933;1999;PA;Guns and Butter Doctrine;High;3949;X
+110132;Chief of Staff;알렉산드루 루페스쿠 ;1923;1933;1999;PA;SCHOOL OF FIRE SUPPORT;High;3950;X
+110133;Foreign Minister;이온 N. 나호바리 ;1914;1933;1999;SC;Apologetic Clerk;High;3951;X
+110134;Foreign Minister;알렉산드루 마르길로만 ;1914;1933;1999;SC;Ideological Crusader;High;2998;X
+110135;Foreign Minister;티투 리비우 마이오레스쿠 ;1912;1933;1999;SC;Apologetic Clerk;Medium;2999;X
+110136;Foreign Minister;에마노일 포룸바루 ;1914;1933;1999;ML;Apologetic Clerk;Medium;3068;X
+110137;Foreign Minister;알렉산드루 아베레스쿠 ;1918;1933;1999;PA;General Staffer;High;2990;X
+110138;Foreign Minister;콘스탄틴 C. 아리온 ;1918;1933;1999;SC;Apologetic Clerk;Medium;3000;X
+110139;Foreign Minister;콘스탄틴 코안다 ;1918;1933;1999;PA;General Staffer;Medium;3001;X
+110140;Foreign Minister;니콜라에 미수 ;1918;1933;1999;SC;Apologetic Clerk;Medium;unknownminister;X
+110141;Foreign Minister;알렉산드루 바이다 보에보드 ;1919;1950;1999;SC;Ideological Crusader;Medium;3002;X
+110142;Foreign Minister;아르투르 바이토이아누 ;1919;1933;1999;SC;General Staffer;Medium;3003;X
+110143;Foreign Minister;두이리우 잠피레스쿠 ;1920;1933;1999;SC;Biased Intellectual;Medium;3004;X
+110144;Foreign Minister;드미트루 타케 이오네스쿠 ;1920;1933;1999;SC;Great Compromiser;Medium;3005;X
+110145;Foreign Minister;스테판 치치오 포프 ;1920;1933;1999;SC;Apologetic Clerk;Medium;3006;X
+110146;Foreign Minister;게오르게 데루시 ;1921;1933;1999;SC;Apologetic Clerk;Medium;unknownminister;X
+110147;Foreign Minister;이온 Gh. 두카 ;1922;1933;1999;ML;Great Compromiser;Medium;3007;X
+110148;Head of Government;크리스티안 라코브스키 ;1914;1933;1999;ST;Ambitious Union Boss;Medium;3008;X
+110149;Head of Government;페트레 P. 카르프 ;1911;1933;1999;SC;Flamboyant Tough Guy;Medium;3009;X
+110150;Head of Government;티투 리비우 마이오레스쿠 ;1912;1933;1999;SC;Flamboyant Tough Guy;Medium;2999;X
+110151;Head of Government;알렉산드루 아베레스쿠 ;1918;1933;1999;PA;Old General;Medium;2990;X
+110152;Head of Government;알렉산드루 마르길로만 ;1918;1933;1999;SC;Political Protege;Medium;2998;X
+110153;Head of Government;아르투르 바이토이아누 ;1918;1933;1999;SC;Old General;Medium;3003;X
+110154;Head of Government;콘스탄틴 코안다 ;1918;1933;1999;PA;Old General;Medium;3001;X
+110155;Head of Government;코르넬리우 코드레아누 ;1933;1964;1999;NS;Flamboyant Tough Guy;High;2985;X
+110156;Head of Government;알렉산드루 아베레스쿠 ;1920;1933;1999;SC;Old General;Medium;2990;X
+110157;Head of Government;드미트루 타케 이오네스쿠 ;1921;1933;1999;SC;Naive Optimist;Medium;3005;X
+110158;Head of State;카롤 1세 ;1914;1915;1915;SC;Stern Imperialist;Medium;2991;X
+110159;Head of State;페르디난드 1세 ;1914;1916;1999;PA;Benevolent Gentleman;Medium;2989;X
+110160;Head of State;페르디난드 1세 ;1914;1916;1999;SC;Benevolent Gentleman;Medium;2989;X
+110161;Head of State;크리스티안 라코브스키 ;1914;1941;1999;ST;Die-Hard Reformer;Medium;3008;X
+110162;Minister of Armament;드미트루 타케 이오네스쿠 ;1914;1933;1999;SC;Resource Industrialist;Medium;3005;X
+110163;Minister of Armament;페트레 P. 카르프 ;1911;1933;1999;SC;Resource Industrialist;Medium;3009;X
+110164;Minister of Armament;에밀 코스티네스쿠 ;1914;1933;1999;ML;Laissez-Faire Capitalist;Medium;3071;X
+110165;Minister of Armament;알렉산드루 마르길로만 ;1914;1933;1999;SC;Resource Industrialist;Medium;2998;X
+110166;Minister of Armament;테오도르 로세티 ;1914;1933;1999;SC;Resource Industrialist;Medium;3010;X
+110167;Minister of Armament;이온 안토네스쿠 ;1916;1933;1999;ML;Reformer;Medium;M22007;X
+110168;Minister of Armament;니콜라에 티툴레스쿠 ;1917;1941;1999;SC;Resource Industrialist;Medium;3011;X
+110169;Minister of Armament;콘스탄틴 C. 아리온 ;1918;1933;1999;SC;Resource Industrialist;Medium;3000;X
+110170;Minister of Armament;포르틴 에네스쿠 ;1918;1933;1999;PA;Resource Industrialist;Medium;3074;X
+110171;Minister of Armament;미하일 세울레스쿠 ;1918;1933;1999;SC;Resource Industrialist;Medium;unknownminister;X
+110172;Minister of Armament;오스카르 키리아케스쿠 ;1918;1933;1999;SC;Resource Industrialist;Medium;unknownminister;X
+110173;Minister of Armament;아우렐 블라드 ;1919;1933;1999;SC;Laissez-Faire Capitalist;Medium;3012;X
+110174;Minister of Armament;이오안 포페스쿠 ;1919;1933;1999;SC;Military Entrepreneur;Medium;unknownminister;X
+110175;Minister of Armament;이온 안글레스쿠 ;1919;1933;1999;SC;Resource Industrialist;Medium;unknownminister;X
+110176;Minister of Armament;콘스탄틴 아르게토이아누 ;1920;1933;1999;SC;Corrupt Kleptocrat;Medium;3013;X
+110177;Minister of Armament;미하이 포포비치 ;1920;1933;1999;SC;Resource Industrialist;Medium;3014;X
+110178;Minister of Armament;빈틸라 브라티아누 ;1922;1933;1999;ML;Laissez-Faire Capitalist;Medium;3015;X
+110179;Minister of Security;미하엘 페레키데 ;1914;1933;1999;ML;Silent Lawyer;Medium;3016;X
+110180;Minister of Security;콘스탄틴 올라네스쿠 ;1914;1933;1999;SC;Silent Lawyer;Medium;3017;X
+110181;Minister of Security;이온 I.C. 브라티아누 ;1914;1933;1999;ML;Man of the People;Medium;3018;X
+110182;Minister of Security;알렉산드루 마르길로만 ;1914;1933;1999;SC;Silent Lawyer;Medium;2998;X
+110183;Minister of Security;콘스탄틴 C. 아리온 ;1914;1933;1999;SC;Silent Lawyer;Medium;3000;X
+110184;Minister of Security;드미트루 타케 이오네스쿠 ;1914;1933;1999;SC;Silent Lawyer;Medium;3005;X
+110185;Minister of Security;바실레 G. 모르툰 ;1914;1933;1999;ML;Silent Lawyer;Medium;3019;X
+110186;Minister of Security;알렉산드루 콘스탄티네스쿠 ;1916;1933;1999;ML;Silent Lawyer;Medium;3020;X
+110187;Minister of Security;아르투르 바이토이아누 ;1918;1933;1999;SC;Back Stabber;Medium;3003;X
+110188;Minister of Security;콘스탄틴 사라테아누 ;1918;1933;1999;ML;Silent Lawyer;Medium;3021;X
+110189;Minister of Security;조르제 G. 마르제스쿠 ;1918;1933;1999;ML;Man of the People;Medium;3022;X
+110190;Minister of Security;알렉산드루 아베레스쿠 ;1919;1933;1999;PA;Crime Fighter;Medium;2990;X
+110191;Minister of Security;아우렐 블라드 ;1919;1933;1999;SC;Compassionate Gentleman;Medium;3012;X
+110192;Minister of Security;니콜라에 루푸 ;1919;1933;1999;SC;Silent Lawyer;Medium;3023;X
+110193;Minister of Security;알렉산드루 아베레스쿠 ;1920;1933;1999;SC;Crime Fighter;Medium;2990;X
+110194;Minister of Security;콘스탄틴 아르게토이아누 ;1920;1933;1999;SC;Prince of Terror;Medium;3013;X
+110195;Minister of Security;이온 카마라세스쿠 ;1921;1933;1999;SC;Silent Lawyer;Medium;3024;X
+110196;Head of Government;이온 I.C. 브라티아누 ;1910;1964;1999;SC;Silent Workhorse;High;3018;X
+110197;Head of Government;알렉산드루 바이다 보에보드 ;1919;1950;1999;SC;Naive Optimist;Medium;3002;X
+110198;Head of Government;이온 Gh. 두카 ;1922;1934;1999;ML;Ambitious Union Boss;Medium;3007;X
+110199;Minister of Security;게오르게 미로네스쿠 ;1928;1949;1999;SD;Silent Lawyer;Medium;9669;X
+110200;Minister of Security;Ion C. Inculet;1917;1940;1941;SD;Silent Lawyer;Medium;9670;X
+110201;Head of Government;Constantin I. Angelescu;1914;1948;1999;SD;Silent Workhorse;High;9671;X
+110202;Minister of Armament;Victor Slavescu;1934;1977;1999;SC;Resource Industrialist;High;9672;X
+110203;Minister of Armament;게오르게 타타레스쿠 ;1934;1964;1999;SC;Balanced budget economy;High;M22002;X
+110204;Minister of Armament;Victor Antonescu;1935;1947;1999;SC;Laissez-Faire Capitalist;Medium;9673;X
+110205;Minister of Security;Dumitru Iuca;1936;1940;1999;SC;Silent Lawyer;Medium;9674;X
+110206;Minister of Security;게오르게 타타레스쿠 ;1936;1964;1999;SC;Silent Lawyer;High;M22002;X
+110207;Minister of Security;Richard Franasovici;1937;1964;1999;SC;Silent Lawyer;Medium;9675;X
+110208;Foreign Minister;Victor Antonescu;1935;1947;1999;SC;Apologetic Clerk;Medium;9673;X
+110209;Minister of Armament;Mircea Cancicov;1936;1959;1999;SC;Balanced budget economy;Medium;9676;X
+110210;Minister of Armament;Eugen Savu;1937;1964;1999;SC;Resource Industrialist;Medium;9677;X
+110211;Minister of Armament;Milita Constantinescu;1939;1964;1999;SC;Balanced budget economy;Medium;9678;X
+110212;Minister of Security;Mihail Ghelmegeanu;1939;1964;1999;SC;Silent Lawyer;Medium;9679;X
+110213;Minister of Armament;Gheorghe N. Leon;1940;1949;1999;SL;Balanced budget economy;Medium;unknownminister;X
+110214;Minister of Security;Constantin Petrovicescu;1940;1964;1999;PA;Efficient Sociopath;Medium;9680;X
+110215;Minister of Security;Dumitru I. Popescu;1940;1964;1999;PA;Prince of Terror;High;9681;X
+110216;Minister of Armament;Alexandru D. Neagu;1942;1964;1999;PA;Resource Industrialist;Medium;9682;X
+110217;Minister of Armament;Gheron Netta;1944;1964;1999;PA;Resource Industrialist;Medium;9683;X
+110218;Minister of Security;Nicolae Penescu;1944;1964;1999;SC;Silent Lawyer;Medium;9684;X
+110219;Minister of Armament;Mihail Romniceanu;1944;1964;1999;SC;Resource Industrialist;Medium;9685;X

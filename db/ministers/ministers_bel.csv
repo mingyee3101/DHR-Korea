@@ -1,0 +1,214 @@
+BEL;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+70001;Head of State;·¹¿ÀÆúµå 3¼¼ ;1933;1964;1999;ML;Benevolent Gentleman;Medium;M15001;X
+70002;Head of Government;ÆÄ¿ï ¹Ý Á©¶õÆ® ;1933;1964;1999;ML;Silent Workhorse;Medium;M15002;X
+70003;Foreign Minister;ÆÄ¿ï ¹Ý Á©¶õÆ® ;1933;1964;1999;ML;Biased Intellectual;Very High;M15002;X
+70004;Minister of Armament;¾Ëº£¸£ µåº£Áî ;1933;1964;1999;ML;Laissez-Faire Capitalist;Very High;M15004;X
+70005;Minister of Security;¿ÜÁ¨ ¼ö´Ü ;1933;1964;1999;SL;Silent Lawyer;Very High;M15005;X
+70006;Head of Military Intelligence;¾Ëº£¸£ µåº£Áî ;1933;1964;1999;ML;Political Specialist;Very High;M15004;X
+70007;Chief of Staff;¾Æµ¹ÇÁ Äû¸ù ;1933;1964;1999;SC;School of Defence;Very High;121;X
+70008;Chief of Army;ºòÅä¸£ ¹Ý ½ºÆ®¸°µ·Å© ;1933;1964;1999;SC;Static Defence Doctrine;Very High;M15008;X
+70009;Chief of Navy;G. ÆÀ¸Þ¸£¸¸½º ;1933;1964;1999;SC;Indirect Approach Doctrine;Very High;M15009;X
+70010;Chief of Air Force;L.F.E. ¹Ù¿ìÅ×¸£½º;1933;1964;1999;SC;Vertical Envelopment Doctrine;Very High;M15010;X
+70011;Head of State;·¹¿ÀÆúµå 3¼¼ ;1933;1964;1999;NS;Benevolent Gentleman;Medium;M15001;X
+70012;Head of State;»þ¸¦ ;1944;1964;1999;ML;Benevolent Gentleman;Medium;M15031;X
+70013;Head of State;ÁÙ¸®¾Ó ¶ó¾Æ¿ì ;1945;1964;1999;ST;Ruthless Powermonger;Medium;M15024;X
+70014;Head of Government;Æú ¾Ó¸® ½ºÆÄÅ© ;1933;1964;1999;SD;Ambitious Union Boss;Medium;M15034;X
+70015;Head of Government;·¹¿Ë µå±×·¹À¯ ;1933;1964;1999;NS;Old General;Medium;M15013;X
+70016;Head of Government;Æú ¿¡¹Ð Àå¼Û ;1937;1964;1999;ML;Silent Workhorse;Medium;M15036;X
+70017;Head of Government;À§º£¸£ ÇÇ¿¡¸¦·Î ;1938;1964;1999;SC;Naive Optimist;Medium;M15037;X
+70018;Head of Government;Ä«¹Ð¸£¾î ÈÖ½º¸¸½º ;1939;1964;1999;SD;Happy Amateur;Medium;M15038;X
+70019;Head of Government;Á¶Á¦ÇÁ ÀÚÅ©¸ðÆ® ;1944;1964;1999;LE;Political Protege;Medium;M15020;X
+70020;Head of Government;¾ÆÈú¸£¾î ¹Ý ¾ÆÄ¿¸£ ;1939;1964;1999;SD;Corporate Suit;Medium;M15041;X
+70021;Head of Government;ÇÏ½ºÅæ ¿¡ÀÌ½ºÄË½º ;1945;1964;1999;SC;Corporate Suit;Medium;M15042;X
+70022;Head of Government;ÁÙ¸®¾Ó ¶ó¾Æ¿ì ;1945;1964;1999;ST;Backroom Backstabber;Medium;M15024;X
+70023;Foreign Minister;Æú ¾Ó¸® ½ºÆÄÅ© ;1933;1964;1999;SL;Great Compromiser;Very High;M15034;X
+70024;Foreign Minister;·¹¿Ë µå±×·¹À¯ ;1933;1964;1999;NS;Iron Fisted Brute;Very High;M15013;X
+70025;Foreign Minister;·çÀÌ µå ºê·çÄÉ¸£ ;1937;1964;1999;SD;Ideological Crusader;Very High;M15047;X
+70026;Foreign Minister;¿ÜÁ¨ ¼ö´Ü ;1938;1964;1999;SL;Ideological Crusader;Very High;M15005;X
+70027;Foreign Minister;À§º£¸£ ÇÇ¿¡¸¦·Î ;1939;1964;1999;SC;Great Compromiser;Very High;M15037;X
+70028;Foreign Minister;Áæ ÇÇ¸£ ;1941;1964;1999;SD;General Staffer;Very High;M15051;X
+70029;Foreign Minister;¿¹ÇÁ ¹Ý ´õ ºñ¿¤ ;1942;1964;1999;NS;Iron Fisted Brute;Very High;M15011;X
+70030;Foreign Minister;¿¡µå°¡ ¶ö¸Á ;1943;1964;1999;ST;Biased Intellectual;Very High;M15022;X
+70031;Foreign Minister;ÁÙ¸®¾Ó ¶ó¾Æ¿ì ;1945;1964;1999;ST;Ideological Crusader;Very High;M15024;X
+70032;Foreign Minister;ÇÏ½ºÅæ ¿¡ÀÌ½ºÄË½º ;1947;1964;1999;SC;Great Compromiser;Very High;M15042;X
+70033;Minister of Armament;Çîµå¸¯ ´õ ¸¸ ;1933;1964;1999;SL;Administrative Genius;Very High;M15056;X
+70034;Minister of Armament;Ä«¹ÌÀ¯ ±¸Æ® ;1937;1964;1999;ML;Administrative Genius;Very High;M15059;X
+70035;Minister of Armament;·¹¿Ë µå±×·¹À¯ ;1937;1964;1999;NS;Infantry Proponent;Very High;M15013;X
+70036;Minister of Armament;Áæ ¸Þ¸¦·Î ;1938;1964;1999;SD;Resource Industrialist;Very High;M15061;X
+70037;Minister of Armament;¿¥¸¶´µ¿¤ ¹Ì¼ÎÁî ;1939;1964;1999;ML;Tank Proponent;Very High;M15062;X
+70038;Minister of Armament;Æú ¾Ó¸® ½ºÆÄÅ© ;1939;1964;1999;SD;Resource Industrialist;Very High;M15034;X
+70039;Minister of Armament;¾Ó¸® µå´Ï ;1940;1964;1999;SC;Infantry Proponent;Very High;M15064;X
+70040;Minister of Armament;¿¡µå°¡ ¶ö¸Á ;1944;1964;1999;LE;Resource Industrialist;Very High;M15022;X
+70041;Minister of Armament;ÇÏ½ºÅæ ¿¡ÀÌ½ºÄË½º ;1940;1964;1999;ML;Administrative Genius;Very High;M15042;X
+70042;Minister of Armament;ÇÁ¶õÃ÷ µå º¸°Ö ;1945;1964;1999;ML;Laissez-Faire Capitalist;Very High;M15067;X
+70043;Minister of Armament;¸¶¸£¼¿ º¸Æ¼¿¡ ;1946;1964;1999;ML;Laissez-Faire Capitalist;Very High;M15068;X
+70044;Minister of Armament;¾Ëº£¸£Æ® ´õ ºí·¹½ºÇÏ¿ì¹ö¸£ ;1946;1964;1999;SC;Resource Industrialist;Very High;M15069;X
+70045;Minister of Armament;Àå µÚºñ¿¡À§»ç¸£ ;1947;1964;1999;SC;Administrative Genius;Very High;M15070;X
+70046;Minister of Security;¾Ëº£¸£Æ® ¾á¼± ;1933;1964;1999;SC;Compassionate Gentleman;Very High;M15071;X
+70047;Minister of Security;ÇÁ¶û¼ö¾Æ º¸º£Áî ;1933;1964;1999;SC;Silent Lawyer;Very High;M15072;X
+70048;Minister of Security;ÆÄ¿ï ÇìÀÌ¸¸½º ;1933;1964;1999;SL;Compassionate Gentleman;Very High;M15073;X
+70049;Minister of Security;ÆÄ¿ï ¾Æ¿ìº£¸£½º ;1933;1964;1999;NS;Crime Fighter;Very High;M15075;X
+70050;Minister of Security;Æú ¿¡¹Ð Àå¼Û ;1937;1964;1999;ML;Crime Fighter;Very High;M15036;X
+70051;Minister of Security;·¹¿Ë µå±×·¹À¯ ;1937;1964;1999;NS;Prince of Terror;Very High;M15013;X
+70052;Minister of Security;Á¶Á¦ÇÁ Æú¸®¾Ó ;1938;1964;1999;SC;Silent Lawyer;Very High;M15079;X
+70053;Minister of Security;¾Ó¸® ±â½½·© ;1939;1964;1999;ML;Crime Fighter;Very High;M15081;X
+70054;Minister of Security;Áæ ÇÇ¸£ ;1942;1964;1999;SD;Prince of Terror;Very High;M15051;X
+70055;Minister of Security;ºòÅä¸£ µå ¶óºí·¹ ;1944;1964;1999;SL;Crime Fighter;Very High;M15084;X
+70056;Minister of Security;ÁÙ¸®¾Ó ¶ó¾Æ¿ì ;1944;1964;1999;ST;Prince of Terror;Very High;M15024;X
+70057;Minister of Security;¾Æµ¹ÆÛ ¹Ý Èê¶óº£Ä¿ ;1945;1964;1999;SC;Man of the People;Very High;M15086;X
+70058;Minister of Security;¿À±Í½ºÆ® ºßÁ¦·¹ ;1945;1964;1999;SC;Silent Lawyer;Very High;M15087;X
+70059;Minister of Security;ÇÒ·¹½º µÚ ºß½º ´õ ¹Ù¸£³ªÇÁ ;1945;1964;1999;SC;Crime Fighter;Very High;M15088;X
+70060;Minister of Security;¾Ëº£¸£ ÇÁ¶û¼ö¾Æ ;1946;1964;1999;ML;Compassionate Gentleman;Very High;M15089;X
+70061;Minister of Security;Æú ½ºÆ¢¸®¿¡ ;1947;1964;1999;SC;Man of the People;Very High;M15090;X
+70062;Minister of Security;Àå ·¹ ;1947;1964;1999;SC;Silent Lawyer;Very High;M15091;X
+70063;Head of Military Intelligence;ºòÅä¸£ µå ¶óºí·¹ ;1933;1964;1999;SD;Logistics Specialist;Very High;M15084;X
+70064;Head of Military Intelligence;¾Ó¸® µå´Ï ;1933;1964;1999;SC;Logistics Specialist;Very High;M15064;X
+70065;Head of Military Intelligence;ÆÄ¿ï ¾Æ¿ìº£¸£½º ;1933;1964;1999;NS;Industrial Specialist;Very High;M15075;X
+70066;Head of Military Intelligence;Áæ ÇÇ¸£ ;1940;1964;1999;SD;Logistics Specialist;Very High;M15051;X
+70067;Head of Military Intelligence;·¹¿Ë µ¨½Å´À ;1944;1964;1999;ML;Industrial Specialist;Very High;M15097;X
+70068;Head of Military Intelligence;¿À±Í½ºÆ® ºßÁ¦·¹ ;1944;1964;1999;SC;Technical Specialist;Very High;M15087;X
+70069;Head of Military Intelligence;Çì¸£¸¸ º¸½º ;1944;1964;1999;SD;Political Specialist;Very High;M15099;X
+70070;Head of Military Intelligence;·¹¿Ë ¹Àµ¨·¹¸£ ;1945;1964;1999;ML;Dismal Enigma;Very High;M15100;X
+70071;Head of Military Intelligence;B.E.M. µå ÇÁ·¹Åð¸£ ;1946;1964;1999;ML;Dismal Enigma;Very High;M15101;X
+70072;Head of Military Intelligence;ÇÇ¿¡ º£¸£¸á·± ;1947;1964;1999;SL;Technical Specialist;Very High;M15102;X
+70073;Chief of Staff;·¹¿Ë µå±×·¹À¯ ;1933;1964;1999;NS;School of Mass Combat;Very High;M15013;X
+70074;Chief of Staff;Á¶¸£ÁÖ µåÆþÅÙ ;1938;1964;1999;SC;School of Fire Support;Very High;M15105;X
+70075;Chief of Staff;ºòÅä¸£ ¹Ý ½ºÆ®¸°µ·Å© ;1940;1964;1999;SC;School of Mass Combat;Very High;M15008;X
+70076;Chief of Staff;¿À½ºÄ«¸£ ¹ÌÈåÀÌ¿¤½º ;1940;1964;1999;SC;School of Mass Combat;Very High;M15107;X
+70077;Chief of Army;·¹³× ¶ó±×·ç ;1933;1964;1999;NS;Decisive Battle Doctrine;Very High;M15017;X
+70078;Chief of Army;·¹¿Ë µå±×·¹À¯ ;1933;1964;1999;NS;Guns and Butter Doctrine;Very High;M15013;X
+70079;Chief of Army;Æ®¶ó¿ÀÀª ¹Ý ¿Àº£¸£½ºÆ®¶óÀÌÅÏ ;1938;1964;1999;SC;Guns and Butter Doctrine;Very High;M15110;X
+70080;Chief of Army;ÀÌ¹æ Á¦¶ó¸£ ;1940;1964;1999;ML;Elastic Defence Doctrine;Very High;M15111;X
+70081;Chief of Army;»þ¸¦ ¹Ù½ºÅÊ ;1939;1964;1999;SD;Static Defence Doctrine;Very High;M15112;X
+70082;Chief of Army;Áæ ÇÇ¸£ ;1943;1964;1999;SD;Armoured Spearhead Doctrine;Very High;M15051;X
+70083;Chief of Navy;ÇÁ¸®Ã÷ ÄÜ¶óÆ® ;1933;1964;1999;NS;Indirect Approach Doctrine;Very High;M15018;X
+70084;Chief of Air Force;ÇÁ¸®Ã÷ ·Úºê ;1933;1964;1999;NS;Army Aviation Doctrine;Very High;M15019;X
+70085;Chief of Air Force;Áæ ÀÌ½º··ÅÁ ;1937;1964;1999;SC;Air Superiority Doctrine;Very High;M15116;X
+70086;Minister of Security;¾ÆÀ§ÈÖ½ºÅÍ ´õ ½ºÈå·¹ÀÌº£¸£ ;1933;1964;1999;SC;Compassionate Gentleman;Very High;M15117;X
+70087;Head of State;·¹¿ÀÆúµå 3¼¼ ;1937;1964;1999;ML;Benevolent Gentleman;Very High;M15001;X
+70088;Minister of Armament;±â ºÎµé¸®¿¡ ;1941;1964;1999;SD;Theoretical Scientist;Very High;M15119;X
+70089;Minister of Armament;¿¡¹Ð ÇÁ¶ûÅ° ;1933;1964;1999;ML;Laissez-Faire Capitalist;Very High;M15120;X
+70090;Minister of Armament;¾Ëº£¸£Æ® ¿¡µÎ¾Æ¸£Æ® ¾á¼± ;1938;1964;1999;ML;Resource Industrialist;Very High;M15121;X
+70091;Minister of Armament;»þ¸¦ Æ÷¸¶·¹ ;1938;1964;1999;SD;Infantry Proponent;Very High;M15122;X
+70092;Minister of Armament;»þ¸¦ ·¹´Ï¿¡¸£ ;1933;1964;1999;SC;Air Superiority Proponent;Very High;M15123;X
+70093;Minister of Armament;¿¡µå¸óÆ® ·ò¹ø½º ;1933;1964;1999;SC;Resource Industrialist;Very High;M15124;X
+70094;Minister of Armament;¾Ëº£¸£ ¹Ù¿ìÅ×¸£ ;1939;1964;1999;SD;Military Entrepreneur;Very High;M15125;X
+70095;Minister of Security;¾ÓÅõ¾È µ¨Æ÷½º ;1942;1964;1999;ML;Compassionate Gentleman;Very High;M15126;X
+70096;Minister of Security;ºòÅä¸£ ¸Þ½ºÆ®¸®¿À ;1937;1964;1999;ML;Silent Lawyer;Very High;M15127;X
+70097;Minister of Armament;¶ó¿ìÀÌ½º ÇÁ¶õÅ© ;1933;1964;1999;SC;Resource Industrialist;Very High;M15128;X
+70098;Minister of Armament;Çîµå¸®Å© ÇìÀÌ¸¸ ;1933;1964;1999;SC;Air to Ground Proponent;Very High;M15129;X
+70099;Minister of Armament;¸¶¿ì¸®½º ¸®ÆÝ½º ;1933;1964;1999;ML;Resource Industrialist;Very High;M15130;X
+70100;Minister of Security;ÇÊ¸®ÇÁ ¹Ý ÀÌ»çÄ¿¸£ ;1933;1964;1999;SC;Crime Fighter;Very High;M15131;X
+70101;Head of Government;º§ÇÁ¶õ½º ¹Ý Ä«¿ì¿¡¸£Æ® ;1933;1964;1999;SC;Naive Optimist;Very High;M15132;X
+70102;Foreign Minister;º§ÇÁ¶õ½º ¹Ý Ä«¿ì¿¡¸£Æ® ;1933;1964;1999;SC;Ideological Crusader;Very High;M15132;X
+70103;Head of State;·¹¿ÀÆúµå 3¼¼ ;1933;1964;1999;PA;Benevolent Gentleman;Very High;M15001;X
+70104;Head of State;Á¶Á¦ÇÁ ÀÚÅ©¸ðÆ® ;1933;1964;1999;LE;Weary Stiffneck;Medium;M15020;X
+70105;Head of Government;Á¶Á¦ÇÁ ÀÚÅ©¸ðÆ® ;1933;1964;1999;LE;Political Protege;Medium;M15020;X
+70106;Foreign Minister;¹Ù¸£ ¹Ý ¿À¹ö¸£½ºÆ®·¹ÅÏ ;1933;1964;1999;LE;Biased Intellectual;Very High;M15118;X
+70107;Minister of Armament;¾Æºê¶óÇÔ ·¹¿Â ;1933;1964;1999;LE;Resource Industrialist;Very High;M15023;X
+70108;Minister of Security;¾Æµ¥¸¶¸£ ¿¡³ë ;1933;1964;1999;LE;Crime Fighter;Very High;unknownminister;X
+70109;Head of Military Intelligence;ÁÙ¸®¾Ó ¶ó¾Æ¿ì ;1933;1964;1999;LE;Political Specialist;Very High;M15024;X
+70110;Chief of Staff;Çì¿À¸£Çì½º º£·¹¿¡ÄÁ ;1933;1964;1999;LE;School of Mass Combat;Very High;unknownminister;X
+70111;Chief of Army;Çì¿À¸£Çì½º º£·¹¿¡ÄÁ ;1933;1964;1999;LE;Elastic Defence Doctrine;Very High;unknownminister;X
+70112;Chief of Navy;Çì¿À¸£Çì½º º£·¹¿¡ÄÁ ;1933;1964;1999;LE;decisive naval battle doctrine;Very High;unknownminister;X
+70113;Chief of Air Force;Çì¿À¸£Çì½º º£·¹¿¡ÄÁ ;1933;1964;1999;LE;air superiority doctrine;Very High;unknownminister;X
+70114;Head of State;·¹¿ÀÆúµå 3¼¼ ;1933;1964;1999;SL;Benevolent Gentleman;Very High;M15001;X
+70115;Head of State;»þ¸¦ ;1933;1964;1999;SL;Benevolent Gentleman;Very High;M15031;X
+70116;Minister of Armament;Å°¸®¿¤ ¹Ý ¿Àº£¸£º£Èå ;1937;1964;1999;SC;Theoretical Scientist;High;M15137;X
+70117;Head of Government;Á¶¸£ÁÖ Åð´Ï ;1933;1964;1999;SC;Naive Optimist;High;M15138;X
+70118;Minister of Armament;Á¶¸£ÁÖ Åð´Ï ;1933;1964;1999;SC;Laissez-Faire Capitalist;High;M15138;X
+70119;Minister of Armament;ÈÖ½ºÅ¸¾ÆÇÁ »çÇÁ ;1933;1964;1999;SC;Military Entrepreneur;High;M15140;X
+70120;Head of Government;¿ä¸®½º ¹Ý ¼¼º£·± ;1933;1964;1999;FA;Flamboyant Tough Guy;Very High;M15141;X
+70121;Head of Government;»þ¸¦ ¼ØºñÀ¯ ;1933;1964;1999;FA;Flamboyant Tough Guy;Very High;M15142;X
+70122;Foreign Minister;¿¡¹Ì¾ó Æ¼¾î¸£½º ;1933;1964;1999;FA;Great Compromiser;Very High;M15143;X
+70123;Foreign Minister;¹Ù¸£Æ® Çì¸£¸¸½º ;1933;1964;1999;FA;Biased Intellectual;Very High;M15144;X
+70124;Foreign Minister;Æú ¸£ ¸£¿Í ;1933;1964;1999;FA;Ideological Crusader;Very High;M15145;X
+70125;Minister of Armament;·¹³× ¶÷ºê¸®ÈåÃ÷ ;1937;1964;1999;FA;Administrative Genius;Very High;M15146;X
+70126;Minister of Armament;¿ä¸®½º ¹Ý ¼¼º£·± ;1933;1964;1999;FA;Military Entrepreneur;Very High;M15141;X
+70127;Minister of Armament;»þ¸¦ ¼ØºñÀ¯ ;1933;1964;1999;FA;Resource Industrialist;Very High;M15142;X
+70128;Minister of Security;·¹³× ¶÷ºê¸®ÈåÃ÷ ;1937;1964;1999;FA;Efficient Sociopath;Very High;M15146;X
+70129;Minister of Security;¿¡¹Ì¾ó Æ¼¾î¸£½º ;1933;1964;1999;FA;Compassionate Gentleman;Very High;M15143;X
+70130;Minister of Security;¾á ·¹ÀÌÄÚ¸£ ;1933;1964;1999;FA;Man of the People;Very High;M15151;X
+70131;Minister of Security;¹Ù¸£Æ® Çì¸£¸¸½º ;1933;1964;1999;FA;Silent Lawyer;Very High;M15144;X
+70132;Head of Military Intelligence;¿ä¸®½º ¹Ý ¼¼º£·± ;1933;1964;1999;FA;Logistics Specialist;Very High;M15141;X
+70133;Head of Military Intelligence;¾á ·¹ÀÌÄÚ¸£ ;1933;1964;1999;FA;Political Specialist;Very High;M15151;X
+70134;Chief of Staff;¿ä¸®½º ¹Ý ¼¼º£·± ;1933;1964;1999;FA;School of Psychology;Very High;M15141;X
+70135;Minister of Armament;¾Ë·º»êµå¸£ °¥·ÎÆØ ;1933;1964;1999;ML;Administrative Genius;Very High;M15156;X
+70136;Head of State;º¸µÎ¾Þ 1¼¼ ;1950;1964;1999;SL;Autocratic Charmer;High;M15158;X
+70137;Head of State;º¸µÎ¾Þ 1¼¼ ;1950;1964;1999;ML;Autocratic Charmer;High;M15158;X
+70138;Head of Government;Àå µÚºñ¿¡À§»ç¸£ ;1950;1964;1999;SC;Political Protege;Medium;M15070;X
+70139;Head of Government;Á¶Á¦ÇÁ Æú¸®¾Ó ;1950;1964;1999;SC;Backroom Backstabber;Medium;M15079;X
+70140;Head of Government;¾á ¹Ý ÈÄÆ® ;1953;1964;1999;SC;Naive Optimist;Medium;M15162;X
+70141;Minister of Armament;B.E.M. µå ÇÁ·¹Åð¸£ ;1946;1964;1999;SL;Military Entrepreneur;Medium;M15101;X
+70142;Minister of Armament;¿¡Æ¼¿£ µå ±×·¹ÇÁ ;1950;1964;1999;ML;Resource Industrialist;High;M15165;X
+70143;Minister of Security;¾Ëº£¸£Æ® ´õ ºí·¹½ºÇÏ¿ì¹ö¸£ ;1949;1964;1999;SC;Silent Lawyer;Very High;M15069;X
+70144;Minister of Security;¸ð¸®½º ºê¶ó¼è¸£ ;1950;1964;1999;ML;Man of the People;Very High;M15168;X
+70145;Minister of Security;·òµµºñÅ© ¸ðÀÌ¿¡¸£¼ø ;1952;1964;1999;SC;Prince of Terror;Very High;M15169;X
+70146;Minister of Armament;¿À±Í½ºÆ® ºßÁ¦·¹ ;1949;1964;1999;SC;Laissez-Faire Capitalist;Very High;M15087;X
+70147;Minister of Armament;¿À½ºÄ« º£¿À´º ;1949;1964;1999;ML;Resource Industrialist;High;M15171;X
+70148;Minister of Armament;·¹¿Ë ¿¤¸® Æ®·ÎÅ¬·¹ ;1947;1964;1999;SD;Resource Industrialist;Very High;M15172;X
+70149;Minister of Armament;B.E.M. µå ÇÁ·¹Åð¸£ ;1870;1964;1999;SL;Infantry Proponent;High;M15101;X
+70150;Minister of Security;ÇÇ¿¡ º£¸£¸á·± ;1947;1964;1999;SL;Silent Lawyer;Very High;M15102;X
+70151;Minister of Armament;¾á ¹Ý ÈÄÆ® ;1950;1964;1999;SC;Laissez-Faire Capitalist;Very High;M15162;X
+70152;Chief of Air Force;Å¬·¹¸Û µå »ý¸¶¸£Å© ;1914;1933;1999;ML;Air Superiority Doctrine;Medium;unknownminister;X
+70153;Chief of Air Force;¿¡¹Ð ¸¶Æ¼À¯ ;1914;1933;1999;ML;Air Superiority Doctrine;High;unknownminister;X
+70154;Chief of Air Force;Å×¿ÀÇÊ ¿ÍÀÌ½º ;1915;1933;1999;ML;Army Aviation Doctrine;High;7957;X
+70155;Chief of Air Force;¸¶¸£¼¿ ¹Ý Å©·Òºß¸£Çã ;1918;1933;1999;ML;Carpet Bombing Doctrine;High;7968;X
+70156;Chief of Army;¾Ëº£¸£ 1¼¼ ;1914;1933;1999;ML;Decisive Battle Doctrine;Very High;2195;X
+70157;Chief of Navy;¾Ëº£¸£ 1¼¼ ;1914;1933;1999;ML;Decisive Naval Battle Doctrine;Very High;2195;X
+70158;Chief of Staff;¸®´õ¸£ ´õ ¼¿¸®¾î¸£½º ;1914;1933;1999;ML;school of defence;Medium;2196;X
+70159;Chief of Staff;Æç¸¯½º ºñ·¹¸¸½º ;1914;1933;1999;ML;School of Fire Support;High;2197;X
+70160;Chief of Staff;·òÄÚ¿ìÀÌ ;1917;1933;1999;ML;School of Psychology;High;2198;X
+70161;Chief of Staff;½Ã¸®¾ÆÅ© ±â¾ßÀÎ ;1914;1933;1999;ML;School of Mass Combat;High;2199;X
+70162;Chief of Staff;Çî¸® H. ¸¶±×¸°¼­ ;1920;1933;1999;ML;School of Fire Support;High;7962;X
+70163;Chief of Staff;¿ä¼¼ÇÁ Çï·¯¹Ù¿ìÆ® ;1914;1933;1999;SC;School of Mass Combat;Very High;2200;X
+70164;Foreign Minister;Áæ ´Ùºñ´¨ ;1914;1933;1999;ML;Ideological Crusader;Very High;7963;X
+70165;Foreign Minister;¿ÜÁ¨ º£ÀÌ¿£ ;1914;1933;1999;ML;Great Compromiser;High;7956;X
+70166;Foreign Minister;»þ¸¦ µå ºê·ÎÅ©ºô ;1914;1933;1999;ML;Apologetic Clerk;High;2201;X
+70167;Foreign Minister;ÆÄ¿ï ÇìÀÌ¸¸½º ;1918;1933;1999;ML;Biased Intellectual;High;7970;X
+70168;Foreign Minister;·¹¿Ë µé¶óÅ©·ç¾Æ ;1920;1933;1999;ML;Great Compromiser;High;7966;X
+70169;Foreign Minister;P.H. ¾ß½ºÆÄ¸£ ;1920;1933;1999;ML;Great Compromiser;High;7969;X
+70170;Foreign Minister;Æú µå ÆÄº£·Î ;1914;1933;1999;ML;Great Compromiser;High;7937;X
+70172;Head of Government;»þ¸¦ µå ºê·ÎÅ©ºô ;1914;1933;1999;ML;Silent Workhorse;High;2201;X
+70173;Head of Government;·¹¿Ë ¸£Á¶ÀÏ ;1927;1933;1999;ST;Ambitious Union Boss;High;7967;X
+70174;Head of Government;Çì¶ó¾Æ¸£Æ® ÄÚ¿À·¹¸¸ ;1914;1933;1999;ML;Happy Amateur;High;7961;X
+70175;Head of Government;·¹¿Ë µé¶óÅ©·ç¾Æ ;1918;1933;1999;ML;Flamboyant Tough Guy;High;7966;X
+70176;Head of Government;¾Ó¸® ±â½½·© ;1920;1933;1999;ML;Silent Workhorse;High;7958;X
+70177;Head of Government;Á¶¸£ÁÖ Åð´Ï ;1921;1933;1999;ML;Political Protege;High;7960;X
+70178;Head of Government;¾Ë·ÎÀÌ½º ¹Ý ´õ ºñ¹ö·¯ ;1920;1933;1999;ML;Silent Workhorse;High;7955;X
+70179;Head of Government;Áæ·¹½º ¹Ýµ§Æä·¹ºÕ ;1914;1933;1999;ML;Silent Workhorse;High;unknownminister;X
+70180;Head of Government;Áæ·¹½º ´õ Æ®·ç¿ìÁî ;1914;1933;1999;ML;Happy Amateur;High;2202;X
+70181;Head of Government;ÇÁ¶õ½º ¼ñ·¯¸£ ;1914;1933;1999;ML;Silent Workhorse;High;2203;X
+70182;Head of Government;¿¡µå¹Ù¸£Æ® ¾È¼¿·¯ ;1918;1933;1999;SD;Ambitious Union Boss;High;7959;X
+70183;Head of Military Intelligence;»þ¸¦ µå ºê·ÎÅ©ºô ;1914;1933;1999;ML;Industrial Specialist;High;2201;X
+70184;Head of Military Intelligence;Áæ·¹½º ¹Ýµ§Æä·¹ºÕ ;1914;1933;1999;ML;Political Specialist;High;unknownminister;X
+70185;Head of Military Intelligence;¿ä¼¼ÇÁ Çï·¯¹Ù¿ìÆ® ;1914;1933;1999;SC;Logistics Specialist;High;2200;X
+70186;Head of Military Intelligence;Ç¸Á¨½º ¸¶Á¾ ;1918;1933;1999;ML;Political Specialist;High;unknownminister;X
+70187;Head of State;¾Ëº£¸£ 1¼¼ ;1914;1933;1999;ML;Benevolent Gentleman;High;2195;X
+70188;Minister of Armament;¹ÌÇï ·¹ºñ¾î ;1914;1933;1999;ML;Administrative Genius;High;unknownminister;X
+70189;Minister of Armament;·¹¿Ë ¸£½º¿ÍÀÏ ;1927;1933;1999;ST;Resource Industrialist;Medium;7967;X
+70190;Minister of Armament;¾Ë·ÎÀÌ½º ¹Ý ´õ ºñ¹ö·¯ ;1914;1933;1999;ML;Military Entrepreneur;High;7955;X
+70191;Minister of Armament;·¹¿Ë µé¶óÅ©·ç¾Æ ;1918;1933;1999;ML;Resource Industrialist;High;7966;X
+70192;Minister of Armament;Á¶¸£ÁÖ Åð´Ï ;1920;1933;1999;ML;Administrative Genius;High;7960;X
+70193;Minister of Armament;¿¡Àª¸®¿£ ¸®¹Ù¿¡¸£Æ® ;1914;1933;1999;ML;Administrative Genius;High;7965;X
+70194;Minister of Armament;Çî¸® ¾ß½ºÆÄ¸£ ;1918;1933;1999;ML;Resource Industrialist;High;7969;X
+70195;Minister of Armament;¿¡µå¹Ù¸£Æ® ¾È¼¿·¯ ;1918;1933;1999;SD;Administrative Genius;High;7959;X
+70196;Minister of Security;P. º£¸®¿¡¸£ ;1914;1933;1999;ML;Silent Lawyer;High;unknownminister;X
+70197;Minister of Security;¾Ó¸® µå´Ï ;1918;1933;1999;ML;Compassionate Gentleman;High;M15064;X
+70198;Minister of Security;A. ·òÁ¦Æ® ;1919;1933;1999;ML;Crime Fighter;High;unknownminister;X
+70199;Minister of Security;Áæ ·»Ä» ;1919;1933;1999;ML;Silent Lawyer;High;7964;X
+70200;Minister of Security;P.H. ¾ß½ºÆÄ¸£ ;1920;1933;1999;ML;Man of the People;High;7969;X
+70201;Minister of Security;¾Ó¸® ±â½½·© ;1920;1933;1999;ML;Silent Lawyer;High;7958;X
+70202;Minister of Security;ÇÁ·Î½ºÆä¸£ Ç®·¹ ;1924;1933;1999;ML;Compassionate Gentleman;High;7971;X
+70203;Minister of Security;ÇÁ¶õ½º ¼ñ·¯¸£ ;1914;1933;1999;ML;Compassionate Gentleman;High;2203;X
+70204;Minister of Security;¿¡¹Ð¸£ ¹Ýµ¥¸£º§´ø ;1918;1933;1999;SL;Silent Lawyer;High;unknownminister;X
+70205;Chief of Staff;·¹¿À ±æ¸®½º ;1949;1964;1999;NS;School of Manoeuvre;medium;6069;x
+70206;Chief of Navy;»þ¸¦ µå ºê·ÎÅ©ºô ;1914;1933;1999;ML;decisive naval battle doctrine;High;2201;X
+70207;Head of State;¾Ëº£¸£ 1¼¼ ;1933;1934;1999;ML;Benevolent Gentleman;High;5780;X
+70208;Chief of Staff;Émile-Joseph Galet;1926;1933;1933;ML;school of defence;medium;9745;x
+70209;Chief of Staff;Prudent Armand Nuyten;1933;1935;1935;ML;school of fire support;medium;L68019;x
+70210;Chief of Staff;Edouard-Marie Van den Bergen;1935;1941;1942;ML;school of defence;medium;L68027;x
+70211;Chief of Staff;Gustave-Georges-Félix Fromont;1945;1947;1947;ML;school of psychology;medium;9746;x
+70212;Chief of Staff;Jean-Baptiste Piron;1951;1957;1958;ML;school of mass combat;medium;L68021;x
+70213;Head of Military Intelligence;Robert de Foy;1933;1941;1958;ML;Logistics Specialist;Very High;9747;X

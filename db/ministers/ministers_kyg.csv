@@ -1,0 +1,61 @@
+KYG;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+490001;Head of State;이고르 P. 도냐크 ;1933;1964;1999;LE;Stern Imperialist;High;M521001;X
+490002;Head of Government;니콜라이 보골륩호프;1933;1964;1999;LE;Corporate Suit;High;M521002;X
+490003;Foreign Minister;막심 암모소프 ;1933;1964;1999;LE;Ideological Crusader;High;M521003;X
+490004;Minister of Armament;칼리나 아만쿨로바 ;1933;1964;1999;LE;Administrative Genius;Medium;M521004;X
+490005;Minister of Security;투라베이 쿨레토프 ;1933;1964;1999;LE;Man of the People;Medium;M521005;X
+490006;Head of Military Intelligence;이고르 N. 바라호프 ;1933;1964;1999;LE;Political Specialist;Medium;M521006;X
+490007;Chief of Staff;카룬 두셰바예프 ;1933;1964;1999;LE;School of Psychology;Medium;M521007;X
+490008;Chief of Army;미하일 V. 프룬제 ;1933;1964;1999;LE;Elastic Defence Doctrine;Medium;M521008;X
+490009;Chief of Navy;Egor Rall;1933;1964;1999;LE;Power Projection Doctrine;Medium;L10438;X
+490010;Chief of Air Force;트리필 소콜로프 ;1933;1964;1999;LE;Air Superiority Doctrine;Medium;M521010;X
+490011;Head of State;이반 F. 소콜로프 ;1933;1964;1999;SD;Pig-headed Isolationist;High;M521011;X
+490012;Head of State;바텐 줌마바예프 ;1933;1964;1999;ML;Autocratic Charmer;High;M521012;X
+490013;Head of State;카짐 티니스타노프 ;1933;1964;1999;PA;Ruthless Powermonger;High;M521013;X
+490014;Head of Government;막심 레브로프 ;1933;1964;1999;SD;Flamboyant Tough Guy;High;M521014;X
+490015;Head of Government;안드레이 V. 소콜로프 ;1933;1964;1999;ML;Happy Amateur;High;M521015;X
+490016;Head of Government;제키 발리도프 ;1933;1964;1999;PA;Smiling Oilman;High;M521016;X
+490017;Foreign Minister;압두카디르 우라즈베코프 ;1933;1964;1999;LE;General Staffer;High;M521017;X
+490018;Foreign Minister;이오시프 압두로흐마노프 ;1933;1964;1999;LE;Great Compromiser;High;M521018;X
+490019;Foreign Minister;나춤 소콜로프 ;1933;1964;1999;SD;Biased Intellectual;High;M521019;X
+490020;Foreign Minister;굴잣 예베르스토프 ;1933;1964;1999;SD;Apologetic Clerk;High;M521020;X
+490021;Foreign Minister;나지라 다울레토바 ;1933;1964;1999;ML;Apologetic Clerk;High;M521021;X
+490022;Foreign Minister;무흐타르 잔갈린 ;1933;1964;1999;PA;Great Compromiser;High;M521022;X
+490023;Foreign Minister;바실 댠코노프 ;1933;1964;1999;PA;Iron Fisted Brute;High;M521023;X
+490024;Minister of Armament;압둘자티르 질디즈벡 ;1933;1964;1999;LE;Infantry Proponent;Medium;M521024;X
+490025;Minister of Armament;술탄쿨 샤무르진 ;1933;1964;1999;LE;Air to Ground Proponent;Medium;M521025;X
+490026;Minister of Armament;알릭 바키툴 ;1933;1964;1999;SD;Tank Proponent;Medium;M521026;X
+490027;Minister of Armament;유리 미트르폴리스키 ;1933;1964;1999;SD;Theoretical Scientist;Medium;M521027;X
+490028;Minister of Armament;빅토르 글루쉬코프 ;1933;1964;1999;ML;Theoretical Scientist;Medium;M521028;X
+490029;Minister of Armament;술탄 바키트벡 ;1933;1964;1999;ML;Air to Ground Proponent;Medium;M521029;X
+490030;Minister of Armament;아딜렛 루스타모프 ;1933;1964;1999;PA;Corrupt Kleptocrat;Medium;M521030;X
+490031;Minister of Security;알렉세이 바고프 ;1933;1964;1999;LE;Efficient Sociopath;Medium;M521031;X
+490032;Minister of Security;바얄리 이사카예프 ;1933;1964;1999;LE;Crime Fighter;Medium;M521032;X
+490033;Minister of Security;보리스 샤푸르치르니코프 ;1933;1964;1999;SD;Silent Lawyer;Medium;M521033;X
+490034;Minister of Security;로지라 추겔 ;1933;1964;1999;SD;Back Stabber;Medium;M521034;X
+490035;Minister of Security;옐레나 셰멜레바 ;1933;1964;1999;ML;Prince of Terror;Medium;M521035;X
+490036;Minister of Security;무라트 살리호프 ;1933;1964;1999;PA;Back Stabber;Medium;M521036;X
+490037;Minister of Security;이반 프랴데쥐니코프 ;1933;1964;1999;PA;Prince of Terror;Medium;M521037;X
+490038;Head of Military Intelligence;미하일 우스 ;1933;1964;1999;LE;Industrial Specialist;Medium;M521038;X
+490039;Head of Military Intelligence;아자맛 촐폰벡 ;1933;1964;1999;SD;Logistics Specialist;Medium;M521039;X
+490040;Head of Military Intelligence;이브라힘 발리도프 ;1933;1964;1999;ML;Technical Specialist;Medium;M521040;X
+490041;Head of Military Intelligence;지르갈룰 아딜렛 ;1933;1964;1999;ML;Logistics Specialist;Medium;M521041;X
+490042;Head of Military Intelligence;마리암 투감바예바 ;1933;1964;1999;PA;Political Specialist;Medium;M521042;X
+490043;Head of Military Intelligence;아지즈 미룰 ;1933;1964;1999;PA;Technical Specialist;Medium;M521043;X
+490044;Chief of Staff;이사밀 아부쟈로프 ;1933;1964;1999;LE;School of Manoeuvre;Medium;M521044;X
+490045;Chief of Staff;이반 레드니코프 ;1933;1964;1999;SD;School of Manoeuvre;Medium;M521045;X
+490046;Chief of Staff;야구르 바라노프 ;1933;1964;1999;ML;School of Mass Combat;Medium;M521046;X
+490047;Chief of Staff;카를 폰 바르돌프 ;1933;1964;1999;PA;School of Fire Support;Medium;M521047;X
+490048;Chief of Army;말라고자 타하바예프 ;1933;1964;1999;LE;Static Defence Doctrine;Medium;M521048;X
+490049;Chief of Army;바크팃 고랴셴코 ;1933;1964;1999;SD;Armoured Spearhead Doctrine;Medium;M521049;X
+490050;Chief of Army;예브게이 소콜로프 ;1933;1964;1999;ML;Elastic Defence Doctrine;Medium;M521050;X
+490051;Chief of Army;우라즈 쟌도소프 ;1933;1964;1999;PA;Decisive Battle Doctrine;Medium;M521051;X
+490052;Chief of Navy;아스말리 톨루보예프 ;1933;1964;1999;LE;Base Control Doctrine;Medium;M521052;X
+490053;Chief of Navy;길나라 포포프 ;1933;1964;1999;SD;Decisive Naval Battle Doctrine;Medium;M521053;X
+490054;Chief of Navy;쿠반 바쿨벡 ;1933;1964;1999;ML;Base Control Doctrine;Medium;M521054;X
+490055;Chief of Navy;미하일 드라첸코 ;1933;1964;1999;PA;Indirect Approach Doctrine;Medium;L500120;X
+490056;Chief of Air Force;미하일 우스 ;1933;1964;1999;LE;Naval Aviation Doctrine;Medium;M521038;X
+490057;Chief of Air Force;미하일 V. 프룬제 ;1933;1964;1999;SD;Vertical Envelopment Doctrine;Medium;M521008;X
+490058;Chief of Air Force;파벨 샤마예프 ;1933;1964;1999;ML;Army Aviation Doctrine;Medium;M521058;X
+490059;Chief of Air Force;오토 랑게마이어 ;1933;1964;1999;PA;Carpet Bombing Doctrine;Medium;M521059;X

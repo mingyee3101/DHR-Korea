@@ -1,0 +1,771 @@
+#  STRING NAME (do not change!);English;French;Italian;Spanish;German;Polish;Portuguese;Russian;;Extra2;X
+#  ========================;==========;==========;==========;========;==========;==========;==========;==========;;==========;X
+########################################;;;;;;;;;;;X
+#  Division Description;;;;;;;;;;;X
+########################################;;;;;;;;;;;X
+NAME_INFANTRY;보병 ;Infantry;;;;;;;;;X
+NAME_CAVALRY;기병 ;Cavalry;;;;;;;;;X
+NAME_MOTORIZED;차량화보병 ;Motorized;;;;;;;;;X
+NAME_MECHANIZED;기계화보병 ;Mechanized;;;;;;;;;X
+NAME_LIGHT_ARMOR;경기갑 ;Light Armored;;;;;;;;;X
+NAME_ARMOR;기갑 ;Armored;;;;;;;;;X
+NAME_PARATROOPER;공수병 ;Paratroops;;;;;;;;;X
+NAME_MARINE;해병 ;Marines;;;;;;;;;X
+NAME_BERGSJAEGER;산악병 ;Mountain;;;;;;;;;X
+NAME_MILITIA;민병 ;Militia;;;;;;;;;X
+NAME_GARRISON;주둔병 ;Garrison;;;;;;;;;X
+NAME_HQ;사령부 ;HQ;;;;;;;;;X
+NAME_FIGHTER;전투기 ;Fighters;;;;;;;;;X
+NAME_INTERCEPTOR;요격기 ;Interceptors;;;;;;;;;X
+NAME_MULTI_ROLE;전투기 ;Fighters;;;;;;;;;X
+NAME_ESCORT;호위기 ;Escort Fighters;;;;;;;;;X
+NAME_STRATEGIC_BOMBER;전략폭격기 ;Strategic Bombers;;;;;;;;;X
+NAME_TACTICAL_BOMBER;전술폭격기 ;Tactical Bombers;;;;;;;;;X
+NAME_NAVAL_BOMBER;해군폭격기 ;Naval Bomber;;;;;;;;;X
+NAME_TRANSPORT_PLANE;수송기 ;Transport Planes;;;;;;;;;X
+NAME_BATTLESHIP;전함 ;Battleship;;;;;;;;;X
+NAME_LIGHT_CRUISER;경순양함 ;Light Cruiser;;;;;;;;;X
+NAME_HEAVY_CRUISER;중순양함 ;Heavy Cruiser;;;;;;;;;X
+NAME_BATTLECRUISER;순양전함 ;Battlecruiser;;;;;;;;;X
+NAME_DESTROYER;구축함 ;Destroyers;;;;;;;;;X
+NAME_CARRIER;항공모함 ;Carrier;;;;;;;;;X
+NAME_SUBMARINE;잠수함 ;Submarines;;;;;;;;;X
+NAME_TRANSPORT;수송함 ;Transports;;;;;;;;;X
+NAME_FLYING_BOMB;비행폭탄 ;Flying Bomb;;;;;;;;;X
+NAME_FLYING_ROCKET;전략 로켓 ;Strategic Rocket;;;;;;;;;X
+NAME_BALLISTIC_MISSILE;미사일 ;Missile;;;;;;;;;X
+NAME_ICBM;ICBM;ICBM;;;;;;;;;X
+NAME_ARTILLERY;포병 여단 ;Artillery Brigade;;;;;;;;;X
+NAME_SP_ARTILLERY;자주포 여단 ;Self-Propelled Artillery;;;;;;;;;X
+NAME_TANK_DESTROYER;구축전차 여단 ;Tank Destroyer;;;;;;;;;X
+NAME_HEAVY_ARMOR;중전차 여단 ;Heavy Armored;;;;;;;;;X
+NAME_SUPER_HEAVY_ARMOR;초중전차 여단 ;Super Heavy Armored;;;;;;;;;X
+NAME_ARMORED_CAR;장갑차 여단 ;Armored Car;;;;;;;;;X
+NAME_POLICE;헌병 여단 ;Police;;;;;;;;;X
+NAME_ANTIAIR;방공포병 여단 ;Anti-aircraft Brigade;;;;;;;;;X
+NAME_ENGINEER;공병 여단 ;Engineer Brigade;;;;;;;;;X
+NAME_CAS;근접지원기 ;Close Air Support;;;;;;;;;X
+NAME_CAG;항모비행단 ;Carrier Air Group;;;;;;;;;X
+NAME_LCAG;경항모비행단 ;Light Carrier Air Group;;;;;;;;;X
+NAME_ESCORT_CARRIER;호위항공모함 ;Escort Carrier;;;;;;;;;X
+NAME_LIGHT_CARRIER;경항공모함 ;Light Carrier;;;;;;;;;X
+NAME_NUCLEAR_SUBMARINE;중잠수함 ;Heavy Submarine;;;;;;;;;X
+NAME_LIGHT_ARMOR_BRI;경전차 여단 ;Light Armored Brigade;;;;;;;;;X
+SNAME_ARTILLERY;포병 ;Art;;;;;;;;;X
+SNAME_SP_ARTILLERY;자주포 ;SP Art;;;;;;;;;X
+SNAME_TANK_DESTROYER;구축전차 ;SP AT;;;;;;;;;X
+SNAME_HEAVY_ARMOR;중전차 ;H Arm;;;;;;;;;X
+SNAME_SUPER_HEAVY_ARMOR;초중전차 ;SH Arm;;;;;;;;;X
+SNAME_ARMORED_CAR;장갑차 ;AC;;;;;;;;;X
+SNAME_ANTIAIR;방공포병 ;AA;;;;;;;;;X
+SNAME_ENGINEER;공병 ;Eng;;;;;;;;;X
+SNAME_POLICE;헌병 ;Pol;;;;;;;;;X
+SNAME_LIGHT_ARMOR_BRI;경전차 ;L-A;;;;;;;;;X
+SNAME_CAS;근접지원기 ;CAS;;;;;;;;;X
+SNAME_CAG;항모비행단 ;CAG;;;;;;;;;X
+SNAME_LCAG;경항모비행단 ;LCAG;;;;;;;;;X
+SNAME_INFANTRY;보병 ;Inf;;;;;;;;;X
+SNAME_CAVALRY;기병 ;Cav;;;;;;;;;X
+SNAME_MOTORIZED;차량화보병 ;Mot;;;;;;;;;X
+SNAME_MECHANIZED;기계화보병 ;Mec;;;;;;;;;X
+SNAME_LIGHT_ARMOR;경기갑 ;L Arm;;;;;;;;;X
+SNAME_ARMOR;기갑 ;Arm;;;;;;;;;X
+SNAME_PARATROOPER;공수병 ;Par;;;;;;;;;X
+SNAME_MARINE;해병 ;Mar;;;;;;;;;X
+SNAME_BERGSJAEGER;산악병 ;Mtn;;;;;;;;;X
+SNAME_GARRISON;주둔병 ;Gar;;;;;;;;;X
+SNAME_HQ;사령부 ;HQ;;;;;;;;;X
+SNAME_INTERCEPTOR;요격기 ;Int F;;;;;;;;;X
+SNAME_MULTI_ROLE;전투기 ;Ftr;;;;;;;;;X
+SNAME_ESCORT;호위기 ;Esc F;;;;;;;;;X
+SNAME_STRATEGIC_BOMBER;전략폭격기 ;Str;;;;;;;;;X
+SNAME_TACTICAL_BOMBER;전술폭격기 ;Tac;;;;;;;;;X
+SNAME_NAVAL_BOMBER;해군폭격기 ;Nav;;;;;;;;;X
+SNAME_TRANSPORT_PLANE;수송기 ;Tra;;;;;;;;;X
+SNAME_BATTLESHIP;전함 ;BB;;;;;;;;;X
+SNAME_CRUISER;CA;CA;;;;;;;;;X
+SNAME_LIGHT_CRUISER;경순양함 ;CL;;;;;;;;;X
+SNAME_HEAVY_CRUISER;중순양함 ;CA;;;;;;;;;X
+SNAME_BATTLECRUISER;순양전함 ;BC;;;;;;;;;X
+SNAME_DESTROYER;구축함 ;DD;;;;;;;;;X
+SNAME_CARRIER;항공모함 ;CV;;;;;;;;;X
+SNAME_SUBMARINE;잠수함 ;SUB;;;;;;;;;X
+SNAME_TRANSPORT;수송함 ;TP;;;;;;;;;X
+SNAME_FLYING_BOMB;비행폭탄 ;V1;;;;;;;;;X
+SNAME_FLYING_ROCKET;전략로켓 ;V2;;;;;;;;;X
+SNAME_MILITIA;민병 ;Mil;;;;;;;;;X
+SNAME_ESCORT_CARRIER;호위항공모함 ;CVE;;;;;;;;;X
+SNAME_LIGHT_CARRIER;경항공모함 ;CVL;;;;;;;;;X
+SNAME_NUCLEAR_SUBMARINE;중잠수함 ;H SUB;;;;;;;;;X
+SDESC_INFANTRY;보병 사단 ;Infantry Division;;;;;;;;;X
+SDESC_CAVALRY;기병 사단 ;Cavalry Division;;;;;;;;;X
+SDESC_MOTORIZED;차량화보병 사단 ;Motorized Infantry Division;;;;;;;;;X
+SDESC_MECHANIZED;기계화보병 사단 ;Mechanized Infantry Division;;;;;;;;;X
+SDESC_LIGHT_ARMOR;경기갑 사단 ;Light Armored Division;;;;;;;;;X
+SDESC_ARMOR;기갑 사단 ;Armored Division;;;;;;;;;X
+SDESC_PARATROOPER;공수병 사단 ;Paratroop Division;;;;;;;;;X
+SDESC_MARINE;해병 사단 ;Marine Division;;;;;;;;;X
+SDESC_BERGSJAEGER;산악병 사단 ;Mountain Division;;;;;;;;;X
+SDESC_GARRISON;주둔병 사단 ;Garrison Division;;;;;;;;;X
+SDESC_HQ;사령부 사단 ;HQ Division;;;;;;;;;X
+SDESC_CAS;근접지원기 편대 ;CAS Division;;;;;;;;;X
+SDESC_INTERCEPTOR;요격기 편대 ;Interceptor Wing;;;;;;;;;X
+SDESC_MULTI_ROLE;전투기 편대 ;Fighter Wing;;;;;;;;;X
+SDESC_ESCORT;호위기 편대 ;Escort Fighter Wing;;;;;;;;;X
+SDESC_STRATEGIC_BOMBER;전략폭격기 편대 ;Strategic Bombing Wing;;;;;;;;;X
+SDESC_TACTICAL_BOMBER;전술폭격기 편대 ;Tactical Bombing Wing;;;;;;;;;X
+SDESC_TRANSPORT_PLANE;수송기 편대 ;Transport Wing;;;;;;;;;X
+SDESC_NAVAL_BOMBER;해군폭격기 편대 ;Naval Bomber Wing;;;;;;;;;X
+SDESC_BATTLESHIP;전함 ;Battleship;;;;;;;;;X
+SDESC_CRUISER;순양함 ;Cruiser;;;;;;;;;X
+SDESC_LIGHT_CRUISER;경순양함 ;Light Cruiser;;;;;;;;;X
+SDESC_HEAVY_CRUISER;중순양함 ;Heavy Cruiser;;;;;;;;;X
+SDESC_BATTLECRUISER;순양전함 ;Battlecruiser;;;;;;;;;X
+SDESC_DESTROYER;구축함 함대 ;Destroyer Flotilla;;;;;;;;;X
+SDESC_CARRIER;항공모함 ;Carrier;;;;;;;;;X
+SDESC_SUBMARINE;잠수함 함대 ;Submarine Flotilla;;;;;;;;;X
+SDESC_TRANSPORT;수송함 함대 ;Transport Flotilla;;;;;;;;;X
+SDESC_MILITIA;민병 사단 ;Militia Division;;;;;;;;;X
+SDESC_FLYING_BOMB;비행폭탄 발사대 ;Flying Bomb Battery;;;;;;;;;X
+SDESC_FLYING_ROCKET;전략로켓 발사대 ;Strategic Rocket Battery;;;;;;;;;X
+SDESC_ESCORT_CARRIER;호위항공모함 ;Escort Carrier;;;;;;;;;X
+SDESC_LIGHT_CARRIER;경항공모함 ;Light Carrier;;;;;;;;;X
+SDESC_NUCLEAR_SUBMARINE;중잠수함 ;Heavy Submarine;;;;;;;;;X
+LDESC_INFANTRY;보병은 아마 당신 군대의 대부분을 구성하게 될 사단입니다. 이들은 비교적 저렴하고 운용하는데 연료를 정기적으로 공급할 필요도 없습니다. 하지만 차량화 운송수단의 부족으로 진격 속도가 제한됩니다. 그럼에도 보병은 넓은 지역을 점령할 수 있습니다. 다른 병력들이 점령한 땅을 넘겨받을 수 있으니까요. ;Infantry will most likely make up the bulk of your army. They are relatively cheap to build and require no regular fuel supply to manoeuvre but their lack of motorized transport means their speed of advance is limited. However Infantry are able to occupy large areas of land securing ground captured by other forces.;;;;;;;;;X
+LDESC_CAVALRY;기병은 대부분의 지형에서 빠르게 움직이며 운용하는데 연료 보급을 필요로 하지 않습니다. 하지만 이들은 기갑 부대에 비해 경무장했으며, 이 시기 개발된 자동화기는 말과 병사 모두에게 치명적인 피해를 입힐 수 있습니다. 그럼에도 기병은 기동 예비 부대로 유용합니다. ;Cavalry are able to move fairly rapidly over most types of terrain and do not require a supply of fuel to operate but they are lightly armed when compared with Armoured units and the automatic weapons of the time can inflict devastating casualties to both men and horses. That is not to say that Cavalry can't prove useful in some instances as a mobile reserve.;;;;;;;;;X
+LDESC_MOTORIZED;차량화보병은 다른 보병들보다 신속하게 움직이기 위해 트럭과 같은 바퀴달린 이동수단을 사용합니다. 하지만 이들은 도로에 의존하기 때문에 기반시설이 열악한 지역에서는 제 성능을 내지 못합니다. ;Motorized Infantry make use of wheeled vehicles such as trucks to manoeuvre more rapidly than basic Infantry. But they are limited to roads and so their performance may suffer in provinces with low infrastructure levels.;;;;;;;;;X
+LDESC_MECHANIZED;기계화보병은 반궤도차량과 같은 전천후 이동수단을 사용합니다. 그렇기에 이들은 차량화사단처럼 도로에 의존하지 않으며 기갑 부대와 함께 작전을 펼칠 수 있습니다. 하지만 이들은 특수한 장비를 사용하기에 가격이 비쌉니다. ;Mechanized Infantry are equipped with all-terrain vehicles such as the halftrack which does not limit them to roads as with Motorized Infantry and allows them to work well with armoured units. However the specialist equipment they require means their cost is high.;;;;;;;;;X
+LDESC_LIGHT_ARMOR;기갑 부대는 전장에 진정한 전투력 투사를 보여줍니다. 이들의 속도와 화력은 전장의 모두, 특히 참호 안에 숨은 보병에게 치명적입니다. 하지만 전차가 점점 무거워지며 이들의 속도도 점점 느려졌습니다. 또한 이들은 전장에서 행동하기 위해 많은 양의 연료를 보급해야합니다. 만약 연료 보급이 중단된다면 기갑 부대는 무력해질겁니다. ;Armoured units allow real projection of power on the battlefield. Their speed and firepower make them lethal against all but the best entrenched Infantry. However as tanks become heavier their speeds will reduce accordingly.  They also require a constant supply of fuel to remain in the field and if this vital supply is severed the armoured unit will be almost useless.;;;;;;;;;X
+LDESC_ARMOR;기갑 부대는 전장에 진정한 전투력 투사를 보여줍니다. 이들의 속도와 화력은 전장의 모두, 특히 참호 안에 숨은 보병에게 치명적입니다. 하지만 전차가 점점 무거워지며 이들의 속도도 점점 느려졌습니다. 또한 이들은 전장에서 행동하기 위해 많은 양의 연료를 보급해야합니다. 만약 연료 보급이 중단된다면 기갑 부대는 무력해질겁니다. ;Armoured units allow real projection of power on the battlefield. Their speed and firepower make them lethal against all but the best entrenched Infantry. However as tanks became heaver their speeds would reduce accordingly.  They also required a constant supply of fuel to remain in the field and if this vital supply was severed the armoured unit would be next to useless.;;;;;;;;;X
+LDESC_PARATROOPER;공수병은 낙하산으로 특정한 지역을 강습하는 훈련을 받은 보병의 정예 병과입니다. 그들의 빠른 전개 가능성은 적의 전선들 뒤에 전략적인 기동을 하는 것에 사용가치가 있습니다. 그러나 그들은 그들의 공수방법때문에 중장비의 부족과 이동시의 보급에 의하여 핸디캡이 붙습니다. ;Paratroopers are an elite branch of the Infantry specifically trained to either parachute to the ground or be ferried to a battle in gliders. Their rapid deployment capability makes them ideal for use as a mobile reserve or for use in capturing a strategic asset behind enemy lines. However they are handicapped by a lack of heavy equipment due to their mode of travel and when they are in action it is advisable to move other units to their support.;;;;;;;;;X
+LDESC_MARINE;해병은 해변 강습과 다른 해양 작전에 특화된 보병의 정예 병과입니다. 이들은 해양 지형에서 일반 보병에 우위를 점하기 위해 특수한 장비와 전술을 사용합니다. ;Marines are an elite branch of the Infantry specifically trained for assaulting beaches and other naval operations. They make use of specialised equipment and tactics to give them an edge over regular Infantry in such an environment.;;;;;;;;;X
+LDESC_BERGSJAEGER;산악병은 산악 지역 작전에 특화된 보병의 정예 병과입니다. 이들은 산악 지형에서 일반 보병에 우위를 점하기 위해 특수한 장비와 전술을 사용합니다. ;Mountain Troops are an elite branch of the Infantry specifically trained for operations in mountainous terrain.  They make use of specialised equipment and tactics to give them an edge over regular Infantry in such an environment.;;;;;;;;;X
+LDESC_GARRISON;주둔병 사단은 후방에서 주요 목표를 보호하는 병사들입니다. 이들은 중장비와 운송수단이 부족하기에 전략적 재배치 외의 방법으로 움직일 수 없습니다. 이들은 빈약한 전투 능력을 가지고 있으나 전투 가능 병력을 전선으로 돌리게 만들 수 있습니다. ;Garrison Divisions are second line troops used to safeguard valuable objectives far from the front lines. They lack heavy equipment and transportation making them immobile except for strategic redeployment. They have limited fighting capability but can be used to free more capable troops for frontline use.;;;;;;;;;X
+LDESC_HQ;사령부는 당신 군대의 두뇌입니다. 사령부에는 군대가 잘 돌아가도록 유지해주는 참모들이 있습니다. 이들은 근처 부대의 전투 능력을 향상시키지만 자체적인 전투 능력은 열악하기에 보호하는게 권장됩니다. ;Headquarters are the brains of your armed forces. They contain the staff that keeps your army running such as logistics and planning staff. They give a bonus to the units fighting in the vicinity but it is advisable to guard them as their own fighting ability is poor.;;;;;;;;;X
+LDESC_CAS;근접지원기는 전격전 전술의 열쇠입니다. 이 기체들은 적 부대를 정확히 타격하여 지상군이 삐르게 돌파할 수 있도록 해줍니다. 이들은 느리고 견고한 기체이기 때문에 적 전투기들에게 쉬운 목표가 됩니다. ;Close Air Support is the key to the blitzkrieg tactic. These planes have the ability to strike precisely at enemy units enabling your ground forces to achieve a rapid breakthrough. They are slow sturdy planes and this makes them an easy target for enemy fighters.;;;;;;;;;X
+LDESC_INTERCEPTOR;요격기는 적 폭격기를 파괴하기 위해 설계된 단거리 전투기입니다. 빠른 속도와 좋은 기동성을 가지고 있어 폭격기의 방어기총을 피할 수 있으며 크고 중무장한 폭격기를 무력화할만한 화력도 가지고 있습니다. 적 전투기를 상대로는 약간 비효율적이지만 전투를 견뎌낼 수 있습니다. ;Interceptors are short-range fighters designed to destroy enemy bombers. They have high speed and good manouverability to make them agile enough to evade the machine guns of the bombers while having the firepower needed to disable a heavy armoured bomber.  Against enemy fighters they are less effective yet they still put up a good fight.;;;;;;;;;X
+LDESC_MULTI_ROLE;전투기는 모든 공군의 토대입니다. 이들은 제공권을 확보하고 적 폭격기와 전투기를 상대합니다. 이들은 주어진 어떤 임무도 수행할 수 있는 올라운더지만 어떤 것도 뛰어나게 해내지는 못합니다. ;Fighters are the backbone of any air force. They are used to achieve air superiority engage enemy bombers and fighters. They are all-rounders being able to fulfill any mission given to them but excelling at none in particular.;;;;;;;;;X
+LDESC_ESCORT;호위기는 장거리전투기로 폭격기를 호위하기 위해 만들어졌고 적 요격기로 부터 폭격기를 보호합니다. 그들은 이 과제를 완수하고 폭격기를 호위할 때 보너스를 받기 위하여 전술학에 교련됩니다. 공중우세임무에 그들은 덜 유력합니다. ;Escort Fighters are long-range fighters designed to escort bombers and keep enemy interceptors from the bombers. They are drilled in tactics to achieve this mission and receive a bonus when escorting bombers. In Air Superiority missions they are less effective.;;;;;;;;;X
+LDESC_STRATEGIC_BOMBER;전략폭격기는 제일 큰 항공기 기종으로, 적 지역에 대량의 폭탄을 투하해 산업과 기반시설에 피해를 입히기 위해 설계되었습니다. 하지만 전략폭격기의 넓은 행동반경에도 불구하고 이들의 속도는 느립니다. 전투기의 공격에 취약합니다. ;Strategic Bombers are the heaviest type of aircraft designed to deliver a large payload of bombs to enemy provinces with the aim of crippling his industry and infrastructure. However the Strategic Bomber is slow despite its long range which can make it vulnerable to attack by fighters.;;;;;;;;;X
+LDESC_TACTICAL_BOMBER;전술폭격기는 전투기보다는 크지만 전략폭격기보다는 작은 중형 폭격기입니다. 이들은 주로 전차나 보병같은 적 지상 부대를 공격하는 임무를 맡았습니다. 한정된 공중전 능력을 가지고 있지만 전투기에게 쉽게 제압됩니다. ;Tactical Bombers are medium-sized aircraft larger than Fighters yet smaller than Strategic Bombers which are used primarily for delivering attacks against enemy ground units such as Armour and Infantry.  Although they have a limited dog-fighting capability they can be easily outmatched by Fighters in air combat.;;;;;;;;;X
+LDESC_TRANSPORT_PLANE;수송기는 먼 거리로 인력과 화물을 나르기 위해 설계되었습니다. 공수부대가 공수강하를 하려면 수송기가 필요합니다. ;Transport Planes are designed to ferry men and materials over long distances quickly. Paratroops need Transport Planes in order to make a paradrop.;;;;;;;;;X
+LDESC_BATTLESHIP;전함은 바다의 여왕입니다. 이들은 장거리에서 적 주력함과 전투를 벌여 격침시키기 위해 설계된 초대형 해상 포대입니다. 하지만 이들은 이제 항공기와 잠수함의 어뢰 공격에 취약합니다. 또한 항공모함의 발달은 이들의 전성기를 시한부로 만들었습니다. ;The Battleship is the Queen of the Sea. It is a massive floating gun platform designed primarily to engage enemy capital ships at long range and send them to the bottom of the ocean. However they are now vulnerable to air or submarine torpedo attacks and the advent of the Aircraft Carrier has started to number their days.;;;;;;;;;X
+LDESC_LIGHT_CRUISER;경순양함은 대형 구축함 이상의 가치를 지닙니다. 이들은 빠른 속도와 넓은 행동범위를 위해 장갑을 얇게 둘렀습니다. 이들은 일반적으로 전함이나 항모와 같은 주력함을 호위하는 임무를 맡습니다. 이들은 주로 적 항공기의 공격을 막아내지만 잠수함의 공격 역시 막아낼 수 있습니다. ;Light Cruisers are little more than large destroyers. They are usually lightly armored to give good speed and range. They are normally used in an escort role for capital ships like battleships or carriers granting protection mainly from enemy air attacks but also from enemy submarines.;;;;;;;;;X
+LDESC_HEAVY_CRUISER;중순양함은 경순양함보다 크고 장갑을 더 둘렀습니다. 이들은 대구경 함포로 무장해 지상의 적 부대에게 포격을 가할 수 있습니다. 이들은 적 수상함, 특히 구축함과 경순양함에게 효과적입니다. 하지만 항공기와 잠수함의 공격에는 취약합니다. ;Heavy Cruisers are larger and more heavily armored than their lighter counterparts. They have larger main guns giving them the ability to bombard enemy units on land. They are effective against enemy surface ships especially destroyers and light cruisers but are susceptible to air and submarine attacks.;;;;;;;;;X
+LDESC_BATTLECRUISER;순양전함은 대구경 주포, 우월한 장갑, 합리적인 속도, 좋은 항속거리가 결합된 초중순양함입니다. 전함을 따돌리고 호위함을 제압할 수 있는 순양전함은 적의 대양 항로를 휘젓는데 사용됩니다. ;Battlecruisers are very heavy cruisers that combine large main guns and good armor with reasonable speed and a good range. They are mainly used against enemy shipping lanes able to outrun enemy battleships and able to outfight convoy escorts.;;;;;;;;;X
+LDESC_DESTROYER;구축함은 가장 작고 가장 빠른 수상함입니다. 이들의 무장은 전함에 비해 빈약하지만 속도와 기동성은 주력함에서 멀리 떨어져 제1 방어선을 형성하는데 적합합니다. 또한 이들의 소구경 함포는 항공기를 상대하는데 좋습니다. 구축함들은 보통 부대 단위로 편성되어 화물선 호위와 대잠임무에 동원됩니다. ;The Destroyer is the smallest and the fastest of the surface ships. It is lightly armed in comparison with the battleship but its speed and maneuverability allow it to provide a good first line of defence away from the main capital ships of a fleet and its light guns are useful for engaging aircraft. Destroyers are usually combined in groups and used for convoy escort and anti-submarine duties.;;;;;;;;;X
+LDESC_CARRIER;항공모함은 해군의 가장 중요한 것이 되고 있습니다. 탑재된 항공기들을 통해 계획된 힘이 다른 주력함들과 지상군들을 위협합니다. 그러나 항공모함은 오직 가볍게 무장되어 방어하는데 자신의 항공기뿐 아니라 다른 해군유닛에게 의존해야 합니다. ;The Aircraft Carrier is rapidly becoming the most important naval vessel. Its ability to project power through the aircraft it carries makes it dangerous to other capital ships and land forces. However the ship itself is only lightly armed and must rely on other naval units as well as its own aircraft to afford it protection.;;;;;;;;;X
+LDESC_SUBMARINE;잠수함은 다른 수상함들을 상대로 몰래 작전을 벌일 수 있게 물 밑을 항해할 수 있도록 설계되었습니다. 이들의 주무장은 항모, 전함, 해군 수송함, 다른 잠수함 등모든 종류의 함선에 치명적인 어뢰입니다. 하지만 잠수함은 짧은 행동반경과 기술의 발전으로 인한 고가화라는 단점이 있습니다. ;The Submarine is designed to travel underwater allowing it to operate clandestinely against other naval units. Its main armament consists of torpedoes which are deadly against all other types of vessel be they Carrier Battleship Naval Transport or another Submarine. However the Submarine can be handicapped by a short range and new technologies to improve them can be expensive.;;;;;;;;;X
+LDESC_TRANSPORT;해군 수송선은 세계의 보급품과 자원을 운송하는데 사용됩니다. 이들은 바다 건너로 지상군 부대를 수송할수도 있습니다. 이들은 완전히 비무장 상태입니다. 보호가 없다면 다른 함선과 항공기에 취약합니다. ;Naval Transports are used for moving supplies and resources around the world. They can also be used to ferry land units across stretches of water. They are completely unarmed and unless well protected will be vulnerable to attack by other naval units or aircraft.;;;;;;;;;X
+LDESC_MILITIA;민병은 값싸고 빠르게 편성되는 보병 부대입니다. 훈련을 대강 받았고 장비도 형편없기에 전투에서 쓸모가 별로 없습니다. 하지만 지역을 통제하거나 운용 가능한 부대가 없는 상황에서 최종 방어선을 짜는데는 유용합니다. ;Militia are a cheap and rapidly formed Infantry unit. Their hurried training and poor equipment mean they are of little use in combat although they can be useful for controlling territory and as a last line of defence when no other units are available.;;;;;;;;;X
+LDESC_NAVAL_BOMBER;해군폭격기는 물 위에서 사용하며 적 수상함을 어뢰와 철갑탄으로 타격하도록 셜계되었습니다. 한정된 공중전 능력을 가지고 있지만 전투기의 요격에 취약합니다. ;The Naval Bomber is designed for use over water and make accurate tactical strikes against enemy surface vessels using torpedoes or armour-piercing bombs.  They have a limited dog-fighting capability which makes them vulnerable if intercepted by fighters.;;;;;;;;;X
+LDESC_FLYING_BOMB;독일의 V1과 같은 비행 폭탄은 초창기 제트 엔진으로 움직이는 무인 항공기로, 목표 지역에 폭발물을 운반하기 위해 설계되었습니다. 비행폭탄은 로켓이나 미사일보다 느립니다. 그렇기에 적 전투기에 의해 요격되거나 격추될 수 있습니다. ;The Flying Bomb (e.g. the German V1) is a pilotless aircraft powered by an early jet engine designed to deliver a payload of explosives to an area target. It is slower than a rocket or missile which means that it can be intercepted and shot down by enemy fighters.;;;;;;;;;X
+LDESC_FLYING_ROCKET;독일의 V2와 같은 로켓이나 탄도미사일은 먼 지역까지 폭발물을 운반하기 위해 설계되었습니다. 속도가 빨라서 요격하기는 불가능에 가깝지만 통상적인 폭탄으로 적 지역을 파괴하기에는 비싼 수단입니다. 심리적 충격보다 더 많은걸 얻으려면 핵탄두가 필요합니다. ;The Rocket or Ballistic Missile (e.g. the German V2) is designed to deliver a payload of explosives to a distant target. Its high speed makes it almost impossible to intercept but it is an expensive way of destroying the enemy with conventional explosives.  Nuclear weapons are needed to give it more than psychological effect.;;;;;;;;;X
+LDESC_ESCORT_CARRIER;호위항공모함은 전쟁 후반기에 중요한 함선이 되었습니다. 항공기를 이용해 화물선을 호위하고 잠수함을 사냥하고 상륙작전을 지원하는 능력은 호위항모를 매우 유용하고 경제적인 함선으로 만들었습니다. 이로인해 비싼 정규 항공모함들을 다른 임무로 돌릴 수 있었기 때문이었습니다. 하지만 호위항모 자체는 경장갑에, 경무장에, 정규 항공모함과 경항공모함에 비해 매우 작은 배수량을 가지고 있었습니다. ;The Escort Carrier became an important naval vessel later in the war. Its ability to protect convoys actively hunt submarines and support amphibious operations through the aircraft it carried made it very useful and cost effective freeing up the more expensive fleet carriers for other tasks. The ships themselves however were only lightly armed lightly armored and of far smaller displacement than fleet or light carriers.;;;;;;;;;X
+LDESC_LIGHT_CARRIER;경항공모함은 항공모함 함대의 주요 지원함입니다. 항공기를 이용해 화물선을 호위하고 잠수함을 사냥하고 상륙작전을 지원하는 능력은 경항모를 매우 유용하고 경제적인 함선으로 만들었습니다. 이로인해 비싼 정규 항공모함들을 다른 임무로 돌릴 수 있었기 때문이었습니다. 하지만 경항모 자체는 경장갑에, 경무장에, 정규 항공모함에 비해 매우 작은 배수량을 가지고 있었습니다. ;The Light Carrier was an important supplement for carrier fleets. Its ability to protect convoys actively hunt submarines and support amphibious operations through the aircraft it carries made it very useful and cost effective freeing up the more expensive fleet carriers for other tasks. The ships themselves however are only lightly armed lightly armored and of far smaller displacement than fleet carriers.;;;;;;;;;X
+LDESC_NUCLEAR_SUBMARINE;중잠수함은 정찰에 특화된 수상기를 장비 가능한 초장거리 함선입니다. ;Heavy Submarines with very long range and equipped with Sea-Planes are well suited for Reconnaissance;;;;;;;;;X
+##;;;;;;;;;;;X
+SDESC_ARTILLERY;이 사단은 포병여단을 배속하고 있습니다. ;This division has an artillery brigade.;;;;;;;;;X
+SDESC_SP_ARTILLERY;이 사단은 자주포 여단을 배속하고 있습니다. ;This division has a self-propelled artillery brigade.;;;;;;;;;X
+SDESC_TANK_DESTROYER;이 사단은 구축전차 여단을 배속하고 있습니다. ;This division has a tank destroyer brigade.;;;;;;;;;X
+SDESC_LIGHT_ARMOR_BRIG;이 사단은 경전차 여단을 배속하고 있습니다. ;This division has a light tank brigade;;;;;;;;;X
+SDESC_HEAVY_ARMOR;이 사단은 중전차 여단을 배속하고 있습니다. ;This division has a heavy tank brigade;;;;;;;;;X
+SDESC_SUPER_HEAVY_ARMOR;이 사단은 초중전차 여단을 배속하고 있습니다. ;This division has a super-heavy tank brigade;;;;;;;;;X
+SDESC_ARMORED_CAR;이 사단은 장갑차 여단을 배속하고 있습니다. ;This division has an armored car brigade;;;;;;;;;X
+SDESC_ANTIAIR;이 사단은 방공포병 여단을 배속하고 있습니다. ;This division has an anti-aircraft brigade.;;;;;;;;;X
+SDESC_ENGINEER;이 사단은 공병 여단을 배속하고 있습니다. ;This division has an engineering brigade.;;;;;;;;;X
+SDESC_POLICE;이 사단은 헌병 여단을 배속하고 있습니다. ;This division has a police brigade.;;;;;;;;;X
+SDESC_CAG;이 함선은 항모비행단을 가지고 있습니다. ;This division has a carrier air group.;;;;;;;;;X
+SDESC_LCAG;이 함선은 항모비행단을 가지고 있습니다. ;This division has a carrier air group.;;;;;;;;;X
+LDESC_ARTILLERY;포병 제대는 당신 부대의 '보병공격' 능력을 높여 보병과 차량화 부대에 더 큰 피해를 입힐 수 있게 합니다. ;Artillery pieces will increase the 'Soft Attack' capability of your units inflicting more damage on Infantry and Motorized units.;;;;;;;;;X
+LDESC_SP_ARTILLERY;자주포는 당신의 기갑 및 기계화 부대가 적 보병에게 추가적인 공격을 가할 수 있도록 합니다. 일반 포병 여단처럼 속도를 떨어뜨리는 일도 없습니다. ;SP or Self-Propelled Artillery gives your armored and mechanized units an additional punch against enemy infantry while not reducing the speed of those units as much as normal artillery.;;;;;;;;;X
+LDESC_TANK_DESTROYER;구축전차는 일반 전차와 비슷합니다. 차이점은 회전 포탑이 없고 장갑의 대부분이 전면에 집중되어 있다는 겁니다. 이들은 당신의 부대가 적 기갑 부대와 같은 중장갑을 상대하는 능력을 늘려줍니다. ;Tank Destroyers are similar to normal Tanks. The difference is that they don't have a rotating turret and mount most of their armor to the front. They give your units an added capability against hard targets such as enemy armor.;;;;;;;;;X
+LDESC_LIGHT_ARMOR_BRIG;경전차는 당신의 부대가 적 기갑 부대와 같은 중장갑을 상대하는 능력을 늘려줍니다. 경전차는 빠르고 회피에 능하기에 비교적 굼뜬 중전차가 파괴하기 어렵습니다. 이들은 기동성을 이용해 중전차 측면과 후방의 장갑이 약한 부분을 타격합니다. ;Light Armor gives your units an added capability against hard targets such as enemy armor. Light Tanks are fast evasive and therefore hard to kill using the more cumbersome heavy tanks. They use their mobility to strike at weaker armor on the sides and rear of heavier tanks.;;;;;;;;;X
+LDESC_HEAVY_ARMOR;중전차는 당신 부대의 기갑공격과 보병공격을 상당히 증가시킵니다. 적 전선을 돌파하는 순간의 중전차는 파괴하기 매우 어렵습니다. 하지만 중전차는 당신 부대의 이동속도를 느리게 하며 엄청난 양의 보급품과 연료를 소모합니다. ;Heavy Armor gives your units a considerable boost in both hard and soft attack. Heavy Tanks are used when breaking enemy lines being extremely hard to kill. But they slow your units down and require considerable amounts of supplies and fuel.;;;;;;;;;X
+LDESC_SUPER_HEAVY_ARMOR;초중전차는 궁극의 충격 병기입니다. 파괴하기는 불가능에 가까우며 당신 부대의 보병공격, 기갑공격에 충격적인 보너스를 줍니다. 이들은 막대한 양의 보급품과 연료를 소모하며 당신의 부대를 기어가는 수준으로 지연시킵니다. ;Super Heavy Armor is the ultimate shock weapon. Nearly impossible to kill they give horrendous bonuses to your units' hard and soft attack values. They also consume enormous amounts of supplies and fuel and slow your units to a crawl.;;;;;;;;;X
+LDESC_ARMORED_CAR;장갑차는 바퀴달린 차량으로, 보통 얇은 장갑을 두르고 평균적인 화포를 장비했습니다. 이들은 당신의 부대가 보병을 상대하는데 도움을 줍니다. 수송 트럭과 후방 병력 상대로 효율적입니다. ;Armored Cars are wheeled vehicles typically with light armour and modest weaponry. They give your units an added capability against soft targets being most effective against supply trucks and rear area troops.;;;;;;;;;X
+LDESC_ANTIAIR;대공 무기는 당신 부대의 '공중공격' 능력을 높여 항공기에 더 큰 피해를 입힐 수 있게합니다. ;Anti-Aircraft weapons will increase the 'Air Attack' capability of your units so that they inflict more damage on Aircraft.;;;;;;;;;X
+LDESC_ENGINEER;공병 여단은 강을 건너는걸 도와주고 부대의 행동을 빠르게 해주며 혼란을 줄여줍니다. ;Engineer Brigades help crossing rivers making the process quicker and reducing disorganisation.;;;;;;;;;X
+LDESC_POLICE;헌병 여단은 반란군과 게릴라를 제압하는데 좋습니다. ;Police Brigades are good at suppressing partisans and rebels.;;;;;;;;;X
+LDESC_CAG;항모비행전대는 항모에 주둔한 항공기들 전체를 의미합니다. 전투기, 뇌격기, 급강하폭격기의 혼성 부대인 이들은 항공모함을 보호하고 먼 거리의 적함을 타격할 수 있도록 합니다. ;Carrier Air Groups represent the complement of planes stationed on carriers. They are usually a mix of fighters torpedo and dive bombers which provide both protection for the carrier and allow it to strike enemy ships at a large distance.;;;;;;;;;X
+LDESC_LCAG;항모비행전대는 항모에 주둔한 항공기들 전체를 의미합니다. 전투기, 뇌격기, 급강하폭격기의 혼성 부대인 이들은 항공모함을 보호하고 먼 거리의 적함을 타격할 수 있도록 합니다. ;Carrier Air Groups represent the complement of planes stationed on carriers. They are usually a mix of fighters torpedo and dive bombers which provide both protection for the carrier and allow it to strike enemy ships at a large distance.;;;;;;;;;X
+##;;;;;;;;;;;X
+NAME_NAVAL_ASW;대잠장비 ;ASW;;;;;;;;;X
+SNAME_NAVAL_ASW;대잠장비 ;ASW;;;;;;;;;X
+LDESC_NAVAL_ASW;추가적인 대잠장비는 대잠 공격 능력을 늘려줍니다. ;Additional ASW equimpment increases attacking capabilities against submarines.;;;;;;;;;X
+SDESC_NAVAL_ASW;이 함선은 대잠장비가 추가되어 있습니다. ;This ship is equipped with additional ASW equipment.;;;;;;;;;X
+NAME_NAVAL_ANTI_AIR_S;대공포 ;Anti Air;;;;;;;;;X
+SNAME_NAVAL_ANTI_AIR_S;보조함 대공포 ;S-AA;;;;;;;;;X
+LDESC_NAVAL_ANTI_AIR_S;추가적인 대공포는 함선의 대공 공격력과 대공 방어력을 늘려줍니다. ;Additional AA increases the air attack and air defense value of a ship.;;;;;;;;;X
+SDESC_NAVAL_ANTI_AIR_S;이 함선은 대공포가 추가되어 있습니다. ;This ship is equipped with additional AA guns.;;;;;;;;;X
+NAME_NAVAL_RADAR_S;레이더 ;Radar;;;;;;;;;X
+SNAME_NAVAL_RADAR_S;보조함 레이더 ;S-RA;;;;;;;;;X
+LDESC_NAVAL_RADAR_S;레이더는 해상 탐지능력과 대공 탐지능력을 늘려줍니다. ;Radar increases sea and air detection capabilities;;;;;;;;;X
+SDESC_NAVAL_RADAR_S;이 함선은 레이더 체계가 추가되어 있습니다. ;This ship is equipeed with additional radar systems.;;;;;;;;;X
+NAME_NAVAL_FIRE_CONTROLL_S;사격통제기 ;Fire Control;;;;;;;;;X
+SNAME_NAVAL_FIRE_CONTROLL_S;보조함 사격통제기 ;S-FC;;;;;;;;;X
+LDESC_NAVAL_FIRE_CONTROLL_S;보조함 사격통제기는 함선의 사정거리, 해상 공격력, 지상 포격 능력을 늘려줍니다. ;Escorts Fire Control increases firing range sea attack and shore bombardment capabilities of a ship.;;;;;;;;;X
+SDESC_NAVAL_FIRE_CONTROLL_S;이 함선은 사격통제기가 추가되어 있습니다. ;This ship is equipped with a fire control system.;;;;;;;;;X
+NAME_NAVAL_FIRE_CONTROLL_L;주력함 사격통제기 ;Capital Fire Control;;;;;;;;;X
+SNAME_NAVAL_FIRE_CONTROLL_L;사격통제기 ;FC;;;;;;;;;X
+LDESC_NAVAL_FIRE_CONTROLL_L;주력함 사격통제기는 함선의 사정거리, 해상 공격력, 지상 포격 능력을 늘려줍니다.  ;Capital Fire Control increases firing range sea attack and shore bombardment capabilities of a ship.;;;;;;;;;X
+SDESC_NAVAL_FIRE_CONTROLL_L;이 함선은 사격통제기가 추가되어 있습니다. ;This capital ship is equipped with a fire control system.;;;;;;;;;X
+NAME_NAVAL_IMPROVED_HULL_S;선체 개선 ;Improved Hull;;;;;;;;;X
+SNAME_NAVAL_IMPROVED_HULL_S;보조함 선체 개선 ;S-IH;;;;;;;;;X
+LDESC_NAVAL_IMPROVED_HULL_S;개선된 선체는 더 나은 방어력을 제공합니다. ;Improved hulls offer better defense values.;;;;;;;;;X
+SDESC_NAVAL_IMPROVED_HULL_S;이 함선은 개량형 선체로 설계되었습니다. ;This ship was constructed with an improved hull.;;;;;;;;;X
+NAME_NAVAL_TORPEDOES_S;어뢰 ;Torpedoes;;;;;;;;;X
+SNAME_NAVAL_TORPEDOES_S;어뢰 ;S-TM;;;;;;;;;X
+LDESC_NAVAL_TORPEDOES_S;어뢰는 해상 목표와 상선 목표에 대한 공격력을 늘려줍니다. ;Torpedos increase attack values against sea and convoy target.;;;;;;;;;X
+SDESC_NAVAL_TORPEDOES_S;이 함선은 어뢰 발사관이 추가되어 있습니다. ;This ship is equipped with additional torpedo tubes.;;;;;;;;;X
+NAME_NAVAL_ANTI_AIR_L;주력함 대공포 ;Capital Anti Air;;;;;;;;;X
+SNAME_NAVAL_ANTI_AIR_L;대공포 ;AA;;;;;;;;;X
+LDESC_NAVAL_ANTI_AIR_L;추가적인 대공포는 함선의 대공 공격력과 대공 방어력을 늘려줍니다.  ;Additional AA increases the air attack and air defense value of a ship.;;;;;;;;;X
+SDESC_NAVAL_ANTI_AIR_L;이 함선은 대공포가 추가되어 있습니다. ;This ship is equipped with additional AA guns.;;;;;;;;;X
+NAME_NAVAL_RADAR_L;주력함 레이더 ;Capital Radar;;;;;;;;;X
+SNAME_NAVAL_RADAR_L;레이더 ;RA;;;;;;;;;X
+LDESC_NAVAL_RADAR_L;레이더는 해상 탐지능력과 대공 탐지능력을 늘려줍니다. ;Radar increases sea and air detection capabilities;;;;;;;;;X
+SDESC_NAVAL_RADAR_L;이 함선은 레이더 체계가 추가되어 있습니다. ;This ship is equipeed with additional radar systems.;;;;;;;;;X
+NAME_NAVAL_IMPROVED_HULL_L;주력함 선체 개선 ;Capital Improved Hull;;;;;;;;;X
+SNAME_NAVAL_IMPROVED_HULL_L;선체 개선 ;IH;;;;;;;;;X
+LDESC_NAVAL_IMPROVED_HULL_L;개선된 선체는 더 나은 방어력을 제공합니다. ;Improved hulls offer better defense values.;;;;;;;;;X
+SDESC_NAVAL_IMPROVED_HULL_L;이 함선은 개량형 선체로 설계되었습니다. ;This ship was constructed with an improved hull.;;;;;;;;;X
+NAME_NAVAL_BRIGADE_0;항모비행전대 ;Carrier Air Group;;;;;;;;;X
+SNAME_NAVAL_BRIGADE_0;항모비행전대 ;CAG;;;;;;;;;X
+SDESC_NAVAL_BRIGADE_0;이 함대는 항모비행전대를 배치하고 있습니다. ;This division has a carrier air group.;;;;;;;;;X
+LDESC_NAVAL_BRIGADE_0;항모비행전대는 항모에 주둔한 항공기들 전체를 의미합니다. 전투기, 뇌격기, 급강하폭격기의 혼성 부대인 이들은 항공모함을 보호하고 먼 거리의 적함을 타격할 수 있도록 합니다. ;Carrier Air Groups represent the complement of planes stationed on carriers. They are usually a mix of fighters torpedo and dive bombers which provide both protection for the carrier and allow it to strike enemy ships at a large distance.;;;;;;;;;X
+#########################################;;;;;;;;;;;X
+######## UNIT MODELS              #######;;;;;;;;;;;X
+#########################################;;;;;;;;;;;X
+MODEL_0_0;보병 1870;Infantry 1870;;;;;;;;;X
+MODEL_0_1;보병 1897;Infantry 1897;;;;;;;;;X
+MODEL_0_2;보병 '07;Infantry 1907;;;;;;;;;X
+MODEL_0_3;보병 '14;Infantry 1914;;;;;;;;;X
+MODEL_0_4;보병 '16;Infantry 1916;;;;;;;;;X
+MODEL_0_5;보병 '18;Infantry 1918;;;;;;;;;X
+MODEL_0_6;보병 '21;Infantry 1921;;;;;;;;;X
+MODEL_0_7;보병 '26;Infantry 1926;;;;;;;;;X
+MODEL_0_8;보병 '31;Infantry 1931;;;;;;;;;X
+MODEL_0_9;보병 '36;Infantry 1936;;;;;;;;;X
+MODEL_0_10;보병 '39;Infantry 1939;;;;;;;;;X
+MODEL_0_11;보병 '42;Infantry 1942;;;;;;;;;X
+MODEL_0_12;보병 '45;Infantry 1945;;;;;;;;;X
+MODEL_0_13;보병 '48;Infantry 1948;;;;;;;;;X
+MODEL_0_14;보병 '51;Infantry 1951;;;;;;;;;X
+MODEL_0_15;보병 '54;Infantry 1954;;;;;;;;;X
+MODEL_0_16;보병 '58;Infantry 1958;;;;;;;;;X
+MODEL_0_17;보병 '62;Infantry 1962;;;;;;;;;X
+MODEL_1_0;기병 1870;Cavalry 1870;;;;;;;;;X
+MODEL_1_1;기병 1897;Cavalry 1897;;;;;;;;;X
+MODEL_1_2;기병 '07;Cavalry 1907;;;;;;;;;X
+MODEL_1_3;기병 '14;Cavalry 1914;;;;;;;;;X
+MODEL_1_4;기병 '16;Cavalry 1916;;;;;;;;;X
+MODEL_1_5;기병 '18;Cavalry 1918;;;;;;;;;X
+MODEL_1_6;기병 '21;Cavalry 1921;;;;;;;;;X
+MODEL_1_7;기병 '24;Cavalry 1924;;;;;;;;;X
+MODEL_1_8;기병 '28;Cavalry 1928;;;;;;;;;X
+MODEL_1_9;기병 '32;Cavalry 1932;;;;;;;;;X
+MODEL_1_10;기병 '36;Cavalry 1936;;;;;;;;;X
+MODEL_1_11;준차량화기병 '38;Semi-Motorized Cavalry 1938;;;;;;;;;X
+MODEL_1_12;기계화기병 '42;Mechanized Cavalry 1942;;;;;;;;;X
+MODEL_1_13;장갑화기병 '46;Armored Cavalry 1946;;;;;;;;;X
+MODEL_1_14;공중강습병 '51;Air Cavalry 1951;;;;;;;;;X
+MODEL_2_0;차량화보병 '35;Motorized Infantry 1935;;;;;;;;;X
+MODEL_2_1;차량화보병 '39;Motorized Infantry 1939;;;;;;;;;X
+MODEL_2_2;차량화보병 '42;Motorized Infantry 1942;;;;;;;;;X
+MODEL_2_3;차량화보병 '45;Motorized Infantry 1945;;;;;;;;;X
+MODEL_2_4;차량화보병 '48;Motorized Infantry 1948;;;;;;;;;X
+MODEL_2_5;차량화보병 '52;Motorized Infantry 1952;;;;;;;;;X
+MODEL_2_6;차량화보병 '56;Motorized Infantry 1956;;;;;;;;;X
+MODEL_2_7;차량화보병 '60;Motorized Infantry 1960;;;;;;;;;X
+MODEL_3_0;기계화보병 '42;Mechanized Infantry 1942;;;;;;;;;X
+MODEL_3_1;기계화보병 '45;Mechanized Infantry 1945;;;;;;;;;X
+MODEL_3_2;기계화보병 '48;Mechanized Infantry 1948;;;;;;;;;X
+MODEL_3_3;기계화보병 '52;Mechanized Infantry 1952;;;;;;;;;X
+MODEL_3_4;기계화보병 '56;Mechanized Infantry 1956;;;;;;;;;X
+MODEL_3_5;기계화보병 '60;Mechanized Infantry 1960;;;;;;;;;X
+MODEL_4_0;경기갑 '36;Early Tank;;;;;;;;;X
+MODEL_4_1;경기갑 '38;Basic Light Tank;;;;;;;;;X
+MODEL_4_2;경기갑 '39;Improved Light Tank;;;;;;;;;X
+MODEL_5_0;기갑 '39;Basic Armor '39;;;;;;;;;X
+MODEL_5_1;기갑 '41;Improved Armor '41;;;;;;;;;X
+MODEL_5_2;기갑 '43;Advanced Armor '43;;;;;;;;;X
+MODEL_5_3;기갑 '45;Semi-Modern Armor '45;;;;;;;;;X
+MODEL_5_4;기갑 '48;Early MBT '48;;;;;;;;;X
+MODEL_5_5;기갑 '52;Basic MBT '52;;;;;;;;;X
+MODEL_5_6;기갑 '56;Advanced MBT '56;;;;;;;;;X
+MODEL_5_7;기갑 '60;Modern MBT '62;;;;;;;;;X
+MODEL_6_0;공수병 '38;Airborne 1938;;;;;;;;;X
+MODEL_6_1;공수병 '41;Airborne 1941;;;;;;;;;X
+MODEL_6_2;공수병 '44;Airborne 1944;;;;;;;;;X
+MODEL_6_3;공수병 '47;Airborne 1947;;;;;;;;;X
+MODEL_6_4;공수병 '50;Airborne 1950;;;;;;;;;X
+MODEL_6_5;공수병 '53;Airborne 1953;;;;;;;;;X
+MODEL_6_6;공수병 '57;Airborne 1957;;;;;;;;;X
+MODEL_6_7;공수병 '61;Airborne 1961;;;;;;;;;X
+MODEL_7_0;해병 '22;Marines 1922;;;;;;;;;X
+MODEL_7_1;해병 '25;Marines 1925;;;;;;;;;X
+MODEL_7_2;해병 '31;Marines 1931;;;;;;;;;X
+MODEL_7_3;해병 '37;Marines 1937;;;;;;;;;X
+MODEL_7_4;해병 '40;Marines 1940;;;;;;;;;X
+MODEL_7_5;해병 '43;Marines 1943;;;;;;;;;X
+MODEL_7_6;해병 '46;Marines 1946;;;;;;;;;X
+MODEL_7_7;해병 '49;Marines 1949;;;;;;;;;X
+MODEL_7_8;해병 '53;Marines 1953;;;;;;;;;X
+MODEL_7_9;해병 '57;Marines 1957;;;;;;;;;X
+MODEL_7_10;기계화해병 '61;Mechanized Marines 1961;;;;;;;;;X
+MODEL_8_0;경보병 1870;Light Infantry 1870;;;;;;;;;X
+MODEL_8_1;경보병 1897;Light Infantry 1897;;;;;;;;;X
+MODEL_8_2;경보병 '07;Light Infantry 1907;;;;;;;;;X
+MODEL_8_3;산악병 '14;Mountain 1914;;;;;;;;;X
+MODEL_8_4;산악병 '16;Mountain 1916;;;;;;;;;X
+MODEL_8_5;산악병 '18;Mountain 1918;;;;;;;;;X
+MODEL_8_6;산악병 '21;Mountain 1921;;;;;;;;;X
+MODEL_8_7;산악병 '25;Mountain 1925;;;;;;;;;X
+MODEL_8_8;산악병 '30;Mountain 1930;;;;;;;;;X
+MODEL_8_9;산악병 '35;Mountain 1935;;;;;;;;;X
+MODEL_8_10;산악병 '39;Mountain 1939;;;;;;;;;X
+MODEL_8_11;산악병 '42;Mountain 1942;;;;;;;;;X
+MODEL_8_12;산악병 '45;Mountain 1945;;;;;;;;;X
+MODEL_8_13;산악병 '48;Mountain 1948;;;;;;;;;X
+MODEL_8_14;산악병 '51;Mountain 1951;;;;;;;;;X
+MODEL_8_15;산악병 '55;Mountain 1955;;;;;;;;;X
+MODEL_8_16;산악병 '59;Mountain 1959;;;;;;;;;X
+MODEL_8_17;산악병 '63;Mountain 1963;;;;;;;;;X
+MODEL_9_0;주둔병 1870;Garrison 1870;;;;;;;;;X
+MODEL_9_1;주둔병 '07;Garrison 1907;;;;;;;;;X
+MODEL_9_2;주둔병 '16;Garrison 1916;;;;;;;;;X
+MODEL_9_3;주둔병 '21;Garrison 1921;;;;;;;;;X
+MODEL_9_4;주둔병 '31;Garrison 1931;;;;;;;;;X
+MODEL_9_5;주둔병 '39;Garrison 1939;;;;;;;;;X
+MODEL_9_6;주둔병 '45;Garrison 1945;;;;;;;;;X
+MODEL_9_7;주둔병 '51;Garrison 1951;;;;;;;;;X
+MODEL_9_8;주둔병 '58;Garrison 1958;;;;;;;;;X
+MODEL_9_9;주둔병 '62;Garrison 1962;;;;;;;;;X
+MODEL_10_0;사령부 1870;HQ 1870;;;;;;;;;X
+MODEL_10_1;사령부 '14;HQ 1914;;;;;;;;;X
+MODEL_10_2;사령부 '28;HQ 1928;;;;;;;;;X
+MODEL_10_3;사령부 '39;HQ 1939;;;;;;;;;X
+MODEL_10_4;사령부 '43;HQ 1943;;;;;;;;;X
+MODEL_10_5;사령부 '46;HQ 1946;;;;;;;;;X
+MODEL_11_0;민병 1870;Militia 1870;;;;;;;;;X
+MODEL_11_1;민병 1897;Militia 1897;;;;;;;;;X
+MODEL_11_2;민병 '14;Militia 1914;;;;;;;;;X
+MODEL_11_3;민병 '18;Militia 1918;;;;;;;;;X
+MODEL_11_4;민병 '26;Militia 1926;;;;;;;;;X
+MODEL_11_5;민병 '36;Militia 1936;;;;;;;;;X
+MODEL_11_6;민병 '42;Militia 1942;;;;;;;;;X
+MODEL_11_7;민병 '48;Militia 1948;;;;;;;;;X
+MODEL_11_8;민병 '54;Militia 1954;;;;;;;;;X
+MODEL_11_9;민병 '62;Militia 1962;;;;;;;;;X
+MODEL_12_0;WW1 전투기 '16;Early WW1 Fighter;;;;;;;;;X
+MODEL_12_1;WW1 전투기 '17;Basic WW1 Fighter;;;;;;;;;X
+MODEL_12_2;WW1 전투기 '18;Improved WW1 Fighter;;;;;;;;;X
+MODEL_12_3;전투기 '26;Interwar Fighter;;;;;;;;;X
+MODEL_12_4;전투기 '32;Early Fighter;;;;;;;;;X
+MODEL_12_5;전투기 '38;Basic Fighter;;;;;;;;;X
+MODEL_12_6;전투기 '40;Improved Fighter;;;;;;;;;X
+MODEL_12_7;전투기 '43;Semi-modern Fighter;;;;;;;;;X
+MODEL_12_8;전투기 '45;Advanced Fighter;;;;;;;;;X
+MODEL_12_9;터보제트 전투기 '48;Basic Turbojet Fighter;;;;;;;;;X
+MODEL_12_10;터보제트 전투기 '50;Improved Turbojet Fighter;;;;;;;;;X
+MODEL_12_11;초음속 전투기 '54;Supersonic Fighter;;;;;;;;;X
+MODEL_12_12;초음속 전투기 '59;Modern Supersonic Fighter;;;;;;;;;X
+MODEL_12_13;초음속 전투기 '63;Adv. Supersonic Fighter;;;;;;;;;X
+MODEL_13_0;비무장 정찰기 ;Unarmed Reconplane;;;;;;;;;X
+MODEL_13_1;1914 전투기 ;1914 Fighter;;;;;;;;;X
+MODEL_13_2;1915 전투기 ;1915 Fighter;;;;;;;;;X
+MODEL_13_3;1916 전투기 ;1916 Fighter;;;;;;;;;X
+MODEL_13_4;1917 전투기 ;1917 Fighter;;;;;;;;;X
+MODEL_13_5;1918 전투기 ;1918 Fighter;;;;;;;;;X
+MODEL_13_6;요격기 '24;Interwar Interceptor;;;;;;;;;X
+MODEL_13_7;요격기 '30;Early Interceptor;;;;;;;;;X
+MODEL_13_8;요격기 '37;Basic Interceptor;;;;;;;;;X
+MODEL_13_9;요격기 '40;Improved Interceptor;;;;;;;;;X
+MODEL_13_10;요격기 '42;Advanced Interceptor;;;;;;;;;X
+MODEL_13_11;터보제트 요격기 '44;Basic Turbojet Interceptor;;;;;;;;;X
+MODEL_13_12;터보제트 요격기 '47;Advanced Turbojet Interceptor;;;;;;;;;X
+MODEL_13_13;초음속 요격기 '50;Supersonic Interceptor;;;;;;;;;X
+MODEL_13_14;초음속 요격기 '54;Semi-Modern Interceptor;;;;;;;;;X
+MODEL_13_15;초음속 요격기 '58;Modern Interceptor;;;;;;;;;X
+MODEL_13_16;초음속 요격기 '62;Adv Supersonic Interceptor;;;;;;;;;X
+MODEL_32_0;로켓요격기 '41;Basic Rocket Interceptor;;;;;;;;;X
+MODEL_32_1;로켓요격기 '43;Improved Rocket Interceptor;;;;;;;;;X
+MODEL_14_0;전략폭격기 '14;1st Gen. Strategic Bomber;;;;;;;;;X
+MODEL_14_1;전략폭격기 '18;2nd Gen. Strategic Bomber;;;;;;;;;X
+MODEL_14_2;전략폭격기 '30;3rd Gen. Strategic Bomber;;;;;;;;;X
+MODEL_14_3;전략폭격기 '35;Basic Strategic Bomber;;;;;;;;;X
+MODEL_14_4;전략폭격기 '39;Improved Strategic Bomber;;;;;;;;;X
+MODEL_14_5;전략폭격기 '42;Advanced Strategic Bomber;;;;;;;;;X
+MODEL_14_6;전략폭격기 '45;Semi-Modern Strategic Bomber;;;;;;;;;X
+MODEL_14_7;터보제트 전략폭격기 '49;Turbojet Strategic Bomber;;;;;;;;;X
+MODEL_14_8;터보제트 전략폭격기 '54;Improved Turbojet Strategic Bomber;;;;;;;;;X
+MODEL_14_9;대륙간 전략폭격기 '58;Intercontinental Strategic Bomber;;;;;;;;;X
+MODEL_15_0;시제 폭격기 ;Experimental Bomber;;;;;;;;;X
+MODEL_15_1;단거리 폭격기 '14;1st gen. Short range Bomber;;;;;;;;;X
+MODEL_15_2;단거리 폭격기 '16;2nd gen. Short range Bomber;;;;;;;;;X
+MODEL_15_3;단거리 폭격기 '18;3rd gen. Short range Bomber;;;;;;;;;X
+MODEL_15_4;전술폭격기 '24;Interwar Tactical Bomber;;;;;;;;;X
+MODEL_15_5;전술폭격기 '32;Early Tactical Bomber;;;;;;;;;X
+MODEL_15_6;전술폭격기 '38;Basic Tactical Bomber;;;;;;;;;X
+MODEL_15_7;전술폭격기 '40;Improved Tactical Bomber;;;;;;;;;X
+MODEL_15_8;전술폭격기 '43;Advanced Tactical Bomber;;;;;;;;;X
+MODEL_15_9;터보제트 전술폭격기 '45;Early Turbojet Tactical Bomber;;;;;;;;;X
+MODEL_15_10;터보제트 전술폭격기 '49;Basic Turbojet Tactical Bomber;;;;;;;;;X
+MODEL_15_11;터보제트 전술폭격기 '54;Improved Turbojet Tactical Bomber;;;;;;;;;X
+MODEL_15_12;터보제트 전술폭격기 '60;Advanced Turbojet Tactical Bomber;;;;;;;;;X
+MODEL_16_0;해군폭격기 '18;Early Naval Bomber;;;;;;;;;X
+MODEL_16_1;해군폭격기 '24;Interwar Naval Bomber;;;;;;;;;X
+MODEL_16_2;해군폭격기 '38;Basic Naval Bomber;;;;;;;;;X
+MODEL_16_3;해군폭격기 '41;Improved Naval Bomber;;;;;;;;;X
+MODEL_16_4;해군폭격기 '43;Advanced Naval Bomber;;;;;;;;;X
+MODEL_16_5;터보제트 해군폭격기 '45;Turbojet Naval Bomber;;;;;;;;;X
+MODEL_16_6;터보제트 해군폭격기 '49;Basic Turbojet Naval Bomber;;;;;;;;;X
+MODEL_16_7;터보제트 해군폭격기 '54;Improved Turbojet Naval Bomber;;;;;;;;;X
+MODEL_16_8;터보제트 해군폭격기 '60;Advanced Turbojet Naval Bomber;;;;;;;;;X
+MODEL_17_0;근접지원기 '34;Early CAS;;;;;;;;;X
+MODEL_17_1;근접지원기 '37;Basic CAS;;;;;;;;;X
+MODEL_17_2;근접지원기 '40;Improved CAS;;;;;;;;;X
+MODEL_17_3;근접지원기 '43;Semi-modern CAS;;;;;;;;;X
+MODEL_17_4;근접지원기 '45;Advanced CAS;;;;;;;;;X
+MODEL_17_5;터보제트 근접지원기 '48;Turbojet CAS;;;;;;;;;X
+MODEL_17_6;터보제트 근접지원기 '54;Improved Turbojet CAS;;;;;;;;;X
+MODEL_18_0;수송기 '26;Early Transport Plane;;;;;;;;;X
+MODEL_18_1;수송기 '34;Basic Transport Plane;;;;;;;;;X
+MODEL_18_2;수송기 '38;Improved Transport Plane;;;;;;;;;X
+MODEL_18_3;수송기 '41;Advanced Transport Plane;;;;;;;;;X
+MODEL_18_4;수송기 '44;Semi-Modern Transport Plane;;;;;;;;;X
+MODEL_18_5;수송기 '50;Modern Transport Plane;;;;;;;;;X
+MODEL_19_0;비행 폭탄 ;Flying Bomb;;;;;;;;;X
+MODEL_20_0;전략 로켓 ;Strategic Rocket;;;;;;;;;X
+MODEL_20_1;탄도 미사일 ;Ballistic Missile;;;;;;;;;X
+MODEL_20_2;ICBM;ICBM;;;;;;;;;X
+MODEL_21_0;포탑함 ;Turret Battleship;;;;;;;;;X
+MODEL_21_1;전노급전함 ;Predreadnought;;;;;;;;;X
+MODEL_21_2;노급전함;Dreadnought;;;;;;;;;X
+MODEL_21_3;초노급전함 ;Superdreadnought;;;;;;;;;X
+MODEL_21_4;전함 '13;Early Battleship;;;;;;;;;X
+MODEL_21_5;전함 '17;Fast Battleship;;;;;;;;;X
+MODEL_21_6;전함 '22;Interwar Battleship;;;;;;;;;X
+MODEL_21_7;전함 '34;Improved Battleship;;;;;;;;;X
+MODEL_21_8;전함 '39;Semi-Modern Battleship;;;;;;;;;X
+MODEL_21_9;전함 '47;Modern Battleship;;;;;;;;;X
+MODEL_21_10;핵추진 전함 ;Nuclear Battleship;;;;;;;;;X
+MODEL_21_11;초중전함 '37;Super-heavy Battleship;;;;;;;;;X
+MODEL_21_12;초중전함 '44;Improved Super-heavy Battleship;;;;;;;;;X
+MODEL_21_13;핵추진 초중전함 ;Nuclear Super-heavy Battleship;;;;;;;;;X
+MODEL_22_0;방호순양함;Protected Cruiser;;;;;;;;;X
+MODEL_22_1;정찰순양함;Scout Cruiser;;;;;;;;;X
+MODEL_22_2;경순양함 '12;Early Light Cruiser;;;;;;;;;X
+MODEL_22_3;경순양함 '22;Interwar Light Cruiser;;;;;;;;;X
+MODEL_22_4;경순양함 '30;Improved Light Cruiser;;;;;;;;;X
+MODEL_22_5;경순양함 '35;Semi-Modern Light Cruiser;;;;;;;;;X
+MODEL_22_6;경순양함 '40;Modern Light Cruiser;;;;;;;;;X
+MODEL_22_7;경순양함 '45;Advanced Light Cruiser;;;;;;;;;X
+MODEL_22_8;미사일 경순양함 ;Missile Light Cruiser;;;;;;;;;X
+MODEL_22_9;핵추진 경순양함 ;Nuclear Light Cruiser;;;;;;;;;X
+MODEL_23_0;장갑함 ;Armoured Frigate;;;;;;;;;X
+MODEL_23_1;장갑순양함 ;Armoured Cruiser;;;;;;;;;X
+MODEL_23_2;중순양함 '07;Early Heavy Cruiser;;;;;;;;;X
+MODEL_23_3;중순양함 '22;Interwar Heavy Cruiser;;;;;;;;;X
+MODEL_23_4;중순양함 '30;Improved Heavy Cruiser;;;;;;;;;X
+MODEL_23_5;중순양함 '34;Semi-Modern Heavy Cruiser;;;;;;;;;X
+MODEL_23_6;중순양함 '41;Modern Heavy Cruiser;;;;;;;;;X
+MODEL_23_7;중순양함 '46;Advanced Heavy Cruiser;;;;;;;;;X
+MODEL_23_8;미사일 중순양함 ;Missile Heavy Cruiser;;;;;;;;;X
+MODEL_23_9;핵추진 중순양함 ;Nuclear Heavy Cruiser;;;;;;;;;X
+MODEL_24_0;순양전함 '06;Early Battlecruiser;;;;;;;;;X
+MODEL_24_1;순양전함 '12;Improved Battlecruiser;;;;;;;;;X
+MODEL_24_2;순양전함 '18;Heavy Battlecruiser;;;;;;;;;X
+MODEL_24_3;순양전함 '34;Interwar Battlecruiser;;;;;;;;;X
+MODEL_24_4;순양전함 '41;Semi-Modern Battlecruiser;;;;;;;;;X
+MODEL_24_5;순양전함 '51;Modern Battlecruiser;;;;;;;;;X
+MODEL_24_6;핵추진 순양전함 ;Nuclear Battlecruiser;;;;;;;;;X
+MODEL_25_0;어뢰함 ;Torpedo gunboat;;;;;;;;;X
+MODEL_25_1;구축함 '02;Fleet Destroyer;;;;;;;;;X
+MODEL_25_2;구축함 '09;Turbine Destroyer;;;;;;;;;X
+MODEL_25_3;구축함 '16;Great War Destroyer;;;;;;;;;X
+MODEL_25_4;구축함 '23;Large Destroyer;;;;;;;;;X
+MODEL_25_5;구축함 '33;Improved Destroyer;;;;;;;;;X
+MODEL_25_6;구축함 '37;Semi-Modern Destroyer;;;;;;;;;X
+MODEL_25_7;구축함 '41;Modern Destroyer;;;;;;;;;X
+MODEL_25_8;구축함 '45;Advanced Destroyer;;;;;;;;;X
+MODEL_25_9;미사일 구축함 ;Missile Destroyer;;;;;;;;;X
+MODEL_26_0;개장 항공모함 ;Converted Carrier;;;;;;;;;X
+MODEL_26_1;항공모함 '30;Early Carrier;;;;;;;;;X
+MODEL_26_2;항공모함 '34;Fleet Carrier;;;;;;;;;X
+MODEL_26_3;항공모함 '37;Improved Carrier;;;;;;;;;X
+MODEL_26_4;항공모함 '40;Semi-Modern Carrier;;;;;;;;;X
+MODEL_26_5;항공모함 '43;Modern Carrier;;;;;;;;;X
+MODEL_26_6;항공모함 '47;Advanced Carrier;;;;;;;;;X
+MODEL_26_7;대형항공모함 ;Supercarrier;;;;;;;;;X
+MODEL_26_8;핵추진 항공모함 ;Nuclear Carrier;;;;;;;;;X
+MODEL_27_0;수상기모함 ;Seaplane Carrier;;;;;;;;;X
+MODEL_27_1;개장 시제 항공모함 ;Converted Experimental Carrier;;;;;;;;;X
+MODEL_27_2;시제 경항공모함 ;Experimental Light Carrier;;;;;;;;;X
+MODEL_27_3;호위항공모함 '41;Conversion Escort Carrier;;;;;;;;;X
+MODEL_27_4;호위항공모함 '44;Improved Escort Carrier;;;;;;;;;X
+MODEL_28_0;잠수정 ;Dive Boat;;;;;;;;;X
+MODEL_28_1;잠수함 '12;Diesel Submarine;;;;;;;;;X
+MODEL_28_2;잠수함 '15;Ocean-going Submarine;;;;;;;;;X
+MODEL_28_3;잠수함 '24;Interwar Submarine;;;;;;;;;X
+MODEL_28_4;잠수함 '33;Improved Submarine;;;;;;;;;X
+MODEL_28_5;잠수함 '37;Long Range Submarine;;;;;;;;;X
+MODEL_28_6;잠수함 '40;Extended Range Submarine;;;;;;;;;X
+MODEL_28_7;잠수함 '43;Diesel-electric Submarine;;;;;;;;;X
+MODEL_28_8;잠수함 '50;Semi-Modern Submarine;;;;;;;;;X
+MODEL_28_9;잠수함 '55;Modern Submarine;;;;;;;;;X
+MODEL_28_10;핵추진 잠수함 ;Nuclear Submarine;;;;;;;;;X
+MODEL_28_11;핵추진 공격 잠수함 ;Nuclear Attack Submarine;;;;;;;;;X
+MODEL_28_12;핵추진 탄도미사일 잠수함 ;Nuclear Ballistic Submarine;;;;;;;;;X
+MODEL_29_0;중잠수함 '24;Basic Heavy Submarine;;;;;;;;;X
+MODEL_29_1;중잠수함 '33;Improved Heavy Submarine;;;;;;;;;X
+MODEL_29_2;초중잠수함 '40;Super Heavy Submarine;;;;;;;;;X
+MODEL_29_3;중잠수함 '43;Modern Heavy Submarine;;;;;;;;;X
+MODEL_30_0;수송함 ;Troopship;;;;;;;;;X
+MODEL_30_1;수송함 '25;Troopship '25;;;;;;;;;X
+MODEL_30_2;수송함 '36;Troopship '36;;;;;;;;;X
+MODEL_30_3;수송함 '41;Troopship '41;;;;;;;;;X
+MODEL_30_4;수송함 '49;Troopship '49;;;;;;;;;X
+MODEL_30_5;수송함 '55;Troopship '55;;;;;;;;;X
+MODEL_31_0;경항공모함 '29;Basic Light Carrier;;;;;;;;;X
+MODEL_31_1;경항공모함 '41;Improved Light Carrier;;;;;;;;;X
+MODEL_31_2;경항공모함 '44;Semi-Modern Light Carrier;;;;;;;;;X
+MODEL_31_3;경항공모함 '48;Modern Light Carrier;;;;;;;;;X
+##;;;;;;;;;;;X
+BRIG_MODEL_0_0;여단 없음 ;No Brigade;;;;;;;;;X
+BRIG_MODEL_1_0;포병 '11;Light Field Artillery;;;;;;;;;X
+BRIG_MODEL_1_1;포병 '14;Great War Medium Artillery;;;;;;;;;X
+BRIG_MODEL_1_2;포병 '16;Great War Heavy Artillery;;;;;;;;;X
+BRIG_MODEL_1_3;포병 '18;Imp. GW Heavy Artillery;;;;;;;;;X
+BRIG_MODEL_1_4;포병 '21;Post GW Field Artillery;;;;;;;;;X
+BRIG_MODEL_1_5;포병 '24;Early Interwar Artillery;;;;;;;;;X
+BRIG_MODEL_1_6;포병 '30;Basic Interwar Artillery;;;;;;;;;X
+BRIG_MODEL_1_7;포병 '36;Imp. Interwar Artillery;;;;;;;;;X
+BRIG_MODEL_1_8;포병 '38;Early Field Artillery;;;;;;;;;X
+BRIG_MODEL_1_9;포병 '40;Basic Field Artillery;;;;;;;;;X
+BRIG_MODEL_1_10;포병 '42;Improved Field Artillery;;;;;;;;;X
+BRIG_MODEL_1_11;포병 '45;Semi-Modern Field Artillery;;;;;;;;;X
+BRIG_MODEL_1_12;포병 '50;Modern Field Artillery;;;;;;;;;X
+BRIG_MODEL_1_13;포병 '55;Advanced Field Artillery;;;;;;;;;X
+BRIG_MODEL_2_0;자주포 '40;Early SP Artillery;;;;;;;;;X
+BRIG_MODEL_2_1;자주포 '42;Basic SP Artillery;;;;;;;;;X
+BRIG_MODEL_2_2;자주포 '43;Improved SP Artillery;;;;;;;;;X
+BRIG_MODEL_2_3;자주포 '45;Advanced SP Artillery;;;;;;;;;X
+BRIG_MODEL_2_4;자주포 '49;Semi-Modern SP Artillery;;;;;;;;;X
+BRIG_MODEL_2_5;자주포 '53;Modern SP Artillery;;;;;;;;;X
+BRIG_MODEL_2_6;자주포 '56;Imp. Modern SP Artillery;;;;;;;;;X
+BRIG_MODEL_2_7;자주포 '60;Adv. Modern SP Artillery;;;;;;;;;X
+BRIG_MODEL_6_0;구축전차 '40;Early Tank Destroyer;;;;;;;;;X
+BRIG_MODEL_6_1;구축전차 '42;Basic Tank Destroyer;;;;;;;;;X
+BRIG_MODEL_6_2;구축전차 '44;Heavy Tank Destroyer;;;;;;;;;X
+BRIG_MODEL_6_3;구축전차 '45;Improved Tank Destroyer;;;;;;;;;X
+BRIG_MODEL_6_4;구축전차 '49;Advanced Tank Destroyer;;;;;;;;;X
+BRIG_MODEL_6_5;구축전차 '53;Semi-Modern Tank Destroyer;;;;;;;;;X
+BRIG_MODEL_6_6;구축전차 '56;Modern Tank Destroyer;;;;;;;;;X
+BRIG_MODEL_6_7;구축전차 '60;Imp. Modern Tank Destroyer;;;;;;;;;X
+BRIG_MODEL_7_0;경전차 '18;Great War Tank;;;;;;;;;X
+BRIG_MODEL_7_1;경전차 '19;Post-War Tank I;;;;;;;;;X
+BRIG_MODEL_7_2;경전차 '24;Post-War Tank II;;;;;;;;;X
+BRIG_MODEL_7_3;경전차 '29;Post-War Tank III;;;;;;;;;X
+BRIG_MODEL_7_4;경전차 '34;Post-War Tank IV;;;;;;;;;X
+BRIG_MODEL_7_5;경전차 '36;Early Tank;;;;;;;;;X
+BRIG_MODEL_7_6;경전차 '38;Basic Light Tank;;;;;;;;;X
+BRIG_MODEL_7_7;경전차 '39;Improved Light Tank;;;;;;;;;X
+BRIG_MODEL_7_8;경전차 '44;Advanced Light Tank;;;;;;;;;X
+BRIG_MODEL_8_0;중전차 '17;Great War Heavy Tank;;;;;;;;;X
+BRIG_MODEL_8_1;중전차 '39;Basic Heavy Tank;;;;;;;;;X
+BRIG_MODEL_8_2;중전차 '41;Improved Heavy Tank;;;;;;;;;X
+BRIG_MODEL_8_3;중전차 '43;Advanced Heavy Tank;;;;;;;;;X
+BRIG_MODEL_8_4;중전차 '45;Semi-modern Heavy Tank;;;;;;;;;X
+BRIG_MODEL_8_5;중전차 '55;Modern Heavy Tank;;;;;;;;;X
+BRIG_MODEL_9_0;초중전차 '17;Great War Super-Heavy Tank;;;;;;;;;X
+BRIG_MODEL_9_1;초중전차 '44;Super-Heavy Tank;;;;;;;;;X
+BRIG_MODEL_10_0;장갑차 '11;Prewar Armored Car;;;;;;;;;X
+BRIG_MODEL_10_1;장갑차 '16;Great War Armored Car;;;;;;;;;X
+BRIG_MODEL_10_2;장갑차 '21;Interwar Armored Car;;;;;;;;;X
+BRIG_MODEL_10_3;준전차 '29;Tankette;;;;;;;;;X
+BRIG_MODEL_10_4;장갑차 '36;Basic Armored Car;;;;;;;;;X
+BRIG_MODEL_10_5;장갑차 '42;Improved Armored Car;;;;;;;;;X
+BRIG_MODEL_10_6;장갑차 '48;Semi-Modern Armored Car;;;;;;;;;X
+BRIG_MODEL_10_7;장갑차 '54;Modern Armored Car;;;;;;;;;X
+BRIG_MODEL_11_0;방공포병 '18;Great war Anti-Air;;;;;;;;;X
+BRIG_MODEL_11_1;방공포병 '24;Interwar Anti-Air;;;;;;;;;X
+BRIG_MODEL_11_2;방공포병 '30;Basic Anti-Air;;;;;;;;;X
+BRIG_MODEL_11_3;방공포병 '36;Improved Anti-Air;;;;;;;;;X
+BRIG_MODEL_11_4;방공포병 '42;Advanced Anti-Air;;;;;;;;;X
+BRIG_MODEL_11_5;방공포병 '48;Semi-Modern Anti-Air;;;;;;;;;X
+BRIG_MODEL_11_6;방공포병 '56;Modern Anti-Air;;;;;;;;;X
+BRIG_MODEL_12_0;헌병 1870;Police 1870;;;;;;;;;X
+BRIG_MODEL_12_1;헌병 '21;Police 1921;;;;;;;;;X
+BRIG_MODEL_12_2;헌병 '44;Police 1944;;;;;;;;;X
+BRIG_MODEL_13_0;공병 '11;Engineer '11;;;;;;;;;X
+BRIG_MODEL_13_1;공병 '16;Engineer '16;;;;;;;;;X
+BRIG_MODEL_13_2;공병 '21;Engineer '21;;;;;;;;;X
+BRIG_MODEL_13_3;공병 '30;Engineer '30;;;;;;;;;X
+BRIG_MODEL_13_4;공병 '39;Engineer '39;;;;;;;;;X
+BRIG_MODEL_13_5;공병 '45;Engineer '45;;;;;;;;;X
+BRIG_MODEL_13_6;공병 '52;Engineer '52;;;;;;;;;X
+BRIG_MODEL_13_7;공병 '60;Engineer '60;;;;;;;;;X
+BRIG_MODEL_14_0;항모비행단 '22;Great War Carrier Air Group;;;;;;;;;X
+BRIG_MODEL_14_1;항모비행단 '30;Early Carrier Air Group;;;;;;;;;X
+BRIG_MODEL_14_2;항모비행단 '34;Basic Carrier Air Group;;;;;;;;;X
+BRIG_MODEL_14_3;항모비행단 '37;Improved Carrier Air Grp;;;;;;;;;X
+BRIG_MODEL_14_4;항모비행단 '40;Advanced Carrier Air Grp;;;;;;;;;X
+BRIG_MODEL_14_5;항모비행단 '43;Heavy Advanced CAG;;;;;;;;;X
+BRIG_MODEL_14_6;항모비행단 '47;Semi-Modern CAG;;;;;;;;;X
+BRIG_MODEL_14_7;터보제트 항모비행단 '51;Turbojet Carrier Air Grp;;;;;;;;;X
+BRIG_MODEL_14_8;터보제트 항모비행단 '56;Imp. Turbojet Carrier Air Grp;;;;;;;;;X
+BRIG_MODEL_15_0;호위기 '37;Early Escort Fighter;;;;;;;;;X
+BRIG_MODEL_15_1;호위기 '40;Basic Escort Fighter;;;;;;;;;X
+BRIG_MODEL_15_2;호위기 '43;Improved Escort Fighter;;;;;;;;;X
+BRIG_MODEL_15_3;호위기 '45;Advanced Escort Fighter;;;;;;;;;X
+BRIG_MODEL_15_4;터보제트 호위기 '47;Turbojet Escort Fighter;;;;;;;;;X
+BRIG_MODEL_15_5;터보제트 호위기 '51;Improved Turbojet Escort Fighter;;;;;;;;;X
+BRIG_MODEL_15_6;초음속 호위기 '54;Supersonic Escort Fighter;;;;;;;;;X
+BRIG_MODEL_15_7;초음속 호위기 '59;Modern Supersonic Escort Fighter;;;;;;;;;X
+BRIG_MODEL_15_8;초음속 호위기 '63;Adv. Supersonic Escort Fighter;;;;;;;;;X
+##;;;;;;;;;;;X
+BRIG_MODEL_16_0;대잠장비 '18;Great War ASW;;;;;;;;;X
+BRIG_MODEL_16_1;대잠장비 '34;Interwar ASW;;;;;;;;;X
+BRIG_MODEL_16_2;대잠장비 '42;Early ASW;;;;;;;;;X
+BRIG_MODEL_16_3;대잠장비 '45;Basic ASW;;;;;;;;;X
+BRIG_MODEL_16_4;대잠장비 '52;Improved ASW;;;;;;;;;X
+BRIG_MODEL_16_5;대잠장비 '60;Modern ASW;;;;;;;;;X
+BRIG_MODEL_17_0;대공포 '30;Early AA;;;;;;;;;X
+BRIG_MODEL_17_1;대공포 '38;Basic AA;;;;;;;;;X
+BRIG_MODEL_17_2;대공포 '40;Improved AA;;;;;;;;;X
+BRIG_MODEL_17_3;대공포 '42;Advanced AA;;;;;;;;;X
+BRIG_MODEL_17_4;대공포 '45;Semi-Modern AA;;;;;;;;;X
+BRIG_MODEL_17_5;대공포 '49;Modern AA;;;;;;;;;X
+BRIG_MODEL_18_0;수색레이더 '39;Early Searchradar;;;;;;;;;X
+BRIG_MODEL_18_1;레이더 '41;Basic Radar;;;;;;;;;X
+BRIG_MODEL_18_2;레이더 '45;Impr. Radar;;;;;;;;;X
+BRIG_MODEL_18_3;레이더 '53;Adv. Radar;;;;;;;;;X
+BRIG_MODEL_19_0;사격통제기 '16;Fire Control;;;;;;;;;X
+BRIG_MODEL_19_1;사격통제기 '42;Improved Fire Control;;;;;;;;;X
+BRIG_MODEL_19_2;사격통제기 '56;Advanced Fire Control;;;;;;;;;X
+BRIG_MODEL_20_1;개량형 선체 ;Improved Hull;;;;;;;;;X
+BRIG_MODEL_20_0;개량형 선체 ;Improved Hull;;;;;;;;;X
+BRIG_MODEL_21_0;초기형 어뢰 ;Early Torpedoes;;;;;;;;;X
+BRIG_MODEL_21_1;현대형 어뢰 ;Modern Torpedos;;;;;;;;;X
+BRIG_MODEL_22_0;주력함 대공포 '30;Early Capital AA;;;;;;;;;X
+BRIG_MODEL_22_1;주력함 대공포 '38;Basic  Capital AA;;;;;;;;;X
+BRIG_MODEL_22_2;주력함 대공포 '40;Impr. Capital AA;;;;;;;;;X
+BRIG_MODEL_22_3;주력함 대공포 '42;Adv. Capital AA;;;;;;;;;X
+BRIG_MODEL_22_4;주력함 대공포 '45;S-M. Capital AA;;;;;;;;;X
+BRIG_MODEL_22_5;주력함 대공포 '49;Mod. Capital AA;;;;;;;;;X
+BRIG_MODEL_23_0;주력함 수색레이더 '37;Early Surfaceradar;;;;;;;;;X
+BRIG_MODEL_23_1;주력함 수색레이더 '39;Early Capital Searchradar;;;;;;;;;X
+BRIG_MODEL_23_2;주력함 레이더 '41;Basic Capital Radar;;;;;;;;;X
+BRIG_MODEL_23_3;주력함 레이더 '45;Impr. Capital Radar;;;;;;;;;X
+BRIG_MODEL_23_4;주력함 레이더 '53;Adv. Capital Radar;;;;;;;;;X
+BRIG_MODEL_24_0;주력함 사격통제기 '16;Capital Fire Control;;;;;;;;;X
+BRIG_MODEL_24_1;주력함 사격통제기 '42;Impr. Capital Fire Control;;;;;;;;;X
+BRIG_MODEL_24_2;주력함 사격통제기 '56;Adv. Capital Fire Control;;;;;;;;;X
+BRIG_MODEL_25_0;주력함 개량형 선체 ;Capital Improved Hull;;;;;;;;;X
+BRIG_MODEL_25_1;주력함 개량형 선체 ;Capital Improved Hull;;;;;;;;;X
+##### New for 1.3;;;;;;;;;;;X
+NAME_CAVALRY_BRIGADE;기병 여단 ;Cavalry;;;;;;;;;X
+SNAME_CAVALRY_BRIGADE;기병 여단 ;Cav;;;;;;;;;X
+SDESC_CAVALRY_BRIGADE;이 사단은 기병 여단을 배속하고 있습니다. ;This division has a Cavalry brigade.;;;;;;;;;X
+LDESC_CAVALRY_BRIGADE;기병 여단은 당신의 부대에 정찰 능력을 부여해주고 당신 사단에 하나의 전투 여단을 추가해줍니다. ;Cavalry Brigade gives your units an added Reconnaissance capability and increases your division with one additional combat brigade;;;;;;;;;X
+NAME_SP_ANTI_AIR;자주대공포 여단 ;Self-Propelled Anti-aircraft;;;;;;;;;X
+SNAME_SP_ANTI_AIR;자주대공포 ;SP AA;;;;;;;;;X
+SDESC_SP_ANTI_AIR;이 사단은 자주대공 여단을 배속하고 있습니다. ;This division has a self-propelled AA artillery brigade.;;;;;;;;;X
+LDESC_SP_ANTI_AIR;자주대공 여단을 전차나 기계화 유닛들에게 배속시킨다면 지대공 방어 능력을 제공할 것입니다. 적의 공중 유닛에 대해 매우 효과적이며 일반적인 대공 여단과 달리 속도를 감소시키지 않습니다. ;SP or Self-Propelled Anti Air Artillery gives your armored and mechanized units added capability against Air units such as Close air attack planes. They are very effective against enemy air units and do not reduce the speed of your fast units like normal AA artillery.;;;;;;;;;X
+NAME_MEDIUM_ARMOR;중형전차 여단 ;Medium-tank Brigade;;;;;;;;;X
+SNAME_MEDIUM_ARMOR;중형전차 ;M. Arm;;;;;;;;;X
+SDESC_MEDIUM_ARMOR;이 사단은 중형전차 여단을 배속하고 있습니다. ;This division has a Medium-tank brigade.;;;;;;;;;X
+LDESC_MEDIUM_ARMOR;기갑 부대는 전장에서 전력의 선봉장이 될 수 있습니다. 그들의 속도와 화력은 모든 것들에게 치명적이지만 가장 효과적인 것은 참호를 판 보병대를 공격하는 것 입니다. 전차가 전력을 탄탄하게 만들어 줄 수 있지만 보병의 상황에 맞춰서 속도가 감소합니다. 또한 전장에 남아있는 한 지속적인 연료 공급이 필요하며 이 중요한 보급이 끊길 경우 기갑 부대는 무용지물이 됩니다. ;Armoured units allow real projection of power on the battlefield. Their speed and firepower make them lethal against all but the best entrenched Infantry. However as tanks became heaver their speeds would reduce accordingly.  They also required a constant supply of fuel to remain in the field and if this vital supply was severed the armoured unit would be next to useless.;;;;;;;;;X
+NAME_FLOATPLANE;수상기 ;Floatplane;;;;;;;;;X
+SNAME_FLOATPLANE;수상기 ;FP;;;;;;;;;X
+LDESC_FLOATPLANE;사출기에서 사출되는 수상기는 함선의 수색 범위를 늘려줍니다. ;Catapult launched floatplanes increases the search radius of this ship.;;;;;;;;;X
+SDESC_FLOATPLANE;이 함선은 수상기가 추가되어 있습니다. ;This ship is equipped with floatplanes;;;;;;;;;X
+NAME_ROCKET_INTERCEPTOR;로켓요격기 ;Rocket Interceptors;;;;;;;;;X
+SNAME_ROCKET_INTERCEPTOR;로켓요격기 ;R Int;;;;;;;;;X
+SDESC_ROCKET_INTERCEPTOR;로켓요격기 편대 ;Rocket Interceptor Wing;;;;;;;;;X
+LDESC_ROCKET_INTERCEPTOR;로켓 동력 요격기는 추진에 로켓을 이용합니다. 로켓기는 같은 크기의 제트기보다 더 빨리 날 수 있지만 매우 적은 시간만을 비행할 수 있으며 그 이후에는 활공해야합니다. 대기 중 산소 양에 상관없이 비행할 수 있는 이들은 고고도 비행에도 적합합니다. 또한 이들은 매우 뛰어난 가속력을 지녔으며 빠르게 이륙합니다. ;A rocket-powered aircraft uses a rocket for propulsion. Rocket planes can achieve much higher speeds than similarly sized jet aircraft but typically for at most a few minutes of powered operation followed by a glide. Unhindered by the need for oxygen from the atmosphere they are suitable for very high altitude flight. They are also capable of delivering much higher acceleration and shorter takeoffs.;;;;;;;;;X
+NAME_AMPH_LIGHT_ARMOR_BRIGADE;수륙양용전차 여단 ;Amphibious Light Armor;;;;;;;;;X
+SNAME_AMPH_LIGHT_ARMOR_BRIGADE;수륙양용전차 ;Amph Arm;;;;;;;;;X
+SDESC_AMPH_LIGHT_ARMOR_BRIGADE;이 사단은 수륙양용전차 여단을 배속하고 있습니다. ;This division has an Amphibious Light Armor brigade.;;;;;;;;;X
+LDESC_AMPH_LIGHT_ARMOR_BRIGADE;이 전차들은 지상 뿐만 아니라 물 속에서도 다닐 수 있습니다. 특히 수륙양용 작전에 좋습니다. ;These tanks are viable on land as well as on water and can perform especially well during an amphibious invasion.;;;;;;;;;X
+NAME_GLI_LIGHT_ARMOR_BRIGADE;공수전차 여단 ;Light Glider Armor;;;;;;;;;X
+SNAME_GLI_LIGHT_ARMOR_BRIGADE;공수전차 ;Gli Arm;;;;;;;;;X
+SDESC_GLI_LIGHT_ARMOR_BRIGADE;이 사단은 공수전차 여단을 배속하고 있습니다. ;This division has a Light Glider Armor brigade.;;;;;;;;;X
+LDESC_GLI_LIGHT_ARMOR_BRIGADE;이 전차들은 글라이더에 실려 공수부대와 함께 공수될 수 있습니다. ;These tanks can be loaded onto gliders along with paratroopers.;;;;;;;;;X
+NAME_GLI_LIGHT_ARTILLERY;공수포병 여단 ;Light Glider Artillery;;;;;;;;;X
+SNAME_GLI_LIGHT_ARTILLERY;공수포병 ;Gli Art;;;;;;;;;X
+SDESC_GLI_LIGHT_ARTILLERY;이 사단은 공수포병 여단을 배속하고 있습니다. ;This division has a Light Glider Artillery brigade.;;;;;;;;;X
+LDESC_GLI_LIGHT_ARTILLERY;이 화포들은 글라이더에 실려 공수부대와 함께 공수될 수 있습니다. ;These artillery guns can be loaded onto gliders along with paratroopers.;;;;;;;;;X
+NAME_SH_ARTILLERY;초중포병 여단 ;Super Heavy Artillery;;;;;;;;;X
+SNAME_SH_ARTILLERY;초중포병 ;SH Art;;;;;;;;;X
+SDESC_SH_ARTILLERY;이 사단은 초중포병 여단을 배속하고 있습니다. ;This division has a Super Heavy Artillery brigade.;;;;;;;;;X
+LDESC_SH_ARTILLERY;초중포 제대는 방어 병력을 깨부수거나 적 전선에 거대한 구멍을 내는데 필요합니다. 이들은 요새화 된 적을 상대하는데 도움이 됩니다. ;Super Heavy Artillery pieces are called upon to break a siege or bust a gaping hole in the enemy's lines. They will be helpful against fortifications.;;;;;;;;;X
+BRIG_MODEL_32_0;수륙양용전차 '39;Amphibious Light Armor '39;;;;;;;;;X
+BRIG_MODEL_32_1;수륙양용전차 '44;Amphibious Light Armor '44;;;;;;;;;X
+BRIG_MODEL_33_0;공수전차 '39;Light Glider Armor '39;;;;;;;;;X
+BRIG_MODEL_33_1;공수전차 '44;Light Glider Armor '44;;;;;;;;;X
+BRIG_MODEL_34_0;공수포병 '40;Glider Artillery '40;;;;;;;;;X
+BRIG_MODEL_34_1;공수포병 '42;Glider Artillery '42;;;;;;;;;X
+BRIG_MODEL_34_2;공수포병 '45;Glider Artillery '45;;;;;;;;;X
+BRIG_MODEL_34_3;공수포병 '50;Glider Artillery '50;;;;;;;;;X
+BRIG_MODEL_34_4;공수포병 '55;Glider Artillery '55;;;;;;;;;X
+BRIG_MODEL_35_0;초중포병 '12;Super Heavy Artillery '12;;;;;;;;;X
+BRIG_MODEL_35_1;초중포병 '16;Super Heavy Artillery '16;;;;;;;;;X
+BRIG_MODEL_35_2;초중포병 '18;Super Heavy Artillery '18;;;;;;;;;X
+BRIG_MODEL_35_3;초중포병 '40;Super Heavy Artillery '40;;;;;;;;;X
+BRIG_MODEL_35_4;초중포병 '44;Super Heavy Artillery '44;;;;;;;;;X
+BRIG_MODEL_35_5;초중포병 '53;Super Heavy Artillery '53;;;;;;;;;X
+######;;;;;;;;;;;X
+BRIG_MODEL_27_0;기병 여단 1870;Cavalry Brig 1870;;;;;;;;;X
+BRIG_MODEL_27_1;기병 여단 1897;Cavalry Brig 1897;;;;;;;;;X
+BRIG_MODEL_27_2;기병 여단 '07;Cavalry Brig 1907;;;;;;;;;X
+BRIG_MODEL_27_3;기병 여단 '14;Cavalry Brig 1914;;;;;;;;;X
+BRIG_MODEL_27_4;기병 여단 '16;Cavalry Brig 1916;;;;;;;;;X
+BRIG_MODEL_27_5;기병 여단 '18;Cavalry Brig 1918;;;;;;;;;X
+BRIG_MODEL_27_6;기병 여단 '21;Cavalry Brig 1921;;;;;;;;;X
+BRIG_MODEL_27_7;기병 여단 '24;Cavalry Brig 1924;;;;;;;;;X
+BRIG_MODEL_27_8;기병 여단 '28;Cavalry Brig 1928;;;;;;;;;X
+BRIG_MODEL_27_9;기병 여단 '32;Cavalry Brig 1932;;;;;;;;;X
+BRIG_MODEL_27_10;기병 여단 '36;Cavalry Brig 1936;;;;;;;;;X
+BRIG_MODEL_27_11;준차량화기병 여단 '38;Semi-Motorized Cavalry Brig 1938;;;;;;;;;X
+BRIG_MODEL_27_12;기계화기병 여단 '42;Mechanized Cavalry Brig 1942;;;;;;;;;X
+BRIG_MODEL_27_13;장갑화기병 여단 '46;Armored Cavalry Brig 1946;;;;;;;;;X
+BRIG_MODEL_27_14;공중강습병 여단 '51;Air Cavalry Brig 1951;;;;;;;;;X
+BRIG_MODEL_28_0;자주대공포 '40;Early SP AA Artillery;;;;;;;;;X
+BRIG_MODEL_28_1;자주대공포 '42;Basic SP AA Artillery;;;;;;;;;X
+BRIG_MODEL_28_2;자주대공포 '44;Improved SP AA Artillery;;;;;;;;;X
+BRIG_MODEL_28_3;자주대공포 '48;Advanced SP AA Artillery;;;;;;;;;X
+BRIG_MODEL_28_4;자주대공포 '52;Semi-Modern SP AA Artillery;;;;;;;;;X
+BRIG_MODEL_28_5;자주대공포 '58;Modern SP AA Artillery;;;;;;;;;X
+BRIG_MODEL_29_0;중형전차 '24;Medium Armor '24;;;;;;;;;X
+BRIG_MODEL_29_1;중형전차 '28;Medium Armor '28;;;;;;;;;X
+BRIG_MODEL_29_2;중형전차 '34;Medium Armor '34;;;;;;;;;X
+BRIG_MODEL_29_3;중형전차 '39;Basic Armor '39;;;;;;;;;X
+BRIG_MODEL_29_4;중형전차 '41;Improved Armor '41;;;;;;;;;X
+BRIG_MODEL_29_5;중형전차 '43;Advanced Armor '43;;;;;;;;;X
+BRIG_MODEL_29_6;중형전차 '45;Semi-Modern Armor '45;;;;;;;;;X
+BRIG_MODEL_29_7;중형전차 '48;Early MBT '48;;;;;;;;;X
+BRIG_MODEL_29_8;주력전차 '52;Basic MBT '52;;;;;;;;;X
+BRIG_MODEL_29_9;주력전차 '56;Advanced MBT '56;;;;;;;;;X
+BRIG_MODEL_29_10;주력전차 '62;Modern MBT '62;;;;;;;;;X
+BRIG_MODEL_30_0;수상기 '11;Early Seaplanes;;;;;;;;;X
+BRIG_MODEL_30_1;수상기 '14;Early GW Seaplanes;;;;;;;;;X
+BRIG_MODEL_30_2;수상기 '18;Great War Seaplanes;;;;;;;;;X
+BRIG_MODEL_30_3;수상기 '24;Interwar Seaplanes;;;;;;;;;X
+BRIG_MODEL_30_4;수상기 '28;Basic Seaplanes;;;;;;;;;X
+BRIG_MODEL_30_5;수상기 '32;Improved Seaplanes;;;;;;;;;X
+BRIG_MODEL_30_6;수상기 '37;Semi-Modern Seaplanes;;;;;;;;;X
+BRIG_MODEL_30_7;수상기 '41;Modern Seaplanes;;;;;;;;;X
+BRIG_MODEL_31_0;경항모비행단 '22;Early Light Carrier Air Group;;;;;;;;;X
+BRIG_MODEL_31_1;경항모비행단 '30;Basic Light Carrier Air Group;;;;;;;;;X
+BRIG_MODEL_31_2;경항모비행단 '34;Improved Light Carrier Air Group;;;;;;;;;X
+BRIG_MODEL_31_3;경항모비행단 '37;Semi-modern Light Carrier Air Grp;;;;;;;;;X
+BRIG_MODEL_31_4;경항모비행단 '40;Modern Light Carrier Air Grp;;;;;;;;;X
+BRIG_MODEL_31_5;경항모비행단 '43;Advanced Light Carrier Air Group;;;;;;;;;X
+BRIG_MODEL_31_6;경항모비행단 '47;Semi-Modern CAG;;;;;;;;;X
+BRIG_MODEL_31_7;터보제트 경항모비행단 '51;Turbojet Carrier Air Grp;;;;;;;;;X
+BRIG_MODEL_31_8;터보제트 경항모비행단 '56;Imp. Turbojet Carrier Air Grp;;;;;;;;;X
+#EOF;;;;;;;;;;;X
+#EOF;;;;;;;;;;;X

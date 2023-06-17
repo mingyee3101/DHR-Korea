@@ -1,0 +1,85 @@
+PHI;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+325001;Head of State;마누엘 L. 케손 ;1933;1964;1999;SL;Die-hard Reformer;High;M50001;X
+325002;Head of Government;세르히오 오스메냐 ;1933;1964;1999;SL;Silent Workhorse;High;M50002;X
+325003;Foreign Minister;킨틴 파레데스 ;1933;1964;1999;SL;Apologetic Clerk;Low;M50003;X
+325004;Minister of Armament;엘피디오 키리노 ;1933;1964;1999;SL;laissez-faire capitalist;Medium;M50004;X
+325005;Minister of Security;호세 율로 ;1933;1964;1999;SL;Compassionate Gentleman;Medium;M50005;X
+325006;Head of Military Intelligence;베니토 N. 에부엔 ;1933;1964;1999;SL;Logistics Specialist;High;M50006;X
+325007;Chief of Staff;파울리노 산토스 ;1933;1964;1999;SL;School of Psychology;Medium;M50007;X
+325008;Chief of Army;레온시오 S. 탄 ;1933;1964;1999;SL;Guns and Butter Doctrine;Very High;M50008;X
+325009;Chief of Navy;산티아고 누발 ;1933;1964;1999;SL;Open Seas Doctrine;Medium;M50009;X
+325010;Chief of Air Force;펠라히오 크루스 ;1933;1964;1999;SL;Army Aviation Doctrine;Medium;M50010;X
+325011;Head of State;엘피디오 키리노 ;1933;1964;1999;SC;Pig-headed Isolationist;High;M50004;X
+325012;Head of State;에밀리오 아기날도 ;1933;1964;1999;SD;Popular Figurehead;High;M50032;X
+325013;Head of State;후안 수물롱 ;1941;1964;1999;SD;Barking Buffoon;High;M50033;X
+325014;Head of State;세르히오 오스메냐 ;1944;1964;1999;SL;Stern Imperialist;High;M50002;X
+325015;Head of State;마누엘 록사스 ;1945;1964;1999;SL;Resigned Generalissimo;High;M50035;X
+325016;Head of Government;엘피디오 키리노 ;1933;1964;1999;SC;Silent Workhorse;High;M50004;X
+325017;Head of Government;라펠 리나왁 ;1933;1964;1999;SD;Political Protege;High;M50037;X
+325018;Head of Government;후안 수물롱 ;1941;1964;1999;SD;Happy Amateur;High;M50033;X
+325019;Foreign Minister;마누엘 L. 케손 ;1937;1964;1999;SL;the cloak n dagger schemer;High;M50001;X
+325020;Foreign Minister;호아킨 엘리살데 ;1938;1964;1999;SL;Great Compromiser;High;M50040;X
+325021;Foreign Minister;세르히오 오스메냐 ;1939;1964;1999;SL;Iron Fisted Brute;Low;M50002;X
+325022;Foreign Minister;마누엘 콰드리노 ;1940;1964;1999;SL;Biased Intellectual;Very Low;M50042;X
+325023;Foreign Minister;후안 수물롱 ;1941;1964;1999;SD;Biased Intellectual;Medium;M50033;X
+325024;Foreign Minister;엘피디오 키리노 ;1933;1964;1999;SC;Ideological Crusader;Medium;M50004;X
+325025;Foreign Minister;페르디난드 마르코스 ;1945;1964;1999;SC;Iron Fisted Brute;Medium;M50013;X
+325026;Foreign Minister;에밀리오 아기날도 ;1933;1964;1999;SD;Ideological Crusader;Medium;M50032;X
+325027;Minister of Armament;안토니오 데 라스 알라스 ;1933;1964;1999;SL;laissez-faire capitalist;Low;M50014;X
+325028;Minister of Armament;라펠 리나왁 ;1933;1964;1999;SD;Submarine Proponent;Medium;M50037;X
+325029;Minister of Armament;마누엘 록사스 ;1938;1964;1999;SC;Air to Sea Proponent;Medium;M50035;X
+325030;Minister of Armament;마누엘 콰드리노 ;1941;1964;1999;SL;Corrupt Kleptocrat;Very Low;M50042;X
+325031;Minister of Armament;세라핀 파우스토 ;1941;1964;1999;SC;Administrative Genius;Medium;M50051;X
+325032;Minister of Armament;카를로스 P. 가르시아 ;1941;1964;1999;SD;Battle Fleet Proponent;Medium;M50052;X
+325033;Minister of Armament;호세 G. 다비드 ;1942;1964;1999;SC;Resource Industrialist;Medium;M50053;X
+325034;Minister of Armament;라몬 막사이사이 ;1945;1964;1999;SC;Tank Proponent;Medium;M50054;X
+325035;Minister of Armament;디오스다도 P. 마카파갈 ;1945;1964;1999;SD;Military Entrepreneur;Medium;M50055;X
+325036;Minister of Security;파르도 데 타베라 ;1933;1964;1999;SD;Prince of Terror;Medium;M50056;X
+325037;Minister of Security;레온시오 S. 탄 ;1938;1964;1999;SL;Back Stabber;High;M50008;X
+325038;Minister of Security;로만 아폴리나리오 ;1939;1964;1999;SL;Man of the People;Medium;M50058;X
+325039;Minister of Security;티라노 크라베사 ;1940;1964;1999;SC;Efficient Sociopath;Low;M50059;X
+325040;Minister of Security;테오필로 시손 ;1941;1964;1999;SC;Compassionate Gentleman;Medium;M50060;X
+325041;Minister of Security;호세 P. 라우렐 ;1941;1964;1999;SC;Silent Lawyer;Medium;M50061;X
+325042;Minister of Security;호세 M. 크리솔 ;1942;1964;1999;SD;Crooked Kleptocrat;Low;M50062;X
+325043;Minister of Security;알베르토 라모스 ;1944;1964;1999;SL;Silent Lawyer;Medium;M50064;X
+325044;Minister of Security;세라핀 파우스토 ;1945;1964;1999;SC;Silent Lawyer;Medium;M50051;X
+325045;Minister of Security;호세 G. 루크반 ;1945;1964;1999;SC;Efficient Sociopath;Medium;M50066;X
+325046;Minister of Security;라몬 키숨빙 ;1945;1964;1999;SL;Man of the People;Medium;M50067;X
+325047;Chief of Staff;바실리오 J. 발데스 ;1939;1964;1999;SC;School of Defence;Low;M50017;X
+325048;Chief of Staff;아우구스토 후라도 ;1944;1964;1999;SL;School of Mass Combat;Medium;M50069;X
+325049;Chief of Staff;키린토 P. 에방헬리스타 ;1945;1964;1999;SL;School of Manoeuvre;High;M50070;X
+325050;Chief of Army;베니토 N. 에부엔 ;1937;1964;1999;SL;Decisive Battle Doctrine;High;M50006;X
+325051;Chief of Army;비센테 P. 림 ;1939;1964;1999;SL;Elastic Defence Doctrine;Medium;M50073;X
+325052;Chief of Army;에라클리오 알라노 ;1944;1964;1999;SL;Armoured Spearhead Doctrine;High;M50074;X
+325053;Chief of Army;마테오 M. 카핀핀 ;1945;1964;1999;SL;Guns and Butter Doctrine;Medium;M50075;X
+325054;Chief of Army;라파엘 할란도니 ;1946;1964;1999;SL;Guns and Butter Doctrine;Medium;M50076;X
+325055;Head of Military Intelligence;제임스 윌슨 ;1933;1964;1999;SL;Naval Intelligence Specialist;High;M50077;X
+325056;Head of Military Intelligence;레실리 에일런 윌러 ;1938;1964;1999;SL;Technical Specialist;High;M50078;X
+325057;Head of Military Intelligence;피델 세군도 ;1939;1964;1999;SL;Logistics Specialist;High;M50079;X
+325058;Head of Military Intelligence;베니그노 라모스 ;1942;1964;1999;SL;Political Specialist;Very Low;M50016;X
+325059;Head of Military Intelligence;존 길버트 위넌트 ;1943;1964;1999;SL;Industrial Specialist;Medium;M50081;X
+325060;Chief of Navy;에우스타시오 오로비아 ;1938;1964;1999;SC;Indirect Approach Doctrine;Very Low;M50019;X
+325061;Chief of Navy;호세 V. 안드라다 ;1938;1964;1999;SL;Open Seas Doctrine;Low;M50083;X
+325062;Chief of Navy;라몬 A. 알카라스 ;1942;1964;1999;SL;Decisive Naval Battle Doctrine;Medium;M50084;X
+325063;Chief of Air Force;바실리오 페란도 ;1940;1964;1999;SL;Army Aviation Doctrine;High;M50085;X
+325064;Chief of Air Force;에드윈 앤드루스 ;1944;1964;1999;SL;Vertical Envelopment Doctrine;Medium;M50086;X
+325065;Chief of Air Force;빅토르 H. 디손 ;1946;1964;1999;SC;Naval Aviation Doctrine;High;M50087;X
+325066;Head of Government;마누엘 록사스 ;1945;1964;1999;SL;Old General;High;M50035;X
+325067;Head of State;호세 P. 라우렐 ;1933;1964;1999;PA;Powerhungry Demagogue;High;M50011;X
+325068;Head of Government;호세 P. 라우렐 ;1933;1964;1999;PA;Smiling Oilman;High;M50011;X
+325069;Minister of Security;베니그노 아키노 ;1933;1964;1999;PA;Crooked Kleptocrat;Medium;M50015;X
+325070;Chief of Army;바실리오 J. 발데스 ;1933;1964;1999;PA;Static Defence Doctrine;Medium;M50017;X
+325071;Chief of Air Force;펠릭스 페스타나 ;1933;1964;1999;FA;Air Superiority Doctrine;Medium;M50020;X
+325072;Head of State;크리산토 에방헬리스타 ;1933;1964;1999;LE;Weary Stiffneck;High;M50021;X
+325073;Head of Government;페드로 아바드 산토스 ;1933;1964;1999;LE;Corporate Suit;High;M50022;X
+325074;Foreign Minister;카스토 알레한드리노 ;1933;1964;1999;LE;Apologetic Clerk;Medium;M50023;X
+325075;Minister of Armament;크리산토 에방헬리스타 ;1933;1964;1999;LE;Administrative Genius;Medium;M50021;X
+325076;Minister of Security;마리아노 발고스 ;1933;1964;1999;LWR;Crime Fighter;Medium;M50025;X
+325077;Head of Military Intelligence;루이스 타루크 ;1933;1964;1999;LE;Dismal Enigma;Medium;M50026;X
+325078;Chief of Staff;루이스 타루크 ;1933;1964;1999;LE;School of Manoeuvre;Medium;M50026;X
+325079;Chief of Army;헤수스 라바 ;1933;1964;1999;LE;Guns and Butter Doctrine;Medium;M50028;X
+325080;Chief of Navy;헤수스 라바 ;1933;1964;1999;LE;Base Control Doctrine;Medium;M50028;X
+325081;Chief of Air Force;조 로저스 ;1933;1964;1999;LWR;Carpet Bombing Doctrine;Medium;M50030;X
+325082;Head of State;시어도어 루스벨트 2세 ;1933;1933;1999;ML;Autocratic Charmer;High;5770;X
+325083;Head of State;프랭크 머피 ;1933;1935;1999;ML;Benevolent Gentleman;High;M6107;X

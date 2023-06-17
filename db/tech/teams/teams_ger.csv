@@ -1,0 +1,53 @@
+GER;Name;Pic Name;Skill;Start Year;End Year;Speciality1;Speciality2;Speciality3;Speciality4;Speciality5;Speciality6;Speciality7;Speciality8;Speciality9;Speciality10;Speciality11;Speciality12;Speciality13;Speciality14;Speciality15;Speciality16;Speciality17;Speciality18;Speciality19;Speciality20;Speciality21;Speciality22;Speciality23;Speciality24;Speciality25;Speciality26;Speciality27;Speciality28;Speciality29;Speciality30;Speciality31;Speciality32;x
+38;AEG ;100139;6;1883;1996;aeronautics;electronics;industrial_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+33;다임러 자동차 ;100134;7;1890;1926;mechanics;industrial_engineering;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+7;크루프 ;100126;9;1900;1970;industrial_engineering;mechanics;technical_efficiency;artillery;vehicle_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+32;오버슐레지엔 제철소 ;100133;3;1914;1920;industrial_engineering;mechanics;artillery;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+3;이게 파르벤 ;T3;9;1925;1970;chemistry;industrial_engineering;general_equipment;management;technical_efficiency;medicine;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+39;지멘스 & 할스케 ;100128;8;1847;1966;electronics;industrial_engineering;technical_efficiency;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+14;지멘스 ;100128;8;1966;1970;electronics;industrial_engineering;technical_efficiency;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+37;프리츠 하버 ;100138;7;1894;1934;chemistry;rocketry;general_equipment;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+16;베르너 하이젠베르크 ;T16;7;1927;1976;nuclear_physics;nuclear_engineering;mathematics;rocketry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+17;베르너 폰 브라운 ;T17;9;1934;1976;rocketry;aeronautics;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+5;콘라드 추제 ;T5;7;1935;1970;mathematics;electronics;mechanics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+9;마우저 ;100127;8;1900;1970;general_equipment;mechanics;training;munitions;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+8;만 ;T8;8;1900;1970;mechanics;vehicle_engineering;artillery;munitions;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+11;오펠 ;T11;7;1900;1970;mechanics;management;technical_efficiency;vehicle_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+12;포르쉐 ;T12;9;1931;1970;mechanics;vehicle_engineering;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+13;라인메탈 ;100004;7;1900;1970;artillery;mechanics;training;munitions;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+15;폴크스바겐 ;T15;6;1937;1970;mechanics;vehicle_engineering;technical_efficiency;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+34;요제프 볼머 ;100135;6;1914;1920;mechanics;artillery;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1;블롬 & 보스 ;T1;7;1900;1970;naval_engineering;naval_artillery;technical_efficiency;submarine_design;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+6;제국해군 조선소 ;T6;7;1918;1970;naval_engineering;technical_efficiency;naval_artillery;electronics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+35;빌헬름스하펜 제국조선소 ;100136;6;1853;1918;naval_engineering;naval_artillery;mechanics;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+36;불칸 조선 ;100137;7;1851;1930;naval_engineering;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+31;제펠린 항공조선 ;100132;7;1908;2010;aeronautics;aircraft_testing;mechanics;chemistry;rocketry;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+40;알바트로스 항공기 ;100140;7;1909;1931;aeronautics;mechanics;aircraft_testing;technical_efficiency;avionics;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+30;포커 항공기 ;100131;7;1912;1920;aeronautics;avionics;mechanics;artillery;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+4;융커스 ;100078;7;1914;1970;bomber_design;aeronautics;munitions;general_equipment;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+41;고타르 항공기 ;100141;8;1914;1970;aeronautics;mechanics;electronics;chemistry;munitions;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10;메서슈미트 ;T10;9;1916;1970;fighter_design;aeronautics;rocketry;mechanics;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+2;하인켈 항공기 ;T2;7;1922;1970;bomber_design;aeronautics;technical_efficiency;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+26;포케불프 ;T26;8;1923;1970;fighter_design;aeronautics;avionics;aircraft_testing;general_equipment;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+27;아라도 ;100129;7;1933;1942;bomber_design;aeronautics;technical_efficiency;avionics;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+29;아라도 ;100129;7;1943;1970;bomber_design;aeronautics;rocketry;avionics;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+49;알프레드 폰 티르피츠 ;100148;8;1897;1930;submarine_tactics;centralized_execution;naval_training;naval_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+51;라인하르트 셰어 ;100150;4;1913;1928;small_taskforce_tactics;seamanship;submarine_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+50;프란츠 폰 히퍼 ;100149;4;1916;1932;large_taskforce_tactics;small_taskforce_tactics;naval_training;centralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+19;에리히 레더 ;T19;7;1922;1960;large_taskforce_tactics;naval_training;seamanship;centralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+25;카를 되니츠 ;T25;8;1935;1970;submarine_tactics;submarine_design;seamanship;centralized_execution;naval_training;small_taskforce_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+52;만프레드 폰 리히트호펜 ;100151;8;1916;1918;centralized_execution;fighter_tactics;training;individual_courage;piloting;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+21;에른스트 우데트 ;T21;7;1918;1954;combined_arms_focus;piloting;fighter_tactics;bomber_tactics;decentralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+23;헤르만 괴링 ;T23;4;1918;1960;bomber_tactics;piloting;airborne_training;centralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+24;휴고 슈페를레 ;T24;7;1935;1970;bomber_tactics;training;centralized_execution;fighter_tactics;piloting;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+18;아돌프 갈란트 ;T18;5;1941;1970;fighter_tactics;piloting;fighter_design;centralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+28;엽병 전투학교 ;100130;7;1900;1970;Airborne_Training;Mountain_Training;small_unit_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+46;알프레드 폰 슐리펜 ;100145;7;1891;1906;centralized_execution;large_unit_focus;large_unit_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+45;헬무트 폰 몰트케 ;100144;6;1906;1916;centralized_execution;large_unit_focus;large_unit_tactics;infantry_focus;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+48;막스 호프만 ;100147;8;1914;1927;centralized_execution;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+43;파울 폰 힌덴부르크 ;100502;7;1914;1930;centralized_execution;large_unit_focus;large_unit_tactics;individual_courage;cavalry_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+44;에리히 루덴도르프 ;100143;7;1914;1936;centralized_execution;large_unit_focus;large_unit_tactics;individual_courage;cavalry_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+42;게오르크 브루흐뮐러 ;100142;5;1916;1924;centralized_execution;combined_arms_focus;artillery;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+47;오스카 폰 후티어 ;100146;9;1917;1934;decentralized_execution;small_unit_tactics;individual_courage;combined_arms_focus;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+22;하인츠 구데리안 ;T22;9;1931;1954;combined_arms_focus;small_unit_tactics;decentralized_execution;training;BLITZKRIEG_TACTICS;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+20;에리히 폰 만슈타인 ;T20;9;1935;1970;combined_arms_focus;small_unit_tactics;decentralized_execution;MANEUVER_TACTICS;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;x

@@ -1,0 +1,32 @@
+CYP;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+620001;Head of State;윌리엄 D. 베터실 ;1933;1964;1999;ML;Die-hard Reformer;High;M560001;X
+620002;Head of Government;레지널드 윈스터 ;1933;1964;1999;ML;Naive Optimist;High;M560002;X
+620003;Foreign Minister;허버트 팔머 ;1933;1964;1999;ML;General Staffer;High;M560003;X
+620004;Minister of Armament;로데릭 맥타르 ;1933;1964;1999;ML;Military Entrepreneur;Medium;M560004;X
+620005;Minister of Security;휴 맥킨토시 풋 ;1933;1964;1999;ML;Silent Lawyer;Medium;M560005;X
+620006;Head of Military Intelligence;로데릭 펜위크 팔머 ;1933;1964;1999;ML;Industrial Specialist;Medium;M560006;X
+620007;Chief of Staff;앤드루 바크워스 라이트 ;1933;1964;1999;ML;School of Mass Combat;Medium;M560007;X
+620008;Chief of Army;존 하딩 ;1933;1964;1999;ML;Decisive Battle Doctrine;Medium;M560008;X
+620009;Chief of Navy;오르몬드 노르빌 ;1933;1964;1999;ML;Decisive Naval Battle Doctrine;Medium;M560009;X
+620010;Chief of Air Force;윌리엄 D. 베터실 ;1933;1964;1999;ML;Vertical Envelopment Doctrine;Medium;M560001;X
+620011;Head of State;마카리오스 3세 ;1933;1964;1999;LWR;Autocratic Charmer;High;M560011;X
+620012;Head of State;파질 케주크 ;1933;1964;1999;PA;Insignificant Layman;High;M560012;X
+620013;Head of Government;엘레우테리오스 코스마토풀로스 ;1933;1964;1999;LWR;Corporate Suit;High;M560013;X
+620014;Head of Government;아이타크 바퇴르 ;1933;1964;1999;PA;Backroom Backstabber;High;M560014;X
+620015;Foreign Minister;하릴라오스 아가피아스 ;1933;1964;1999;LWR;Ideological Crusader;High;M560015;X
+620016;Foreign Minister;하이리 이날치크 ;1933;1964;1999;PA;Biased Intellectual;High;M560016;X
+620017;Minister of Armament;트레아노스 바실리아코스 ;1933;1964;1999;LWR;Battle Fleet Proponent;Medium;M560017;X
+620018;Minister of Armament;소메스 트레버 랍킨스 ;1933;1964;1999;PA;Theoretical Scientist;Medium;M560018;X
+620019;Minister of Security;디예니스 그리바스 ;1933;1964;1999;LWR;Prince of Terror;Medium;M560019;X
+620020;Minister of Security;팔머 맥키놀티 ;1933;1964;1999;PA;Compassionate Gentleman;Medium;M560020;X
+620021;Head of Military Intelligence;엘레피레데스 클리리디스 ;1933;1964;1999;LWR;Dismal Enigma;Medium;M560021;X
+620022;Head of Military Intelligence;리차드 페드윅 ;1933;1964;1999;PA;Political Specialist;Medium;M560022;X
+620023;Chief of Staff;요르요스 시라디키스 ;1933;1964;1999;LWR;School of Fire Support;Medium;M560023;X
+620024;Chief of Staff;메흐메트 할람 파샤 ;1933;1964;1999;PA;School of Manoeuvre;Medium;L549028;X
+620025;Chief of Army;디예니스 그리바스 ;1933;1964;1999;LWR;Guns and Butter Doctrine;Medium;M560025;X
+620026;Chief of Army;카드르 몬체프 베이 ;1933;1964;1999;PA;Elastic Defence Doctrine;Medium;M549006;X
+620027;Chief of Navy;폴로 밀토니아디스 ;1933;1964;1999;LWR;Base Control Doctrine;Medium;M560027;X
+620028;Chief of Navy;오스만 소로코울루 ;1933;1964;1999;PA;Indirect Approach Doctrine;Medium;M560028;X
+620029;Chief of Air Force;예오르요스 바베나스 ;1933;1964;1999;LWR;Naval Aviation Doctrine;Medium;M560029;X
+620030;Chief of Air Force;타프 퀠치 ;1933;1964;1999;PA;Air Superiority Doctrine;Medium;M560030;X

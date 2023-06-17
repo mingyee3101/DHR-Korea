@@ -1,0 +1,204 @@
+CAN;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;;X
+220001;Head of State;존 버컨 ;1933;1964;1999;ML;Benevolent Gentleman;High;M45001;X
+220002;Head of Government;윌리엄 라이언 매켄지 킹 ;1933;1964;1999;ML;Flamboyant Tough Guy;High;M45002;X
+220003;Foreign Minister;윌리엄 라이언 매켄지 킹 ;1933;1964;1999;ML;Great Compromiser;Undying;M45002;X
+220004;Minister of Armament;이안 A. 맥켄지 ;1933;1964;1999;ML;Administrative Genius;High;M45004;X
+220005;Minister of Security;에르네스트 라푸앵트 ;1933;1964;1999;ML;Crime Fighter;Very High;M45005;X
+220006;Head of Military Intelligence;헨리 크레라 ;1933;1964;1999;ML;Technical Specialist;High;M45006;X
+220007;Chief of Staff;어니스트 애시튼 ;1933;1964;1999;ML;School of Fire Support;Very High;M45007;X
+220008;Chief of Army;어니스트 애시튼 ;1933;1964;1999;ML;Guns and Butter Doctrine;Very High;M45007;X
+220009;Chief of Navy;퍼시 넬레스 ;1933;1964;1999;ML;Open Seas Doctrine;Very High;M45009;X
+220010;Chief of Air Force;조지 크로일 ;1933;1964;1999;ML;Carpet Bombing Doctrine;Very High;M45010;X
+220011;Head of State;아드리앙 아르캉 ;1933;1964;1999;FA;Barking Buffoon;High;M45011;X
+220012;Head of State;팀 벅 ;1933;1964;1999;ST;Insignificant Layman;High;M45021;X
+220013;Head of Government;R.B. 베넷 ;1933;1964;1999;SC;Silent Workhorse;High;M45036;X
+220014;Head of Government;로버트 매니언 ;1940;1964;1999;SC;Naive Optimist;High;M45037;X
+220015;Head of Government;존 브랙큰 ;1944;1964;1999;SC;Smiling Oilman;High;M45038;X
+220016;Head of Government;아드리앙 아르캉 ;1933;1964;1999;FA;Happy Amateur;High;M45011;X
+220017;Head of Government;팀 벅 ;1933;1964;1999;ST;Ambitious Union Boss;High;M45021;X
+220018;Foreign Minister;루이 생 로랑 ;1946;1964;1999;ML;General Staffer;High;M45042;X
+220019;Foreign Minister;R.B. 베넷 ;1933;1964;1999;SC;Iron Fisted Brute;Undying;M45036;X
+220020;Foreign Minister;뉴턴 웨슬리 로월 ;1938;1964;1999;SC;Ideological Crusader;High;M45044;X
+220021;Foreign Minister;로버트 매니언 ;1940;1964;1999;SC;Apologetic Clerk;Undying;M45037;X
+220022;Foreign Minister;존 브랙큰 ;1944;1964;1999;SC;Biased Intellectual;Undying;M45038;X
+220023;Foreign Minister;아드리앙 아르캉 ;1933;1964;1999;FA;Ideological Crusader;Low;M45011;X
+220024;Foreign Minister;앤드류 그린 카넬 ;1944;1964;1999;PA;Iron Fisted Brute;Medium;M45016;X
+220025;Foreign Minister;팀 벅 ;1933;1964;1999;ST;The Cloak N Dagger Schemer;Very Low;M45021;X
+220026;Foreign Minister;아르망 라바시외 ;1942;1964;1999;LWR;Biased Intellectual;Medium;M45050;X
+220027;Foreign Minister;존 레스브리지 ;1945;1964;1999;LE;Ideological Crusader;Medium;M45028;X
+220028;Minister of Armament;재임스 랠스톤 ;1939;1964;1999;ML;Infantry Proponent;High;M45053;X
+220029;Minister of Armament;더글러스 S. 애버트 ;1944;1964;1999;ML;Submarine Proponent;Very High;M45054;X
+220030;Minister of Armament;라울 당 뒤랑 ;1933;1964;1999;ML;laissez-faire capitalist;Low;M45055;X
+220031;Minister of Armament;아서 미언 ;1940;1964;1999;SC;Resource Industrialist;High;M45056;X
+220032;Minister of Armament;C.D. 하우 ;1940;1964;1999;SC;Administrative Genius;Very High;M45057;X
+220033;Minister of Armament;존 로스 테일러 ;1933;1964;1999;PA;Corrupt Kleptocrat;Very Low;M45014;X
+220034;Minister of Armament;태스커 쿡 ;1939;1964;1999;PA;Air to Ground Proponent;Medium;M45059;X
+220035;Minister of Armament;찰스 J. 하울렛 ;1942;1964;1999;PA;Infantry Proponent;Medium;M45060;X
+220036;Minister of Armament;르네 생 피에르 ;1944;1964;1999;PA;Battle Fleet Proponent;Medium;M45061;X
+220037;Minister of Armament;피에르 가뇽 ;1945;1964;1999;PA;Resource Industrialist;Medium;M45062;X
+220038;Minister of Armament;매튜 포포비치 ;1933;1964;1999;LWR;Tank Proponent;Low;M45024;X
+220039;Minister of Armament;윌리엄 카쉬탄 ;1938;1964;1999;LE;Resource Industrialist;Low;M45064;X
+220040;Minister of Armament;로버트 M. 에드워즈 ;1941;1964;1999;LWR;Infantry Proponent;Medium;M45065;X
+220041;Minister of Armament;밥 만 ;1943;1964;1999;LE;Air Superiority Proponent;Medium;M45030;X
+220042;Minister of Security;조지 W. 스티븐슨 ;1944;1964;1999;ML;Compassionate Gentleman;Medium;M45069;X
+220043;Minister of Security;토마스 A. 크레라 ;1933;1964;1999;ML;Man of the People;Very High;M45070;X
+220044;Minister of Security;고든 그레이든 ;1940;1964;1999;SC;Silent Lawyer;High;M45071;X
+220045;Minister of Security;루이 St. 로랑 ;1941;1964;1999;ML;Crime Fighter;High;M45042;X
+220046;Minister of Security;존 디펜베이커 ;1944;1964;1999;SC;Man of the People;High;M45073;X
+220047;Minister of Security;척 크레이트 ;1933;1964;1999;PA;Prince of Terror;Medium;M45015;X
+220048;Minister of Security;피에르 St. 피에르 ;1937;1964;1999;PA;Man of the People;Medium;M45075;X
+220049;Minister of Security;토마스 아담스 ;1941;1964;1999;PA;Compassionate Gentleman;Medium;M45076;X
+220050;Minister of Security;피에르 가뇽 ;1942;1964;1999;PA;Crime Fighter;Medium;M45062;X
+220051;Minister of Security;장 쿠일라드 ;1943;1964;1999;PA;Silent Lawyer;Medium;M45078;X
+220052;Minister of Security;월리엄 G. 아담스 ;1945;1964;1999;PA;Back Stabber;Medium;M45079;X
+220053;Minister of Security;톰 맥완 ;1933;1964;1999;LE;Crime Fighter;Medium;M45025;X
+220054;Minister of Security;로베르 블랙호크 ;1940;1964;1999;LWR;Man of the People;Medium;M45081;X
+220055;Minister of Security;지노 베르기엘라 ;1941;1964;1999;LE;Efficient Sociopath;Medium;M45082;X
+220056;Minister of Security;켕탱 피곳 ;1943;1964;1999;LE;Compassionate Gentleman;Medium;M45083;X
+220057;Head of Military Intelligence;허버트 브라운 아메스 ;1937;1964;1999;ML;Dismal Enigma;Very High;M45085;X
+220058;Head of Military Intelligence;케네스 스튜어트 ;1940;1964;1999;ML;Technical Specialist;Very High;M45086;X
+220059;Head of Military Intelligence;랄프 깁슨 ;1944;1964;1999;ML;Industrial Specialist;High;M45087;X
+220060;Head of Military Intelligence;모리스 포프 ;1933;1964;1999;SC;Political Specialist;High;9758;X
+220061;Head of Military Intelligence;월리엄 G. 아담스 ;1944;1964;1999;SC;Naval Intelligence Specialist;Medium;M45079;X
+220062;Head of Military Intelligence;앤드류 그린 카넬 ;1933;1964;1999;PA;Political Specialist;Medium;M45016;X
+220063;Head of Military Intelligence;피에르 버튼 ;1938;1964;1999;PA;Dismal Enigma;Medium;M45091;X
+220064;Head of Military Intelligence;르네 St. 피에르 ;1941;1964;1999;PA;Industrial Specialist;Medium;M45061;X
+220065;Head of Military Intelligence;장 쿠일라드 ;1943;1964;1999;PA;Naval Intelligence Specialist;Medium;M45078;X
+220066;Head of Military Intelligence;자크 로베르 ;1933;1964;1999;LE;Political Specialist;Medium;M45094;X
+220067;Head of Military Intelligence;존 레스브리지 ;1942;1964;1999;LE;Logistics Specialist;Medium;M45028;X
+220068;Head of Military Intelligence;자크 리카르도 ;1943;1964;1999;LE;Naval Intelligence Specialist;Medium;M45096;X
+220069;Head of Military Intelligence;윌리엄 디즈 ;1945;1964;1999;LE;Technical Specialist;Medium;M45026;X
+220070;Chief of Staff;토마스 앤더슨 ;1938;1944;1973;ML;School of Defence;High;M45099;X
+220071;Chief of Staff;헨리 크레라 ;1940;1964;1999;ML;School of Psychology;High;M45006;X
+220072;Chief of Staff;케네스 스튜어트 ;1933;1964;1999;SC;School of Mass Combat;Very High;M45086;X
+220073;Chief of Staff;존 머치 ;1940;1964;1999;SC;School of Fire Support;High;M45102;X
+220074;Chief of Staff;찰스 풀크스 ;1944;1964;1999;SC;School of Manoeuvre;Very High;M45103;X
+220075;Chief of Staff;프레드릭 M.W. 하비 ;1933;1964;1999;PA;School of Mass Combat;Medium;M45017;X
+220076;Chief of Staff;로베르 M. 에드워즈 ;1933;1964;1999;LWR;School of Defence;Medium;M45065;X
+220077;Chief of Staff;새뮤얼 치노 ;1943;1964;1999;LE;School of Fire Support;Medium;M45027;X
+220078;Chief of Army;토마스 앤더슨 ;1938;1944;1973;ML;Static Defence Doctrine;High;M45099;X
+220079;Chief of Army;헨리 크레라 ;1940;1964;1999;ML;Armoured Spearhead Doctrine;High;M45006;X
+220080;Chief of Army;케네스 스튜어트 ;1933;1964;1999;SC;Decisive Battle Doctrine;Very High;M45086;X
+220081;Chief of Army;존 머치 ;1940;1964;1999;SC;Armoured Spearhead Doctrine;High;M45102;X
+220082;Chief of Army;찰스 풀크스 ;1944;1964;1999;SC;Elastic Defence Doctrine;Very High;M45103;X
+220083;Chief of Army;프레드릭 M.W. 하비 ;1944;1964;1999;PA;Guns and Butter Doctrine;Medium;M45017;X
+220084;Chief of Army;자크 로베르 ;1933;1964;1999;LE;Static Defence Doctrine;Medium;M45094;X
+220085;Chief of Army;존 레스브리지 ;1942;1964;1999;LE;Elastic Defence Doctrine;Medium;M45028;X
+220086;Chief of Navy;앨러스데어 머레이 ;1933;1964;1999;PA;Base Control Doctrine;Medium;M45019;X
+220087;Chief of Navy;장 쿠일라드 ;1938;1964;1999;PA;Indirect Approach Doctrine;Medium;M45078;X
+220088;Chief of Navy;존 F. 킹 ;1933;1964;1999;LWR;Indirect Approach Doctrine;Medium;M45029;X
+220089;Chief of Navy;자크 리카르도 ;1939;1964;1999;LE;Power Projection Doctrine;Medium;M45096;X
+220090;Chief of Air Force;조셉 로메오 바숑 ;1933;1964;1999;SC;Air Superiority Doctrine;Medium;M45123;X
+220091;Chief of Air Force;P.W. 올란드 ;1933;1964;1999;PA;Army Aviation Doctrine;Medium;M45020;X
+220092;Chief of Air Force;지노 베르기엘라 ;1933;1964;1999;LE;Air Superiority Doctrine;Medium;M45082;X
+220093;Chief of Air Force;밥 만 ;1943;1964;1999;LE;Army Aviation Doctrine;Medium;M45030;X
+220094;Head of State;존 버컨 ;1933;1964;1999;SC;Benevolent Gentleman;High;M45001;X
+220095;Head of State;리만 푸어 더프 ;1940;1964;1999;SC;Popular Figurehead;High;M45129;X
+220096;Head of State;리만 푸어 더프 ;1940;1964;1999;ML;Popular Figurehead;High;M45129;X
+220097;Head of State;아우구스투스 애슬론 ;1940;1964;1999;ML;Stern Imperialist;High;M45131;X
+220098;Head of State;아우구스투스 애슬론 ;1940;1964;1999;SC;Stern Imperialist;High;M45131;X
+220099;Head of State;해럴드 튀니지 ;1946;1964;1999;SC;Resigned Generalissimo;High;M45133;X
+220100;Head of State;해럴드 튀니지 ;1946;1964;1999;ML;Resigned Generalissimo;High;M45133;X
+220101;Head of Government;루이 생 로랑 ;1948;1964;1999;ML;Old General;High;M45042;X
+220102;Head of Government;고든 그레이든 ;1948;1964;1999;SC;Silent Workhorse;High;M45071;X
+220103;Head of Government;J.L. 아이즐리 ;1952;1964;1999;SC;Silent Workhorse;High;M45137;X
+220104;Foreign Minister;레스터 B. 피어슨 ;1948;1964;1999;ML;Ideological Crusader;High;M45138;X
+220105;Foreign Minister;로버트 스탠필드 ;1948;1964;1999;SC;Biased Intellectual;High;M45139;X
+220106;Minister of Armament;브룩 클랙스턴 ;1948;1964;1999;ML;Air Superiority Proponent;High;M45140;X
+220107;Minister of Armament;랄프 오스본 캠프니 ;1948;1964;1999;SC;laissez-faire capitalist;High;M45141;X
+220108;Minister of Security;스튜어트 싱크레어 가슨 ;1948;1964;1999;ML;Man of the People;Very High;M45142;X
+220109;Minister of Security;에드몽 다비드 풀턴 ;1948;1964;1999;SC;Compassionate Gentleman;Very High;M45143;X
+220110;Head of Military Intelligence;월터 에드워드 해리스 ;1948;1964;1999;ML;Dismal Enigma;Very High;M45144;X
+220111;Head of Military Intelligence;빌 뉴슨 ;1951;1964;1999;SC;Logistics Specialist;Very High;M45145;X
+220112;Head of State;빈센트 매시 ;1952;1964;1999;SC;Autocratic Charmer;High;M45146;X
+220113;Head of State;빈센트 매시 ;1952;1964;1999;ML;Autocratic Charmer;High;M45146;X
+220114;Head of State;조지 P. 베니에 ;1959;1964;1999;SC;Popular Figurehead;High;M45170;X
+220115;Head of State;조지 P. 베니에 ;1959;1964;1999;ML;Popular Figurehead;High;M45170;X
+220116;Head of Government;존 디펜베이커 ;1957;1964;1999;SC;Flamboyant Tough Guy;High;M45073;X
+220117;Head of Government;레스터 B. 피어슨 ;1963;1964;1999;ML;Backroom Backstabber;High;M45138;X
+220118;Foreign Minister;하워드 찰스 그린 ;1957;1964;1999;SC;Ideological Crusader;High;M45150;X
+220119;Foreign Minister;폴 조셉 재임스 마틴 ;1963;1964;1999;ML;Great Compromiser;High;M45151;X
+220120;Minister of Armament;조지 퍼키스 ;1957;1964;1999;SC;Infantry Proponent;High;M45152;X
+220121;Minister of Armament;더글러스 하크니스 ;1960;1964;1999;SC;laissez-faire capitalist;High;M45153;X
+220122;Minister of Armament;고든 M. 처칠 ;1963;1964;1999;SC;Strategic Air Proponent;High;M45154;X
+220123;Minister of Armament;폴 헬리어 ;1963;1964;1999;ML;Military Entrepreneur;High;M45155;X
+220124;Minister of Security;도날드 M. 플레밍 ;1962;1964;1999;SC;Prince of Terror;Very High;M45156;X
+220125;Minister of Security;리오넬 슈브리에 ;1963;1964;1999;ML;Crime Fighter;Very High;M45157;X
+220126;Head of Military Intelligence;더글라스 C. 애벗 ;1949;1964;1999;ML;Political Specialist;High;M45158;X
+220127;Head of Military Intelligence;도날드 M. 플레밍 ;1957;1964;1999;SC;Dismal Enigma;High;M45156;X
+220128;Head of Military Intelligence;조지 놀랜 ;1963;1964;1999;ML;Technical Specialist;High;M45160;X
+220129;Chief of Staff;가이 시몬즈 ;1951;1964;1999;ML;School of Manoeuvre;High;L52065;X
+220130;Chief of Staff;하워드 그레이엄 ;1955;1964;1999;ML;School of Fire Support;High;M45162;X
+220131;Chief of Staff;제프리 월시 ;1958;1964;1999;SC;School of Mass Combat;High;M45163;X
+220132;Chief of Army;랄프 키플레 ;1952;1964;1999;ML;Guns and Butter Doctrine;High;L52030;X
+220133;Chief of Army;에드워드 플라우 ;1956;1964;1999;ML;Static Defence Doctrine;High;L52054;X
+220134;Chief of Army;클라렌스 하르펠 ;1961;1964;1999;SC;Elastic Defence Doctrine;High;M45166;X
+220135;Chief of Navy;다니엘 라이오넬 해닝튼 ;1957;1964;1999;SC;Open Seas Doctrine;Medium;M45167;X
+220136;Chief of Air Force;로이드 S. 브래드너 ;1928;1964;1999;ML;Army Aviation Doctrine;Medium;M45168;X
+220137;Chief of Air Force;로버트 레키 ;1944;1964;1999;ML;Naval Aviation Doctrine;Medium;M45169;X
+220138;Chief of Air Force;윌리엄 비숍 ;1918;1933;1999;SC;Air Superiority Doctrine;Very High;2301;X
+220139;Chief of Army;제임스 맥브라이언 ;1918;1933;1999;SC;elastic defence doctrine;Very High;2302;X
+220140;Chief of Army;월리엄 오터 ;1914;1933;1999;SC;Decisive Battle Doctrine;Very High;2303;X
+220141;Chief of Army;윌러비 구왓킨 ;1914;1933;1999;SC;Static Defence Doctrine;Very High;unknownminister;X
+220142;Chief of Army;허버트 태커 ;1917;1933;1999;SC;Guns and Butter Doctrine;Very High;unknownminister;X
+220143;Chief of Navy;루이 필립 브로되르 ;1914;1933;1999;SL;Open Seas Doctrine;Very High;2304;X
+220144;Chief of Navy;존 하젠 ;1914;1933;1999;SC;Decisive Naval Battle Doctrine;Very High;2305;X
+220145;Chief of Navy;찰스 킹스밀 ;1914;1933;1999;SC;decisive naval battle doctrine;Very High;2306;X
+220146;Chief of Staff;프레드릭 윌리엄 보든 ;1914;1933;1999;SL;School of Mass Combat;Very High;2307;X
+220147;Chief of Staff;제임스 칼더 ;1917;1933;1999;ML;School of Defence;Very High;2308;X
+220148;Chief of Staff;조지 그라함 ;1914;1933;1999;SL;School of Defence;Very High;2309;X
+220149;Chief of Staff;휴 거스리 ;1914;1933;1999;SC;School of Fire Support;Very High;2310;X
+220150;Chief of Staff;샘 휴즈 ;1914;1933;1999;SC;School of Defence;Very High;2311;X
+220151;Chief of Staff;알베르 에드워드 켐프 ;1914;1933;1999;SC;School of Mass Combat;Very High;2312;X
+220152;Chief of Staff;시드니 뮤번 ;1914;1933;1999;SC;School of Defence;Very High;2313;X
+220153;Foreign Minister;리처드 베넷 ;1921;1933;1999;SC;Apologetic Clerk;Very High;2314;X
+220154;Foreign Minister;로버트 레어드 보든 ;1911;1933;1999;SC;Ideological Crusader;Very High;2315;X
+220155;Foreign Minister;윌리엄 라이언 매켄지 킹 ;1918;1933;1999;SL;Ideological Crusader;Very High;2316;X
+220156;Foreign Minister;아서 미언 ;1914;1933;1999;SC;Apologetic Clerk;Very High;2317;X
+220157;Foreign Minister;찰스 머피 ;1914;1933;1999;SL;Biased Intellectual;Very High;2318;X
+220158;Foreign Minister;윌리엄 로슈 ;1914;1933;1999;SC;Iron Fisted Brute;Very High;2319;X
+220159;Head of Government;리처드 베넷 ;1921;1933;1999;SC;flamboyant tough guy;Very High;2314;X
+220160;Head of Government;로버트 레어드 보든 ;1911;1933;1999;SC;backroom backstabber;Very High;2315;X
+220161;Head of Government;토마스 크레라 ;1917;1933;1999;ML;Political Protege;Very High;2320;X
+220162;Head of Government;윌리엄 라이언 매켄지 킹 ;1918;1933;1999;SL;Silent Workhorse;Very High;2316;X
+220163;Head of Government;아서 미언 ;1914;1933;1999;SC;Silent Workhorse;Very High;2317;X
+220164;Head of Military Intelligence;에이리스워스 보웬 페리 ;1914;1933;1999;SC;Political Specialist;Very High;2321;X
+220165;Head of State;아서 알버트 윈저 ;1911;1933;1999;ML;Stern Imperialist;Very High;2322;X
+220166;Minister of Armament;토마스 크레라 ;1917;1933;1999;ML;laissez-faire capitalist;Very High;2320;X
+220167;Minister of Armament;토마스 윌슨 크로더스 ;1914;1933;1999;SC;laissez-faire capitalist;Very High;2323;X
+220168;Minister of Armament;헨리 럼리 드레이튼 ;1919;1933;1999;SC;Military Entrepreneur;Very High;2324;X
+220169;Minister of Armament;월리엄 스티븐스 파인딩 ;1914;1933;1999;SC;Administrative Genius;Very High;2325;X
+220170;Minister of Armament;조지 포스터 ;1914;1933;1999;SC;Administrative Genius;Very High;2326;X
+220171;Minister of Armament;제임스 롭 ;1914;1933;1999;SL;Military Entrepreneur;Very High;2327;X
+220172;Minister of Armament;월리엄 화이트 ;1914;1933;1999;SC;Resource Industrialist;Very High;2328;X
+220173;Minister of Security;앨런 브리스톨 에이리스워스 ;1914;1933;1999;SL;Silent Lawyer;Very High;2329;X
+220174;Minister of Security;리처드 베넷 ;1921;1933;1999;SC;Compassionate Gentleman;Very High;2314;X
+220175;Minister of Security;찰스 도허티 ;1914;1933;1999;SC;Compassionate Gentleman;Very High;2330;X
+220176;Minister of Security;샤를 피츠패트릭 ;1914;1933;1999;SL;Man of the People;Very High;2331;X
+220177;Minister of Security;휴 거스리 ;1917;1936;1940;SC;Man of the People;Very High;2310;X
+220178;Minister of Security;에르네스트 라푸앵트 ;1919;1933;1999;SL;Compassionate Gentleman;Very High;2332;X
+220179;Minister of Security;윌리엄 로슈 ;1914;1933;1999;SC;Compassionate Gentleman;Very High;2319;X
+220180;Chief of Staff;윌러비 구왓킨 ;1914;1933;1999;SC;School of Defence;Very High;unknownminister;X
+220181;Foreign Minister;루이 코데르 ;1914;1933;1999;SC;Biased Intellectual;Very High;8017;X
+220182;Head of State;비어 폰손비 ;1931;1935;1999;SC;Popular Figurehead;High;3288;X
+220183;Head of State;비어 폰손비 ;1931;1935;1999;ML;Popular Figurehead;High;3288;X
+220184;Minister of Armament;도날드 매더슨 서덜랜드 ;1931;1935;1999;SC;laissez-faire capitalist;High;3983;X
+220185;Minister of Armament;그로트 스털링 ;1924;1952;1999;SC;laissez-faire capitalist;Very High;3984;X
+220186;Chief of Staff;Andrew McNaughton;1922;1936;1967;SC;school of fire support;Very High;L52044;X
+220187;Chief of Army;Andrew McNaughton;1922;1946;1967;SC;decisive battle doctrine;Very High;L52044;X
+220188;Chief of Navy;Walter Hose;1921;1934;1934;ML;Open Seas Doctrine;Very High;9658;X
+220189;Chief of Air Force;James Lindsay Gordon;1922;1940;1941;ML;air superiority doctrine;Very High;9659;X
+220190;Chief of Navy;George Jones;1929;1946;1947;ML;Open Seas Doctrine;Very High;L52085;X
+220191;Head of Military Intelligence;Harold Halford Matthews;1928;1932;1941;ML;logistics specialist;High;9759;X
+220192;Head of Military Intelligence;John Edward Lyon;1941;1942;1999;ML;naval intelligence specialist;High;unknownminister;X
+220193;Chief of Air Force;Albert Cuffe;1932;1933;1933;ML;naval aviation doctrine;High;9760;X
+220194;Chief of Air Force;Wilfred Curtis;1947;1953;1953;ML;air superiority doctrine;High;9754;X
+220195;Chief of Air Force;Roy Slemon;1953;1957;1965;ML;army aviation doctrine;High;9755;X
+220196;Chief of Air Force;Hugh Lester Campbell;1957;1962;1963;ML;air superiority doctrine;High;9756;X
+220197;Chief of Air Force;Clarence Dunlap;1962;1964;1969;ML;army aviation doctrine;High;9757;X
+220198;Chief of Navy;Howard Reid;1946;1947;1948;ML;open seas doctrine;Very High;9761;X
+220199;Chief of Navy;Harold Grant;1947;1951;1952;ML;decisive naval battle doctrine;Very High;9762;X
+220200;Chief of Navy;Rollo Mainguy;1951;1956;1957;ML;open seas doctrine;Very High;9763;X
+220201;Chief of Navy;Harry Dewolf;1956;1960;1961;ML;decisive naval battle doctrine;Very High;L52084;X
+220202;Chief of Navy;Herbert Rayner;1960;1964;1965;ML;power projection doctrine;Very High;9764;X
